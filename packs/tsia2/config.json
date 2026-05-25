@@ -2,7 +2,7 @@
   "examId": "tsia2",
   "brandName": "TSIA2 Exam Simulator",
   "theme": "dark",
-  "logoPath": "../packs/tsia2/assets/logo.png?v=1",
+  "logoPath": "../packs/tsia2/assets/logo.png?v=2",
   "accessPassword": "TSIA2READY",
   "practiceChunkSize": 10,
   "nav": [
