@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 12",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M12-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student buys supplies with a subtotal of $86. A coupon subtracts $15 from the subtotal before sales tax is added. If the sales tax rate is 6%, what is the total cost?",
+      "choices": {
+        "A": "$75.26",
+        "B": "$76.16",
+        "C": "$86.06",
+        "D": "$91.16"
+      },
+      "correct": "A",
+      "correctAnswerText": "$75.26",
+      "explanation": "The coupon reduces the taxable amount to $86 − $15 = $71. The tax is 0.06 × 71 = $4.26, so the total cost is $71 + $4.26 = $75.26.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve for x: 4x − 3 = 2(x + 9) + 7",
+      "choices": {
+        "A": "7",
+        "B": "10",
+        "C": "14",
+        "D": "28"
+      },
+      "correct": "C",
+      "correctAnswerText": "14",
+      "explanation": "Distribute to get 4x − 3 = 2x + 18 + 7, so 4x − 3 = 2x + 25. Then 2x = 28, so x = 14.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular garden is 21 feet long and 16 feet wide. Fencing is needed along both short sides and one long side only. How many feet of fencing are needed?",
+      "choices": {
+        "A": "37 feet",
+        "B": "53 feet",
+        "C": "58 feet",
+        "D": "74 feet"
+      },
+      "correct": "B",
+      "correctAnswerText": "53 feet",
+      "explanation": "The fencing covers two widths and one length: 16 + 16 + 21 = 53 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A student recorded the number of gigabytes of data used during five days: 1.2, 1.5, 2.1, 2.1, 3.0 What is the mode of the data set?",
+      "choices": {
+        "A": "1.5",
+        "B": "2.0",
+        "C": "2.1",
+        "D": "3.0"
+      },
+      "correct": "C",
+      "correctAnswerText": "2.1",
+      "explanation": "The value 2.1 appears twice, more often than any other value in the data set.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A runner completes 5/6 mile in 10 minutes. At the same average rate, how many miles will the runner complete in 42 minutes?",
+      "choices": {
+        "A": "3 miles",
+        "B": "3 1/2 miles",
+        "C": "4 miles",
+        "D": "5 miles"
+      },
+      "correct": "B",
+      "correctAnswerText": "3 1/2 miles",
+      "explanation": "The runner completes 5/6 ÷ 10 = 1/12 mile per minute. In 42 minutes, the runner completes 42/12 = 3.5 miles, or 3 1/2 miles.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which expression is equivalent to 2(5r − 4) + 3(2 − r)?",
+      "choices": {
+        "A": "7r − 2",
+        "B": "7r − 14",
+        "C": "13r − 2",
+        "D": "13r − 14"
+      },
+      "correct": "A",
+      "correctAnswerText": "7r − 2",
+      "explanation": "Distribute and combine like terms: 10r − 8 + 6 − 3r = 7r − 2.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular box is 10 inches long, 6 inches wide, and 4 inches high. What is the surface area of the box?",
+      "choices": {
+        "A": "120 square inches",
+        "B": "184 square inches",
+        "C": "248 square inches",
+        "D": "240 square inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "248 square inches",
+      "explanation": "Surface area is 2(lw + lh + wh). With l = 10, w = 6, and h = 4, the surface area is 2(60 + 40 + 24) = 2(124) = 248 square inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A drawer contains 6 blue folders, 4 green folders, and 2 red folders. One folder is selected at random, replaced, and then another folder is selected. What is the probability that both folders selected are red?",
+      "choices": {
+        "A": "1/36",
+        "B": "1/18",
+        "C": "1/6",
+        "D": "1/3"
+      },
+      "correct": "A",
+      "correctAnswerText": "1/36",
+      "explanation": "There are 12 folders total, and 2 are red. With replacement, the probability of selecting red twice is 2/12 × 2/12 = 1/6 × 1/6 = 1/36.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A campus store sells a sweatshirt for $52. During a sale, the price is reduced by 20%. What is the sale price?",
+      "choices": {
+        "A": "$10.40",
+        "B": "$31.20",
+        "C": "$41.60",
+        "D": "$62.40"
+      },
+      "correct": "C",
+      "correctAnswerText": "$41.60",
+      "explanation": "A 20% discount leaves 80% of the price. The sale price is 0.80 × $52 = $41.60.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A line has a y-intercept of −6 and passes through the point (4, 2). What is the slope of the line?",
+      "choices": {
+        "A": "−2",
+        "B": "−1",
+        "C": "1",
+        "D": "2"
+      },
+      "correct": "D",
+      "correctAnswerText": "2",
+      "explanation": "The y-intercept gives the point (0, −6). Using (0, −6) and (4, 2), the slope is (2 − (−6))/(4 − 0) = 8/4 = 2.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A circular logo has a radius of 9 centimeters. What is the circumference of the logo?",
+      "choices": {
+        "A": "9π centimeters",
+        "B": "18π centimeters",
+        "C": "36π centimeters",
+        "D": "81π centimeters"
+      },
+      "correct": "B",
+      "correctAnswerText": "18π centimeters",
+      "explanation": "The circumference of a circle is C = 2πr. With r = 9, C = 18π centimeters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The table shows the number of visitors to a tutoring website during four evenings. Monday: 145 Tuesday: 132 Wednesday: 160 Thursday: 183 What is the range of the number of visitors?",
+      "choices": {
+        "A": "38",
+        "B": "45",
+        "C": "51",
+        "D": "62"
+      },
+      "correct": "C",
+      "correctAnswerText": "51",
+      "explanation": "The range is the greatest value minus the least value: 183 − 132 = 51.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student has completed 68% of a 250-question review set. How many questions has the student completed?",
+      "choices": {
+        "A": "150",
+        "B": "160",
+        "C": "170",
+        "D": "182"
+      },
+      "correct": "C",
+      "correctAnswerText": "170",
+      "explanation": "Compute 68% of 250: 0.68 × 250 = 170.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which ordered pair is a solution to the system of equations? 2x − y = 1 x + y = 8",
+      "choices": {
+        "A": "(2, 6)",
+        "B": "(3, 5)",
+        "C": "(4, 4)",
+        "D": "(5, 3)"
+      },
+      "correct": "B",
+      "correctAnswerText": "(3, 5)",
+      "explanation": "Substitute (3, 5): 2(3) − 5 = 1 and 3 + 5 = 8, so the ordered pair satisfies both equations.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A ramp is 30 feet long. The horizontal distance from the bottom of the ramp to the wall is 24 feet. How high does the ramp reach on the wall?",
+      "choices": {
+        "A": "6 feet",
+        "B": "12 feet",
+        "C": "18 feet",
+        "D": "24 feet"
+      },
+      "correct": "C",
+      "correctAnswerText": "18 feet",
+      "explanation": "The ramp is the hypotenuse of a right triangle. The height is √(30² − 24²) = √(900 − 576) = √324 = 18 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A set of 9 numbers has a mean of 14. A tenth number, 24, is added to the set. What is the new mean?",
+      "choices": {
+        "A": "14.5",
+        "B": "15",
+        "C": "15.5",
+        "D": "16"
+      },
+      "correct": "B",
+      "correctAnswerText": "15",
+      "explanation": "A mean of 14 for 9 numbers gives a total of 9 × 14 = 126. Adding 24 gives 150 for 10 numbers, and 150 ÷ 10 = 15.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A package delivery service charges $9.75 for the first pound and $2.40 for each additional pound. What is the total charge for a 6-pound package?",
+      "choices": {
+        "A": "$21.75",
+        "B": "$24.15",
+        "C": "$26.55",
+        "D": "$72.90"
+      },
+      "correct": "A",
+      "correctAnswerText": "$21.75",
+      "explanation": "A 6-pound package has 1 first pound and 5 additional pounds. The total charge is $9.75 + 5($2.40) = $9.75 + $12.00 = $21.75.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which expression represents the product of 5 less than a number n and 3 more than the same number?",
+      "choices": {
+        "A": "n − 5(n + 3)",
+        "B": "(n − 5)(n + 3)",
+        "C": "(5 − n)(n + 3)",
+        "D": "n² − 15"
+      },
+      "correct": "B",
+      "correctAnswerText": "(n − 5)(n + 3)",
+      "explanation": "“5 less than a number n” is n − 5, and “3 more than the same number” is n + 3. Their product is (n − 5)(n + 3).",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A triangle has angle measures of 38° and 74°. What is the measure of the third angle?",
+      "choices": {
+        "A": "58°",
+        "B": "68°",
+        "C": "78°",
+        "D": "112°"
+      },
+      "correct": "B",
+      "correctAnswerText": "68°",
+      "explanation": "The angles in a triangle sum to 180°. The third angle is 180° − 38° − 74° = 68°.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M12-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A cafeteria records the drink choices of 200 customers. Water: 72 customers Tea: 48 customers Coffee: 56 customers Juice: 24 customers Which statement is supported by the data?",
+      "choices": {
+        "A": "More customers chose tea than coffee.",
+        "B": "Exactly 36% of customers chose water.",
+        "C": "Juice was chosen by 24% of customers.",
+        "D": "Coffee and juice together were chosen by half of the customers."
+      },
+      "correct": "B",
+      "correctAnswerText": "Exactly 36% of customers chose water.",
+      "explanation": "Water was chosen by 72 out of 200 customers, and 72/200 = 0.36, or 36%.",
+      "credits": 1
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 07",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E7-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When the county health department partnered with East Lake College to operate a mobile dental clinic, the goal was not simply to park a van on campus. The clinic travels to neighborhoods where residents may have difficulty reaching regular dental offices because of transportation, cost, or work schedules. Dental hygiene students assist licensed professionals by preparing equipment, recording patient information, and teaching basic prevention skills such as proper brushing and flossing. The program gives residents access to screenings and cleanings, but it also gives students experience with real patients before graduation. Some students are surprised to learn how often dental problems are connected to broader issues such as diet, employment, and access to insurance. Instructors say this is part of the lesson: health care is not limited to procedures performed in a clinic. It also involves understanding the circumstances that affect whether people can seek care in the first place. Which statement best expresses the central idea of the passage?",
+      "choices": {
+        "A": "A mobile dental clinic can provide community care while giving students practical experience.",
+        "B": "Dental hygiene students should work only in traditional dental offices after graduation.",
+        "C": "County health departments should replace all college health programs.",
+        "D": "Mobile clinics are useful only when they provide emergency treatment."
+      },
+      "correct": "A",
+      "correctAnswerText": "A mobile dental clinic can provide community care while giving students practical experience.",
+      "explanation": "The passage explains that the clinic serves residents who may have difficulty accessing care and gives dental hygiene students experience with real patients.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When the county health department partnered with East Lake College to operate a mobile dental clinic, the goal was not simply to park a van on campus. The clinic travels to neighborhoods where residents may have difficulty reaching regular dental offices because of transportation, cost, or work schedules. Dental hygiene students assist licensed professionals by preparing equipment, recording patient information, and teaching basic prevention skills such as proper brushing and flossing. The program gives residents access to screenings and cleanings, but it also gives students experience with real patients before graduation. Some students are surprised to learn how often dental problems are connected to broader issues such as diet, employment, and access to insurance. Instructors say this is part of the lesson: health care is not limited to procedures performed in a clinic. It also involves understanding the circumstances that affect whether people can seek care in the first place. According to the passage, why does the clinic travel to different neighborhoods?",
+      "choices": {
+        "A": "To help residents who may have difficulty reaching regular dental offices",
+        "B": "To advertise private dental offices located near the college",
+        "C": "To allow students to avoid working with licensed professionals",
+        "D": "To provide dental care only to people who already have insurance"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help residents who may have difficulty reaching regular dental offices",
+      "explanation": "The passage states that the clinic travels to neighborhoods where transportation, cost, or work schedules may limit access to dental offices.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When the county health department partnered with East Lake College to operate a mobile dental clinic, the goal was not simply to park a van on campus. The clinic travels to neighborhoods where residents may have difficulty reaching regular dental offices because of transportation, cost, or work schedules. Dental hygiene students assist licensed professionals by preparing equipment, recording patient information, and teaching basic prevention skills such as proper brushing and flossing. The program gives residents access to screenings and cleanings, but it also gives students experience with real patients before graduation. Some students are surprised to learn how often dental problems are connected to broader issues such as diet, employment, and access to insurance. Instructors say this is part of the lesson: health care is not limited to procedures performed in a clinic. It also involves understanding the circumstances that affect whether people can seek care in the first place. In the passage, the word circumstances most nearly means",
+      "choices": {
+        "A": "tools used during a procedure",
+        "B": "conditions that influence a situation",
+        "C": "rules for earning a license",
+        "D": "appointments listed on a schedule"
+      },
+      "correct": "B",
+      "correctAnswerText": "conditions that influence a situation",
+      "explanation": "In context, circumstances are factors such as diet, employment, transportation, and insurance that affect access to care.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When the county health department partnered with East Lake College to operate a mobile dental clinic, the goal was not simply to park a van on campus. The clinic travels to neighborhoods where residents may have difficulty reaching regular dental offices because of transportation, cost, or work schedules. Dental hygiene students assist licensed professionals by preparing equipment, recording patient information, and teaching basic prevention skills such as proper brushing and flossing. The program gives residents access to screenings and cleanings, but it also gives students experience with real patients before graduation. Some students are surprised to learn how often dental problems are connected to broader issues such as diet, employment, and access to insurance. Instructors say this is part of the lesson: health care is not limited to procedures performed in a clinic. It also involves understanding the circumstances that affect whether people can seek care in the first place. Which detail best supports the idea that the program is educational for students?",
+      "choices": {
+        "A": "The clinic travels to neighborhoods outside campus.",
+        "B": "Students assist professionals and learn how health problems connect to broader social issues.",
+        "C": "Residents may have difficulty reaching regular dental offices.",
+        "D": "Proper brushing and flossing are basic prevention skills."
+      },
+      "correct": "B",
+      "correctAnswerText": "Students assist professionals and learn how health problems connect to broader social issues.",
+      "explanation": "This detail shows that students gain practical skills and a broader understanding of health care.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The city’s animal shelter changed its adoption profiles after noticing that many descriptions sounded nearly identical. Instead of listing only a dog’s age, breed, and size, staff members began adding observations about behavior: whether the dog enjoyed quiet spaces, liked long walks, or needed time to warm up to new people. The goal was not to make every animal seem perfect, but to help adopters make realistic choices. What is the main purpose of the revised adoption profiles?",
+      "choices": {
+        "A": "To help potential adopters understand animals’ needs and personalities more clearly",
+        "B": "To make all dogs at the shelter sound exactly the same",
+        "C": "To discourage people from adopting animals with energetic personalities",
+        "D": "To replace conversations between shelter staff and adopters"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help potential adopters understand animals’ needs and personalities more clearly",
+      "explanation": "The revised profiles include behavior details so adopters can make realistic choices.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. During her first month as a pharmacy technician trainee, Rina focused on speed. She wanted to fill each order quickly, and she felt proud when she finished a shelf of prescriptions before another trainee did. Then her supervisor showed her how one mislabeled bottle could create serious risk. Rina began checking each label against the order before moving to the next task. She still worked efficiently, but she no longer treated speed as the only sign of success. What can reasonably be inferred about Rina?",
+      "choices": {
+        "A": "She learns to balance efficiency with careful attention to safety.",
+        "B": "She decides that speed is always more important than accuracy.",
+        "C": "She stops working as a trainee because the job is too difficult.",
+        "D": "She believes labels are unnecessary when prescriptions are organized."
+      },
+      "correct": "A",
+      "correctAnswerText": "She learns to balance efficiency with careful attention to safety.",
+      "explanation": "Rina continues to work efficiently but learns that accuracy and safety are essential.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A neighborhood association wants to replace several empty lots with small play areas for children. Supporters argue that the lots currently collect trash and attract illegal dumping. They believe play areas would give families safe outdoor spaces close to home. Some residents, however, worry that equipment could be damaged or that noise could disturb nearby apartments. The association is considering durable materials, posted hours, and a volunteer cleanup schedule. Which statement best describes the association’s situation?",
+      "choices": {
+        "A": "It is weighing possible community benefits against concerns about maintenance and noise.",
+        "B": "It has rejected the idea of improving the empty lots in any way.",
+        "C": "It believes playground equipment should be placed only inside apartment buildings.",
+        "D": "It wants to remove all outdoor spaces from the neighborhood."
+      },
+      "correct": "A",
+      "correctAnswerText": "It is weighing possible community benefits against concerns about maintenance and noise.",
+      "explanation": "The passage presents supporters’ hopes for safe play areas and residents’ concerns about damage, noise, and maintenance.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A photography exhibit titled “Work Hands” shows close-up images of hands rather than faces. One photograph shows a mechanic’s fingers stained with grease; another shows a violin teacher’s hand resting lightly on a student’s bow; a third shows a baker dusting flour from a wooden table. By focusing on hands, the exhibit invites viewers to think about skill, labor, and identity without relying on traditional portraits. What is the main purpose of focusing on hands in the exhibit?",
+      "choices": {
+        "A": "To show work and identity through physical details connected to skill",
+        "B": "To prove that faces are never useful in photography",
+        "C": "To make every subject impossible for viewers to recognize",
+        "D": "To show that all forms of work require the same tools"
+      },
+      "correct": "A",
+      "correctAnswerText": "To show work and identity through physical details connected to skill",
+      "explanation": "The exhibit uses close-up images of hands to show labor, skill, and identity without traditional portraits.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Companies should allow employees to use standing desks if they want them. Some workers find that standing for part of the day helps them feel more alert and reduces discomfort from sitting for long periods. Giving employees options can make offices more adaptable. Passage 2: Standing desks can be useful, but they should not be presented as a simple cure for workplace discomfort. Standing all day can cause fatigue, and some employees may need adjustable chairs, scheduled movement breaks, or ergonomic training instead. Flexibility matters more than any single piece of furniture. How does Passage 2 respond to Passage 1?",
+      "choices": {
+        "A": "Passage 2 agrees that options can help but argues that standing desks are only one possible solution.",
+        "B": "Passage 2 claims that employees should not be allowed to adjust their workspaces.",
+        "C": "Passage 2 argues that standing desks solve every workplace health concern.",
+        "D": "Passage 2 says that office furniture has no effect on employee comfort."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 agrees that options can help but argues that standing desks are only one possible solution.",
+      "explanation": "Passage 2 accepts the usefulness of standing desks but argues for broader flexibility.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The essay about public clocks argues that they once served as shared anchors in town life. A clock tower told workers when shifts began, reminded children when to return home, and helped travelers know whether they had missed a train. Today, most people carry phones that display the time, yet public clocks still give streets a sense of rhythm and history. The author suggests that their value has changed rather than disappeared. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "Public clocks are no longer useful because phones display the time.",
+        "B": "Public clocks once served practical purposes and now also contribute to a place’s character.",
+        "C": "Clock towers should be removed from towns because travelers no longer need them.",
+        "D": "People should rely only on public clocks rather than personal devices."
+      },
+      "correct": "B",
+      "correctAnswerText": "Public clocks once served practical purposes and now also contribute to a place’s character.",
+      "explanation": "The passage explains the historical practical uses of public clocks and their continuing value as part of local character.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In the poem, the speaker describes a laundromat late at night: socks turning behind glass doors, fluorescent lights buzzing overhead, and strangers folding shirts in silence. The speaker says the dryers “kept small suns spinning in metal rooms.” This image transforms a routine chore into something unexpectedly warm and almost comforting. What effect does the image of “small suns” most likely create?",
+      "choices": {
+        "A": "It makes the dryers seem warm and quietly comforting.",
+        "B": "It suggests that the laundromat is dangerously overheated.",
+        "C": "It shows that the speaker dislikes doing laundry at night.",
+        "D": "It explains why the lights are brighter than usual."
+      },
+      "correct": "A",
+      "correctAnswerText": "It makes the dryers seem warm and quietly comforting.",
+      "explanation": "The image of “small suns” gives the dryers warmth and comfort in an otherwise ordinary nighttime setting.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A financial aid advisor tells students to read scholarship requirements carefully before writing essays. A prompt asking about leadership may not require an official title such as club president or team captain. A student who organized childcare for younger siblings, trained new coworkers, or helped neighbors during a storm may also have meaningful leadership experience. The advisor encourages students to interpret prompts thoughtfully rather than disqualify themselves too quickly. Which sentence best states the advisor’s point?",
+      "choices": {
+        "A": "Students should recognize that leadership can appear in many forms.",
+        "B": "Students should apply only for scholarships that require no essay.",
+        "C": "Official titles are the only reliable evidence of leadership.",
+        "D": "Scholarship prompts should be ignored when students have work experience."
+      },
+      "correct": "A",
+      "correctAnswerText": "Students should recognize that leadership can appear in many forms.",
+      "explanation": "The advisor explains that leadership can include family, work, and community responsibilities, not only official titles.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The hiking guide tells beginners to check trail difficulty, weather, water availability, and return time before leaving. It also advises hikers to tell someone their planned route. These steps may seem excessive for a short hike, but conditions can change quickly. A simple checklist helps hikers prevent small problems from becoming serious ones. Why does the guide recommend using a checklist?",
+      "choices": {
+        "A": "To help hikers prepare for changing conditions and reduce risk",
+        "B": "To make short hikes as difficult as possible",
+        "C": "To encourage beginners to hike without telling anyone",
+        "D": "To replace the need for water on the trail"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help hikers prepare for changing conditions and reduce risk",
+      "explanation": "The checklist helps hikers think through weather, trail conditions, water, timing, and safety before leaving.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article on farmers’ markets notes that prices are sometimes higher than those in large grocery stores. However, the article also explains that markets can create direct relationships between growers and customers, keep more money within the local economy, and allow shoppers to ask how food was produced. The author does not claim that farmers’ markets are the best option for every purchase but argues that their value should not be measured by price alone. Which statement best describes the author’s reasoning?",
+      "choices": {
+        "A": "Farmers’ markets should be evaluated by benefits beyond price, such as local connection and transparency.",
+        "B": "Farmers’ markets should replace every grocery store in large cities.",
+        "C": "Prices are the only factor shoppers should consider when buying food.",
+        "D": "Customers should avoid asking growers questions about food production."
+      },
+      "correct": "A",
+      "correctAnswerText": "Farmers’ markets should be evaluated by benefits beyond price, such as local connection and transparency.",
+      "explanation": "The author argues that farmers’ markets have value beyond price, including direct relationships and information about food production.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At first, Andre thought that asking for feedback on his resume would make him look unprepared. When a career counselor reviewed it, however, she praised his experience but pointed out that several bullet points described duties rather than accomplishments. Andre revised one line from “answered customer calls” to “resolved an average of thirty customer questions per shift.” He realized that feedback did not erase his experience; it helped him present it more clearly. What lesson does Andre learn?",
+      "choices": {
+        "A": "Feedback can help a person communicate strengths more effectively.",
+        "B": "Resumes should list only job titles and avoid specific details.",
+        "C": "Career counselors usually ignore a student’s work experience.",
+        "D": "Customer-service jobs should never be included on resumes."
+      },
+      "correct": "A",
+      "correctAnswerText": "Feedback can help a person communicate strengths more effectively.",
+      "explanation": "Andre learns that feedback helps him present his experience more clearly and specifically.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a weekend family study room for students who sometimes bring children to campus. (2) Many student parents use the library on Saturdays, but they may hesitate to study there if they worry that a child will disturb others. (3) A family study room could include a few work tables, quiet activities for children, and clear rules about supervision. (4) The room would not be a childcare center; parents would remain responsible for their children at all times. (5) Even so, the space would make it easier for student parents to complete reading, online assignments, or group work. (6) The library recently moved its magazine collection to a different shelf near the entrance. (7) To manage demand, the room could be reserved in two-hour blocks. (8) A family study room would acknowledge that some students balance academic work with caregiving responsibilities. Which sentence should be removed because it does not support the main idea of the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "C",
+      "correctAnswerText": "Sentence 6",
+      "explanation": "Sentence 6 discusses the magazine collection and does not support the proposal for a family study room.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a weekend family study room for students who sometimes bring children to campus. (2) Many student parents use the library on Saturdays, but they may hesitate to study there if they worry that a child will disturb others. (3) A family study room could include a few work tables, quiet activities for children, and clear rules about supervision. (4) The room would not be a childcare center; parents would remain responsible for their children at all times. (5) Even so, the space would make it easier for student parents to complete reading, online assignments, or group work. (6) The library recently moved its magazine collection to a different shelf near the entrance. (7) To manage demand, the room could be reserved in two-hour blocks. (8) A family study room would acknowledge that some students balance academic work with caregiving responsibilities. Which sentence best strengthens the support for sentence 3?",
+      "choices": {
+        "A": "Quiet puzzles, picture books, and drawing materials would keep children occupied while parents study nearby.",
+        "B": "Some libraries contain magazines, newspapers, and public computers.",
+        "C": "Many students use backpacks to carry books and electronic devices.",
+        "D": "Saturday classes often begin later than weekday classes."
+      },
+      "correct": "A",
+      "correctAnswerText": "Quiet puzzles, picture books, and drawing materials would keep children occupied while parents study nearby.",
+      "explanation": "This sentence gives specific examples of quiet activities mentioned in sentence 3.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a weekend family study room for students who sometimes bring children to campus. (2) Many student parents use the library on Saturdays, but they may hesitate to study there if they worry that a child will disturb others. (3) A family study room could include a few work tables, quiet activities for children, and clear rules about supervision. (4) The room would not be a childcare center; parents would remain responsible for their children at all times. (5) Even so, the space would make it easier for student parents to complete reading, online assignments, or group work. (6) The library recently moved its magazine collection to a different shelf near the entrance. (7) To manage demand, the room could be reserved in two-hour blocks. (8) A family study room would acknowledge that some students balance academic work with caregiving responsibilities. Which transition should be added to the beginning of sentence 5 to show the relationship between sentence 5 and sentence 4?",
+      "choices": {
+        "A": "Even so,",
+        "B": "For example,",
+        "C": "In contrast,",
+        "D": "As a result,"
+      },
+      "correct": "A",
+      "correctAnswerText": "Even so,",
+      "explanation": "Sentence 5 contrasts with sentence 4 by explaining that although the room is not childcare, it would still support student parents.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a weekend family study room for students who sometimes bring children to campus. (2) Many student parents use the library on Saturdays, but they may hesitate to study there if they worry that a child will disturb others. (3) A family study room could include a few work tables, quiet activities for children, and clear rules about supervision. (4) The room would not be a childcare center; parents would remain responsible for their children at all times. (5) Even so, the space would make it easier for student parents to complete reading, online assignments, or group work. (6) The library recently moved its magazine collection to a different shelf near the entrance. (7) To manage demand, the room could be reserved in two-hour blocks. (8) A family study room would acknowledge that some students balance academic work with caregiving responsibilities. Which revision of sentence 8 is clearest and most concise?",
+      "choices": {
+        "A": "A family study room would acknowledge that some students balance academic work with caregiving responsibilities.",
+        "B": "A family study room would be a place that would acknowledge the fact that some students have academic work and caregiving responsibilities they balance.",
+        "C": "Some students, who have responsibilities for caregiving and also academic work, would be acknowledged by the family study room.",
+        "D": "The balancing of academic work with caregiving responsibilities by some students would be something the family study room acknowledges."
+      },
+      "correct": "A",
+      "correctAnswerText": "A family study room would acknowledge that some students balance academic work with caregiving responsibilities.",
+      "explanation": "This sentence is the clearest and most concise revision.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The coach reviewed the practice schedule, she reminded the team to arrive early.",
+      "choices": {
+        "A": "The coach reviewed the practice schedule, she reminded the team to arrive early.",
+        "B": "The coach reviewed the practice schedule and reminded the team to arrive early.",
+        "C": "The coach reviewed the practice schedule, and reminded, the team to arrive early.",
+        "D": "The coach reviewed the practice schedule she reminded the team, to arrive early."
+      },
+      "correct": "B",
+      "correctAnswerText": "The coach reviewed the practice schedule and reminded the team to arrive early.",
+      "explanation": "This revision correctly joins two actions performed by the same subject.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is written correctly.",
+      "choices": {
+        "A": "Each of the forms need to be signed before the appointment.",
+        "B": "Each of the forms needs to be signed before the appointment.",
+        "C": "Each of the forms needing to be signed before the appointment.",
+        "D": "Each of the forms have needed to be signed before the appointment."
+      },
+      "correct": "B",
+      "correctAnswerText": "Each of the forms needs to be signed before the appointment.",
+      "explanation": "“Each” is singular, so the singular verb “needs” is correct.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best word or phrase to complete the sentence. The committee received many strong applications; __________, it extended the review period to consider them carefully.",
+      "choices": {
+        "A": "therefore",
+        "B": "however",
+        "C": "for example",
+        "D": "otherwise"
+      },
+      "correct": "A",
+      "correctAnswerText": "therefore",
+      "explanation": "The second clause describes the result of receiving many strong applications.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. After reading the article twice, the main argument became clearer to Sofia.",
+      "choices": {
+        "A": "After reading the article twice, the main argument became clearer to Sofia.",
+        "B": "After Sofia read the article twice, the main argument became clearer to her.",
+        "C": "Reading the article twice, the main argument was clearer to Sofia.",
+        "D": "The main argument, after reading the article twice, became clearer to Sofia."
+      },
+      "correct": "B",
+      "correctAnswerText": "After Sofia read the article twice, the main argument became clearer to her.",
+      "explanation": "This revision corrects the dangling modifier by clearly showing that Sofia read the article.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The science center added a weekend workshop. The workshop teaches families how to identify constellations.",
+      "choices": {
+        "A": "The science center added a weekend workshop, the workshop teaches families how to identify constellations.",
+        "B": "The science center added a weekend workshop that teaches families how to identify constellations.",
+        "C": "Adding a weekend workshop, constellations are identified by families at the science center.",
+        "D": "The science center added a workshop and a weekend teaches families how to identify constellations."
+      },
+      "correct": "B",
+      "correctAnswerText": "The science center added a weekend workshop that teaches families how to identify constellations.",
+      "explanation": "This option combines the sentences clearly and avoids a comma splice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. Some students avoid asking questions during class because they do not want to interrupt the instructor. However, a well-timed question can help the whole class. If one student is confused about a term or step in a process, others may be confused as well. Asking for clarification can prevent misunderstandings from continuing. Which concluding sentence best follows from the paragraph?",
+      "choices": {
+        "A": "Therefore, thoughtful questions can support learning for more than one student.",
+        "B": "In contrast, instructors should never pause during a lecture.",
+        "C": "For this reason, students should ask questions only after the semester ends.",
+        "D": "As a result, confusion is always a sign that students did not study."
+      },
+      "correct": "A",
+      "correctAnswerText": "Therefore, thoughtful questions can support learning for more than one student.",
+      "explanation": "The conclusion follows from the idea that one student’s question can help others who are also confused.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses a semicolon correctly.",
+      "choices": {
+        "A": "The museum opened a new exhibit; visitors lined up before the doors opened.",
+        "B": "The museum opened; a new exhibit visitors lined up before the doors opened.",
+        "C": "The museum opened a new exhibit; because visitors lined up before the doors opened.",
+        "D": "The museum; opened a new exhibit, and visitors lined up before the doors opened."
+      },
+      "correct": "A",
+      "correctAnswerText": "The museum opened a new exhibit; visitors lined up before the doors opened.",
+      "explanation": "A semicolon correctly joins two closely related independent clauses.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best replacement for the underlined words. The instructions for the lab were kind of confusing because several steps were missing.",
+      "choices": {
+        "A": "confusing",
+        "B": "confusing in a kind of way",
+        "C": "not clear and also kind of not complete",
+        "D": "pretty much confusing"
+      },
+      "correct": "A",
+      "correctAnswerText": "confusing",
+      "explanation": "“Confusing” is more concise and formal than “kind of confusing.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The volunteers sorted the donated books into boxes, labeling each box by reading level.",
+      "choices": {
+        "A": "The volunteers sorted the donated books into boxes, labeling each box by reading level.",
+        "B": "The donated books sorted the volunteers into boxes, labeling each box by reading level.",
+        "C": "Labeling each box by reading level, the donated books sorted the volunteers into boxes.",
+        "D": "The volunteers sorted the donated books, into boxes labeling, each box by reading level."
+      },
+      "correct": "A",
+      "correctAnswerText": "The volunteers sorted the donated books into boxes, labeling each box by reading level.",
+      "explanation": "This sentence clearly shows that the volunteers sorted the books and labeled the boxes.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. (1) The culinary program will host a knife-skills demonstration for beginning students. (2) The instructor will show how to hold a chef’s knife safely, cut vegetables evenly, and keep the cutting board stable. (3) Learning safe cutting techniques can help students work more confidently in the kitchen. (4) Many restaurants use printed menus as well as online menus. Where should sentence 4 be placed to improve the organization of the paragraph?",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 3",
+        "D": "The sentence should be removed because it shifts away from the paragraph’s focus."
+      },
+      "correct": "D",
+      "correctAnswerText": "The sentence should be removed because it shifts away from the paragraph’s focus.",
+      "explanation": "Sentence 4 discusses restaurant menus, while the paragraph focuses on a knife-skills demonstration.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E7-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. Although the presentation was short, but it included all the required information.",
+      "choices": {
+        "A": "Although the presentation was short, but it included all the required information.",
+        "B": "Although the presentation was short, it included all the required information.",
+        "C": "The presentation was short although but it included all the required information.",
+        "D": "Although the presentation was short it included, all the required information."
+      },
+      "correct": "B",
+      "correctAnswerText": "Although the presentation was short, it included all the required information.",
+      "explanation": "This revision removes the unnecessary “but” and correctly punctuates the introductory dependent clause.",
+      "credits": 1
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 10",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M10-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A copy center charges $0.12 per page for the first 80 pages and $0.08 per page for each additional page. What is the total cost to print 125 pages?",
+      "choices": {
+        "A": "$10.00",
+        "B": "$12.40",
+        "C": "$13.20",
+        "D": "$15.00"
+      },
+      "correct": "C",
+      "correctAnswerText": "$13.20",
+      "explanation": "The first 80 pages cost 80 × $0.12 = $9.60. The remaining 45 pages cost 45 × $0.08 = $3.60. The total cost is $13.20.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve for x: (x/3) + 7 = 15",
+      "choices": {
+        "A": "8",
+        "B": "18",
+        "C": "22",
+        "D": "24"
+      },
+      "correct": "D",
+      "correctAnswerText": "24",
+      "explanation": "Subtract 7 from both sides to get x/3 = 8. Multiply both sides by 3 to get x = 24.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular swimming area is 25 meters long and 14 meters wide. A safety rope is placed around the entire perimeter. How many meters of rope are needed?",
+      "choices": {
+        "A": "39 meters",
+        "B": "64 meters",
+        "C": "78 meters",
+        "D": "350 meters"
+      },
+      "correct": "C",
+      "correctAnswerText": "78 meters",
+      "explanation": "The perimeter of the rectangle is 2(25 + 14) = 78 meters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A student recorded the number of minutes spent reading on six nights: 35, 40, 42, 45, 48, 60 What is the median number of minutes?",
+      "choices": {
+        "A": "42",
+        "B": "43.5",
+        "C": "45",
+        "D": "48"
+      },
+      "correct": "B",
+      "correctAnswerText": "43.5",
+      "explanation": "With six values, the median is the average of the third and fourth values: (42 + 45) ÷ 2 = 43.5.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A storage container holds 18 boxes. Each box weighs 12.5 pounds. What is the total weight of the boxes?",
+      "choices": {
+        "A": "205 pounds",
+        "B": "215 pounds",
+        "C": "225 pounds",
+        "D": "235 pounds"
+      },
+      "correct": "C",
+      "correctAnswerText": "225 pounds",
+      "explanation": "Multiply the number of boxes by the weight per box: 18 × 12.5 = 225 pounds.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A line passes through the points (1, 6) and (5, 18). What is the slope of the line?",
+      "choices": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "12"
+      },
+      "correct": "B",
+      "correctAnswerText": "3",
+      "explanation": "The slope is the change in y divided by the change in x: (18 − 6)/(5 − 1) = 12/4 = 3.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A parallelogram has a base of 13 centimeters and a height of 9 centimeters. What is its area?",
+      "choices": {
+        "A": "22 square centimeters",
+        "B": "44 square centimeters",
+        "C": "117 square centimeters",
+        "D": "234 square centimeters"
+      },
+      "correct": "C",
+      "correctAnswerText": "117 square centimeters",
+      "explanation": "The area of a parallelogram is base × height, so 13 × 9 = 117 square centimeters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A drawer contains 3 AA batteries, 5 AAA batteries, and 4 rechargeable batteries. One battery is selected at random. What is the probability that the battery is AAA?",
+      "choices": {
+        "A": "1/4",
+        "B": "5/12",
+        "C": "7/12",
+        "D": "5/7"
+      },
+      "correct": "B",
+      "correctAnswerText": "5/12",
+      "explanation": "There are 3 + 5 + 4 = 12 batteries total, and 5 are AAA. The probability is 5/12.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student answers 42 questions correctly on a 56-question practice test. What percent of the questions did the student answer correctly?",
+      "choices": {
+        "A": "70%",
+        "B": "72%",
+        "C": "75%",
+        "D": "80%"
+      },
+      "correct": "C",
+      "correctAnswerText": "75%",
+      "explanation": "The fraction correct is 42/56 = 3/4, which equals 75%.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A savings plan starts with $120 and increases by $35 each month. If m represents the number of months and S represents the total savings in dollars, which equation models this situation?",
+      "choices": {
+        "A": "S = 120m + 35",
+        "B": "S = 35m + 120",
+        "C": "S = 155m",
+        "D": "S = 35(m + 120)"
+      },
+      "correct": "B",
+      "correctAnswerText": "S = 35m + 120",
+      "explanation": "The savings increase by $35 each month and start at $120, so S = 35m + 120.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A circular clock face has a radius of 7 inches. What is the area of the clock face?",
+      "choices": {
+        "A": "14π square inches",
+        "B": "28π square inches",
+        "C": "49π square inches",
+        "D": "98π square inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "49π square inches",
+      "explanation": "The area of a circle is A = πr². With r = 7, A = 49π square inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The table shows the number of applications processed by an office during four days. Monday: 52 Tuesday: 47 Wednesday: 61 Thursday: 56 What is the mean number of applications processed per day?",
+      "choices": {
+        "A": "52",
+        "B": "54",
+        "C": "56",
+        "D": "58"
+      },
+      "correct": "B",
+      "correctAnswerText": "54",
+      "explanation": "The total is 52 + 47 + 61 + 56 = 216. Dividing by 4 gives a mean of 54.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A part-time worker earns $14.25 per hour. If the worker earns $256.50 before taxes, how many hours did the worker work?",
+      "choices": {
+        "A": "16 hours",
+        "B": "17 hours",
+        "C": "18 hours",
+        "D": "19 hours"
+      },
+      "correct": "C",
+      "correctAnswerText": "18 hours",
+      "explanation": "Divide total earnings by hourly pay: $256.50 ÷ $14.25 = 18 hours.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which expression is equivalent to 4x² − 25?",
+      "choices": {
+        "A": "(2x − 5)(2x + 5)",
+        "B": "(4x − 5)(x + 5)",
+        "C": "(2x − 25)(2x + 1)",
+        "D": "(4x − 25)(x + 1)"
+      },
+      "correct": "A",
+      "correctAnswerText": "(2x − 5)(2x + 5)",
+      "explanation": "This is a difference of squares: 4x² − 25 = (2x)² − 5² = (2x − 5)(2x + 5).",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A ladder reaches a window 16 feet above the ground. The base of the ladder is 12 feet from the wall. What is the length of the ladder?",
+      "choices": {
+        "A": "20 feet",
+        "B": "24 feet",
+        "C": "28 feet",
+        "D": "32 feet"
+      },
+      "correct": "A",
+      "correctAnswerText": "20 feet",
+      "explanation": "The ladder is the hypotenuse of a right triangle. Its length is √(16² + 12²) = √400 = 20 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A school club has 8 freshmen, 6 sophomores, and 4 juniors. If one member is selected at random, what is the probability that the member is not a freshman?",
+      "choices": {
+        "A": "4/9",
+        "B": "5/9",
+        "C": "2/3",
+        "D": "3/4"
+      },
+      "correct": "B",
+      "correctAnswerText": "5/9",
+      "explanation": "There are 18 club members total. Members who are not freshmen total 6 + 4 = 10, so the probability is 10/18 = 5/9.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A bag of soil weighs 37.8 pounds. Which whole number is closest to √37.8?",
+      "choices": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correct": "B",
+      "correctAnswerText": "6",
+      "explanation": "Since 6² = 36 and 7² = 49, √37.8 is between 6 and 7 and closer to 6.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve the inequality 5x + 6 ≤ 31.",
+      "choices": {
+        "A": "x ≤ 5",
+        "B": "x ≥ 5",
+        "C": "x ≤ 25",
+        "D": "x ≥ 25"
+      },
+      "correct": "A",
+      "correctAnswerText": "x ≤ 5",
+      "explanation": "Subtract 6 from both sides to get 5x ≤ 25. Divide by 5 to get x ≤ 5.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A model bridge is 18 inches long. The actual bridge is 270 feet long. If 1 inch on the model represents the same number of feet on the actual bridge, what does 1 inch represent?",
+      "choices": {
+        "A": "12 feet",
+        "B": "15 feet",
+        "C": "18 feet",
+        "D": "30 feet"
+      },
+      "correct": "B",
+      "correctAnswerText": "15 feet",
+      "explanation": "Divide the actual bridge length by the model length: 270 ÷ 18 = 15 feet per inch.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M10-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A data set contains the values 9, 12, 15, 18, and 21. If each value in the data set is increased by 4, what happens to the mean?",
+      "choices": {
+        "A": "The mean increases by 4.",
+        "B": "The mean decreases by 4.",
+        "C": "The mean is multiplied by 4.",
+        "D": "The mean stays the same."
+      },
+      "correct": "A",
+      "correctAnswerText": "The mean increases by 4.",
+      "explanation": "When the same number is added to every value in a data set, the mean increases by that same number.",
+      "credits": 1
+    }
+  ]
+}

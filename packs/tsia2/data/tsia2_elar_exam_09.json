@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 09",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E9-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When the design students at Larkspur College began creating tactile campus maps, they first assumed the project would be mostly technical. They planned to convert an ordinary printed map into a raised version with textured paths and building labels in Braille. After interviewing students with visual impairments, however, the class realized that a useful tactile map needed more than accurate lines. Students wanted clear starting points, simplified routes, and landmarks that could be identified by touch or sound, such as the fountain near the student center or the wide steps outside the library. The class produced several prototypes and invited users to test them. Some early versions included too much detail, making the maps difficult to read by touch. Later versions used fewer streets, larger labels, and a short audio description accessible through a QR code. By the end of the semester, the project had become not just an exercise in design but a lesson in listening to the people who would actually use the product. Which statement best expresses the central idea of the passage?",
+      "choices": {
+        "A": "The tactile map project showed students that effective design requires user feedback as well as technical skill.",
+        "B": "Printed campus maps are no longer useful for students who attend large colleges.",
+        "C": "Design students should avoid creating products that include Braille labels.",
+        "D": "The first version of a campus map is usually the easiest version for people to use."
+      },
+      "correct": "A",
+      "correctAnswerText": "The tactile map project showed students that effective design requires user feedback as well as technical skill.",
+      "explanation": "The passage shows that the students improved their maps after learning from the people who would use them.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When the design students at Larkspur College began creating tactile campus maps, they first assumed the project would be mostly technical. They planned to convert an ordinary printed map into a raised version with textured paths and building labels in Braille. After interviewing students with visual impairments, however, the class realized that a useful tactile map needed more than accurate lines. Students wanted clear starting points, simplified routes, and landmarks that could be identified by touch or sound, such as the fountain near the student center or the wide steps outside the library. The class produced several prototypes and invited users to test them. Some early versions included too much detail, making the maps difficult to read by touch. Later versions used fewer streets, larger labels, and a short audio description accessible through a QR code. By the end of the semester, the project had become not just an exercise in design but a lesson in listening to the people who would actually use the product. According to the passage, why were some early map versions difficult to use?",
+      "choices": {
+        "A": "They did not include any building labels.",
+        "B": "They contained too much detail for users to read easily by touch.",
+        "C": "They were tested only after the final version had been approved.",
+        "D": "They included landmarks that could be identified by sound."
+      },
+      "correct": "B",
+      "correctAnswerText": "They contained too much detail for users to read easily by touch.",
+      "explanation": "The passage states that some early versions included too much detail, making them difficult to read by touch.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When the design students at Larkspur College began creating tactile campus maps, they first assumed the project would be mostly technical. They planned to convert an ordinary printed map into a raised version with textured paths and building labels in Braille. After interviewing students with visual impairments, however, the class realized that a useful tactile map needed more than accurate lines. Students wanted clear starting points, simplified routes, and landmarks that could be identified by touch or sound, such as the fountain near the student center or the wide steps outside the library. The class produced several prototypes and invited users to test them. Some early versions included too much detail, making the maps difficult to read by touch. Later versions used fewer streets, larger labels, and a short audio description accessible through a QR code. By the end of the semester, the project had become not just an exercise in design but a lesson in listening to the people who would actually use the product. In the passage, the word prototypes most nearly means",
+      "choices": {
+        "A": "early models made for testing",
+        "B": "final products ready for sale",
+        "C": "written rules for campus visitors",
+        "D": "interviews conducted by instructors"
+      },
+      "correct": "A",
+      "correctAnswerText": "early models made for testing",
+      "explanation": "In context, prototypes are early versions of the tactile maps that users tested before later improvements were made.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When the design students at Larkspur College began creating tactile campus maps, they first assumed the project would be mostly technical. They planned to convert an ordinary printed map into a raised version with textured paths and building labels in Braille. After interviewing students with visual impairments, however, the class realized that a useful tactile map needed more than accurate lines. Students wanted clear starting points, simplified routes, and landmarks that could be identified by touch or sound, such as the fountain near the student center or the wide steps outside the library. The class produced several prototypes and invited users to test them. Some early versions included too much detail, making the maps difficult to read by touch. Later versions used fewer streets, larger labels, and a short audio description accessible through a QR code. By the end of the semester, the project had become not just an exercise in design but a lesson in listening to the people who would actually use the product. Which detail best supports the idea that user feedback improved the maps?",
+      "choices": {
+        "A": "The students first planned to convert an ordinary printed map into a raised version.",
+        "B": "Later versions used fewer streets, larger labels, and an audio description after testing revealed problems.",
+        "C": "The project began in a design class at Larkspur College.",
+        "D": "Some landmarks on campus included a fountain and library steps."
+      },
+      "correct": "B",
+      "correctAnswerText": "Later versions used fewer streets, larger labels, and an audio description after testing revealed problems.",
+      "explanation": "This detail shows that testing and feedback led to specific improvements.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A medical clinic changed its appointment reminder cards after noticing that patients often arrived without required documents. The old card listed only the date and time of the appointment. The new card includes a short checklist: insurance card, photo identification, medication list, and any recent test results. Front desk staff reported that check-in took less time after the change. What is the main purpose of the checklist on the new reminder card?",
+      "choices": {
+        "A": "To help patients arrive prepared with necessary documents",
+        "B": "To shorten the length of medical appointments by removing questions",
+        "C": "To prevent patients from scheduling future visits",
+        "D": "To replace all communication with doctors and nurses"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help patients arrive prepared with necessary documents",
+      "explanation": "The checklist reminds patients to bring items needed for check-in.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Noah thought practicing guitar meant playing a song from beginning to end until it sounded right. His teacher asked him to play only the two measures where his fingers stumbled during each attempt. At first, Noah felt impatient because the exercise seemed too small to matter. After several days, however, the difficult transition became smoother, and the full song sounded better. What can reasonably be inferred about Noah?",
+      "choices": {
+        "A": "He learns that focused practice on a weak section can improve an entire performance.",
+        "B": "He decides that practicing short sections is always a waste of time.",
+        "C": "He stops playing guitar because the song is too difficult.",
+        "D": "He believes his teacher does not understand music."
+      },
+      "correct": "A",
+      "correctAnswerText": "He learns that focused practice on a weak section can improve an entire performance.",
+      "explanation": "Noah improves the whole song by practicing the difficult measures separately.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The college library is considering adding small soundproof booths for students who need to attend video interviews, telehealth appointments, or online advising sessions. Supporters say the booths would provide privacy in a building that is otherwise designed for shared study. Some students worry that the booths could be occupied for long periods by people making casual calls. The library has proposed a reservation system and a one-hour limit. Which statement best describes the library’s proposed approach?",
+      "choices": {
+        "A": "It tries to provide private spaces while setting rules to keep them available for appropriate use.",
+        "B": "It requires all students to complete advising sessions inside the library.",
+        "C": "It removes shared study areas and replaces them entirely with booths.",
+        "D": "It allows students to reserve booths for unlimited personal calls."
+      },
+      "correct": "A",
+      "correctAnswerText": "It tries to provide private spaces while setting rules to keep them available for appropriate use.",
+      "explanation": "The library proposes booths for privacy while using reservations and time limits to address concerns.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A chemistry instructor compares catalysts to experienced traffic officers at a busy intersection. The officers do not create new roads or change the destination of the cars, but they help traffic move more efficiently by guiding movement through the intersection. Similarly, a catalyst helps a chemical reaction occur more easily without being used up in the reaction. What is the main purpose of the traffic officer comparison?",
+      "choices": {
+        "A": "To explain how a catalyst helps a process occur more efficiently without being consumed",
+        "B": "To show that chemical reactions happen only on city streets",
+        "C": "To argue that traffic officers are more important than scientists",
+        "D": "To prove that all reactions require cars and intersections"
+      },
+      "correct": "A",
+      "correctAnswerText": "To explain how a catalyst helps a process occur more efficiently without being consumed",
+      "explanation": "The traffic officer comparison explains that a catalyst helps a reaction proceed more easily without being used up.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Colleges should encourage students to create digital portfolios. A portfolio can display projects, writing samples, presentations, and certificates in one place, giving transfer schools or employers a fuller view of a student’s work than a grade report alone can provide. Passage 2: Digital portfolios can be valuable, but students need guidance in selecting what to include. A crowded portfolio with every assignment from every class may be less effective than a focused collection that shows growth, skill, and reflection. Quality matters more than quantity. How does Passage 2 respond to Passage 1?",
+      "choices": {
+        "A": "Passage 2 agrees that portfolios can be useful but emphasizes careful selection of materials.",
+        "B": "Passage 2 argues that students should never share examples of their work.",
+        "C": "Passage 2 claims that grade reports contain too much personal reflection.",
+        "D": "Passage 2 says that transfer schools and employers refuse to view digital documents."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 agrees that portfolios can be useful but emphasizes careful selection of materials.",
+      "explanation": "Passage 2 accepts the value of portfolios but warns that quality and focus matter more than including everything.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article about indoor plants avoids making exaggerated claims. It does not say that a fern on a desk can solve workplace stress or purify all the air in a room. Instead, it argues that plants may make indoor spaces feel more pleasant, remind people to take brief visual breaks, and encourage simple routines such as watering and pruning. The author’s point is modest: small changes to a workspace can affect how people experience it. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "Indoor plants may improve how a workspace feels, even if their benefits should not be exaggerated.",
+        "B": "Indoor plants can replace every other method for reducing workplace stress.",
+        "C": "People should avoid keeping plants indoors because they require watering.",
+        "D": "A workspace is pleasant only if every desk has the same kind of plant."
+      },
+      "correct": "A",
+      "correctAnswerText": "Indoor plants may improve how a workspace feels, even if their benefits should not be exaggerated.",
+      "explanation": "The passage makes a modest claim about plants making spaces more pleasant without overstating their effects.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The short story describes a tailor closing his shop at dusk. He brushes loose thread from the counter, covers the sewing machine, and places a customer’s repaired jacket on a hanger near the door. The narrator says the jacket “waited like a promise kept.” The phrase suggests that the tailor’s work is quiet but meaningful because it restores something needed. What effect does the phrase “waited like a promise kept” most likely create?",
+      "choices": {
+        "A": "It suggests that the repaired jacket represents reliability and care.",
+        "B": "It shows that the customer has forgotten about the jacket.",
+        "C": "It makes the tailor’s shop seem careless and disorganized.",
+        "D": "It proves that the jacket has not actually been repaired."
+      },
+      "correct": "A",
+      "correctAnswerText": "It suggests that the repaired jacket represents reliability and care.",
+      "explanation": "The phrase presents the repaired jacket as evidence of the tailor’s careful and meaningful work.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A public speaking coach advises students to begin presentations with a specific situation rather than a broad statement. For example, “At 7:10 this morning, three students waited outside the locked lab door” is more engaging than “Scheduling is important.” A specific opening gives listeners a concrete problem to imagine before the speaker explains the larger issue. Which sentence best states the coach’s point?",
+      "choices": {
+        "A": "A specific opening can help listeners understand and care about a larger issue.",
+        "B": "Presentations should avoid discussing problems that happened recently.",
+        "C": "Broad statements are always more interesting than concrete examples.",
+        "D": "Speakers should begin every presentation by giving the time of day."
+      },
+      "correct": "A",
+      "correctAnswerText": "A specific opening can help listeners understand and care about a larger issue.",
+      "explanation": "The coach explains that a specific situation gives listeners a concrete problem before the larger point is introduced.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The rental agreement for the community room asks groups to return chairs and tables to their original arrangement after an event. The rule is not mainly about appearance. When furniture is left in narrow rows or blocking doorways, the next group may have trouble setting up, and exits may be harder to reach. Restoring the layout helps keep the room usable and safe. Why does the agreement require groups to restore the room layout?",
+      "choices": {
+        "A": "To keep the room safe and ready for the next users",
+        "B": "To prevent groups from using chairs during events",
+        "C": "To make every event follow the same program",
+        "D": "To discourage people from renting the room"
+      },
+      "correct": "A",
+      "correctAnswerText": "To keep the room safe and ready for the next users",
+      "explanation": "Returning furniture to its original arrangement prevents blocked exits and helps the next group set up.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article on electric scooters notes that they can help people travel short distances without using a car. However, the author also points out that scooters left across sidewalks can create obstacles for pedestrians, especially people using wheelchairs or strollers. The article recommends designated parking zones and user education so that the convenience of scooters does not create barriers for others. Which statement best describes the author’s reasoning?",
+      "choices": {
+        "A": "Electric scooters can be useful, but their use should be managed to protect sidewalk access.",
+        "B": "Electric scooters should be allowed only on highways.",
+        "C": "Sidewalk access matters only in neighborhoods without public transportation.",
+        "D": "Scooter users should never be asked to follow parking rules."
+      },
+      "correct": "A",
+      "correctAnswerText": "Electric scooters can be useful, but their use should be managed to protect sidewalk access.",
+      "explanation": "The author recognizes the convenience of scooters but recommends rules to avoid creating barriers.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Iris began working at the campus greenhouse, she watered every plant on the same schedule. After several wilted seedlings and a few overwatered herbs, her supervisor asked her to check the soil before watering. Iris learned that some plants needed moist soil, while others did better when the top layer dried first. She realized that care did not mean treating everything the same way. What lesson does Iris learn?",
+      "choices": {
+        "A": "Effective care requires attention to different needs.",
+        "B": "All plants grow best when watered every day.",
+        "C": "Seedlings and herbs should never be grown in the same greenhouse.",
+        "D": "Checking soil is unnecessary when plants are labeled."
+      },
+      "correct": "A",
+      "correctAnswerText": "Effective care requires attention to different needs.",
+      "explanation": "Iris learns that different plants require different watering conditions.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a textbook pickup locker system for students who order course materials online. (2) At the beginning of each semester, long bookstore lines can make it difficult for students to collect books between classes or before work. (3) A locker system would allow students to receive a code and pick up prepaid materials during extended building hours. (4) This option would be especially useful for students with tight schedules, family responsibilities, or transportation limits. (5) The bookstore could send a message when an order is ready and include the locker number and pickup deadline. (6) Some students enjoy reading novels that are not assigned in their courses. (7) To prevent confusion, staff could place clear signs near the lockers and provide help during the first week. (8) A pickup locker system would make course material distribution more flexible without removing in-person bookstore support. Which sentence should be removed because it does not support the main idea of the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "C",
+      "correctAnswerText": "Sentence 6",
+      "explanation": "Sentence 6 discusses reading novels not assigned in courses and does not support the argument for textbook pickup lockers.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a textbook pickup locker system for students who order course materials online. (2) At the beginning of each semester, long bookstore lines can make it difficult for students to collect books between classes or before work. (3) A locker system would allow students to receive a code and pick up prepaid materials during extended building hours. (4) This option would be especially useful for students with tight schedules, family responsibilities, or transportation limits. (5) The bookstore could send a message when an order is ready and include the locker number and pickup deadline. (6) Some students enjoy reading novels that are not assigned in their courses. (7) To prevent confusion, staff could place clear signs near the lockers and provide help during the first week. (8) A pickup locker system would make course material distribution more flexible without removing in-person bookstore support. Which sentence best strengthens the support for sentence 3?",
+      "choices": {
+        "A": "Students who leave work after 6:00 p.m. could still collect prepaid books if the building remains open later than the bookstore counter.",
+        "B": "Some textbooks include chapter summaries, practice problems, and glossaries.",
+        "C": "Bookstore employees often arrange pens and notebooks near the front register.",
+        "D": "Students may choose different majors after meeting with an advisor."
+      },
+      "correct": "A",
+      "correctAnswerText": "Students who leave work after 6:00 p.m. could still collect prepaid books if the building remains open later than the bookstore counter.",
+      "explanation": "This sentence directly supports the benefit of picking up materials during extended building hours.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a textbook pickup locker system for students who order course materials online. (2) At the beginning of each semester, long bookstore lines can make it difficult for students to collect books between classes or before work. (3) A locker system would allow students to receive a code and pick up prepaid materials during extended building hours. (4) This option would be especially useful for students with tight schedules, family responsibilities, or transportation limits. (5) The bookstore could send a message when an order is ready and include the locker number and pickup deadline. (6) Some students enjoy reading novels that are not assigned in their courses. (7) To prevent confusion, staff could place clear signs near the lockers and provide help during the first week. (8) A pickup locker system would make course material distribution more flexible without removing in-person bookstore support. Which transition should be added to the beginning of sentence 5 to show the relationship between sentence 5 and the previous sentences?",
+      "choices": {
+        "A": "However,",
+        "B": "For example,",
+        "C": "On the contrary,",
+        "D": "Instead,"
+      },
+      "correct": "B",
+      "correctAnswerText": "For example,",
+      "explanation": "Sentence 5 gives a specific example of how the locker system could work.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a textbook pickup locker system for students who order course materials online. (2) At the beginning of each semester, long bookstore lines can make it difficult for students to collect books between classes or before work. (3) A locker system would allow students to receive a code and pick up prepaid materials during extended building hours. (4) This option would be especially useful for students with tight schedules, family responsibilities, or transportation limits. (5) The bookstore could send a message when an order is ready and include the locker number and pickup deadline. (6) Some students enjoy reading novels that are not assigned in their courses. (7) To prevent confusion, staff could place clear signs near the lockers and provide help during the first week. (8) A pickup locker system would make course material distribution more flexible without removing in-person bookstore support. Which revision of sentence 8 best maintains a formal academic tone?",
+      "choices": {
+        "A": "A pickup locker system would make course material distribution more flexible without removing in-person bookstore support.",
+        "B": "Book lockers would be awesome because students could grab stuff whenever and not deal with lines.",
+        "C": "This pickup thing would be super useful because the bookstore gets really busy and annoying.",
+        "D": "Students would totally like lockers because getting textbooks can be a hassle at the start."
+      },
+      "correct": "A",
+      "correctAnswerText": "A pickup locker system would make course material distribution more flexible without removing in-person bookstore support.",
+      "explanation": "This sentence uses formal academic tone and clearly summarizes the proposal’s benefit.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The organizer checked the registration list, she printed extra name tags.",
+      "choices": {
+        "A": "The organizer checked the registration list, she printed extra name tags.",
+        "B": "The organizer checked the registration list and printed extra name tags.",
+        "C": "The organizer checked the registration list, and printed, extra name tags.",
+        "D": "The organizer checked the registration list she printed extra name tags."
+      },
+      "correct": "B",
+      "correctAnswerText": "The organizer checked the registration list and printed extra name tags.",
+      "explanation": "This revision correctly joins two actions performed by the same subject.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is written correctly.",
+      "choices": {
+        "A": "The set of instructions were included in the email.",
+        "B": "The set of instructions was included in the email.",
+        "C": "The set of instructions are included in the email yesterday.",
+        "D": "The set of instructions have included in the email."
+      },
+      "correct": "B",
+      "correctAnswerText": "The set of instructions was included in the email.",
+      "explanation": "The subject “set” is singular, so the singular verb “was” is correct.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best word or phrase to complete the sentence. The software update fixed several security problems; __________, all users should install it promptly.",
+      "choices": {
+        "A": "therefore",
+        "B": "however",
+        "C": "for example",
+        "D": "similarly"
+      },
+      "correct": "A",
+      "correctAnswerText": "therefore",
+      "explanation": "The second clause states the result of the update fixing security problems.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. After reviewing the budget, the missing expense report concerned Leah.",
+      "choices": {
+        "A": "After reviewing the budget, the missing expense report concerned Leah.",
+        "B": "After Leah reviewed the budget, the missing expense report concerned her.",
+        "C": "Reviewing the budget, the missing expense report was concerning to Leah.",
+        "D": "The missing expense report, after reviewing the budget, concerned Leah."
+      },
+      "correct": "B",
+      "correctAnswerText": "After Leah reviewed the budget, the missing expense report concerned her.",
+      "explanation": "This revision corrects the dangling modifier by showing that Leah reviewed the budget.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The community center opened a weekend computer lab. The lab helps residents complete online forms.",
+      "choices": {
+        "A": "The community center opened a weekend computer lab, the lab helps residents complete online forms.",
+        "B": "The community center opened a weekend computer lab that helps residents complete online forms.",
+        "C": "Opening a weekend computer lab, online forms were helped by the community center.",
+        "D": "The community center opened a lab and a weekend helps residents completing online forms."
+      },
+      "correct": "B",
+      "correctAnswerText": "The community center opened a weekend computer lab that helps residents complete online forms.",
+      "explanation": "This option combines the sentences clearly and avoids a comma splice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. Many writers begin revising by changing individual words. Word choice is important, but it may not solve larger problems. A paragraph can contain polished sentences and still lack a clear topic sentence, useful evidence, or logical order. Writers should often review the structure of a paragraph before focusing on smaller edits. Which concluding sentence best follows from the paragraph?",
+      "choices": {
+        "A": "Therefore, effective revision should consider organization and support as well as wording.",
+        "B": "In contrast, writers should never change individual words during revision.",
+        "C": "For this reason, topic sentences should always be removed from paragraphs.",
+        "D": "As a result, polished sentences are the only feature of strong writing."
+      },
+      "correct": "A",
+      "correctAnswerText": "Therefore, effective revision should consider organization and support as well as wording.",
+      "explanation": "This conclusion follows from the paragraph’s point that revision involves more than changing individual words.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses a colon correctly.",
+      "choices": {
+        "A": "The safety kit includes four items: gloves, bandages, wipes, and a flashlight.",
+        "B": "The safety kit includes: four items, gloves, bandages, wipes, and a flashlight.",
+        "C": "The safety kit: includes four items gloves, bandages, wipes, and a flashlight.",
+        "D": "The safety kit includes four: items gloves, bandages, wipes, and a flashlight."
+      },
+      "correct": "A",
+      "correctAnswerText": "The safety kit includes four items: gloves, bandages, wipes, and a flashlight.",
+      "explanation": "A colon is correctly used after a complete sentence to introduce a list.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best replacement for the underlined words. The employee’s explanation of the return policy was not clear enough for customers.",
+      "choices": {
+        "A": "unclear",
+        "B": "not clear in a way that was enough",
+        "C": "kind of not clear enough",
+        "D": "unclear enough for understanding"
+      },
+      "correct": "A",
+      "correctAnswerText": "unclear",
+      "explanation": "“Unclear” is the most concise and formal replacement.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The volunteers packed the meals into insulated bags, checking each order before delivery.",
+      "choices": {
+        "A": "The volunteers packed the meals into insulated bags, checking each order before delivery.",
+        "B": "The meals packed the volunteers into insulated bags, checking each order before delivery.",
+        "C": "Checking each order before delivery, the insulated bags packed the meals.",
+        "D": "The volunteers packed, the meals into insulated bags checking, each order before delivery."
+      },
+      "correct": "A",
+      "correctAnswerText": "The volunteers packed the meals into insulated bags, checking each order before delivery.",
+      "explanation": "This sentence clearly shows that the volunteers packed the meals and checked each order.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. (1) The music department will offer a workshop on recording clear audio for class projects. (2) Students will learn how to place a microphone, reduce background noise, and save files in the correct format. (3) These skills can improve podcasts, interviews, and presentation recordings. (4) Many students listen to music while studying for exams. Where should sentence 4 be placed to improve the organization of the paragraph?",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 3",
+        "D": "The sentence should be removed because it shifts away from the paragraph’s focus."
+      },
+      "correct": "D",
+      "correctAnswerText": "The sentence should be removed because it shifts away from the paragraph’s focus.",
+      "explanation": "Sentence 4 discusses listening to music while studying, while the paragraph focuses on recording clear audio for projects.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E9-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. Although the route was longer, but it avoided the closed bridge.",
+      "choices": {
+        "A": "Although the route was longer, but it avoided the closed bridge.",
+        "B": "Although the route was longer, it avoided the closed bridge.",
+        "C": "The route was longer although but it avoided the closed bridge.",
+        "D": "Although the route was longer it avoided, the closed bridge."
+      },
+      "correct": "B",
+      "correctAnswerText": "Although the route was longer, it avoided the closed bridge.",
+      "explanation": "This revision removes the unnecessary “but” and correctly punctuates the introductory dependent clause.",
+      "credits": 1
+    }
+  ]
+}

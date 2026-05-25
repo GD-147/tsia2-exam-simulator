@@ -1,0 +1,19 @@
+{
+  "title": "TSIA2 Essay Practice Prompt 02",
+  "section": "essay",
+  "questions": [
+    {
+      "id": "TSIA2-ES2-001",
+      "section": "Essay",
+      "type": "essay",
+      "itemType": "essay",
+      "focus": "",
+      "category": "",
+      "prompt": "Some people believe that students should be encouraged to choose practical courses that clearly prepare them for employment. Others argue that students should also take courses in the arts, humanities, and social sciences because these subjects build creativity, communication, and critical thinking. Colleges often face the challenge of helping students prepare for careers while also giving them a broad education. Assignment: Write an essay of 300–600 words in which you develop your point of view on the issue presented in the passage. Support your position with reasoning and examples from your reading, studies, experience, or observations.",
+      "modelAnswer": "A strong response should state a clear position on career-focused courses versus broader education, develop that position with specific reasons and examples, maintain logical organization, and demonstrate control of Standard English.",
+      "scoringGuidance": "A strong response should state a clear position on career-focused courses versus broader education, develop that position with specific reasons and examples, maintain logical organization, and demonstrate control of Standard English.",
+      "rubric": "Scores range from 8 for a focused, well-developed, logically organized essay with strong language control to 0 for a blank, off-topic, too short, incoherent, or non-English response.",
+      "credits": 1
+    }
+  ]
+}

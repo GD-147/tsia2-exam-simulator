@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 03",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E3-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When several professors at North Valley College began using open educational resources, some students assumed the change simply meant that textbooks would be free. Cost was certainly part of the decision, but the professors had another goal as well. Because open resources can be edited and reorganized, instructors could select chapters, articles, and practice activities that matched their course objectives more closely than a commercial textbook did. In a history course, for example, the instructor added local newspaper excerpts to a unit on migration. In a math course, the instructor replaced several advanced examples with problems related to nursing and construction programs on campus. The change also required extra work. Professors had to review materials for accuracy, update broken links, and make sure readings were accessible to students using screen readers. Still, many students reported that the materials felt more connected to their classes than traditional textbooks had. Which statement best expresses the central idea of the passage?",
+      "choices": {
+        "A": "Open educational resources can reduce costs and allow instructors to customize course materials.",
+        "B": "Commercial textbooks are always inaccurate and should be removed from every college course.",
+        "C": "Students prefer history and math courses when those courses do not require any reading.",
+        "D": "Open educational resources are useful only when professors do not need to revise them."
+      },
+      "correct": "A",
+      "correctAnswerText": "Open educational resources can reduce costs and allow instructors to customize course materials.",
+      "explanation": "The passage explains that open resources help with cost but also allow professors to adapt materials to specific course goals.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When several professors at North Valley College began using open educational resources, some students assumed the change simply meant that textbooks would be free. Cost was certainly part of the decision, but the professors had another goal as well. Because open resources can be edited and reorganized, instructors could select chapters, articles, and practice activities that matched their course objectives more closely than a commercial textbook did. In a history course, for example, the instructor added local newspaper excerpts to a unit on migration. In a math course, the instructor replaced several advanced examples with problems related to nursing and construction programs on campus. The change also required extra work. Professors had to review materials for accuracy, update broken links, and make sure readings were accessible to students using screen readers. Still, many students reported that the materials felt more connected to their classes than traditional textbooks had. According to the passage, why did some professors prefer open educational resources?",
+      "choices": {
+        "A": "They allowed instructors to choose and adapt materials for specific courses.",
+        "B": "They eliminated the need for students to complete practice activities.",
+        "C": "They prevented students from using screen readers during assignments.",
+        "D": "They made it unnecessary for professors to check readings for accuracy."
+      },
+      "correct": "A",
+      "correctAnswerText": "They allowed instructors to choose and adapt materials for specific courses.",
+      "explanation": "The passage says professors could select, edit, and reorganize materials to better match course objectives.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When several professors at North Valley College began using open educational resources, some students assumed the change simply meant that textbooks would be free. Cost was certainly part of the decision, but the professors had another goal as well. Because open resources can be edited and reorganized, instructors could select chapters, articles, and practice activities that matched their course objectives more closely than a commercial textbook did. In a history course, for example, the instructor added local newspaper excerpts to a unit on migration. In a math course, the instructor replaced several advanced examples with problems related to nursing and construction programs on campus. The change also required extra work. Professors had to review materials for accuracy, update broken links, and make sure readings were accessible to students using screen readers. Still, many students reported that the materials felt more connected to their classes than traditional textbooks had. In the passage, the word accessible most nearly means",
+      "choices": {
+        "A": "available and usable",
+        "B": "unusually expensive",
+        "C": "difficult to summarize",
+        "D": "written by students"
+      },
+      "correct": "A",
+      "correctAnswerText": "available and usable",
+      "explanation": "In context, accessible means that readings can be used by students, including those who use screen readers.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When several professors at North Valley College began using open educational resources, some students assumed the change simply meant that textbooks would be free. Cost was certainly part of the decision, but the professors had another goal as well. Because open resources can be edited and reorganized, instructors could select chapters, articles, and practice activities that matched their course objectives more closely than a commercial textbook did. In a history course, for example, the instructor added local newspaper excerpts to a unit on migration. In a math course, the instructor replaced several advanced examples with problems related to nursing and construction programs on campus. The change also required extra work. Professors had to review materials for accuracy, update broken links, and make sure readings were accessible to students using screen readers. Still, many students reported that the materials felt more connected to their classes than traditional textbooks had. Which detail best supports the idea that using open educational resources requires ongoing effort?",
+      "choices": {
+        "A": "Students assumed the change meant that textbooks would be free.",
+        "B": "A history instructor added local newspaper excerpts to a unit.",
+        "C": "Professors had to review materials, update links, and check accessibility.",
+        "D": "Many students felt the materials were connected to their classes."
+      },
+      "correct": "C",
+      "correctAnswerText": "Professors had to review materials, update links, and check accessibility.",
+      "explanation": "This detail directly shows the continuing work required to maintain open educational resources.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The bakery owner changed the morning schedule after noticing that customers often waited while employees prepared online orders. Under the new system, one employee packages online orders before the store opens, while another prepares the display case for walk-in customers. The change did not increase the number of employees, but it reduced confusion about who was responsible for each task. What is the main purpose of the new schedule?",
+      "choices": {
+        "A": "To reduce confusion and help employees serve different types of customers more efficiently",
+        "B": "To encourage all customers to place online orders instead of visiting the store",
+        "C": "To shorten the bakery’s business hours during the morning rush",
+        "D": "To make employees complete fewer tasks before the store opens"
+      },
+      "correct": "A",
+      "correctAnswerText": "To reduce confusion and help employees serve different types of customers more efficiently",
+      "explanation": "The new schedule assigns specific responsibilities for online and walk-in orders, reducing confusion.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At the beginning of the semester, Jun wrote every word of his lab observations exactly as they appeared on the classroom board. By midterm, however, he had learned to record what he actually saw: the color change, the temperature shift, the time a reaction slowed, and the question he wanted to ask next. His notebook became less like a copy of the instructor’s notes and more like a record of his own investigation. What can reasonably be inferred about Jun?",
+      "choices": {
+        "A": "He is learning to observe and think more independently in the lab.",
+        "B": "He has decided that classroom instruction is unnecessary.",
+        "C": "He no longer needs to record details during experiments.",
+        "D": "He prefers writing essays to completing science assignments."
+      },
+      "correct": "A",
+      "correctAnswerText": "He is learning to observe and think more independently in the lab.",
+      "explanation": "Jun moves from copying notes to recording his own observations and questions.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A city’s plan to convert an unused rail line into a walking and biking path has drawn both support and concern. Supporters say the path would give residents a safe place to exercise and could connect neighborhoods that currently feel separated. Some nearby residents worry about noise, parking, and nighttime activity. The planning committee has proposed lighting, limited hours, and regular maintenance as ways to address these concerns. Which statement best describes the relationship between the supporters’ and residents’ views?",
+      "choices": {
+        "A": "Supporters focus on community benefits, while some residents focus on possible neighborhood disruptions.",
+        "B": "Supporters and residents agree that the rail line should remain unused.",
+        "C": "Residents focus on exercise benefits, while supporters focus only on parking problems.",
+        "D": "Residents believe the project should begin immediately without any rules."
+      },
+      "correct": "A",
+      "correctAnswerText": "Supporters focus on community benefits, while some residents focus on possible neighborhood disruptions.",
+      "explanation": "The passage contrasts supporters’ views about safety and connection with residents’ concerns about noise, parking, and nighttime activity.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article explains that sleep is not simply a break from learning. During sleep, the brain strengthens some memory pathways and weakens others, helping people retain useful information while filtering out less important details. This process may explain why students who study steadily and sleep adequately often remember material better than students who stay awake all night before an exam. What is the main idea of the passage?",
+      "choices": {
+        "A": "Sleep can help the brain organize and retain information.",
+        "B": "Students should avoid studying before exams.",
+        "C": "Memory pathways become weaker whenever people rest.",
+        "D": "All students need exactly the same number of hours of sleep."
+      },
+      "correct": "A",
+      "correctAnswerText": "Sleep can help the brain organize and retain information.",
+      "explanation": "The passage explains that sleep strengthens some memory pathways and helps people retain useful information.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Public agencies should write forms and instructions in plain language. When residents understand a form the first time they read it, they are less likely to make errors or call for help. Clear wording saves time for both the public and agency employees. Passage 2: Plain language is important, but accuracy must remain the priority. Some legal or technical terms cannot simply be removed without changing the meaning. Agencies should simplify wording when possible while keeping necessary terms and definitions. Which statement best describes how Passage 2 responds to Passage 1?",
+      "choices": {
+        "A": "Passage 2 agrees with the goal of clarity but adds that precision must be preserved.",
+        "B": "Passage 2 rejects the idea that public forms should be understandable.",
+        "C": "Passage 2 argues that agencies should stop using written instructions.",
+        "D": "Passage 2 claims that residents prefer forms with more technical language."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 agrees with the goal of clarity but adds that precision must be preserved.",
+      "explanation": "Passage 2 supports plain language but warns that some legal or technical terms may be necessary for accuracy.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The author of the article about community murals does not argue that a mural can solve economic problems by itself. Instead, the author suggests that the process of creating a mural can bring residents together, encourage conversations about local history, and make neglected walls feel less anonymous. The value of the mural, according to the author, lies as much in the collaboration as in the finished artwork. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "Community murals are valuable because both the process and the final artwork can strengthen local identity.",
+        "B": "Community murals should be judged only by how much money they generate.",
+        "C": "Residents should avoid discussing history when planning public artwork.",
+        "D": "A mural is successful only when it is painted by a famous artist."
+      },
+      "correct": "A",
+      "correctAnswerText": "Community murals are valuable because both the process and the final artwork can strengthen local identity.",
+      "explanation": "The passage emphasizes collaboration, local history, and the finished artwork.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The novelist describes the old theater as “standing patiently at the corner, its faded sign still spelling out promises in cracked red letters.” Although the building is closed, the description suggests that it remains important to the town’s memory. People pass it daily, and many still refer to nearby streets by saying they are “behind the theater” or “across from the theater.” What does the description of the theater most strongly suggest?",
+      "choices": {
+        "A": "The theater still shapes how residents remember and describe the town.",
+        "B": "The theater has recently reopened with a new sign.",
+        "C": "The theater is ignored because residents never pass it.",
+        "D": "The theater was built after the nearby streets were named."
+      },
+      "correct": "A",
+      "correctAnswerText": "The theater still shapes how residents remember and describe the town.",
+      "explanation": "The passage shows that residents still use the theater as a point of reference, even though it is closed.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. During group projects, assigning roles can prevent confusion. If one student records notes, another tracks deadlines, and another prepares questions for the instructor, the group is less likely to duplicate work or overlook important tasks. Roles do not need to be permanent, but they should be clear at each meeting. Which sentence best states the author’s point?",
+      "choices": {
+        "A": "Clear roles can help a group project run more smoothly.",
+        "B": "Group projects should always have the same leader.",
+        "C": "Students should avoid asking instructors questions during projects.",
+        "D": "Written notes are the only important part of a group project."
+      },
+      "correct": "A",
+      "correctAnswerText": "Clear roles can help a group project run more smoothly.",
+      "explanation": "The passage explains that assigning roles prevents duplicated work and overlooked tasks.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The safety notice at the ceramics studio explains that clay dust can become a health concern when it dries and becomes airborne. For that reason, students should wipe tables with a damp sponge rather than sweep dry clay from the floor or work surface. The notice also asks students to close clay bags tightly after use, since dry clay is more likely to crumble into dust. Why does the notice recommend using a damp sponge?",
+      "choices": {
+        "A": "To keep clay dust from becoming airborne",
+        "B": "To make finished ceramics dry more quickly",
+        "C": "To remove color from glazed pottery",
+        "D": "To help students use less water during cleanup"
+      },
+      "correct": "A",
+      "correctAnswerText": "To keep clay dust from becoming airborne",
+      "explanation": "The notice explains that dry clay dust can become airborne and that damp cleanup helps prevent this problem.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The report on neighborhood grocery access uses the term “food access” carefully. It does not refer only to whether a store exists nearby. The report also considers whether residents can afford the food, whether buses stop near the store, and whether the store’s hours match the schedules of working families. By defining the term broadly, the report shows that distance is only one part of the problem. What is the author’s purpose in explaining the meaning of “food access”?",
+      "choices": {
+        "A": "To show that the issue involves more than the location of grocery stores",
+        "B": "To argue that grocery stores should sell only low-cost products",
+        "C": "To explain why buses should stop running near stores",
+        "D": "To prove that working families shop only during the morning"
+      },
+      "correct": "A",
+      "correctAnswerText": "To show that the issue involves more than the location of grocery stores",
+      "explanation": "The passage defines food access broadly by including cost, transportation, and store hours.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Elena joined the debate team, she thought preparation meant collecting as many facts as possible. Her coach soon showed her that facts mattered only when they were connected to a clear claim. During practice, Elena learned to ask, “What does this evidence prove?” before adding a statistic or quotation to her notes. By the end of the season, her arguments were shorter but stronger. What lesson does Elena learn?",
+      "choices": {
+        "A": "Evidence is most effective when it clearly supports a claim.",
+        "B": "Debate team members should avoid using statistics.",
+        "C": "Short arguments are always weaker than long arguments.",
+        "D": "A quotation is useful only when it replaces the speaker’s own claim."
+      },
+      "correct": "A",
+      "correctAnswerText": "Evidence is most effective when it clearly supports a claim.",
+      "explanation": "Elena learns to connect facts, statistics, and quotations to a clear argument.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The student government should create a campus repair fair once each semester. (2) At the fair, volunteers with basic repair skills could help students mend torn backpack straps, replace missing buttons, troubleshoot simple bicycle problems, or learn how to patch a flat tire. (3) Many students throw away items that could be fixed with a small part and a few minutes of guidance. (4) A repair fair would save students money while also reducing waste. (5) The fair could include short demonstrations so students learn the skill instead of only receiving a quick fix. (6) Some students prefer buying new items because stores offer many colors and styles. (7) To keep the event safe, volunteers could handle only low-risk repairs and refer complicated problems to professionals. (8) A well-planned repair fair would help students build practical skills and make better use of the items they already own. Which sentence should be removed because it does not support the main idea of the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "C",
+      "correctAnswerText": "Sentence 6",
+      "explanation": "Sentence 6 discusses why some students buy new items, but it does not support the main argument for a repair fair.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The student government should create a campus repair fair once each semester. (2) At the fair, volunteers with basic repair skills could help students mend torn backpack straps, replace missing buttons, troubleshoot simple bicycle problems, or learn how to patch a flat tire. (3) Many students throw away items that could be fixed with a small part and a few minutes of guidance. (4) A repair fair would save students money while also reducing waste. (5) The fair could include short demonstrations so students learn the skill instead of only receiving a quick fix. (6) Some students prefer buying new items because stores offer many colors and styles. (7) To keep the event safe, volunteers could handle only low-risk repairs and refer complicated problems to professionals. (8) A well-planned repair fair would help students build practical skills and make better use of the items they already own. Which sentence best strengthens the support for sentence 5?",
+      "choices": {
+        "A": "Demonstrations could show students how to sew a button, adjust a bike seat, or identify when an item is not safe to repair.",
+        "B": "The student government meets every other Tuesday in a room near the cafeteria.",
+        "C": "Many stores advertise new backpacks at the beginning of the school year.",
+        "D": "Some volunteers may have different class schedules during the semester."
+      },
+      "correct": "A",
+      "correctAnswerText": "Demonstrations could show students how to sew a button, adjust a bike seat, or identify when an item is not safe to repair.",
+      "explanation": "This sentence directly supports the idea that demonstrations would help students learn repair skills.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The student government should create a campus repair fair once each semester. (2) At the fair, volunteers with basic repair skills could help students mend torn backpack straps, replace missing buttons, troubleshoot simple bicycle problems, or learn how to patch a flat tire. (3) Many students throw away items that could be fixed with a small part and a few minutes of guidance. (4) A repair fair would save students money while also reducing waste. (5) The fair could include short demonstrations so students learn the skill instead of only receiving a quick fix. (6) Some students prefer buying new items because stores offer many colors and styles. (7) To keep the event safe, volunteers could handle only low-risk repairs and refer complicated problems to professionals. (8) A well-planned repair fair would help students build practical skills and make better use of the items they already own. Which transition should be added to the beginning of sentence 7 to show the relationship between sentence 7 and the rest of the passage?",
+      "choices": {
+        "A": "Nevertheless,",
+        "B": "For example,",
+        "C": "To keep the event safe,",
+        "D": "As a result,"
+      },
+      "correct": "C",
+      "correctAnswerText": "To keep the event safe,",
+      "explanation": "This transition clearly introduces a safety-related procedure for the repair fair.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The student government should create a campus repair fair once each semester. (2) At the fair, volunteers with basic repair skills could help students mend torn backpack straps, replace missing buttons, troubleshoot simple bicycle problems, or learn how to patch a flat tire. (3) Many students throw away items that could be fixed with a small part and a few minutes of guidance. (4) A repair fair would save students money while also reducing waste. (5) The fair could include short demonstrations so students learn the skill instead of only receiving a quick fix. (6) Some students prefer buying new items because stores offer many colors and styles. (7) To keep the event safe, volunteers could handle only low-risk repairs and refer complicated problems to professionals. (8) A well-planned repair fair would help students build practical skills and make better use of the items they already own. Which revision of sentence 8 is clearest and most concise?",
+      "choices": {
+        "A": "A well-planned repair fair would help students build practical skills and make better use of the items they already own.",
+        "B": "A repair fair that is planned well would be something that could help students with skills and using things.",
+        "C": "Students, with a fair being planned well, would make use of items and skills in a practical way.",
+        "D": "The items students already own would be made better use of by a repair fair that is planned in a good way."
+      },
+      "correct": "A",
+      "correctAnswerText": "A well-planned repair fair would help students build practical skills and make better use of the items they already own.",
+      "explanation": "This sentence is clear, concise, and formal.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses commas correctly.",
+      "choices": {
+        "A": "After the final exam students may return their rented textbooks to the bookstore.",
+        "B": "After the final exam, students may return their rented textbooks to the bookstore.",
+        "C": "After, the final exam students may return their rented textbooks to the bookstore.",
+        "D": "After the final exam students, may return their rented textbooks to the bookstore."
+      },
+      "correct": "B",
+      "correctAnswerText": "After the final exam, students may return their rented textbooks to the bookstore.",
+      "explanation": "A comma should follow the introductory phrase “After the final exam.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The instructor posted the review sheet on Monday, and reminded the class to bring questions on Wednesday.",
+      "choices": {
+        "A": "The instructor posted the review sheet on Monday, and reminded the class to bring questions on Wednesday.",
+        "B": "The instructor posted the review sheet on Monday and reminded the class to bring questions on Wednesday.",
+        "C": "The instructor posted the review sheet, on Monday and reminded the class, to bring questions on Wednesday.",
+        "D": "The instructor posted, the review sheet on Monday, and reminded the class to bring questions on Wednesday."
+      },
+      "correct": "B",
+      "correctAnswerText": "The instructor posted the review sheet on Monday and reminded the class to bring questions on Wednesday.",
+      "explanation": "No comma is needed between two verbs that share the same subject.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best word or phrase to complete the sentence. The new software can organize appointment requests automatically; __________, staff members must still review unusual cases by hand.",
+      "choices": {
+        "A": "however",
+        "B": "therefore",
+        "C": "for example",
+        "D": "similarly"
+      },
+      "correct": "A",
+      "correctAnswerText": "however",
+      "explanation": "The sentence contrasts what the software can do automatically with what staff members must still do manually.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is written correctly.",
+      "choices": {
+        "A": "Neither the supervisor nor the assistants was available after 5:00 p.m.",
+        "B": "Neither the supervisor nor the assistants were available after 5:00 p.m.",
+        "C": "Neither the supervisor nor the assistants is available after 5:00 p.m. yesterday.",
+        "D": "Neither the supervisor nor the assistants has available after 5:00 p.m."
+      },
+      "correct": "B",
+      "correctAnswerText": "Neither the supervisor nor the assistants were available after 5:00 p.m.",
+      "explanation": "With “neither/nor,” the verb agrees with the nearer subject, “assistants,” so “were” is correct.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The chemistry lab requires goggles. The goggles must be worn during every experiment.",
+      "choices": {
+        "A": "The chemistry lab requires goggles, they must be worn during every experiment.",
+        "B": "The chemistry lab requires goggles, which must be worn during every experiment.",
+        "C": "Requiring goggles during every experiment, the chemistry lab must be worn.",
+        "D": "The chemistry lab requires goggles and every experiment requires the goggles and they must be worn."
+      },
+      "correct": "B",
+      "correctAnswerText": "The chemistry lab requires goggles, which must be worn during every experiment.",
+      "explanation": "This option combines the sentences clearly and avoids a comma splice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. Many students take notes on laptops because typing is fast. However, speed does not always lead to better learning. Students who type every sentence may record information without deciding which ideas matter most. Taking notes by hand can encourage students to summarize, organize, and choose key points. Which concluding sentence best follows from the paragraph?",
+      "choices": {
+        "A": "Therefore, students should consider whether their note-taking method helps them process information.",
+        "B": "For this reason, laptops should be banned from every college classroom.",
+        "C": "In contrast, handwriting is impossible for most students to read.",
+        "D": "As a result, students should stop reviewing notes before exams."
+      },
+      "correct": "A",
+      "correctAnswerText": "Therefore, students should consider whether their note-taking method helps them process information.",
+      "explanation": "The conclusion follows from the paragraph’s point that fast typing may not always lead to better learning.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The seminar was interesting, informative, and it helped students prepare for interviews.",
+      "choices": {
+        "A": "The seminar was interesting, informative, and it helped students prepare for interviews.",
+        "B": "The seminar was interesting, informative, and helpful for students preparing for interviews.",
+        "C": "The seminar was interesting and informative, and helped, students prepare for interviews.",
+        "D": "The seminar was interesting, it was informative, and it helped students preparing for interviews."
+      },
+      "correct": "B",
+      "correctAnswerText": "The seminar was interesting, informative, and helpful for students preparing for interviews.",
+      "explanation": "This revision uses parallel structure by listing three adjectives.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best replacement for the underlined words. The director said the schedule change would make the registration process a lot better for new students.",
+      "choices": {
+        "A": "somewhat less bad",
+        "B": "more efficient",
+        "C": "better in a good way",
+        "D": "a whole lot nicer"
+      },
+      "correct": "B",
+      "correctAnswerText": "more efficient",
+      "explanation": "“More efficient” is more precise and formal than “a lot better.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. (1) The student newspaper plans to publish a guide to local bus routes. (2) The guide will explain which buses stop near campus, how often they run, and where students can buy passes. (3) Many students without cars need reliable information about transportation. (4) The newspaper also publishes movie reviews and opinion columns. Where should sentence 4 be placed to improve the organization of the paragraph?",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 3",
+        "D": "The sentence should be removed because it shifts away from the paragraph’s focus."
+      },
+      "correct": "D",
+      "correctAnswerText": "The sentence should be removed because it shifts away from the paragraph’s focus.",
+      "explanation": "Sentence 4 discusses other newspaper content rather than the bus-route guide.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that avoids unnecessary wordiness.",
+      "choices": {
+        "A": "Due to the fact that the printer was broken, the flyers were printed in another building.",
+        "B": "Because the printer was broken, the flyers were printed in another building.",
+        "C": "The reason that the flyers were printed in another building was due to the printer being broken.",
+        "D": "In light of the fact of the broken printer, the flyers had to be printed in another building."
+      },
+      "correct": "B",
+      "correctAnswerText": "Because the printer was broken, the flyers were printed in another building.",
+      "explanation": "This sentence expresses the cause clearly without unnecessary wordiness.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E3-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The applicant submitted the form late it was not reviewed until the following week.",
+      "choices": {
+        "A": "The applicant submitted the form late it was not reviewed until the following week.",
+        "B": "The applicant submitted the form late, it was not reviewed until the following week.",
+        "C": "Because the applicant submitted the form late, it was not reviewed until the following week.",
+        "D": "The applicant submitted the form late because, it was not reviewed until the following week."
+      },
+      "correct": "C",
+      "correctAnswerText": "Because the applicant submitted the form late, it was not reviewed until the following week.",
+      "explanation": "This revision correctly shows the cause-and-effect relationship and avoids a run-on sentence.",
+      "credits": 1
+    }
+  ]
+}

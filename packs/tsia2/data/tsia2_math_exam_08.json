@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 08",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M8-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A chemistry class needs 2.4 liters of solution for 16 lab stations. At the same rate, how many liters of solution are needed for 30 lab stations?",
+      "choices": {
+        "A": "3.6 liters",
+        "B": "4.0 liters",
+        "C": "4.5 liters",
+        "D": "5.2 liters"
+      },
+      "correct": "C",
+      "correctAnswerText": "4.5 liters",
+      "explanation": "The rate is 2.4 ÷ 16 = 0.15 liter per station. For 30 stations, 30 × 0.15 = 4.5 liters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve for x: 9 − 2(x + 4) = 3x − 14",
+      "choices": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "7"
+      },
+      "correct": "B",
+      "correctAnswerText": "3",
+      "explanation": "Distribute to get 9 − 2x − 8 = 3x − 14, so 1 − 2x = 3x − 14. Add 14 and 2x to get 15 = 5x, so x = 3.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular storage unit has a floor area of 216 square feet. The length is 18 feet. What is the width of the storage unit?",
+      "choices": {
+        "A": "10 feet",
+        "B": "12 feet",
+        "C": "14 feet",
+        "D": "16 feet"
+      },
+      "correct": "B",
+      "correctAnswerText": "12 feet",
+      "explanation": "For a rectangle, area = length × width. Since 216 = 18 × width, the width is 216 ÷ 18 = 12 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The number of inches of rain recorded over five months was 2.1, 3.4, 1.8, 4.0, and 2.7. What is the range of the rainfall data?",
+      "choices": {
+        "A": "1.9 inches",
+        "B": "2.2 inches",
+        "C": "2.7 inches",
+        "D": "4.0 inches"
+      },
+      "correct": "B",
+      "correctAnswerText": "2.2 inches",
+      "explanation": "The range is the greatest value minus the least value: 4.0 − 1.8 = 2.2 inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A college bookstore sells a package of 8 pens for $6.72. What is the price per pen?",
+      "choices": {
+        "A": "$0.72",
+        "B": "$0.78",
+        "C": "$0.84",
+        "D": "$0.96"
+      },
+      "correct": "C",
+      "correctAnswerText": "$0.84",
+      "explanation": "Divide the total cost by the number of pens: $6.72 ÷ 8 = $0.84 per pen.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A linear function has an initial value of 12 and increases by 5 for each 1-unit increase in x. Which equation represents the function?",
+      "choices": {
+        "A": "y = 12x + 5",
+        "B": "y = 5x + 12",
+        "C": "y = 17x",
+        "D": "y = 5(x + 12)"
+      },
+      "correct": "B",
+      "correctAnswerText": "y = 5x + 12",
+      "explanation": "The rate of change is 5, and the initial value is 12, so the equation is y = 5x + 12.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A triangular glass panel has an area of 84 square inches and a base of 14 inches. What is the height of the panel?",
+      "choices": {
+        "A": "6 inches",
+        "B": "10 inches",
+        "C": "12 inches",
+        "D": "24 inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "12 inches",
+      "explanation": "The area of a triangle is 1/2 · base · height. Since 84 = 1/2 · 14 · h, 84 = 7h, so h = 12.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A music playlist contains 12 pop songs, 8 rock songs, and 5 jazz songs. If one song is selected at random, what is the probability that the song is rock or jazz?",
+      "choices": {
+        "A": "8/25",
+        "B": "12/25",
+        "C": "13/25",
+        "D": "17/25"
+      },
+      "correct": "C",
+      "correctAnswerText": "13/25",
+      "explanation": "There are 12 + 8 + 5 = 25 songs total. Rock or jazz songs total 8 + 5 = 13, so the probability is 13/25.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A water bill decreased from $96 to $78. What was the percent decrease?",
+      "choices": {
+        "A": "12.5%",
+        "B": "15%",
+        "C": "18.75%",
+        "D": "23.1%"
+      },
+      "correct": "C",
+      "correctAnswerText": "18.75%",
+      "explanation": "The decrease is $96 − $78 = $18. The percent decrease is 18/96 = 0.1875, or 18.75%.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A company rents equipment for a flat fee of $70 plus $24 per day. If the total rental cost is $238, how many days was the equipment rented?",
+      "choices": {
+        "A": "5 days",
+        "B": "6 days",
+        "C": "7 days",
+        "D": "8 days"
+      },
+      "correct": "C",
+      "correctAnswerText": "7 days",
+      "explanation": "Subtract the flat fee: 238 − 70 = 168. Divide by the daily fee: 168 ÷ 24 = 7 days.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A circular sign has an area of 64π square inches. What is the diameter of the sign?",
+      "choices": {
+        "A": "8 inches",
+        "B": "12 inches",
+        "C": "16 inches",
+        "D": "32 inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "16 inches",
+      "explanation": "The area of a circle is A = πr². If πr² = 64π, then r = 8. The diameter is 2r = 16 inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The table shows the number of customers served by a coffee cart during four time periods. 8:00–9:00: 26 customers 9:00–10:00: 34 customers 10:00–11:00: 38 customers 11:00–12:00: 42 customers What is the mean number of customers served per time period?",
+      "choices": {
+        "A": "32",
+        "B": "34",
+        "C": "35",
+        "D": "36"
+      },
+      "correct": "C",
+      "correctAnswerText": "35",
+      "explanation": "The total is 26 + 34 + 38 + 42 = 140. Dividing by 4 gives a mean of 35.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "An account balance is $725. A withdrawal of $180 is made, and then a deposit of $95 is added. What is the new account balance?",
+      "choices": {
+        "A": "$450",
+        "B": "$540",
+        "C": "$640",
+        "D": "$1,000"
+      },
+      "correct": "C",
+      "correctAnswerText": "$640",
+      "explanation": "The new balance is 725 − 180 + 95 = 640.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which expression is equivalent to (3x + 2)(x − 5)?",
+      "choices": {
+        "A": "3x² − 13x − 10",
+        "B": "3x² − 15x + 2",
+        "C": "3x² + 17x − 10",
+        "D": "3x² − 10"
+      },
+      "correct": "A",
+      "correctAnswerText": "3x² − 13x − 10",
+      "explanation": "Multiply the binomials: 3x² − 15x + 2x − 10 = 3x² − 13x − 10.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "The endpoints of a line segment are (−6, 4) and (2, −2). What is the midpoint of the segment?",
+      "choices": {
+        "A": "(−4, 1)",
+        "B": "(−2, 1)",
+        "C": "(−2, 3)",
+        "D": "(4, −3)"
+      },
+      "correct": "B",
+      "correctAnswerText": "(−2, 1)",
+      "explanation": "The midpoint is ((−6 + 2)/2, (4 + −2)/2) = (−2, 1).",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A data set contains the values 11, 13, 17, 19, and 25. If the value 40 is added to the data set, which measure will change the most?",
+      "choices": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Minimum"
+      },
+      "correct": "A",
+      "correctAnswerText": "Mean",
+      "explanation": "Adding 40, which is much larger than the existing values, pulls the mean upward the most. The median changes only slightly, and there is no mode.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A square courtyard has an area of 110 square meters. Which whole number is closest to the side length of the courtyard?",
+      "choices": {
+        "A": "9 meters",
+        "B": "10 meters",
+        "C": "11 meters",
+        "D": "12 meters"
+      },
+      "correct": "B",
+      "correctAnswerText": "10 meters",
+      "explanation": "The side length is √110. Since 10² = 100 and 11² = 121, √110 is between 10 and 11 and is closer to 10.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve the system of equations: x + 2y = 14 3x − y = 7 What is the value of y?",
+      "choices": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct": "C",
+      "correctAnswerText": "5",
+      "explanation": "From x + 2y = 14, x = 14 − 2y. Substitute into 3x − y = 7: 3(14 − 2y) − y = 7, so 42 − 7y = 7. Then y = 5.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular prism has a volume of 360 cubic centimeters. Its length is 12 centimeters, and its width is 5 centimeters. What is its height?",
+      "choices": {
+        "A": "4 centimeters",
+        "B": "6 centimeters",
+        "C": "8 centimeters",
+        "D": "10 centimeters"
+      },
+      "correct": "B",
+      "correctAnswerText": "6 centimeters",
+      "explanation": "For a rectangular prism, volume = length × width × height. Since 360 = 12 × 5 × h, 360 = 60h, so h = 6 centimeters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M8-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A box contains 3 small batteries, 4 medium batteries, and 5 large batteries. Two batteries are selected at random with replacement. What is the probability that both selected batteries are small?",
+      "choices": {
+        "A": "1/16",
+        "B": "1/12",
+        "C": "1/9",
+        "D": "1/4"
+      },
+      "correct": "A",
+      "correctAnswerText": "1/16",
+      "explanation": "There are 12 batteries total, and 3 are small. With replacement, the probability of selecting a small battery twice is 3/12 × 3/12 = 1/4 × 1/4 = 1/16.",
+      "credits": 1
+    }
+  ]
+}

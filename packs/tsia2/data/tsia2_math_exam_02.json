@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 02",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M2-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student buys 3 notebooks for $2.75 each and 2 folders for $1.40 each. If the student pays with a $20 bill, how much change should the student receive?",
+      "choices": {
+        "A": "$8.95",
+        "B": "$9.15",
+        "C": "$10.25",
+        "D": "$11.75"
+      },
+      "correct": "A",
+      "correctAnswerText": "$8.95",
+      "explanation": "The notebooks cost 3 × $2.75 = $8.25, and the folders cost 2 × $1.40 = $2.80. The total is $11.05, so the change from $20 is $8.95.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A line has a slope of 3 and passes through the point (2, 10). Which equation represents the line?",
+      "choices": {
+        "A": "y = 3x + 4",
+        "B": "y = 3x + 8",
+        "C": "y = 2x + 3",
+        "D": "y = 10x + 3"
+      },
+      "correct": "A",
+      "correctAnswerText": "y = 3x + 4",
+      "explanation": "Use y = mx + b with slope 3. Substituting (2, 10) gives 10 = 3(2) + b, so b = 4.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A triangular banner has a base of 14 inches and a height of 9 inches. What is the area of the banner?",
+      "choices": {
+        "A": "23 square inches",
+        "B": "46 square inches",
+        "C": "63 square inches",
+        "D": "126 square inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "63 square inches",
+      "explanation": "The area of a triangle is 1/2 · base · height, so the area is 1/2 · 14 · 9 = 63 square inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The table shows the number of books checked out from a library during one week. Monday: 42 Tuesday: 38 Wednesday: 51 Thursday: 49 Friday: 60 What is the range of the data?",
+      "choices": {
+        "A": "18",
+        "B": "20",
+        "C": "22",
+        "D": "24"
+      },
+      "correct": "C",
+      "correctAnswerText": "22",
+      "explanation": "The range is the greatest value minus the least value: 60 − 38 = 22.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A community college parking pass costs $135 for a 15-week semester. What is the cost per week?",
+      "choices": {
+        "A": "$7",
+        "B": "$8",
+        "C": "$9",
+        "D": "$10"
+      },
+      "correct": "C",
+      "correctAnswerText": "$9",
+      "explanation": "Divide the total cost by the number of weeks: $135 ÷ 15 = $9 per week.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Simplify the expression 4(3x − 2) − 5(x + 6).",
+      "choices": {
+        "A": "7x − 38",
+        "B": "7x + 22",
+        "C": "17x − 38",
+        "D": "17x + 22"
+      },
+      "correct": "A",
+      "correctAnswerText": "7x − 38",
+      "explanation": "Distribute to get 12x − 8 − 5x − 30. Combining like terms gives 7x − 38.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A circular garden has a diameter of 18 feet. What is its circumference?",
+      "choices": {
+        "A": "9π feet",
+        "B": "18π feet",
+        "C": "36π feet",
+        "D": "81π feet"
+      },
+      "correct": "B",
+      "correctAnswerText": "18π feet",
+      "explanation": "The circumference of a circle is C = πd. With diameter 18 feet, C = 18π feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A class has 12 students who prefer online textbooks, 18 students who prefer printed textbooks, and 10 students who have no preference. If one student is chosen at random, what is the probability that the student prefers printed textbooks?",
+      "choices": {
+        "A": "3/10",
+        "B": "2/5",
+        "C": "9/20",
+        "D": "1/2"
+      },
+      "correct": "C",
+      "correctAnswerText": "9/20",
+      "explanation": "There are 12 + 18 + 10 = 40 students total. The probability of choosing a student who prefers printed textbooks is 18/40 = 9/20.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A science lab sample has a mass of 72 grams. After drying, the mass is 54 grams. By what percent did the mass decrease?",
+      "choices": {
+        "A": "18%",
+        "B": "20%",
+        "C": "25%",
+        "D": "33%"
+      },
+      "correct": "C",
+      "correctAnswerText": "25%",
+      "explanation": "The decrease is 72 − 54 = 18 grams. The percent decrease is 18/72 = 0.25, or 25%.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A ride-share company charges a base fee of $4 plus $1.75 per mile. If m represents the number of miles and C represents the total cost in dollars, which equation models this situation?",
+      "choices": {
+        "A": "C = 4m + 1.75",
+        "B": "C = 1.75m + 4",
+        "C": "C = 5.75m",
+        "D": "C = 4(m + 1.75)"
+      },
+      "correct": "B",
+      "correctAnswerText": "C = 1.75m + 4",
+      "explanation": "The total cost is the per-mile charge times the number of miles plus the base fee, so C = 1.75m + 4.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular classroom floor is 28 feet long and 22 feet wide. Carpet costs $3.50 per square foot. What is the total cost to carpet the floor?",
+      "choices": {
+        "A": "$175",
+        "B": "$616",
+        "C": "$1,750",
+        "D": "$2,156"
+      },
+      "correct": "D",
+      "correctAnswerText": "$2,156",
+      "explanation": "The floor area is 28 × 22 = 616 square feet. At $3.50 per square foot, the total cost is 616 × 3.50 = $2,156.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The scores on a quiz were 68, 72, 75, 81, 84, 90, and 91. What is the median score?",
+      "choices": {
+        "A": "75",
+        "B": "81",
+        "C": "84",
+        "D": "90"
+      },
+      "correct": "B",
+      "correctAnswerText": "81",
+      "explanation": "The scores are already in order. With 7 values, the median is the 4th value, which is 81.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A printer produces 36 pages in 4 minutes. At this same rate, how long will it take the printer to produce 99 pages?",
+      "choices": {
+        "A": "9 minutes",
+        "B": "10 minutes",
+        "C": "11 minutes",
+        "D": "12 minutes"
+      },
+      "correct": "C",
+      "correctAnswerText": "11 minutes",
+      "explanation": "The printer produces 36 ÷ 4 = 9 pages per minute. To produce 99 pages, it needs 99 ÷ 9 = 11 minutes.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "For the function g(x) = x² − 4x, what is g(6)?",
+      "choices": {
+        "A": "8",
+        "B": "12",
+        "C": "24",
+        "D": "60"
+      },
+      "correct": "B",
+      "correctAnswerText": "12",
+      "explanation": "Substitute 6 for x: g(6) = 6² − 4(6) = 36 − 24 = 12.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A square patio has an area of 196 square feet. What is the perimeter of the patio?",
+      "choices": {
+        "A": "14 feet",
+        "B": "28 feet",
+        "C": "56 feet",
+        "D": "784 feet"
+      },
+      "correct": "C",
+      "correctAnswerText": "56 feet",
+      "explanation": "A square with area 196 has side length √196 = 14 feet. Its perimeter is 4 × 14 = 56 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A box contains 6 granola bars: 2 chocolate, 3 peanut butter, and 1 oatmeal. If one bar is selected at random and then another bar is selected without replacement, what is the probability that the first bar is chocolate and the second bar is oatmeal?",
+      "choices": {
+        "A": "1/18",
+        "B": "1/15",
+        "C": "1/9",
+        "D": "1/6"
+      },
+      "correct": "B",
+      "correctAnswerText": "1/15",
+      "explanation": "The probability of first selecting chocolate is 2/6. After that, 5 bars remain, including 1 oatmeal bar. The probability is 2/6 × 1/5 = 2/30 = 1/15.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A laptop is priced at $840. A store offers a 15% student discount. What is the discounted price before tax?",
+      "choices": {
+        "A": "$126",
+        "B": "$714",
+        "C": "$725",
+        "D": "$825"
+      },
+      "correct": "B",
+      "correctAnswerText": "$714",
+      "explanation": "The discount is 15% of $840, or 0.15 × 840 = $126. The discounted price is $840 − $126 = $714.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve the system of equations: 2x + y = 17 x − y = 4 What is the value of x?",
+      "choices": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "13"
+      },
+      "correct": "C",
+      "correctAnswerText": "7",
+      "explanation": "Add the equations to eliminate y: (2x + y) + (x − y) = 17 + 4, so 3x = 21 and x = 7.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A ramp rises 5 feet over a horizontal distance of 12 feet. What is the length of the ramp?",
+      "choices": {
+        "A": "13 feet",
+        "B": "15 feet",
+        "C": "17 feet",
+        "D": "60 feet"
+      },
+      "correct": "A",
+      "correctAnswerText": "13 feet",
+      "explanation": "The ramp is the hypotenuse of a right triangle with legs 5 and 12. Its length is √(5² + 12²) = √169 = 13 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M2-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The table shows the numbers of students enrolled in four workshop sections. Section A: 18 students Section B: 22 students Section C: 25 students Section D: 35 students What percent of the students are enrolled in Section D?",
+      "choices": {
+        "A": "25%",
+        "B": "30%",
+        "C": "35%",
+        "D": "40%"
+      },
+      "correct": "C",
+      "correctAnswerText": "35%",
+      "explanation": "The total number of students is 18 + 22 + 25 + 35 = 100. Section D has 35 out of 100 students, which is 35%.",
+      "credits": 1
+    }
+  ]
+}

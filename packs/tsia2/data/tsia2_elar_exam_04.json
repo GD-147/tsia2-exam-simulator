@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 04",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E4-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At first, the rain garden outside the science building looked like an ordinary collection of shrubs and stones. During the next heavy storm, however, students saw why it had been planted in a shallow basin. Water from the roof and sidewalk flowed into the garden instead of rushing directly into the street. The soil and plant roots slowed the water, allowing some of it to soak into the ground. This process reduced the amount of runoff entering the city’s storm drains. Environmental science instructors soon began using the garden as a living classroom. Students measured soil moisture, identified native plants, and compared runoff patterns before and after storms. Facilities staff also noticed that the sidewalk near the building flooded less often. Although the garden required planning and regular maintenance, it showed how a small campus landscape project could support both education and practical water management. Which statement best expresses the central idea of the passage?",
+      "choices": {
+        "A": "A campus rain garden can serve both an educational purpose and a practical environmental purpose.",
+        "B": "A rain garden is useful only when it contains expensive plants and decorative stones.",
+        "C": "Science instructors should move all classes outdoors during heavy storms.",
+        "D": "Campus sidewalks flood mainly because students walk on them too often."
+      },
+      "correct": "A",
+      "correctAnswerText": "A campus rain garden can serve both an educational purpose and a practical environmental purpose.",
+      "explanation": "The passage explains that the rain garden supports classroom learning and helps manage stormwater.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At first, the rain garden outside the science building looked like an ordinary collection of shrubs and stones. During the next heavy storm, however, students saw why it had been planted in a shallow basin. Water from the roof and sidewalk flowed into the garden instead of rushing directly into the street. The soil and plant roots slowed the water, allowing some of it to soak into the ground. This process reduced the amount of runoff entering the city’s storm drains. Environmental science instructors soon began using the garden as a living classroom. Students measured soil moisture, identified native plants, and compared runoff patterns before and after storms. Facilities staff also noticed that the sidewalk near the building flooded less often. Although the garden required planning and regular maintenance, it showed how a small campus landscape project could support both education and practical water management. According to the passage, how does the rain garden help manage stormwater?",
+      "choices": {
+        "A": "It directs all rainwater into the street before it reaches the building.",
+        "B": "It slows water and allows some of it to soak into the ground.",
+        "C": "It prevents rain from falling on the roof and sidewalk.",
+        "D": "It removes the need for city storm drains throughout the campus."
+      },
+      "correct": "B",
+      "correctAnswerText": "It slows water and allows some of it to soak into the ground.",
+      "explanation": "The passage states that soil and plant roots slow the water and allow some of it to soak into the ground.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At first, the rain garden outside the science building looked like an ordinary collection of shrubs and stones. During the next heavy storm, however, students saw why it had been planted in a shallow basin. Water from the roof and sidewalk flowed into the garden instead of rushing directly into the street. The soil and plant roots slowed the water, allowing some of it to soak into the ground. This process reduced the amount of runoff entering the city’s storm drains. Environmental science instructors soon began using the garden as a living classroom. Students measured soil moisture, identified native plants, and compared runoff patterns before and after storms. Facilities staff also noticed that the sidewalk near the building flooded less often. Although the garden required planning and regular maintenance, it showed how a small campus landscape project could support both education and practical water management. In the passage, the word runoff most nearly means",
+      "choices": {
+        "A": "water that flows over a surface after rain",
+        "B": "soil that is removed from a garden",
+        "C": "plants that grow outside their usual season",
+        "D": "maintenance work done after a storm"
+      },
+      "correct": "A",
+      "correctAnswerText": "water that flows over a surface after rain",
+      "explanation": "In context, runoff is rainwater that flows from the roof and sidewalk toward the street or storm drains.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At first, the rain garden outside the science building looked like an ordinary collection of shrubs and stones. During the next heavy storm, however, students saw why it had been planted in a shallow basin. Water from the roof and sidewalk flowed into the garden instead of rushing directly into the street. The soil and plant roots slowed the water, allowing some of it to soak into the ground. This process reduced the amount of runoff entering the city’s storm drains. Environmental science instructors soon began using the garden as a living classroom. Students measured soil moisture, identified native plants, and compared runoff patterns before and after storms. Facilities staff also noticed that the sidewalk near the building flooded less often. Although the garden required planning and regular maintenance, it showed how a small campus landscape project could support both education and practical water management. Which detail best supports the idea that the rain garden has instructional value?",
+      "choices": {
+        "A": "It was planted in a shallow basin near the science building.",
+        "B": "Students measured soil moisture and compared runoff patterns.",
+        "C": "Water from the roof and sidewalk flowed into the garden.",
+        "D": "Facilities staff noticed less flooding near the sidewalk."
+      },
+      "correct": "B",
+      "correctAnswerText": "Students measured soil moisture and compared runoff patterns.",
+      "explanation": "This detail shows that instructors used the garden for hands-on science learning.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The manager of a neighborhood grocery store noticed that customers often asked employees where to find common items such as rice, batteries, or allergy medicine. Instead of adding more signs above every aisle, the manager created a small printed map available near the entrance. The map grouped items by section and used simple language rather than store jargon. After two weeks, employees reported spending less time giving directions and more time restocking shelves. What is the main purpose of the printed map?",
+      "choices": {
+        "A": "To replace all employee assistance in the store",
+        "B": "To help customers locate items more easily",
+        "C": "To advertise new products that customers rarely buy",
+        "D": "To encourage customers to shop only near the entrance"
+      },
+      "correct": "B",
+      "correctAnswerText": "To help customers locate items more easily",
+      "explanation": "The map groups items by section and uses simple language so customers can find common products.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Nadia had always considered herself a fast reader, so she was surprised when her literature instructor returned her first response paper with the comment “slow down.” The instructor explained that Nadia had summarized the plot accurately but had missed the way repeated images of locked doors suggested the narrator’s isolation. On the next assignment, Nadia marked repeated words and images before writing. Her second paper was shorter, but it made a stronger argument. What can reasonably be inferred about Nadia?",
+      "choices": {
+        "A": "She learned that careful attention to details can improve literary analysis.",
+        "B": "She decided that summarizing plot is never useful in literature classes.",
+        "C": "She stopped reading the assigned texts before writing papers.",
+        "D": "She believed the instructor’s comments were unrelated to her work."
+      },
+      "correct": "A",
+      "correctAnswerText": "She learned that careful attention to details can improve literary analysis.",
+      "explanation": "Nadia improves by noticing repeated images and using them to make a stronger argument.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The campus health center’s reminder system sends students a text message the day before an appointment. Some students initially viewed the messages as unnecessary, but missed appointments decreased after the system began. Health center staff explained that the reminders do not remove students’ responsibility to manage their schedules. Instead, the reminders provide one additional prompt in a busy week. Which statement best describes the author’s view of the reminder system?",
+      "choices": {
+        "A": "It is a helpful support, but students still remain responsible for attending appointments.",
+        "B": "It should replace all other forms of communication from the health center.",
+        "C": "It proves that students are unable to manage any part of their schedules.",
+        "D": "It is ineffective because some students once viewed it as unnecessary."
+      },
+      "correct": "A",
+      "correctAnswerText": "It is a helpful support, but students still remain responsible for attending appointments.",
+      "explanation": "The passage says reminders help reduce missed appointments but do not remove students’ responsibility.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. An article about beekeeping explains that a hive operates through thousands of small coordinated actions. Worker bees gather nectar, care for young bees, clean the hive, and communicate the location of food sources. No single bee understands the entire operation, yet the colony can respond quickly to changing conditions. The article uses the hive to illustrate how complex systems can emerge from many simple interactions. What is the main purpose of the hive example?",
+      "choices": {
+        "A": "To show how individual actions can combine to create a complex system",
+        "B": "To argue that insects are more intelligent than humans in every situation",
+        "C": "To explain why all farms should keep bees near their crops",
+        "D": "To describe the exact amount of nectar a hive produces each day"
+      },
+      "correct": "A",
+      "correctAnswerText": "To show how individual actions can combine to create a complex system",
+      "explanation": "The article uses the hive to show how many simple interactions can produce a complex system.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Colleges should offer more evening classes because many students work during the day. Evening options allow working students to continue their education without giving up necessary income. Flexible schedules can make college possible for students whose responsibilities do not fit a traditional daytime schedule. Passage 2: Evening classes are important, but colleges should not assume they solve every scheduling problem. Some students work night shifts, care for children in the evening, or rely on buses that stop running early. Colleges should combine evening classes with online options, weekend sections, and advising that helps students build realistic schedules. How does Passage 2 respond to the argument in Passage 1?",
+      "choices": {
+        "A": "Passage 2 agrees that evening classes help some students but argues that additional scheduling options are also needed.",
+        "B": "Passage 2 claims that working students should avoid college until they can attend during the day.",
+        "C": "Passage 2 rejects the idea that flexible scheduling can help students with responsibilities.",
+        "D": "Passage 2 argues that all college courses should be offered only on weekends."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 agrees that evening classes help some students but argues that additional scheduling options are also needed.",
+      "explanation": "Passage 2 accepts the value of evening classes but explains that they do not solve every student’s scheduling problem.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article about local radio does not describe the medium as old-fashioned. Instead, it argues that local radio remains useful during emergencies because it can provide immediate updates about road closures, shelter locations, and weather conditions. While social media may spread information quickly, it can also spread rumors. Radio stations with trained staff and established community contacts can help verify information before broadcasting it. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "Local radio can still be valuable during emergencies because it can share verified community information.",
+        "B": "Social media should be the only source of information during severe weather.",
+        "C": "Local radio is useful mainly because it broadcasts music from earlier decades.",
+        "D": "Emergency updates are unnecessary when roads and shelters are already familiar."
+      },
+      "correct": "A",
+      "correctAnswerText": "Local radio can still be valuable during emergencies because it can share verified community information.",
+      "explanation": "The passage emphasizes local radio’s ability to provide immediate and verified emergency updates.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The essay describes a small family restaurant that closes every afternoon between lunch and dinner. During that quiet hour, the owner wipes each table slowly, checks the handwritten menu, and stands for a moment by the front window. The routine suggests more than simple cleaning. It shows the owner’s care for a place that is both a business and a personal legacy. What does the afternoon routine most strongly suggest about the owner?",
+      "choices": {
+        "A": "The owner feels a deep personal responsibility for the restaurant.",
+        "B": "The owner wants to close the restaurant permanently.",
+        "C": "The owner dislikes interacting with customers during lunch.",
+        "D": "The owner believes handwritten menus are no longer useful."
+      },
+      "correct": "A",
+      "correctAnswerText": "The owner feels a deep personal responsibility for the restaurant.",
+      "explanation": "The careful routine suggests that the owner values the restaurant as both a business and a personal legacy.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A study of student email habits found that messages with specific subject lines received faster responses from instructors. A subject line such as “Question about Biology Lab Report Due Friday” gives the instructor more information than “Help” or “Question.” The study’s authors concluded that clear subject lines make it easier for busy readers to understand the purpose of a message before opening it. Which sentence best states the conclusion of the study?",
+      "choices": {
+        "A": "Students should avoid emailing instructors about lab reports.",
+        "B": "Specific subject lines can help readers identify the purpose of an email more quickly.",
+        "C": "Instructors respond faster to short messages than to long messages in every case.",
+        "D": "Email subject lines are less important than the time of day a message is sent."
+      },
+      "correct": "B",
+      "correctAnswerText": "Specific subject lines can help readers identify the purpose of an email more quickly.",
+      "explanation": "The study found that detailed subject lines help busy readers understand the purpose of a message before opening it.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The instructions for the workshop ask participants to bring one object that represents a personal goal. The object does not need to be valuable or impressive. It might be a running shoe, a family photo, a recipe card, or a bus pass. The activity is designed to help participants explain their goals through concrete examples rather than abstract statements. Why are participants asked to bring an object?",
+      "choices": {
+        "A": "To help them connect a goal to a specific, concrete example",
+        "B": "To prove that valuable objects are more meaningful than ordinary objects",
+        "C": "To decorate the workshop room before the session begins",
+        "D": "To avoid speaking about personal goals during the workshop"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help them connect a goal to a specific, concrete example",
+      "explanation": "The object helps participants explain personal goals through concrete examples rather than only abstract statements.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The report on electric buses notes that they produce no tailpipe emissions during operation. However, the report also explains that the environmental benefit depends partly on how the electricity is generated. If the electricity comes mainly from renewable sources, the overall emissions are lower than if it comes from coal-burning power plants. The report therefore cautions readers to consider the full energy system, not just the vehicle itself. Which statement best describes the author’s reasoning?",
+      "choices": {
+        "A": "Electric buses should be evaluated by considering both the vehicle and the source of its electricity.",
+        "B": "Electric buses produce more tailpipe emissions than diesel buses.",
+        "C": "Renewable energy is unrelated to public transportation decisions.",
+        "D": "The source of electricity matters only for private cars, not buses."
+      },
+      "correct": "A",
+      "correctAnswerText": "Electric buses should be evaluated by considering both the vehicle and the source of its electricity.",
+      "explanation": "The report cautions readers to consider the full energy system, including how electricity is generated.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Marcus joined the campus photography club, he thought a better camera would automatically make his photos stronger. At the first meeting, however, the club leader asked members to take pictures of the same hallway using any device they had. The results varied widely. Some students used shadows, angles, or reflections to make an ordinary scene interesting. Marcus realized that equipment mattered less than noticing what was already in front of him. What lesson does Marcus learn?",
+      "choices": {
+        "A": "Careful observation and composition can matter more than expensive equipment.",
+        "B": "A hallway is the only appropriate subject for beginning photographers.",
+        "C": "Photography clubs should require every member to use the same camera.",
+        "D": "Reflections should be avoided because they make images confusing."
+      },
+      "correct": "A",
+      "correctAnswerText": "Careful observation and composition can matter more than expensive equipment.",
+      "explanation": "Marcus sees that students can create strong photos with ordinary devices by noticing shadows, angles, and reflections.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a peer navigation program for students who are new to campus. (2) Peer navigators would be trained students who help classmates understand basic campus processes, such as finding offices, reading degree plans, and preparing questions for advising appointments. (3) New students often feel embarrassed asking where to go or whom to contact, even when the information is available online. (4) A conversation with another student can make the process feel less intimidating. (5) Peer navigators could also direct students to official staff members when a question requires professional advice. (6) The campus cafeteria recently added several vegetarian lunch options. (7) To keep the program reliable, navigators would receive training from advising, financial aid, and student services offices. (8) A peer navigation program would give new students a practical first point of contact while still connecting them to accurate campus resources. Which sentence should be removed because it does not support the main idea of the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "C",
+      "correctAnswerText": "Sentence 6",
+      "explanation": "Sentence 6 discusses cafeteria options and does not support the argument for a peer navigation program.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a peer navigation program for students who are new to campus. (2) Peer navigators would be trained students who help classmates understand basic campus processes, such as finding offices, reading degree plans, and preparing questions for advising appointments. (3) New students often feel embarrassed asking where to go or whom to contact, even when the information is available online. (4) A conversation with another student can make the process feel less intimidating. (5) Peer navigators could also direct students to official staff members when a question requires professional advice. (6) The campus cafeteria recently added several vegetarian lunch options. (7) To keep the program reliable, navigators would receive training from advising, financial aid, and student services offices. (8) A peer navigation program would give new students a practical first point of contact while still connecting them to accurate campus resources. Which sentence best strengthens the support for sentence 5?",
+      "choices": {
+        "A": "Peer navigators could explain how to make an appointment but would refer questions about aid eligibility to the financial aid office.",
+        "B": "Many students prefer to eat lunch between 11:30 a.m. and 1:00 p.m.",
+        "C": "Some campus offices are located in older buildings with wide hallways.",
+        "D": "Student clubs often use flyers to announce meetings and special events."
+      },
+      "correct": "A",
+      "correctAnswerText": "Peer navigators could explain how to make an appointment but would refer questions about aid eligibility to the financial aid office.",
+      "explanation": "This sentence supports the idea that peer navigators can help while directing professional questions to staff.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a peer navigation program for students who are new to campus. (2) Peer navigators would be trained students who help classmates understand basic campus processes, such as finding offices, reading degree plans, and preparing questions for advising appointments. (3) New students often feel embarrassed asking where to go or whom to contact, even when the information is available online. (4) A conversation with another student can make the process feel less intimidating. (5) Peer navigators could also direct students to official staff members when a question requires professional advice. (6) The campus cafeteria recently added several vegetarian lunch options. (7) To keep the program reliable, navigators would receive training from advising, financial aid, and student services offices. (8) A peer navigation program would give new students a practical first point of contact while still connecting them to accurate campus resources. Which transition should be added to the beginning of sentence 7 to show the relationship between sentence 7 and the rest of the passage?",
+      "choices": {
+        "A": "In contrast,",
+        "B": "To keep the program reliable,",
+        "C": "Nevertheless,",
+        "D": "For instance,"
+      },
+      "correct": "B",
+      "correctAnswerText": "To keep the program reliable,",
+      "explanation": "This transition introduces the reason navigators would need training from campus offices.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a peer navigation program for students who are new to campus. (2) Peer navigators would be trained students who help classmates understand basic campus processes, such as finding offices, reading degree plans, and preparing questions for advising appointments. (3) New students often feel embarrassed asking where to go or whom to contact, even when the information is available online. (4) A conversation with another student can make the process feel less intimidating. (5) Peer navigators could also direct students to official staff members when a question requires professional advice. (6) The campus cafeteria recently added several vegetarian lunch options. (7) To keep the program reliable, navigators would receive training from advising, financial aid, and student services offices. (8) A peer navigation program would give new students a practical first point of contact while still connecting them to accurate campus resources. Which revision of sentence 8 best maintains a formal academic tone?",
+      "choices": {
+        "A": "A peer navigation program would give new students a practical first point of contact while still connecting them to accurate campus resources.",
+        "B": "A peer navigation thing would be super helpful because students could ask stuff without feeling weird.",
+        "C": "New students would totally like peer navigators because campus can be confusing and kind of stressful.",
+        "D": "The program would be awesome since people could find things and not get lost all over the place."
+      },
+      "correct": "A",
+      "correctAnswerText": "A peer navigation program would give new students a practical first point of contact while still connecting them to accurate campus resources.",
+      "explanation": "This sentence keeps a formal tone and clearly states the program’s value.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The committee reviewed the proposal it postponed the vote until next month.",
+      "choices": {
+        "A": "The committee reviewed the proposal it postponed the vote until next month.",
+        "B": "The committee reviewed the proposal, it postponed the vote until next month.",
+        "C": "The committee reviewed the proposal and postponed the vote until next month.",
+        "D": "The committee reviewing the proposal postponed, the vote until next month."
+      },
+      "correct": "C",
+      "correctAnswerText": "The committee reviewed the proposal and postponed the vote until next month.",
+      "explanation": "This revision correctly joins two actions performed by the same subject.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is written correctly.",
+      "choices": {
+        "A": "The list of required forms are posted near the registration desk.",
+        "B": "The list of required forms is posted near the registration desk.",
+        "C": "The list of required forms were posted near the registration desk.",
+        "D": "The list of required forms have been posted near the registration desk."
+      },
+      "correct": "B",
+      "correctAnswerText": "The list of required forms is posted near the registration desk.",
+      "explanation": "The subject is “list,” which is singular, so the verb must be “is.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best word or phrase to complete the sentence. The tutoring lab offers drop-in hours during the week; __________, students can schedule individual appointments online.",
+      "choices": {
+        "A": "in addition",
+        "B": "however",
+        "C": "on the contrary",
+        "D": "instead"
+      },
+      "correct": "A",
+      "correctAnswerText": "in addition",
+      "explanation": "The second clause adds another service offered by the tutoring lab.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. To finish the project on time, the data must be checked by Friday.",
+      "choices": {
+        "A": "To finish the project on time, the data must be checked by Friday.",
+        "B": "To finish the project on time, we must check the data by Friday.",
+        "C": "The data, to finish the project on time, must be checked by Friday.",
+        "D": "Checked by Friday, the project must finish the data on time."
+      },
+      "correct": "B",
+      "correctAnswerText": "To finish the project on time, we must check the data by Friday.",
+      "explanation": "This revision makes clear who must check the data and avoids a dangling modifier.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The art class visited a printmaking studio. Students learned how artists transfer ink from carved surfaces to paper.",
+      "choices": {
+        "A": "The art class visited a printmaking studio, students learned how artists transfer ink from carved surfaces to paper.",
+        "B": "The art class visited a printmaking studio where students learned how artists transfer ink from carved surfaces to paper.",
+        "C": "Visiting a printmaking studio, artists transfer ink from carved surfaces to paper by the students.",
+        "D": "The art class visited a printmaking studio and a printmaking studio was where ink was transferred by artists to paper."
+      },
+      "correct": "B",
+      "correctAnswerText": "The art class visited a printmaking studio where students learned how artists transfer ink from carved surfaces to paper.",
+      "explanation": "This option combines the sentences clearly and shows where the learning occurred.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. Online discussion boards can help students think carefully before responding to classmates. Unlike spoken conversations, written posts give students time to reread a question, organize an answer, and revise unclear sentences. However, discussion boards work best when students do more than write “I agree” or “good point.” Which concluding sentence best follows from the paragraph?",
+      "choices": {
+        "A": "Therefore, meaningful online discussions require thoughtful, specific responses.",
+        "B": "As a result, online classes should never include spoken conversations.",
+        "C": "In contrast, written posts are always easier than classroom discussions.",
+        "D": "For example, students should avoid reading their classmates’ posts."
+      },
+      "correct": "A",
+      "correctAnswerText": "Therefore, meaningful online discussions require thoughtful, specific responses.",
+      "explanation": "This conclusion follows from the paragraph’s point that discussion boards are useful only when students write more than brief agreement statements.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The safety video explains how to lift boxes safely, how to report spills, and where emergency exits are located.",
+      "choices": {
+        "A": "The safety video explains how to lift boxes safely, how to report spills, and where emergency exits are located.",
+        "B": "The safety video explains lifting boxes safely, how to report spills, and where emergency exits are located.",
+        "C": "The safety video explains how to lift boxes safely, reporting spills, and emergency exits being located.",
+        "D": "The safety video explains how boxes are lifted safely, spills, and where emergency exits are located."
+      },
+      "correct": "A",
+      "correctAnswerText": "The safety video explains how to lift boxes safely, how to report spills, and where emergency exits are located.",
+      "explanation": "The sentence is already clear and uses parallel structure.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses a semicolon correctly.",
+      "choices": {
+        "A": "The library extended its weekend hours; students now have more time to use study rooms.",
+        "B": "The library extended; its weekend hours students now have more time to use study rooms.",
+        "C": "The library extended its weekend hours; because students needed more time to use study rooms.",
+        "D": "The library; extended its weekend hours, and students now have more time to use study rooms."
+      },
+      "correct": "A",
+      "correctAnswerText": "The library extended its weekend hours; students now have more time to use study rooms.",
+      "explanation": "A semicolon correctly joins two closely related independent clauses.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best replacement for the underlined words. The speaker’s explanation of the scholarship requirements was really clear and easy to understand.",
+      "choices": {
+        "A": "extremely clear in a big way",
+        "B": "clear and understandable",
+        "C": "clear, easy, and not hard to understand",
+        "D": "kind of clear to understand"
+      },
+      "correct": "B",
+      "correctAnswerText": "clear and understandable",
+      "explanation": "This replacement is concise and formal while preserving the meaning.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. (1) The nursing program will hold a practice interview day for students applying to clinical placements. (2) During the event, students will answer common interview questions and receive feedback from faculty members. (3) Practicing in advance can help students speak more confidently during real interviews. (4) Clinical placements are often located in hospitals, clinics, and long-term care facilities. Where should sentence 4 be placed to improve the organization of the paragraph?",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 3",
+        "D": "The sentence should be removed because it shifts away from the paragraph’s focus."
+      },
+      "correct": "D",
+      "correctAnswerText": "The sentence should be removed because it shifts away from the paragraph’s focus.",
+      "explanation": "Sentence 4 provides general information about placement locations but does not support the paragraph’s focus on interview practice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E4-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. Although the instructions were detailed, but several students still asked for clarification.",
+      "choices": {
+        "A": "Although the instructions were detailed, but several students still asked for clarification.",
+        "B": "Although the instructions were detailed, several students still asked for clarification.",
+        "C": "The instructions were detailed, although but several students still asked for clarification.",
+        "D": "Although the instructions were detailed several students still asked, for clarification."
+      },
+      "correct": "B",
+      "correctAnswerText": "Although the instructions were detailed, several students still asked for clarification.",
+      "explanation": "This revision removes the unnecessary “but” and correctly punctuates the introductory dependent clause.",
+      "credits": 1
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 13",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M13-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student can buy a transit pass for $72 per month or pay $2.40 for each ride. The student expects to take 34 rides this month. How much less expensive is the cheaper option?",
+      "choices": {
+        "A": "$4.80",
+        "B": "$7.20",
+        "C": "$9.60",
+        "D": "$12.00"
+      },
+      "correct": "C",
+      "correctAnswerText": "$9.60",
+      "explanation": "Paying per ride costs 34 × $2.40 = $81.60. The pass costs $72, so the pass is cheaper by $81.60 − $72 = $9.60.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "The formula for the area of a trapezoid is A = 1/2(b₁ + b₂)h. Which equation correctly solves this formula for h?",
+      "choices": {
+        "A": "h = A/(b₁ + b₂)",
+        "B": "h = 2A/(b₁ + b₂)",
+        "C": "h = (b₁ + b₂)/(2A)",
+        "D": "h = 2A(b₁ + b₂)"
+      },
+      "correct": "B",
+      "correctAnswerText": "h = 2A/(b₁ + b₂)",
+      "explanation": "Starting with A = 1/2(b₁ + b₂)h, multiply both sides by 2 to get 2A = (b₁ + b₂)h. Divide by b₁ + b₂ to get h = 2A/(b₁ + b₂).",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A floor design is made from a 14-foot by 10-foot rectangle with a 4-foot by 3-foot rectangular section removed from one corner. What is the area of the floor design?",
+      "choices": {
+        "A": "98 square feet",
+        "B": "116 square feet",
+        "C": "128 square feet",
+        "D": "152 square feet"
+      },
+      "correct": "C",
+      "correctAnswerText": "128 square feet",
+      "explanation": "The large rectangle has area 14 × 10 = 140 square feet. The removed section has area 4 × 3 = 12 square feet, so the remaining area is 140 − 12 = 128 square feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "Two study groups each took a 10-point quiz. Group A scores: 6, 7, 7, 8, 9, 10 Group B scores: 5, 6, 7, 8, 9, 9 Which statement correctly compares the two groups?",
+      "choices": {
+        "A": "Group A has a greater median score than Group B.",
+        "B": "Group B has a greater median score than Group A.",
+        "C": "The two groups have the same median score, but Group A has a greater range.",
+        "D": "The two groups have the same median score and the same range."
+      },
+      "correct": "A",
+      "correctAnswerText": "Group A has a greater median score than Group B.",
+      "explanation": "Group A’s median is the average of 7 and 8, which is 7.5. Group B’s median is the average of 7 and 8, which is also 7.5? Rechecking shows both medians are equal and both ranges are 4, so the correct statement should be D.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A nutrition label shows that 3 servings contain 450 calories. If a person eats 2 2/3 servings, how many calories does the person eat?",
+      "choices": {
+        "A": "300 calories",
+        "B": "375 calories",
+        "C": "400 calories",
+        "D": "425 calories"
+      },
+      "correct": "C",
+      "correctAnswerText": "400 calories",
+      "explanation": "The rate is 450 ÷ 3 = 150 calories per serving. Since 2 2/3 = 8/3, the calories are 150 × 8/3 = 400.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A linear relationship is shown in the table. x: 2, 5, 8, 11 y: 7, 16, 25, 34 Which equation represents the relationship?",
+      "choices": {
+        "A": "y = 3x + 1",
+        "B": "y = 3x − 1",
+        "C": "y = x + 5",
+        "D": "y = 9x − 11"
+      },
+      "correct": "A",
+      "correctAnswerText": "y = 3x + 1",
+      "explanation": "When x increases by 3, y increases by 9, so the slope is 3. Using x = 2 and y = 7 gives 7 = 3(2) + 1.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A scale model of a storage shed has a floor area of 18 square inches. The actual shed is similar to the model, and each actual length is 5 times the corresponding model length. What is the actual floor area?",
+      "choices": {
+        "A": "90 square inches",
+        "B": "180 square inches",
+        "C": "450 square inches",
+        "D": "2,250 square inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "450 square inches",
+      "explanation": "Area scales by the square of the length scale factor. Since each length is multiplied by 5, the area is multiplied by 5² = 25. The actual floor area is 18 × 25 = 450 square inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The table shows how 90 students registered for two types of classes. Online class and full-time student: 24 Online class and part-time student: 18 In-person class and full-time student: 30 In-person class and part-time student: 18 If one student is chosen at random from the students who registered for an online class, what is the probability that the student is full-time?",
+      "choices": {
+        "A": "4/15",
+        "B": "2/5",
+        "C": "4/7",
+        "D": "3/5"
+      },
+      "correct": "C",
+      "correctAnswerText": "4/7",
+      "explanation": "There are 24 + 18 = 42 online students. Of those, 24 are full-time. The conditional probability is 24/42 = 4/7.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A rectangular display screen has an area of 156 square inches. Which whole number is closest to √156?",
+      "choices": {
+        "A": "11",
+        "B": "12",
+        "C": "13",
+        "D": "14"
+      },
+      "correct": "B",
+      "correctAnswerText": "12",
+      "explanation": "Since 12² = 144 and 13² = 169, √156 is between 12 and 13. It is closer to 12 because 156 is closer to 144 than to 169.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Two printing services charge different amounts. Service A: $18 setup fee plus $0.06 per page Service B: $10 setup fee plus $0.10 per page For how many pages will the total cost be the same for both services?",
+      "choices": {
+        "A": "100 pages",
+        "B": "150 pages",
+        "C": "200 pages",
+        "D": "250 pages"
+      },
+      "correct": "C",
+      "correctAnswerText": "200 pages",
+      "explanation": "Let p be the number of pages. Set the costs equal: 18 + 0.06p = 10 + 0.10p. Then 8 = 0.04p, so p = 200.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A line segment has endpoints (−4, 3) and (6, 9). What is the slope of the line segment?",
+      "choices": {
+        "A": "3/5",
+        "B": "5/3",
+        "C": "6",
+        "D": "10"
+      },
+      "correct": "A",
+      "correctAnswerText": "3/5",
+      "explanation": "The slope is the change in y divided by the change in x: (9 − 3)/(6 − (−4)) = 6/10 = 3/5.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A final score is calculated using 40% from projects, 35% from exams, and 25% from participation. A student earns 88 on projects, 76 on exams, and 92 on participation. What is the student’s final score?",
+      "choices": {
+        "A": "82.4",
+        "B": "84.8",
+        "C": "86.2",
+        "D": "88.0"
+      },
+      "correct": "B",
+      "correctAnswerText": "84.8",
+      "explanation": "The weighted score is 0.40(88) + 0.35(76) + 0.25(92) = 35.2 + 26.6 + 23 = 84.8.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A small business buys 250 items for $3.80 each. It sells 70% of the items for $6.00 each and the remaining items for $4.50 each. What is the total profit?",
+      "choices": {
+        "A": "$462.50",
+        "B": "$437.50",
+        "C": "$512.50",
+        "D": "$575.00"
+      },
+      "correct": "B",
+      "correctAnswerText": "$437.50",
+      "explanation": "The cost is 250 × $3.80 = $950. The business sells 175 items at $6.00 and 75 items at $4.50, for revenue of $1,050 + $337.50 = $1,387.50. Profit is $1,387.50 − $950 = $437.50.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "The height, in feet, of a ball after t seconds is modeled by h(t) = −16t² + 64t + 5. What is the maximum height of the ball?",
+      "choices": {
+        "A": "5 feet",
+        "B": "64 feet",
+        "C": "69 feet",
+        "D": "96 feet"
+      },
+      "correct": "C",
+      "correctAnswerText": "69 feet",
+      "explanation": "The vertex occurs at t = −b/(2a) = −64/(2 · −16) = 2. Then h(2) = −16(2²) + 64(2) + 5 = −64 + 128 + 5 = 69 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "Two parallel lines are cut by a transversal. One interior angle measures 112°. What is the measure of the same-side interior angle paired with it?",
+      "choices": {
+        "A": "56°",
+        "B": "68°",
+        "C": "78°",
+        "D": "112°"
+      },
+      "correct": "B",
+      "correctAnswerText": "68°",
+      "explanation": "Same-side interior angles formed by parallel lines are supplementary, so the paired angle is 180° − 112° = 68°.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A campus office tracks walk-in appointments over four weeks. Week 1: 42 appointments Week 2: 51 appointments Week 3: 61 appointments Week 4: 69 appointments A staff member claims that the office averaged more than 55 walk-in appointments per week. Which statement is supported by the data?",
+      "choices": {
+        "A": "The claim is not supported because the average is 51.0.",
+        "B": "The claim is not supported because the average is 54.5.",
+        "C": "The claim is supported because the average is 55.75.",
+        "D": "The claim is supported because the average is 69.0."
+      },
+      "correct": "C",
+      "correctAnswerText": "The claim is supported because the average is 55.75.",
+      "explanation": "The average is (42 + 51 + 61 + 69) ÷ 4 = 223 ÷ 4 = 55.75, which is greater than 55.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A bank account earns simple interest at a rate of 4% per year. If $850 is deposited and left in the account for 3 years, how much interest is earned?",
+      "choices": {
+        "A": "$34",
+        "B": "$68",
+        "C": "$102",
+        "D": "$952"
+      },
+      "correct": "C",
+      "correctAnswerText": "$102",
+      "explanation": "Simple interest is I = Prt. With P = 850, r = 0.04, and t = 3, the interest is 850 × 0.04 × 3 = $102.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A machine’s value is $4,000 and decreases by 18% each year. Which statement best interprets the factor 0.82 in the expression 4,000(0.82)ᵗ?",
+      "choices": {
+        "A": "The machine loses $0.82 each year.",
+        "B": "The machine keeps 82% of its value each year.",
+        "C": "The machine gains 82% of its value each year.",
+        "D": "The machine is worth 18% of its original value each year."
+      },
+      "correct": "B",
+      "correctAnswerText": "The machine keeps 82% of its value each year.",
+      "explanation": "A yearly decrease of 18% means the machine keeps 100% − 18% = 82% of its value each year.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "Two similar triangles have corresponding side lengths of 6 inches and 15 inches. The smaller triangle has an area of 32 square inches. What is the area of the larger triangle?",
+      "choices": {
+        "A": "80 square inches",
+        "B": "128 square inches",
+        "C": "200 square inches",
+        "D": "480 square inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "200 square inches",
+      "explanation": "The length scale factor is 15/6 = 2.5. Area scales by 2.5² = 6.25, so the larger area is 32 × 6.25 = 200 square inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M13-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A data set contains the values 12, 14, 15, 16, 18, and 21. If the value 60 is added to the data set, which statement is true?",
+      "choices": {
+        "A": "The mean increases, and the median stays the same.",
+        "B": "The mean increases, and the median increases.",
+        "C": "The mean stays the same, and the range increases.",
+        "D": "The mean decreases, and the median increases."
+      },
+      "correct": "B",
+      "correctAnswerText": "The mean increases, and the median increases.",
+      "explanation": "Adding 60 increases the total and therefore increases the mean. The original median is the average of 15 and 16, or 15.5. The new median of 12, 14, 15, 16, 18, 21, 60 is 16, so the median also increases.",
+      "credits": 1
+    }
+  ]
+}

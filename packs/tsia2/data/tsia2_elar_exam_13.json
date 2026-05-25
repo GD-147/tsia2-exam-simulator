@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 13",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E13-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The city archives recently opened a small collection of oral histories recorded by retired transit workers. The recordings include memories from bus drivers, mechanics, dispatchers, and station attendants who worked before digital tracking systems became common. One driver described learning the rhythm of a route by watching when factory workers gathered at a corner; a mechanic recalled identifying engine trouble by sound before using diagnostic equipment; a dispatcher explained how storms required quick adjustments long before computer maps displayed traffic delays. The archivist who organized the collection says these stories do not replace official schedules, maps, or maintenance records. Instead, they reveal the practical knowledge workers used to keep the system running. For students studying transportation history, the recordings show that public transit is not only a matter of vehicles and routes. It is also a history of judgment, memory, and cooperation among people who solved daily problems often invisible to riders. Which statement best describes the archivist’s purpose in preserving the oral histories?",
+      "choices": {
+        "A": "To show that workers’ experiences can reveal practical knowledge not found in official records",
+        "B": "To prove that digital tracking systems made transit workers unnecessary",
+        "C": "To argue that schedules and maps should be removed from transportation archives",
+        "D": "To suggest that riders should memorize every bus route before using public transit"
+      },
+      "correct": "A",
+      "correctAnswerText": "To show that workers’ experiences can reveal practical knowledge not found in official records",
+      "explanation": "The passage explains that the oral histories reveal the judgment, memory, and cooperation workers used in ways official records may not show.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The city archives recently opened a small collection of oral histories recorded by retired transit workers. The recordings include memories from bus drivers, mechanics, dispatchers, and station attendants who worked before digital tracking systems became common. One driver described learning the rhythm of a route by watching when factory workers gathered at a corner; a mechanic recalled identifying engine trouble by sound before using diagnostic equipment; a dispatcher explained how storms required quick adjustments long before computer maps displayed traffic delays. The archivist who organized the collection says these stories do not replace official schedules, maps, or maintenance records. Instead, they reveal the practical knowledge workers used to keep the system running. For students studying transportation history, the recordings show that public transit is not only a matter of vehicles and routes. It is also a history of judgment, memory, and cooperation among people who solved daily problems often invisible to riders. What can reasonably be inferred about transit work before digital tracking systems became common?",
+      "choices": {
+        "A": "Workers often relied on observation and experience to solve problems.",
+        "B": "Workers rarely needed to communicate with one another.",
+        "C": "Transit systems operated without storms, delays, or route changes.",
+        "D": "Riders were responsible for repairing vehicles during emergencies."
+      },
+      "correct": "A",
+      "correctAnswerText": "Workers often relied on observation and experience to solve problems.",
+      "explanation": "The examples of drivers, mechanics, and dispatchers show workers using experience and observation before digital systems were common.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The city archives recently opened a small collection of oral histories recorded by retired transit workers. The recordings include memories from bus drivers, mechanics, dispatchers, and station attendants who worked before digital tracking systems became common. One driver described learning the rhythm of a route by watching when factory workers gathered at a corner; a mechanic recalled identifying engine trouble by sound before using diagnostic equipment; a dispatcher explained how storms required quick adjustments long before computer maps displayed traffic delays. The archivist who organized the collection says these stories do not replace official schedules, maps, or maintenance records. Instead, they reveal the practical knowledge workers used to keep the system running. For students studying transportation history, the recordings show that public transit is not only a matter of vehicles and routes. It is also a history of judgment, memory, and cooperation among people who solved daily problems often invisible to riders. In the passage, the phrase “invisible to riders” most nearly suggests that",
+      "choices": {
+        "A": "many workers’ problem-solving efforts were not noticed by passengers",
+        "B": "transit workers avoided speaking to passengers during storms",
+        "C": "riders were unable to see the buses they were riding",
+        "D": "official schedules were written in language passengers could not understand"
+      },
+      "correct": "A",
+      "correctAnswerText": "many workers’ problem-solving efforts were not noticed by passengers",
+      "explanation": "The phrase suggests that riders benefited from workers’ daily decisions without necessarily seeing them.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The city archives recently opened a small collection of oral histories recorded by retired transit workers. The recordings include memories from bus drivers, mechanics, dispatchers, and station attendants who worked before digital tracking systems became common. One driver described learning the rhythm of a route by watching when factory workers gathered at a corner; a mechanic recalled identifying engine trouble by sound before using diagnostic equipment; a dispatcher explained how storms required quick adjustments long before computer maps displayed traffic delays. The archivist who organized the collection says these stories do not replace official schedules, maps, or maintenance records. Instead, they reveal the practical knowledge workers used to keep the system running. For students studying transportation history, the recordings show that public transit is not only a matter of vehicles and routes. It is also a history of judgment, memory, and cooperation among people who solved daily problems often invisible to riders. Which sentence best states the central idea of the passage?",
+      "choices": {
+        "A": "Oral histories from transit workers reveal the human judgment and cooperation behind public transportation.",
+        "B": "Public transit systems became useful only after digital tracking systems were created.",
+        "C": "Official transit records should be trusted more than personal memories in every case.",
+        "D": "Bus drivers, mechanics, and dispatchers all performed the same job in older transit systems."
+      },
+      "correct": "A",
+      "correctAnswerText": "Oral histories from transit workers reveal the human judgment and cooperation behind public transportation.",
+      "explanation": "This sentence captures the passage’s main point about the value of workers’ memories in understanding transit history.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A small hardware store began placing “project cards” near common supplies. A card beside wall anchors explained which type worked best for drywall, brick, or wood. A card near garden hoses listed the tools needed to repair a leak. The cards did not replace employee advice, but they helped customers understand basic choices before asking questions. What is the main purpose of the project cards?",
+      "choices": {
+        "A": "To help customers make more informed decisions about supplies",
+        "B": "To prevent customers from asking employees any questions",
+        "C": "To advertise only the most expensive products in the store",
+        "D": "To remove all written labels from store shelves"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help customers make more informed decisions about supplies",
+      "explanation": "The project cards explain basic choices and help customers understand products before asking questions.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Nora had always taken photographs of completed buildings for her architecture class. Her instructor challenged her to photograph construction sites instead: exposed beams, temporary supports, chalk marks, and unfinished stairways. At first, the images seemed messy. Later, Nora realized that the unfinished structures revealed the decisions that would be hidden once the walls were painted. What can reasonably be inferred about Nora?",
+      "choices": {
+        "A": "She learns that unfinished work can reveal important parts of a design process.",
+        "B": "She decides that completed buildings should never be studied.",
+        "C": "She believes construction sites are too messy to teach anything useful.",
+        "D": "She stops taking photographs for her architecture class."
+      },
+      "correct": "A",
+      "correctAnswerText": "She learns that unfinished work can reveal important parts of a design process.",
+      "explanation": "Nora discovers that construction sites reveal decisions that are hidden in completed buildings.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A community clinic created a “questions welcome” sign for its waiting room after nurses noticed that some patients left appointments without understanding medication instructions. The sign lists examples: “What side effects should I watch for?” “When should I take this?” and “Who should I call if I feel worse?” Clinic staff say the sign is not meant to make appointments longer. It is meant to remind patients that asking clear questions can prevent confusion later. Which statement best describes the purpose of the sign?",
+      "choices": {
+        "A": "To encourage patients to ask questions that help them understand care instructions",
+        "B": "To make patients responsible for diagnosing their own illnesses",
+        "C": "To replace conversations between patients and medical staff",
+        "D": "To discourage patients from discussing medication side effects"
+      },
+      "correct": "A",
+      "correctAnswerText": "To encourage patients to ask questions that help them understand care instructions",
+      "explanation": "The sign reminds patients to ask clear questions so they do not leave appointments confused.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In a geology lesson, the instructor compares layers of rock to pages in a long book. A single page cannot tell the whole story, but it can reveal clues about what happened at a particular moment. Similarly, one rock layer may show evidence of an ancient river, volcanic ash, or ocean sediment. Reading several layers together can help scientists understand how a landscape changed over time. What is the main purpose of the book comparison?",
+      "choices": {
+        "A": "To explain how rock layers can preserve clues about past environments",
+        "B": "To show that geology is mainly the study of printed books",
+        "C": "To prove that a single rock layer always tells the complete history of Earth",
+        "D": "To argue that scientists should avoid comparing evidence from different layers"
+      },
+      "correct": "A",
+      "correctAnswerText": "To explain how rock layers can preserve clues about past environments",
+      "explanation": "The book comparison helps explain how each layer provides clues about a particular moment in Earth’s history.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Colleges should offer more accelerated eight-week courses. Shorter courses allow motivated students to complete requirements faster, focus on fewer classes at a time, and make progress toward graduation more quickly. Passage 2: Accelerated courses can benefit some students, but colleges should help students decide whether the format fits their schedules. A course that covers a semester’s material in eight weeks may require more frequent assignments and faster reading. Students with heavy work or caregiving responsibilities may need a traditional pace. How does Passage 2 respond to Passage 1?",
+      "choices": {
+        "A": "Passage 2 agrees that accelerated courses can help some students but adds that the faster pace may not fit everyone.",
+        "B": "Passage 2 argues that colleges should eliminate graduation requirements.",
+        "C": "Passage 2 claims that motivated students should avoid all short courses.",
+        "D": "Passage 2 says that eight-week courses contain less material than regular courses."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 agrees that accelerated courses can help some students but adds that the faster pace may not fit everyone.",
+      "explanation": "Passage 2 accepts the value of accelerated courses but warns that the workload and pace may be difficult for some students.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article about neighborhood benches argues that their value is easy to underestimate. A bench may seem like a minor addition to a sidewalk, but it can make a route more usable for people who need to rest, wait for a ride, or pause while carrying groceries. The author does not claim that benches solve every transportation problem. Instead, the article presents them as small pieces of public design that can affect who feels able to move through a neighborhood comfortably. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "Benches can make public spaces more accessible and comfortable even though they are small design features.",
+        "B": "Benches are useful only when they are placed inside private buildings.",
+        "C": "Neighborhood transportation problems can be solved completely by adding benches.",
+        "D": "Sidewalks should be designed only for people who never need to rest."
+      },
+      "correct": "A",
+      "correctAnswerText": "Benches can make public spaces more accessible and comfortable even though they are small design features.",
+      "explanation": "The passage explains that benches support people who need to rest, wait, or carry items.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The short story describes a night janitor cleaning a school hallway after a science fair. Paper volcanoes lean against the wall, hand-lettered posters curl at the corners, and a forgotten ribbon rests under a table. The narrator says the hallway “held the day’s questions after the children had gone.” The image suggests that the building still seems full of curiosity even in silence. What effect does the quoted image most likely create?",
+      "choices": {
+        "A": "It gives the empty hallway a thoughtful, lingering sense of student curiosity.",
+        "B": "It shows that the janitor dislikes cleaning after school events.",
+        "C": "It suggests that the science fair was unsuccessful because students left materials behind.",
+        "D": "It proves that the hallway is too crowded for future events."
+      },
+      "correct": "A",
+      "correctAnswerText": "It gives the empty hallway a thoughtful, lingering sense of student curiosity.",
+      "explanation": "The quoted image suggests that the school still holds the curiosity of the day’s science fair even after students leave.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A debate coach tells students that strong evidence must be explained, not merely dropped into a speech. A statistic may sound impressive, but listeners need to know how it supports the speaker’s claim. Without explanation, evidence can feel like a loose object placed beside an argument rather than a part of the argument itself. Which sentence best states the coach’s point?",
+      "choices": {
+        "A": "Speakers should explain how evidence supports their claims.",
+        "B": "Statistics should never be used in debates.",
+        "C": "A speech is stronger when evidence is listed without explanation.",
+        "D": "Debate speeches should avoid making claims."
+      },
+      "correct": "A",
+      "correctAnswerText": "Speakers should explain how evidence supports their claims.",
+      "explanation": "The coach explains that evidence must be connected to the claim to become part of the argument.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The instructions for a community blood drive ask volunteers to confirm each donor’s appointment time before handing out forms. The step may seem repetitive, but it helps prevent crowded waiting areas and ensures that staff can prepare supplies for the correct number of donors in each time block. Why do the instructions include this confirmation step?",
+      "choices": {
+        "A": "To help manage the flow of donors and keep the event organized",
+        "B": "To make donors complete forms before they arrive",
+        "C": "To prevent volunteers from speaking to donors",
+        "D": "To allow donors to choose supplies for themselves"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help manage the flow of donors and keep the event organized",
+      "explanation": "Confirming appointment times helps prevent crowding and lets staff prepare supplies appropriately.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article on subscription meal kits explains that convenience should be weighed against actual household habits. A meal kit may reduce planning time, but it may not save money if ingredients are left unused or deliveries arrive on nights when no one is home to cook. The author recommends comparing the service with a family’s schedule, budget, and cooking preferences before subscribing. What is the author’s purpose?",
+      "choices": {
+        "A": "To encourage readers to evaluate whether a meal kit fits their real routines before subscribing",
+        "B": "To prove that all meal kits are cheaper than grocery shopping",
+        "C": "To argue that families should stop cooking at home",
+        "D": "To explain how delivery companies choose recipes"
+      },
+      "correct": "A",
+      "correctAnswerText": "To encourage readers to evaluate whether a meal kit fits their real routines before subscribing",
+      "explanation": "The author advises readers to compare meal kits with schedule, budget, and cooking habits.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Priya began volunteering at a museum information desk, she tried to answer every visitor quickly. If she did not know a gallery location, she guessed. After sending two visitors to the wrong floor, she began using the museum map and radioing staff when needed. She learned that helpfulness was not the same as speed; accurate guidance mattered more than a quick reply. What lesson does Priya learn?",
+      "choices": {
+        "A": "Accurate help is more valuable than a fast but unreliable answer.",
+        "B": "Museum volunteers should avoid using maps during their shifts.",
+        "C": "Visitors prefer quick guesses over correct directions.",
+        "D": "Information desks should not answer questions about galleries."
+      },
+      "correct": "A",
+      "correctAnswerText": "Accurate help is more valuable than a fast but unreliable answer.",
+      "explanation": "Priya learns to use accurate resources instead of guessing quickly.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a workshop on writing effective scholarship statements. (2) Many students have meaningful experiences, but they struggle to explain those experiences in a focused way. (3) In the workshop, students would learn how to connect a specific story to a larger point about goals, persistence, leadership, or service. (4) They would also practice revising vague statements into clearer ones. (5) For example, a student might change “I work hard” into a short description of managing a job schedule while completing classes. (6) The workshop should include time for peer feedback, since another reader can often identify where an essay becomes confusing. (7) Scholarship committees usually read many applications, so a focused statement can help a student’s main message stand out. (8) A scholarship-statement workshop would help students present their experiences with clarity and purpose. Which sentence would provide the best introduction before sentence 1?",
+      "choices": {
+        "A": "Winning scholarships often depends not only on having strong experiences but also on explaining them clearly.",
+        "B": "Many scholarship applications are submitted online before a deadline.",
+        "C": "Some students prefer taking classes in the morning instead of the afternoon.",
+        "D": "Colleges often have buildings where workshops can be held."
+      },
+      "correct": "A",
+      "correctAnswerText": "Winning scholarships often depends not only on having strong experiences but also on explaining them clearly.",
+      "explanation": "This sentence introduces the paragraph’s focus on communicating experiences effectively in scholarship statements.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a workshop on writing effective scholarship statements. (2) Many students have meaningful experiences, but they struggle to explain those experiences in a focused way. (3) In the workshop, students would learn how to connect a specific story to a larger point about goals, persistence, leadership, or service. (4) They would also practice revising vague statements into clearer ones. (5) For example, a student might change “I work hard” into a short description of managing a job schedule while completing classes. (6) The workshop should include time for peer feedback, since another reader can often identify where an essay becomes confusing. (7) Scholarship committees usually read many applications, so a focused statement can help a student’s main message stand out. (8) A scholarship-statement workshop would help students present their experiences with clarity and purpose. Which sentence from the passage gives the most specific evidence for the claim that students can improve vague writing?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 3",
+        "C": "Sentence 5",
+        "D": "Sentence 8"
+      },
+      "correct": "C",
+      "correctAnswerText": "Sentence 5",
+      "explanation": "Sentence 5 gives a concrete example of changing a vague statement into a more specific one.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a workshop on writing effective scholarship statements. (2) Many students have meaningful experiences, but they struggle to explain those experiences in a focused way. (3) In the workshop, students would learn how to connect a specific story to a larger point about goals, persistence, leadership, or service. (4) They would also practice revising vague statements into clearer ones. (5) For example, a student might change “I work hard” into a short description of managing a job schedule while completing classes. (6) The workshop should include time for peer feedback, since another reader can often identify where an essay becomes confusing. (7) Scholarship committees usually read many applications, so a focused statement can help a student’s main message stand out. (8) A scholarship-statement workshop would help students present their experiences with clarity and purpose. Where would the following sentence fit best in the passage? This practice would help students avoid listing achievements without explaining why those achievements matter.",
+      "choices": {
+        "A": "After sentence 2",
+        "B": "After sentence 3",
+        "C": "After sentence 6",
+        "D": "After sentence 8"
+      },
+      "correct": "B",
+      "correctAnswerText": "After sentence 3",
+      "explanation": "The sentence explains the benefit of connecting a specific story to a larger point, so it fits best after sentence 3.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a workshop on writing effective scholarship statements. (2) Many students have meaningful experiences, but they struggle to explain those experiences in a focused way. (3) In the workshop, students would learn how to connect a specific story to a larger point about goals, persistence, leadership, or service. (4) They would also practice revising vague statements into clearer ones. (5) For example, a student might change “I work hard” into a short description of managing a job schedule while completing classes. (6) The workshop should include time for peer feedback, since another reader can often identify where an essay becomes confusing. (7) Scholarship committees usually read many applications, so a focused statement can help a student’s main message stand out. (8) A scholarship-statement workshop would help students present their experiences with clarity and purpose. Which revision of sentence 6 best improves concision while preserving the meaning?",
+      "choices": {
+        "A": "Peer feedback should be included because another reader can often identify confusing parts of an essay.",
+        "B": "The workshop should include time for peer feedback since peer feedback is feedback from peers.",
+        "C": "Another reader, who is another person reading, can be used for feedback in the workshop.",
+        "D": "The workshop should have time that is included for people to look at essays and find confusing things."
+      },
+      "correct": "A",
+      "correctAnswerText": "Peer feedback should be included because another reader can often identify confusing parts of an essay.",
+      "explanation": "This revision is concise and preserves the meaning of the original sentence.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence with the clearest pronoun reference.",
+      "choices": {
+        "A": "When Maya emailed Jordan about the schedule change, she forgot to attach the updated calendar.",
+        "B": "When Maya emailed Jordan about the schedule change, Maya forgot to attach the updated calendar.",
+        "C": "When she emailed Jordan about the schedule change, Maya forgot to attach it.",
+        "D": "When Maya emailed her about the schedule change, she forgot the attachment."
+      },
+      "correct": "B",
+      "correctAnswerText": "When Maya emailed Jordan about the schedule change, Maya forgot to attach the updated calendar.",
+      "explanation": "This sentence avoids unclear pronoun reference by naming who forgot the attachment.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that maintains consistent verb tense.",
+      "choices": {
+        "A": "Last semester, the club organized a food drive, collects donations, and delivered boxes to the shelter.",
+        "B": "Last semester, the club organized a food drive, collected donations, and delivered boxes to the shelter.",
+        "C": "Last semester, the club organizes a food drive, collected donations, and delivers boxes to the shelter.",
+        "D": "Last semester, the club had organized a food drive, collects donations, and delivered boxes to the shelter."
+      },
+      "correct": "B",
+      "correctAnswerText": "Last semester, the club organized a food drive, collected donations, and delivered boxes to the shelter.",
+      "explanation": "This sentence keeps all three verbs in the past tense.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses apostrophes correctly.",
+      "choices": {
+        "A": "The tutors feedback helped the student revise last weeks essay.",
+        "B": "The tutor’s feedback helped the student revise last week’s essay.",
+        "C": "The tutors’ feedback helped the student revise last weeks essay’s.",
+        "D": "The tutor’s feedback helped the students revise last weeks’ essay."
+      },
+      "correct": "B",
+      "correctAnswerText": "The tutor’s feedback helped the student revise last week’s essay.",
+      "explanation": "“Tutor’s” correctly shows one tutor’s feedback, and “week’s” correctly shows the essay from last week.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence fragment. Because the training video explained the new safety procedure.",
+      "choices": {
+        "A": "Because the training video explained the new safety procedure, workers understood the change.",
+        "B": "Because the training video explained the new safety procedure.",
+        "C": "The new safety procedure because the training video explained it.",
+        "D": "Explaining the new safety procedure because the training video."
+      },
+      "correct": "A",
+      "correctAnswerText": "Because the training video explained the new safety procedure, workers understood the change.",
+      "explanation": "This revision turns the fragment into a complete sentence.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best transition to complete the sentence. The study room is intended for quiet individual work; __________, the student lounge is designed for conversation and group projects.",
+      "choices": {
+        "A": "in contrast",
+        "B": "as a result",
+        "C": "for example",
+        "D": "likewise"
+      },
+      "correct": "A",
+      "correctAnswerText": "in contrast",
+      "explanation": "The sentence contrasts the quiet study room with the conversation-focused lounge.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The instructor returned the draft. The instructor included comments about organization and evidence.",
+      "choices": {
+        "A": "The instructor returned the draft including comments about organization and evidence.",
+        "B": "The instructor returned the draft, she included comments about organization and evidence.",
+        "C": "The instructor returned the draft with comments about organization and evidence.",
+        "D": "Returning the instructor, the draft included comments about organization and evidence."
+      },
+      "correct": "C",
+      "correctAnswerText": "The instructor returned the draft with comments about organization and evidence.",
+      "explanation": "This option combines the sentences clearly and concisely.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the sentence and choose the best revision. The writer claims that the campus should add more bike racks, but the paragraph does not explain why students need them.",
+      "choices": {
+        "A": "Add a sentence explaining current bike parking problems or student demand.",
+        "B": "Remove the claim because paragraphs should not make arguments.",
+        "C": "Add a quotation about the history of bicycles in the United States.",
+        "D": "Replace the paragraph with a list of unrelated transportation facts."
+      },
+      "correct": "A",
+      "correctAnswerText": "Add a sentence explaining current bike parking problems or student demand.",
+      "explanation": "The paragraph needs evidence explaining why more bike racks are needed.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best sentence to acknowledge a counterargument while maintaining the writer’s position. Claim: The college should keep the library open later during final exams.",
+      "choices": {
+        "A": "Some may argue that later hours would require additional staffing, but the college could limit the extended schedule to the busiest exam weeks.",
+        "B": "Anyone who disagrees with later library hours does not care about students.",
+        "C": "The library has books, computers, chairs, and tables for student use.",
+        "D": "Late hours are good because students like them."
+      },
+      "correct": "A",
+      "correctAnswerText": "Some may argue that later hours would require additional staffing, but the college could limit the extended schedule to the busiest exam weeks.",
+      "explanation": "This sentence fairly acknowledges an objection and responds with a practical limitation.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is most concise without changing the meaning.",
+      "choices": {
+        "A": "The reason the meeting was postponed was because of the fact that the speaker was unavailable.",
+        "B": "The meeting was postponed because the speaker was unavailable.",
+        "C": "Due to the fact that the speaker was unavailable, that was the reason the meeting was postponed.",
+        "D": "The postponement of the meeting occurred for the reason of speaker unavailability."
+      },
+      "correct": "B",
+      "correctAnswerText": "The meeting was postponed because the speaker was unavailable.",
+      "explanation": "This sentence is concise and preserves the original meaning.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses commas correctly.",
+      "choices": {
+        "A": "The program, which begins in June, will include workshops, advising sessions, and practice interviews.",
+        "B": "The program which begins in June will include workshops, advising sessions and practice interviews.",
+        "C": "The program, which begins in June will include workshops advising sessions, and practice interviews.",
+        "D": "The program which begins in June, will include workshops, advising sessions, and practice interviews."
+      },
+      "correct": "A",
+      "correctAnswerText": "The program, which begins in June, will include workshops, advising sessions, and practice interviews.",
+      "explanation": "The nonessential phrase “which begins in June” is correctly set off by commas, and the list is punctuated clearly.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E13-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. The student’s essay argues that community colleges should offer more evening advising appointments. The essay explains that many students work during regular office hours and cannot easily meet with advisors before 5:00 p.m. It also notes that evening appointments could be offered only on selected days to control staffing needs. Which concluding sentence best reinforces the argument?",
+      "choices": {
+        "A": "Evening advising would make academic planning more accessible while still allowing the college to manage resources.",
+        "B": "Advisors have offices with desks, phones, and computers.",
+        "C": "Some students choose majors before beginning college, while others decide later.",
+        "D": "Evening classes are sometimes held in buildings near parking lots."
+      },
+      "correct": "A",
+      "correctAnswerText": "Evening advising would make academic planning more accessible while still allowing the college to manage resources.",
+      "explanation": "This conclusion reinforces both the need for accessibility and the practical limit on staffing.",
+      "credits": 1
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 12",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E12-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At Brookfield College, students in a geography course began mapping “comfort routes” across campus after noticing that the shortest path between buildings was not always the easiest one. Some sidewalks crossed open areas with no shade, while others passed near construction zones, steep ramps, or heavy bicycle traffic. The students interviewed classmates, watched how people actually moved between classes, and recorded features such as benches, covered walkways, lighting, and accessible entrances. Their final map did not replace the official campus map. Instead, it added a different kind of information: which paths might be more comfortable for a student carrying heavy books, using a mobility aid, walking at night, or trying to avoid summer heat. The project surprised some students because mapping had seemed like a matter of measuring distance. By the end, they understood that a useful map can also reflect human experience. A route that looks efficient on paper may not be the route people choose in real life. Which statement best describes the main purpose of the comfort-route project?",
+      "choices": {
+        "A": "To show that campus routes can be evaluated by comfort and accessibility, not only by distance",
+        "B": "To prove that official campus maps should be removed from all college websites",
+        "C": "To require every student to walk the longest route between buildings",
+        "D": "To show that geography courses should focus only on construction zones"
+      },
+      "correct": "A",
+      "correctAnswerText": "To show that campus routes can be evaluated by comfort and accessibility, not only by distance",
+      "explanation": "The passage explains that the project adds information about shade, lighting, benches, accessibility, and real student movement beyond simple distance.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At Brookfield College, students in a geography course began mapping “comfort routes” across campus after noticing that the shortest path between buildings was not always the easiest one. Some sidewalks crossed open areas with no shade, while others passed near construction zones, steep ramps, or heavy bicycle traffic. The students interviewed classmates, watched how people actually moved between classes, and recorded features such as benches, covered walkways, lighting, and accessible entrances. Their final map did not replace the official campus map. Instead, it added a different kind of information: which paths might be more comfortable for a student carrying heavy books, using a mobility aid, walking at night, or trying to avoid summer heat. The project surprised some students because mapping had seemed like a matter of measuring distance. By the end, they understood that a useful map can also reflect human experience. A route that looks efficient on paper may not be the route people choose in real life. What can reasonably be inferred from the passage?",
+      "choices": {
+        "A": "Students’ route choices can be influenced by physical conditions such as shade, lighting, and accessibility.",
+        "B": "Students always choose the shortest route regardless of conditions.",
+        "C": "Official campus maps include every detail students need in every situation.",
+        "D": "Covered walkways are useful only during geography classes."
+      },
+      "correct": "A",
+      "correctAnswerText": "Students’ route choices can be influenced by physical conditions such as shade, lighting, and accessibility.",
+      "explanation": "The passage describes several route features that affect how people choose paths across campus.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At Brookfield College, students in a geography course began mapping “comfort routes” across campus after noticing that the shortest path between buildings was not always the easiest one. Some sidewalks crossed open areas with no shade, while others passed near construction zones, steep ramps, or heavy bicycle traffic. The students interviewed classmates, watched how people actually moved between classes, and recorded features such as benches, covered walkways, lighting, and accessible entrances. Their final map did not replace the official campus map. Instead, it added a different kind of information: which paths might be more comfortable for a student carrying heavy books, using a mobility aid, walking at night, or trying to avoid summer heat. The project surprised some students because mapping had seemed like a matter of measuring distance. By the end, they understood that a useful map can also reflect human experience. A route that looks efficient on paper may not be the route people choose in real life. In the passage, the phrase “efficient on paper” most nearly means",
+      "choices": {
+        "A": "appearing practical when judged only by the map",
+        "B": "printed with expensive materials",
+        "C": "written in language that is difficult to read",
+        "D": "approved by every student on campus"
+      },
+      "correct": "A",
+      "correctAnswerText": "appearing practical when judged only by the map",
+      "explanation": "In context, a route may look efficient on a map but not be comfortable or practical in real life.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At Brookfield College, students in a geography course began mapping “comfort routes” across campus after noticing that the shortest path between buildings was not always the easiest one. Some sidewalks crossed open areas with no shade, while others passed near construction zones, steep ramps, or heavy bicycle traffic. The students interviewed classmates, watched how people actually moved between classes, and recorded features such as benches, covered walkways, lighting, and accessible entrances. Their final map did not replace the official campus map. Instead, it added a different kind of information: which paths might be more comfortable for a student carrying heavy books, using a mobility aid, walking at night, or trying to avoid summer heat. The project surprised some students because mapping had seemed like a matter of measuring distance. By the end, they understood that a useful map can also reflect human experience. A route that looks efficient on paper may not be the route people choose in real life. Which detail best supports the idea that the students gathered information from real users rather than relying only on measurements?",
+      "choices": {
+        "A": "They interviewed classmates and watched how people moved between classes.",
+        "B": "They studied a geography course at Brookfield College.",
+        "C": "They noticed that some routes were shorter than others.",
+        "D": "They created a map that did not replace the official campus map."
+      },
+      "correct": "A",
+      "correctAnswerText": "They interviewed classmates and watched how people moved between classes.",
+      "explanation": "These actions show that the students based the project on real user behavior and feedback.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A neighborhood bakery began posting a small “bake schedule” beside the counter. The schedule lists when sourdough loaves, rolls, and pastries usually come out of the oven. The owner explains that the times are estimates, not guarantees, because dough may rise more slowly on humid days or ovens may need adjustment. Still, customers appreciate knowing whether their favorite bread is likely to be ready in ten minutes or two hours. What is the main purpose of the bake schedule?",
+      "choices": {
+        "A": "To give customers useful timing information while allowing for normal variation",
+        "B": "To promise that every baked item will be ready at the exact same time each day",
+        "C": "To prevent customers from asking about bread or pastry options",
+        "D": "To explain why the bakery no longer sells fresh bread"
+      },
+      "correct": "A",
+      "correctAnswerText": "To give customers useful timing information while allowing for normal variation",
+      "explanation": "The schedule provides estimates while acknowledging that baking times can vary.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At first, Caleb believed that repairing a torn jacket meant making the repair invisible. His sewing instructor showed him a different approach: using a small patch in a contrasting color and stitching it neatly so the repair became part of the design. Caleb was surprised that the jacket looked more interesting afterward. He realized that fixing something did not always require hiding the problem; sometimes it meant responding to it creatively. What can reasonably be inferred about Caleb?",
+      "choices": {
+        "A": "He learns that a repair can be both functional and visually intentional.",
+        "B": "He decides that damaged clothing should never be repaired.",
+        "C": "He believes all repairs must be hidden to be successful.",
+        "D": "He stops sewing because contrasting colors are difficult to use."
+      },
+      "correct": "A",
+      "correctAnswerText": "He learns that a repair can be both functional and visually intentional.",
+      "explanation": "Caleb learns that a visible patch can repair the jacket and become part of its design.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A city parks department is considering whether to add low lighting along a riverside trail. Supporters say the lights would make the trail feel safer for early-morning walkers and evening commuters. Some environmental groups worry that bright lights could disturb bats, insects, and migrating birds. The department is reviewing shielded, low-intensity fixtures and seasonal dimming schedules before making a final decision. Which statement best describes the parks department’s approach?",
+      "choices": {
+        "A": "It is considering human safety while also studying possible effects on wildlife.",
+        "B": "It has decided that trail users should avoid the riverside after sunset.",
+        "C": "It plans to install the brightest possible lights without further review.",
+        "D": "It believes environmental concerns should replace all public safety concerns."
+      },
+      "correct": "A",
+      "correctAnswerText": "It is considering human safety while also studying possible effects on wildlife.",
+      "explanation": "The parks department is balancing safer trail use with environmental concerns about animals.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In a psychology class, the instructor compares attention to a flashlight in a dark room. The flashlight does not illuminate everything at once; it brightens one area while leaving other areas less visible. Similarly, attention helps people focus on selected information while other details fade into the background. The comparison helps students understand why multitasking can feel productive even when important details are missed. What is the main purpose of the flashlight comparison?",
+      "choices": {
+        "A": "To show that attention highlights some information while limiting awareness of other details",
+        "B": "To argue that people should study only in dark rooms",
+        "C": "To prove that flashlights improve memory in every situation",
+        "D": "To explain why psychology is unrelated to everyday behavior"
+      },
+      "correct": "A",
+      "correctAnswerText": "To show that attention highlights some information while limiting awareness of other details",
+      "explanation": "The flashlight comparison explains selective attention and why multitasking can miss details.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Colleges should encourage students to attend office-hour visits early in the semester. Early visits help students introduce themselves, ask about expectations, and address confusion before a small problem becomes a larger one. Passage 2: Early office-hour visits can be helpful, but students should not treat them as a substitute for preparation. A student who arrives without reading the assignment or identifying a question may not use the time well. Office hours work best when students bring specific concerns or goals. How does Passage 2 respond to Passage 1?",
+      "choices": {
+        "A": "Passage 2 agrees that early visits can help but emphasizes that students should prepare for them.",
+        "B": "Passage 2 argues that students should never speak with instructors outside class.",
+        "C": "Passage 2 claims that office hours are useful only at the end of the semester.",
+        "D": "Passage 2 says that assignments should be removed from college courses."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 agrees that early visits can help but emphasizes that students should prepare for them.",
+      "explanation": "Passage 2 accepts the value of office hours while explaining that students should bring specific concerns or goals.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article about public murals in train stations argues that their value is not limited to decoration. A mural can help travelers recognize a station quickly, make a waiting area feel more welcoming, and reflect local history or culture. The author does not claim that art can solve every problem in public transportation. Instead, the article suggests that visual design can shape how people experience a shared space. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "Station murals can improve public spaces by adding identity, recognition, and a sense of welcome.",
+        "B": "Public transportation problems can be solved entirely by painting murals.",
+        "C": "Train stations should avoid displaying local history or culture.",
+        "D": "Murals are useful only when travelers ignore them."
+      },
+      "correct": "A",
+      "correctAnswerText": "Station murals can improve public spaces by adding identity, recognition, and a sense of welcome.",
+      "explanation": "The passage argues that murals can help people recognize stations and experience public space more positively.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The short story describes a watch repairer opening a drawer filled with tiny gears, worn straps, and cracked glass faces. The narrator says the drawer “kept old minutes waiting for another chance.” The image suggests that the broken watches carry traces of the time they once measured and may be returned to use through careful repair. What effect does the quoted image most likely create?",
+      "choices": {
+        "A": "It gives the broken watches a sense of memory and possibility.",
+        "B": "It shows that the repairer has forgotten how to fix watches.",
+        "C": "It suggests that the drawer contains only new watches.",
+        "D": "It makes time seem completely unimportant to the story."
+      },
+      "correct": "A",
+      "correctAnswerText": "It gives the broken watches a sense of memory and possibility.",
+      "explanation": "The image suggests that the watches hold traces of time and may be restored through repair.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A research librarian tells students that a source can be relevant without being sufficient. For example, one article may define a topic clearly but provide little evidence about its effects. Another source may include strong data but focus on only one region. Students should ask not only, “Does this source relate to my topic?” but also, “What does this source help me prove, and what else do I still need?” Which sentence best states the librarian’s point?",
+      "choices": {
+        "A": "Students should evaluate what each source contributes to the argument and what gaps remain.",
+        "B": "Students should use the first relevant source they find and stop researching.",
+        "C": "A source is sufficient whenever it includes one useful definition.",
+        "D": "Regional studies should never be used in research projects."
+      },
+      "correct": "A",
+      "correctAnswerText": "Students should evaluate what each source contributes to the argument and what gaps remain.",
+      "explanation": "The librarian explains that relevant sources may still be incomplete, so students must consider contribution and remaining needs.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The instructions for a community tool shed ask volunteers to wipe mud from borrowed tools before returning them. The rule may seem minor, but mud left on metal blades can hold moisture and cause rust. Dirt on handles can also make tools slippery for the next user. Cleaning tools before return helps preserve the equipment and keeps it safer to use. Why do the instructions ask volunteers to clean tools before returning them?",
+      "choices": {
+        "A": "To protect the tools and make them safer for the next user",
+        "B": "To make borrowing tools more difficult for volunteers",
+        "C": "To prevent the tool shed from lending equipment",
+        "D": "To require volunteers to repair every damaged tool themselves"
+      },
+      "correct": "A",
+      "correctAnswerText": "To protect the tools and make them safer for the next user",
+      "explanation": "Cleaning tools prevents rust and slippery handles, preserving equipment and safety.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article on online language translators warns that they can be useful but imperfect. A translator may help a traveler understand a menu or a sign, but it may miss tone, idioms, or specialized vocabulary. The author recommends using translation tools as starting points rather than final authorities, especially in school, legal, or medical situations. What is the author’s purpose?",
+      "choices": {
+        "A": "To encourage careful use of translation tools by explaining both their value and their limits",
+        "B": "To prove that translation tools are never useful for travelers",
+        "C": "To argue that idioms should be removed from every language",
+        "D": "To show that all specialized vocabulary can be translated perfectly by software"
+      },
+      "correct": "A",
+      "correctAnswerText": "To encourage careful use of translation tools by explaining both their value and their limits",
+      "explanation": "The passage recognizes that translation tools can help but warns that they may miss tone, idioms, and specialized vocabulary.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Alina began working at a plant nursery, she watered seedlings whenever the soil surface looked dry. A senior employee showed her how to lift the tray gently to judge its weight and check moisture below the surface. Alina discovered that some trays looked dry on top but still held water near the roots. She learned that first impressions can be useful, but they should be checked before action is taken. What lesson does Alina learn?",
+      "choices": {
+        "A": "Careful checking can prevent mistakes based on surface appearances.",
+        "B": "Seedlings should be watered every time the soil surface looks dry.",
+        "C": "Plant trays should never be lifted or inspected.",
+        "D": "Nursery work requires ignoring signs of moisture."
+      },
+      "correct": "A",
+      "correctAnswerText": "Careful checking can prevent mistakes based on surface appearances.",
+      "explanation": "Alina learns that soil may look dry on the surface while remaining moist below.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a workshop on planning group presentations. (2) Many students divide the slides evenly but do not discuss how the sections will fit together. (3) As a result, one student may explain background information, another may repeat it, and a third may jump to a conclusion without enough evidence. (4) In the workshop, students would learn how to agree on one central message before assigning individual parts. (5) They would also practice writing transitions between speakers so the audience can follow the presentation as one connected argument. (6) A short rehearsal checklist could help groups test timing, avoid repeated points, and decide who will answer audience questions. (7) Group presentations are common in communication, business, science, and education courses. (8) A planning workshop would help students create presentations that feel unified rather than assembled at the last minute. Which sentence would provide the best introduction before sentence 1?",
+      "choices": {
+        "A": "A successful group presentation requires coordination as well as individual preparation.",
+        "B": "Some classrooms include projectors, chairs, and whiteboards.",
+        "C": "Students sometimes choose their own groups for class assignments.",
+        "D": "Presentation slides can include text, charts, and photographs."
+      },
+      "correct": "A",
+      "correctAnswerText": "A successful group presentation requires coordination as well as individual preparation.",
+      "explanation": "This sentence introduces the main problem the paragraph addresses: group presentations need planning across speakers.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a workshop on planning group presentations. (2) Many students divide the slides evenly but do not discuss how the sections will fit together. (3) As a result, one student may explain background information, another may repeat it, and a third may jump to a conclusion without enough evidence. (4) In the workshop, students would learn how to agree on one central message before assigning individual parts. (5) They would also practice writing transitions between speakers so the audience can follow the presentation as one connected argument. (6) A short rehearsal checklist could help groups test timing, avoid repeated points, and decide who will answer audience questions. (7) Group presentations are common in communication, business, science, and education courses. (8) A planning workshop would help students create presentations that feel unified rather than assembled at the last minute. Which sentence from the passage best explains the problem the workshop is meant to solve?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "A",
+      "correctAnswerText": "Sentence 2",
+      "explanation": "Sentence 2 explains the main problem: students divide slides but do not connect their sections.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a workshop on planning group presentations. (2) Many students divide the slides evenly but do not discuss how the sections will fit together. (3) As a result, one student may explain background information, another may repeat it, and a third may jump to a conclusion without enough evidence. (4) In the workshop, students would learn how to agree on one central message before assigning individual parts. (5) They would also practice writing transitions between speakers so the audience can follow the presentation as one connected argument. (6) A short rehearsal checklist could help groups test timing, avoid repeated points, and decide who will answer audience questions. (7) Group presentations are common in communication, business, science, and education courses. (8) A planning workshop would help students create presentations that feel unified rather than assembled at the last minute. Where would the following sentence fit best in the passage? This step would help each speaker understand how his or her section supports the whole presentation.",
+      "choices": {
+        "A": "After sentence 1",
+        "B": "After sentence 4",
+        "C": "After sentence 6",
+        "D": "After sentence 8"
+      },
+      "correct": "B",
+      "correctAnswerText": "After sentence 4",
+      "explanation": "The added sentence explains the benefit of agreeing on one central message before assigning parts.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a workshop on planning group presentations. (2) Many students divide the slides evenly but do not discuss how the sections will fit together. (3) As a result, one student may explain background information, another may repeat it, and a third may jump to a conclusion without enough evidence. (4) In the workshop, students would learn how to agree on one central message before assigning individual parts. (5) They would also practice writing transitions between speakers so the audience can follow the presentation as one connected argument. (6) A short rehearsal checklist could help groups test timing, avoid repeated points, and decide who will answer audience questions. (7) Group presentations are common in communication, business, science, and education courses. (8) A planning workshop would help students create presentations that feel unified rather than assembled at the last minute. Which revision of sentence 8 best improves precision while preserving the meaning?",
+      "choices": {
+        "A": "A planning workshop would help students create presentations that are coherent and purposeful.",
+        "B": "A planning workshop would help students make presentations that are nice and not thrown together.",
+        "C": "A workshop about planning would help with group presentation things in a better way.",
+        "D": "A planning workshop would make presentations happen because students would plan them."
+      },
+      "correct": "A",
+      "correctAnswerText": "A planning workshop would help students create presentations that are coherent and purposeful.",
+      "explanation": "This revision improves precision while preserving the idea that the workshop helps presentations feel unified.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence with the clearest pronoun reference.",
+      "choices": {
+        "A": "When Elena called Rachel about the appointment, she realized the time had changed.",
+        "B": "When Elena called Rachel about the appointment, Elena realized the time had changed.",
+        "C": "When she called Rachel about the appointment, the time had changed.",
+        "D": "When Elena called her about the appointment, she realized it had changed."
+      },
+      "correct": "B",
+      "correctAnswerText": "When Elena called Rachel about the appointment, Elena realized the time had changed.",
+      "explanation": "This sentence avoids unclear pronoun reference by naming who realized the time had changed.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that maintains consistent verb tense.",
+      "choices": {
+        "A": "During the lab, students measured the samples, record the results, and compared the data.",
+        "B": "During the lab, students measured the samples, recorded the results, and compared the data.",
+        "C": "During the lab, students measure the samples, recorded the results, and compare the data.",
+        "D": "During the lab, students had measured the samples, record the results, and compared the data."
+      },
+      "correct": "B",
+      "correctAnswerText": "During the lab, students measured the samples, recorded the results, and compared the data.",
+      "explanation": "This sentence keeps all three verbs in consistent past tense: measured, recorded, and compared.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses apostrophes correctly.",
+      "choices": {
+        "A": "The advisors notes helped the student understand next semesters deadline.",
+        "B": "The advisor’s notes helped the student understand next semester’s deadline.",
+        "C": "The advisors’ notes helped the student understand next semesters deadline’s.",
+        "D": "The advisor’s notes helped the students understand next semesters’ deadline."
+      },
+      "correct": "B",
+      "correctAnswerText": "The advisor’s notes helped the student understand next semester’s deadline.",
+      "explanation": "“Advisor’s” correctly shows one advisor’s notes, and “semester’s” correctly shows the deadline belonging to the next semester.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence fragment. Although the instructions included several examples.",
+      "choices": {
+        "A": "Although the instructions included several examples, some students still needed clarification.",
+        "B": "Although the instructions included several examples.",
+        "C": "The instructions although included several examples.",
+        "D": "Including several examples although the instructions."
+      },
+      "correct": "A",
+      "correctAnswerText": "Although the instructions included several examples, some students still needed clarification.",
+      "explanation": "This revision turns the dependent clause fragment into a complete sentence.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best transition to complete the sentence. The online form is useful for routine requests; __________, complex problems may still require a meeting with a staff member.",
+      "choices": {
+        "A": "however",
+        "B": "therefore",
+        "C": "for example",
+        "D": "similarly"
+      },
+      "correct": "A",
+      "correctAnswerText": "however",
+      "explanation": "The second clause contrasts routine requests with complex problems that may require a meeting.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The instructor posted a sample paragraph. The paragraph showed students how to introduce evidence.",
+      "choices": {
+        "A": "The instructor posted a sample paragraph showing students how to introduce evidence.",
+        "B": "The instructor posted a sample paragraph, it showed students how to introduce evidence.",
+        "C": "Showing students how to introduce evidence, the instructor was posted by a sample paragraph.",
+        "D": "The instructor posted a paragraph and it was sample and it showed introducing evidence."
+      },
+      "correct": "A",
+      "correctAnswerText": "The instructor posted a sample paragraph showing students how to introduce evidence.",
+      "explanation": "This option combines the sentences clearly and concisely.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the sentence and choose the best revision strategy. The paragraph claims that the campus should add more outdoor seating, but it does not explain who would use the seating or why it is needed.",
+      "choices": {
+        "A": "Add evidence about student demand, crowded indoor areas, or places where seating is currently limited.",
+        "B": "Remove the claim because paragraphs should never make recommendations.",
+        "C": "Add a sentence about the history of outdoor furniture in public parks.",
+        "D": "Replace the paragraph with a list of unrelated campus buildings."
+      },
+      "correct": "A",
+      "correctAnswerText": "Add evidence about student demand, crowded indoor areas, or places where seating is currently limited.",
+      "explanation": "The paragraph needs relevant support explaining who needs outdoor seating and why.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best sentence to acknowledge a counterargument while maintaining the writer’s position. Claim: The college should offer a short orientation session for students returning after several years away from school.",
+      "choices": {
+        "A": "Some may argue that returning students can use the regular orientation, but a shorter session could address their specific concerns without repeating every first-year topic.",
+        "B": "Anyone who disagrees with a returning-student orientation does not understand education.",
+        "C": "Orientation sessions usually include maps, schedules, and welcome speeches.",
+        "D": "Returning students are different from other students because they are returning."
+      },
+      "correct": "A",
+      "correctAnswerText": "Some may argue that returning students can use the regular orientation, but a shorter session could address their specific concerns without repeating every first-year topic.",
+      "explanation": "This sentence fairly acknowledges an opposing view and responds while maintaining the claim.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is most concise without changing the meaning.",
+      "choices": {
+        "A": "The reason the report was delayed was because of the fact that several files were missing.",
+        "B": "The report was delayed because several files were missing.",
+        "C": "Due to the fact of missing files, that was the reason for the delay of the report.",
+        "D": "The delay of the report occurred because of the reason that files were not present."
+      },
+      "correct": "B",
+      "correctAnswerText": "The report was delayed because several files were missing.",
+      "explanation": "This sentence is concise and preserves the meaning of the original.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses commas correctly.",
+      "choices": {
+        "A": "The program, which begins next month, will include tutoring sessions, study groups, and advising workshops.",
+        "B": "The program which begins next month will include tutoring sessions, study groups and advising workshops.",
+        "C": "The program, which begins next month will include tutoring sessions study groups, and advising workshops.",
+        "D": "The program which begins next month, will include tutoring sessions, study groups, and advising workshops."
+      },
+      "correct": "A",
+      "correctAnswerText": "The program, which begins next month, will include tutoring sessions, study groups, and advising workshops.",
+      "explanation": "The nonessential phrase “which begins next month” is correctly set off by commas, and the list is punctuated clearly.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E12-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. The student’s essay argues that campus buses should display real-time arrival information at major stops. The essay explains that students often miss connections because they cannot tell whether a bus is two minutes away or twenty minutes away. It also notes that the college could begin with the busiest stops before expanding the system. Which concluding sentence best reinforces the argument?",
+      "choices": {
+        "A": "Real-time arrival displays would help students plan more reliably while allowing the college to start with a limited, practical rollout.",
+        "B": "Campus buses usually have seats, windows, and doors for passengers.",
+        "C": "Some students listen to music while waiting for transportation.",
+        "D": "Bus stops are located in different areas of campus and near several buildings."
+      },
+      "correct": "A",
+      "correctAnswerText": "Real-time arrival displays would help students plan more reliably while allowing the college to start with a limited, practical rollout.",
+      "explanation": "This conclusion reinforces the need for better planning information and the practicality of beginning with major stops.",
+      "credits": 1
+    }
+  ]
+}

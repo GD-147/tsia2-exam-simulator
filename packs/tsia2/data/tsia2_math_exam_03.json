@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 03",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M3-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student budgeted $240 for groceries for 3 weeks. During the first week, the student spent 7/20 of the budget. During the second week, the student spent 30% of the budget. How much of the original budget remains for the third week?",
+      "choices": {
+        "A": "$72",
+        "B": "$78",
+        "C": "$84",
+        "D": "$96"
+      },
+      "correct": "C",
+      "correctAnswerText": "$84",
+      "explanation": "The student spent 7/20 = 35% of the budget in the first week and 30% in the second week, for a total of 65%. The remaining 35% of $240 is 0.35 × 240 = $84.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve for n: 5n − 8 = 2(n + 17)",
+      "choices": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "14"
+      },
+      "correct": "D",
+      "correctAnswerText": "14",
+      "explanation": "Distribute to get 5n − 8 = 2n + 34. Subtract 2n from both sides to get 3n − 8 = 34. Add 8 to both sides to get 3n = 42, so n = 14.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular storage shelf is 5 feet long and 3 feet wide. A border is placed around the entire edge of the shelf. How many feet of border are needed?",
+      "choices": {
+        "A": "8 feet",
+        "B": "15 feet",
+        "C": "16 feet",
+        "D": "30 feet"
+      },
+      "correct": "C",
+      "correctAnswerText": "16 feet",
+      "explanation": "The border is the perimeter of the rectangle: 2(5 + 3) = 16 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The ages of 8 students in a study group are 18, 19, 19, 19, 20, 21, 23, and 25. Which value is the mode of the data set?",
+      "choices": {
+        "A": "19",
+        "B": "20",
+        "C": "21",
+        "D": "23"
+      },
+      "correct": "A",
+      "correctAnswerText": "19",
+      "explanation": "The value 19 appears three times, more often than any other value in the data set, so 19 is the mode.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A cleaning solution is mixed using 3 parts concentrate for every 5 parts water. If 64 ounces of solution are made, how many ounces of concentrate are needed?",
+      "choices": {
+        "A": "16 ounces",
+        "B": "24 ounces",
+        "C": "32 ounces",
+        "D": "40 ounces"
+      },
+      "correct": "B",
+      "correctAnswerText": "24 ounces",
+      "explanation": "The solution has 3 + 5 = 8 total parts. Concentrate is 3/8 of the solution, and 3/8 × 64 = 24 ounces.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which expression is equivalent to 6a − 4(2a − 3) + 5?",
+      "choices": {
+        "A": "−2a + 17",
+        "B": "−2a − 7",
+        "C": "14a + 17",
+        "D": "14a − 7"
+      },
+      "correct": "A",
+      "correctAnswerText": "−2a + 17",
+      "explanation": "Distribute and combine like terms: 6a − 8a + 12 + 5 = −2a + 17.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A square piece of fabric has a side length of 11 inches. What is the area of the fabric?",
+      "choices": {
+        "A": "22 square inches",
+        "B": "44 square inches",
+        "C": "121 square inches",
+        "D": "242 square inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "121 square inches",
+      "explanation": "The area of a square is side². With side length 11 inches, the area is 11² = 121 square inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A survey asked 80 students whether they use public transportation to get to campus. Of those students, 28 said yes. What percent of the surveyed students said yes?",
+      "choices": {
+        "A": "28%",
+        "B": "30%",
+        "C": "35%",
+        "D": "45%"
+      },
+      "correct": "C",
+      "correctAnswerText": "35%",
+      "explanation": "The percent is 28/80 = 0.35, or 35%.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "The temperature dropped from 64°F to 49°F over a 5-hour period. What was the average change in temperature per hour?",
+      "choices": {
+        "A": "−5°F per hour",
+        "B": "−3°F per hour",
+        "C": "3°F per hour",
+        "D": "15°F per hour"
+      },
+      "correct": "B",
+      "correctAnswerText": "−3°F per hour",
+      "explanation": "The total change was 49 − 64 = −15°F. Over 5 hours, the average change was −15 ÷ 5 = −3°F per hour.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A gym charges an enrollment fee of $35 plus $22 per month. If C represents the total cost in dollars for m months, which equation represents this relationship?",
+      "choices": {
+        "A": "C = 35m + 22",
+        "B": "C = 22m + 35",
+        "C": "C = 57m",
+        "D": "C = 22(m + 35)"
+      },
+      "correct": "B",
+      "correctAnswerText": "C = 22m + 35",
+      "explanation": "The total cost is the monthly charge times the number of months plus the enrollment fee, so C = 22m + 35.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A circular fountain has a radius of 6 feet. What is the area of the circular surface of the fountain?",
+      "choices": {
+        "A": "12π square feet",
+        "B": "24π square feet",
+        "C": "36π square feet",
+        "D": "72π square feet"
+      },
+      "correct": "C",
+      "correctAnswerText": "36π square feet",
+      "explanation": "The area of a circle is A = πr². With r = 6, A = π(6²) = 36π square feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A cafeteria records the number of vegetarian meals sold over five days. Monday: 32 Tuesday: 29 Wednesday: 35 Thursday: 41 Friday: 38 What is the mean number of vegetarian meals sold per day?",
+      "choices": {
+        "A": "34",
+        "B": "35",
+        "C": "36",
+        "D": "38"
+      },
+      "correct": "B",
+      "correctAnswerText": "35",
+      "explanation": "The total is 32 + 29 + 35 + 41 + 38 = 175. Dividing by 5 gives a mean of 35.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A car uses 12.6 gallons of gasoline on a trip. The gasoline costs a total of $44.10. What is the cost per gallon?",
+      "choices": {
+        "A": "$3.25",
+        "B": "$3.40",
+        "C": "$3.50",
+        "D": "$3.60"
+      },
+      "correct": "C",
+      "correctAnswerText": "$3.50",
+      "explanation": "Divide the total cost by the number of gallons: $44.10 ÷ 12.6 = $3.50 per gallon.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "For h(x) = 2x² − 3x + 1, what is h(4)?",
+      "choices": {
+        "A": "17",
+        "B": "21",
+        "C": "24",
+        "D": "33"
+      },
+      "correct": "B",
+      "correctAnswerText": "21",
+      "explanation": "Substitute 4 for x: h(4) = 2(4²) − 3(4) + 1 = 32 − 12 + 1 = 21.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A right triangle has legs with lengths 8 centimeters and 15 centimeters. What is the length of the hypotenuse?",
+      "choices": {
+        "A": "17 centimeters",
+        "B": "19 centimeters",
+        "C": "21 centimeters",
+        "D": "23 centimeters"
+      },
+      "correct": "A",
+      "correctAnswerText": "17 centimeters",
+      "explanation": "By the Pythagorean theorem, the hypotenuse is √(8² + 15²) = √(64 + 225) = √289 = 17 centimeters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A spinner has 10 equal sections numbered 1 through 10. If the spinner is spun once, what is the probability that it lands on a number greater than 7?",
+      "choices": {
+        "A": "1/5",
+        "B": "3/10",
+        "C": "2/5",
+        "D": "7/10"
+      },
+      "correct": "B",
+      "correctAnswerText": "3/10",
+      "explanation": "The numbers greater than 7 are 8, 9, and 10, so there are 3 favorable outcomes out of 10 total outcomes.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A jacket costs $76 before tax. The sales tax is 6.5%. What is the total cost of the jacket, including tax?",
+      "choices": {
+        "A": "$80.56",
+        "B": "$80.94",
+        "C": "$82.50",
+        "D": "$125.40"
+      },
+      "correct": "B",
+      "correctAnswerText": "$80.94",
+      "explanation": "The tax is 0.065 × 76 = $4.94. The total cost is $76 + $4.94 = $80.94.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A table follows a linear pattern. x: 1, 2, 3, 4 y: 9, 13, 17, 21 Which equation represents the relationship between x and y?",
+      "choices": {
+        "A": "y = 4x + 5",
+        "B": "y = 5x + 4",
+        "C": "y = 9x",
+        "D": "y = x + 8"
+      },
+      "correct": "A",
+      "correctAnswerText": "y = 4x + 5",
+      "explanation": "The y-values increase by 4 for each increase of 1 in x, so the slope is 4. When x = 1, y = 9, so 9 = 4(1) + 5.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A map uses a scale of 1 inch = 12 miles. Two towns are 4.5 inches apart on the map. What is the actual distance between the towns?",
+      "choices": {
+        "A": "16.5 miles",
+        "B": "36 miles",
+        "C": "48 miles",
+        "D": "54 miles"
+      },
+      "correct": "D",
+      "correctAnswerText": "54 miles",
+      "explanation": "Multiply the map distance by the scale: 4.5 × 12 = 54 miles.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M3-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A container has 5 grape candies, 4 lemon candies, and 3 orange candies. One candy is selected at random. What is the probability that the candy is not lemon?",
+      "choices": {
+        "A": "1/3",
+        "B": "1/2",
+        "C": "2/3",
+        "D": "3/4"
+      },
+      "correct": "C",
+      "correctAnswerText": "2/3",
+      "explanation": "There are 12 candies total. The candies that are not lemon are 5 + 3 = 8, so the probability is 8/12 = 2/3.",
+      "credits": 1
+    }
+  ]
+}

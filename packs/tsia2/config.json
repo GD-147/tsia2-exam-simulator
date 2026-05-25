@@ -19,7 +19,19 @@
       "examQuestions": 30,
       "type": "mcq",
       "examFiles": [
-        "tsia2_elar_exam_01.json"
+        "tsia2_elar_exam_01.json",
+        "tsia2_elar_exam_02.json",
+        "tsia2_elar_exam_03.json",
+        "tsia2_elar_exam_04.json",
+        "tsia2_elar_exam_05.json",
+        "tsia2_elar_exam_06.json",
+        "tsia2_elar_exam_07.json",
+        "tsia2_elar_exam_08.json",
+        "tsia2_elar_exam_09.json",
+        "tsia2_elar_exam_10.json",
+        "tsia2_elar_exam_11.json",
+        "tsia2_elar_exam_12.json",
+        "tsia2_elar_exam_13.json"
       ]
     },
     {
@@ -30,7 +42,19 @@
       "examQuestions": 20,
       "type": "mcq",
       "examFiles": [
-        "tsia2_math_exam_01.json"
+        "tsia2_math_exam_01.json",
+        "tsia2_math_exam_02.json",
+        "tsia2_math_exam_03.json",
+        "tsia2_math_exam_04.json",
+        "tsia2_math_exam_05.json",
+        "tsia2_math_exam_06.json",
+        "tsia2_math_exam_07.json",
+        "tsia2_math_exam_08.json",
+        "tsia2_math_exam_09.json",
+        "tsia2_math_exam_10.json",
+        "tsia2_math_exam_11.json",
+        "tsia2_math_exam_12.json",
+        "tsia2_math_exam_13.json"
       ]
     },
     {
@@ -41,7 +65,19 @@
       "examQuestions": 1,
       "type": "essay",
       "examFiles": [
-        "tsia2_essay_prompt_01.json"
+        "tsia2_essay_prompt_01.json",
+        "tsia2_essay_prompt_02.json",
+        "tsia2_essay_prompt_03.json",
+        "tsia2_essay_prompt_04.json",
+        "tsia2_essay_prompt_05.json",
+        "tsia2_essay_prompt_06.json",
+        "tsia2_essay_prompt_07.json",
+        "tsia2_essay_prompt_08.json",
+        "tsia2_essay_prompt_09.json",
+        "tsia2_essay_prompt_10.json",
+        "tsia2_essay_prompt_11.json",
+        "tsia2_essay_prompt_12.json",
+        "tsia2_essay_prompt_13.json"
       ]
     }
   ],

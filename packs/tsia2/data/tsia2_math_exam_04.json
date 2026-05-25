@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 04",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M4-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A bookstore sells a used calculator for $38.40. This price is 80% of the original price. What was the original price of the calculator?",
+      "choices": {
+        "A": "$30.72",
+        "B": "$46.40",
+        "C": "$48.00",
+        "D": "$50.40"
+      },
+      "correct": "C",
+      "correctAnswerText": "$48.00",
+      "explanation": "If $38.40 is 80% of the original price, then the original price is 38.40 ÷ 0.80 = $48.00.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which value of x satisfies the equation 4x + 7 = 31 − 2x?",
+      "choices": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct": "B",
+      "correctAnswerText": "4",
+      "explanation": "Add 2x to both sides to get 6x + 7 = 31. Subtract 7 to get 6x = 24, so x = 4.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular shipping label is 8 centimeters long and 5 centimeters wide. A smaller similar label has a width of 3 centimeters. What is the length of the smaller label?",
+      "choices": {
+        "A": "4.2 centimeters",
+        "B": "4.8 centimeters",
+        "C": "5.0 centimeters",
+        "D": "6.0 centimeters"
+      },
+      "correct": "B",
+      "correctAnswerText": "4.8 centimeters",
+      "explanation": "The scale factor from the larger label to the smaller label is 3/5. The smaller length is 8 × 3/5 = 4.8 centimeters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The table shows the number of hours four employees worked last week. Employee A: 18 Employee B: 24 Employee C: 27 Employee D: 31 What is the mean number of hours worked?",
+      "choices": {
+        "A": "24",
+        "B": "25",
+        "C": "26",
+        "D": "27"
+      },
+      "correct": "B",
+      "correctAnswerText": "25",
+      "explanation": "The total number of hours is 18 + 24 + 27 + 31 = 100. Dividing by 4 gives a mean of 25.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A car travels 238 miles using 8.5 gallons of gasoline. What is the car’s fuel efficiency in miles per gallon?",
+      "choices": {
+        "A": "24 miles per gallon",
+        "B": "26 miles per gallon",
+        "C": "28 miles per gallon",
+        "D": "30 miles per gallon"
+      },
+      "correct": "C",
+      "correctAnswerText": "28 miles per gallon",
+      "explanation": "Divide miles by gallons: 238 ÷ 8.5 = 28 miles per gallon.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A value of y is 5 more than twice a value of x. Which equation represents this relationship?",
+      "choices": {
+        "A": "y = 2x − 5",
+        "B": "y = 2x + 5",
+        "C": "y = 5x + 2",
+        "D": "y = x + 10"
+      },
+      "correct": "B",
+      "correctAnswerText": "y = 2x + 5",
+      "explanation": "“Twice a value of x” is 2x, and “5 more than” that amount is 2x + 5.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular prism has a length of 9 inches, a width of 4 inches, and a height of 6 inches. What is its volume?",
+      "choices": {
+        "A": "19 cubic inches",
+        "B": "108 cubic inches",
+        "C": "216 cubic inches",
+        "D": "324 cubic inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "216 cubic inches",
+      "explanation": "The volume of a rectangular prism is length × width × height, so 9 × 4 × 6 = 216 cubic inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A drawer contains 7 black socks and 5 white socks. One sock is selected at random. What is the probability that the sock is white?",
+      "choices": {
+        "A": "5/12",
+        "B": "7/12",
+        "C": "5/7",
+        "D": "1/2"
+      },
+      "correct": "A",
+      "correctAnswerText": "5/12",
+      "explanation": "There are 7 + 5 = 12 socks total, and 5 are white. The probability is 5/12.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student completed 45 questions on a review assignment. This was 3/5 of the total number of questions on the assignment. How many total questions were on the assignment?",
+      "choices": {
+        "A": "60",
+        "B": "72",
+        "C": "75",
+        "D": "90"
+      },
+      "correct": "C",
+      "correctAnswerText": "75",
+      "explanation": "If 45 is 3/5 of the total, then the total is 45 ÷ 3/5 = 45 × 5/3 = 75.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A sequence begins with 40 and decreases by 6 each term. Which expression gives the nth term of the sequence?",
+      "choices": {
+        "A": "40 − 6n",
+        "B": "46 − 6n",
+        "C": "40 + 6n",
+        "D": "6n − 40"
+      },
+      "correct": "B",
+      "correctAnswerText": "46 − 6n",
+      "explanation": "For an arithmetic sequence with first term 40 and common difference −6, the nth term is 40 + (n − 1)(−6), which simplifies to 46 − 6n.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A circle has an area of 49π square meters. What is the radius of the circle?",
+      "choices": {
+        "A": "7 meters",
+        "B": "14 meters",
+        "C": "24.5 meters",
+        "D": "49 meters"
+      },
+      "correct": "A",
+      "correctAnswerText": "7 meters",
+      "explanation": "The area of a circle is A = πr². If πr² = 49π, then r² = 49, so r = 7 meters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The waiting times, in minutes, for six customers were 12, 15, 15, 18, 20, and 28. Which statement is true?",
+      "choices": {
+        "A": "The median is 15 minutes.",
+        "B": "The median is 16.5 minutes.",
+        "C": "The range is 15 minutes.",
+        "D": "The mode is 18 minutes."
+      },
+      "correct": "B",
+      "correctAnswerText": "The median is 16.5 minutes.",
+      "explanation": "With six values, the median is the average of the third and fourth values: (15 + 18) ÷ 2 = 16.5.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A campus printer charges $0.09 per black-and-white page and $0.35 per color page. A student prints 24 black-and-white pages and 6 color pages. What is the total cost?",
+      "choices": {
+        "A": "$3.06",
+        "B": "$3.96",
+        "C": "$4.26",
+        "D": "$4.86"
+      },
+      "correct": "C",
+      "correctAnswerText": "$4.26",
+      "explanation": "The black-and-white pages cost 24 × $0.09 = $2.16, and the color pages cost 6 × $0.35 = $2.10. The total is $4.26.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve the inequality 3x − 4 > 11.",
+      "choices": {
+        "A": "x > 5",
+        "B": "x > 7/3",
+        "C": "x < 5",
+        "D": "x < 7/3"
+      },
+      "correct": "A",
+      "correctAnswerText": "x > 5",
+      "explanation": "Add 4 to both sides to get 3x > 15. Divide by 3 to get x > 5.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A right triangle has a hypotenuse of 25 inches and one leg of 7 inches. What is the length of the other leg?",
+      "choices": {
+        "A": "18 inches",
+        "B": "20 inches",
+        "C": "24 inches",
+        "D": "32 inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "24 inches",
+      "explanation": "Using the Pythagorean theorem, the missing leg is √(25² − 7²) = √(625 − 49) = √576 = 24 inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A quality check of 200 light bulbs found that 12 bulbs were defective. Based on this sample, what percent of the bulbs were defective?",
+      "choices": {
+        "A": "4%",
+        "B": "6%",
+        "C": "8%",
+        "D": "12%"
+      },
+      "correct": "B",
+      "correctAnswerText": "6%",
+      "explanation": "The defective rate is 12/200 = 0.06, or 6%.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A water tank contains 18 gallons of water. Water is added at a constant rate for 4 minutes, increasing the amount in the tank to 31 gallons. What is the average rate at which water is added?",
+      "choices": {
+        "A": "2.75 gallons per minute",
+        "B": "3.25 gallons per minute",
+        "C": "4.50 gallons per minute",
+        "D": "7.75 gallons per minute"
+      },
+      "correct": "B",
+      "correctAnswerText": "3.25 gallons per minute",
+      "explanation": "The amount of water increased by 31 − 18 = 13 gallons. Over 4 minutes, the rate was 13 ÷ 4 = 3.25 gallons per minute.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which expression is equivalent to (x − 3)(x + 8)?",
+      "choices": {
+        "A": "x² + 5x − 24",
+        "B": "x² − 5x − 24",
+        "C": "x² + 11x − 24",
+        "D": "x² + 5x + 24"
+      },
+      "correct": "A",
+      "correctAnswerText": "x² + 5x − 24",
+      "explanation": "Multiply the binomials: x² + 8x − 3x − 24 = x² + 5x − 24.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A line segment has endpoints (−3, −2) and (5, 4). What is the midpoint of the segment?",
+      "choices": {
+        "A": "(1, 1)",
+        "B": "(2, 2)",
+        "C": "(−1, −3)",
+        "D": "(4, 6)"
+      },
+      "correct": "A",
+      "correctAnswerText": "(1, 1)",
+      "explanation": "The midpoint is ((−3 + 5)/2, (−2 + 4)/2) = (1, 1).",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M4-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A password system uses one letter followed by one digit. The letter can be A, B, C, or D, and the digit can be 1, 2, or 3. If each password is equally likely, what is the probability of randomly choosing the password C2?",
+      "choices": {
+        "A": "1/7",
+        "B": "1/12",
+        "C": "2/12",
+        "D": "1/24"
+      },
+      "correct": "B",
+      "correctAnswerText": "1/12",
+      "explanation": "There are 4 × 3 = 12 possible passwords, and only one is C2. The probability is 1/12.",
+      "credits": 1
+    }
+  ]
+}

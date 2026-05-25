@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 06",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M6-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student buys a lab manual for $42 and safety goggles for $18. Sales tax is 7% of the combined price. What is the total cost, including tax?",
+      "choices": {
+        "A": "$60.07",
+        "B": "$62.94",
+        "C": "$64.20",
+        "D": "$67.00"
+      },
+      "correct": "C",
+      "correctAnswerText": "$64.20",
+      "explanation": "The combined price is $42 + $18 = $60. The sales tax is 0.07 × 60 = $4.20, so the total cost is $64.20.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve for x: 2(3x + 4) − 5 = 4x + 17",
+      "choices": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "11"
+      },
+      "correct": "C",
+      "correctAnswerText": "7",
+      "explanation": "Distribute and simplify: 6x + 8 − 5 = 4x + 17, so 6x + 3 = 4x + 17. Then 2x = 14, so x = 7.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A trapezoid has bases of 10 inches and 16 inches and a height of 7 inches. What is the area of the trapezoid?",
+      "choices": {
+        "A": "91 square inches",
+        "B": "104 square inches",
+        "C": "112 square inches",
+        "D": "182 square inches"
+      },
+      "correct": "A",
+      "correctAnswerText": "91 square inches",
+      "explanation": "The area of a trapezoid is 1/2 · (base 1 + base 2) · height. So the area is 1/2 · (10 + 16) · 7 = 91 square inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A student’s test scores are 78, 84, 91, and 87. What score must the student earn on the next test to have a mean of 86 for all five tests?",
+      "choices": {
+        "A": "86",
+        "B": "88",
+        "C": "90",
+        "D": "92"
+      },
+      "correct": "C",
+      "correctAnswerText": "90",
+      "explanation": "To have a mean of 86 for 5 tests, the total must be 86 × 5 = 430. The first four scores total 340, so the next score must be 430 − 340 = 90.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A campus shuttle travels 7.5 miles in 18 minutes. At the same average speed, how far will it travel in 42 minutes?",
+      "choices": {
+        "A": "14.5 miles",
+        "B": "16.5 miles",
+        "C": "17.5 miles",
+        "D": "18.5 miles"
+      },
+      "correct": "C",
+      "correctAnswerText": "17.5 miles",
+      "explanation": "The shuttle travels 7.5 ÷ 18 = 5/12 mile per minute. In 42 minutes, it travels 42 × 5/12 = 17.5 miles.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which equation has the same solution as 5x − 9 = 21?",
+      "choices": {
+        "A": "5x = 12",
+        "B": "5x = 30",
+        "C": "x − 9 = 21",
+        "D": "x = 21 − 9"
+      },
+      "correct": "B",
+      "correctAnswerText": "5x = 30",
+      "explanation": "Adding 9 to both sides of 5x − 9 = 21 gives the equivalent equation 5x = 30.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular poster has an area of 300 square inches. Its width is 15 inches. What is its length?",
+      "choices": {
+        "A": "18 inches",
+        "B": "20 inches",
+        "C": "25 inches",
+        "D": "45 inches"
+      },
+      "correct": "B",
+      "correctAnswerText": "20 inches",
+      "explanation": "For a rectangle, area = length × width. Since 300 = length × 15, the length is 300 ÷ 15 = 20 inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A box contains 4 red markers, 5 blue markers, and 6 green markers. One marker is selected at random. What is the probability that the marker is not green?",
+      "choices": {
+        "A": "2/5",
+        "B": "3/5",
+        "C": "5/9",
+        "D": "2/3"
+      },
+      "correct": "B",
+      "correctAnswerText": "3/5",
+      "explanation": "There are 15 markers total, and 9 are not green. The probability is 9/15 = 3/5.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "An employee earns $17.50 per hour. Last week, the employee worked 28 hours and had $96 withheld for taxes and deductions. What was the employee’s take-home pay?",
+      "choices": {
+        "A": "$394",
+        "B": "$406",
+        "C": "$490",
+        "D": "$586"
+      },
+      "correct": "A",
+      "correctAnswerText": "$394",
+      "explanation": "Gross pay is 17.50 × 28 = $490. After $96 is withheld, take-home pay is $490 − $96 = $394.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A table shows values of a linear function. x: −1, 0, 1, 2 y: 7, 4, 1, −2 Which equation represents the function?",
+      "choices": {
+        "A": "y = 3x + 4",
+        "B": "y = −3x + 4",
+        "C": "y = −4x + 3",
+        "D": "y = x − 3"
+      },
+      "correct": "B",
+      "correctAnswerText": "y = −3x + 4",
+      "explanation": "The y-values decrease by 3 for each increase of 1 in x, so the slope is −3. When x = 0, y = 4, so the equation is y = −3x + 4.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A cube has a side length of 5 centimeters. What is the volume of the cube?",
+      "choices": {
+        "A": "25 cubic centimeters",
+        "B": "75 cubic centimeters",
+        "C": "100 cubic centimeters",
+        "D": "125 cubic centimeters"
+      },
+      "correct": "D",
+      "correctAnswerText": "125 cubic centimeters",
+      "explanation": "The volume of a cube is side³. With side length 5, the volume is 5³ = 125 cubic centimeters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A college advisor recorded the number of students seen each day during one week. Monday: 14 Tuesday: 21 Wednesday: 19 Thursday: 24 Friday: 22 Which statement is true?",
+      "choices": {
+        "A": "The range is 8 students.",
+        "B": "The median is 21 students.",
+        "C": "The mean is 19 students.",
+        "D": "The mode is 22 students."
+      },
+      "correct": "B",
+      "correctAnswerText": "The median is 21 students.",
+      "explanation": "In order, the values are 14, 19, 21, 22, and 24. The middle value is 21, so the median is 21.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A savings account balance increases from $480 to $540 in one year. What is the percent increase?",
+      "choices": {
+        "A": "10%",
+        "B": "12.5%",
+        "C": "15%",
+        "D": "20%"
+      },
+      "correct": "B",
+      "correctAnswerText": "12.5%",
+      "explanation": "The increase is $540 − $480 = $60. The percent increase is 60/480 = 0.125, or 12.5%.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which expression is equivalent to 2x² + 7x − 15?",
+      "choices": {
+        "A": "(2x − 3)(x + 5)",
+        "B": "(2x + 3)(x − 5)",
+        "C": "(x − 3)(2x + 5)",
+        "D": "(x + 3)(2x − 5)"
+      },
+      "correct": "A",
+      "correctAnswerText": "(2x − 3)(x + 5)",
+      "explanation": "Multiplying gives 2x² + 10x − 3x − 15 = 2x² + 7x − 15.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A line segment has endpoints (2, −3) and (8, 5). What is the distance between the endpoints?",
+      "choices": {
+        "A": "8 units",
+        "B": "9 units",
+        "C": "10 units",
+        "D": "14 units"
+      },
+      "correct": "C",
+      "correctAnswerText": "10 units",
+      "explanation": "The horizontal change is 8 − 2 = 6, and the vertical change is 5 − (−3) = 8. The distance is √(6² + 8²) = √100 = 10 units.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A student organization has 9 members from the nursing program and 6 members from the business program. If one member is chosen at random to give a presentation, what is the probability that the member is from the business program?",
+      "choices": {
+        "A": "2/5",
+        "B": "3/5",
+        "C": "2/3",
+        "D": "3/2"
+      },
+      "correct": "A",
+      "correctAnswerText": "2/5",
+      "explanation": "There are 9 + 6 = 15 members total, and 6 are from the business program. The probability is 6/15 = 2/5.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A rectangular parking permit sticker has an area of 18 square inches. If its length is 6 inches, what is its width?",
+      "choices": {
+        "A": "2 inches",
+        "B": "3 inches",
+        "C": "4 inches",
+        "D": "12 inches"
+      },
+      "correct": "B",
+      "correctAnswerText": "3 inches",
+      "explanation": "For a rectangle, area = length × width. Since 18 = 6 × width, the width is 18 ÷ 6 = 3 inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "The value of a used tablet decreases by 12% each year. If the tablet is worth $300 now, which expression represents its value after 2 years?",
+      "choices": {
+        "A": "300(0.12)²",
+        "B": "300(0.88)²",
+        "C": "300 − 2(0.12)",
+        "D": "300(1.12)²"
+      },
+      "correct": "B",
+      "correctAnswerText": "300(0.88)²",
+      "explanation": "A 12% yearly decrease means the value is multiplied by 1 − 0.12 = 0.88 each year. After 2 years, the value is 300(0.88)².",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A right triangle has one leg measuring 9 feet and a hypotenuse measuring 15 feet. What is the length of the other leg?",
+      "choices": {
+        "A": "6 feet",
+        "B": "10 feet",
+        "C": "12 feet",
+        "D": "18 feet"
+      },
+      "correct": "C",
+      "correctAnswerText": "12 feet",
+      "explanation": "Using the Pythagorean theorem, the missing leg is √(15² − 9²) = √(225 − 81) = √144 = 12 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M6-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A table shows the number of students who preferred two types of study sessions. Morning session: 32 students Evening session: 48 students Based on the table, what percent of the students preferred the evening session?",
+      "choices": {
+        "A": "40%",
+        "B": "48%",
+        "C": "60%",
+        "D": "80%"
+      },
+      "correct": "C",
+      "correctAnswerText": "60%",
+      "explanation": "There are 32 + 48 = 80 students total. The evening session was preferred by 48 students, and 48/80 = 0.60, or 60%.",
+      "credits": 1
+    }
+  ]
+}

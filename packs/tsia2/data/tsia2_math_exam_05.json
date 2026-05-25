@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 05",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M5-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student pays $1,260 for a 6-credit course. What is the cost per credit?",
+      "choices": {
+        "A": "$180",
+        "B": "$200",
+        "C": "$210",
+        "D": "$220"
+      },
+      "correct": "C",
+      "correctAnswerText": "$210",
+      "explanation": "Divide the total cost by the number of credits: $1,260 ÷ 6 = $210 per credit.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve for x: 7x − 12 = 3x + 24",
+      "choices": {
+        "A": "6",
+        "B": "8",
+        "C": "9",
+        "D": "12"
+      },
+      "correct": "C",
+      "correctAnswerText": "9",
+      "explanation": "Subtract 3x from both sides to get 4x − 12 = 24. Add 12 to get 4x = 36, so x = 9.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular courtyard is 18 meters long and 11 meters wide. A walkway is built along one long side and one short side of the courtyard. How many meters of walkway are needed?",
+      "choices": {
+        "A": "29 meters",
+        "B": "36 meters",
+        "C": "47 meters",
+        "D": "58 meters"
+      },
+      "correct": "A",
+      "correctAnswerText": "29 meters",
+      "explanation": "The walkway covers one long side and one short side, so the total length is 18 + 11 = 29 meters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The table shows the number of survey responses collected by a student group over four days. Monday: 34 Tuesday: 41 Wednesday: 37 Thursday: 48 What is the mean number of responses collected per day?",
+      "choices": {
+        "A": "38",
+        "B": "39",
+        "C": "40",
+        "D": "41"
+      },
+      "correct": "C",
+      "correctAnswerText": "40",
+      "explanation": "The total is 34 + 41 + 37 + 48 = 160. Dividing by 4 gives a mean of 40.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A meal plan provides 18 lunches for $153. At this rate, what would be the cost of 25 lunches?",
+      "choices": {
+        "A": "$197.50",
+        "B": "$204.00",
+        "C": "$212.50",
+        "D": "$225.00"
+      },
+      "correct": "C",
+      "correctAnswerText": "$212.50",
+      "explanation": "The cost per lunch is $153 ÷ 18 = $8.50. For 25 lunches, the cost is 25 × $8.50 = $212.50.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which expression is equivalent to 3(4y + 5) − 2(3y − 7)?",
+      "choices": {
+        "A": "6y + 1",
+        "B": "6y + 29",
+        "C": "18y + 1",
+        "D": "18y + 29"
+      },
+      "correct": "B",
+      "correctAnswerText": "6y + 29",
+      "explanation": "Distribute and combine like terms: 12y + 15 − 6y + 14 = 6y + 29.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A circular table has a circumference of 16π inches. What is the diameter of the table?",
+      "choices": {
+        "A": "8 inches",
+        "B": "16 inches",
+        "C": "32 inches",
+        "D": "64 inches"
+      },
+      "correct": "B",
+      "correctAnswerText": "16 inches",
+      "explanation": "The circumference of a circle is C = πd. If C = 16π, then d = 16 inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A bag contains 9 yellow beads, 6 purple beads, and 5 silver beads. One bead is selected at random. What is the probability that the bead is yellow or silver?",
+      "choices": {
+        "A": "7/20",
+        "B": "11/20",
+        "C": "7/10",
+        "D": "3/4"
+      },
+      "correct": "C",
+      "correctAnswerText": "7/10",
+      "explanation": "There are 9 + 6 + 5 = 20 beads total. Yellow or silver beads total 9 + 5 = 14, so the probability is 14/20 = 7/10.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A store increases the price of a desk from $160 to $188. What is the percent increase?",
+      "choices": {
+        "A": "14%",
+        "B": "17.5%",
+        "C": "20%",
+        "D": "28%"
+      },
+      "correct": "B",
+      "correctAnswerText": "17.5%",
+      "explanation": "The increase is $188 − $160 = $28. The percent increase is 28/160 = 0.175, or 17.5%.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A tutoring center charges $18 for registration and $16 for each tutoring session. If a student pays $114 in total, how many tutoring sessions did the student attend?",
+      "choices": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correct": "B",
+      "correctAnswerText": "6",
+      "explanation": "Subtract the registration fee: 114 − 18 = 96. Divide by the session cost: 96 ÷ 16 = 6 sessions.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A triangular lot has side lengths of 13 yards, 14 yards, and 15 yards. Its perimeter will be fenced. The fence costs $9 per yard. What is the total cost of the fence?",
+      "choices": {
+        "A": "$126",
+        "B": "$252",
+        "C": "$378",
+        "D": "$504"
+      },
+      "correct": "C",
+      "correctAnswerText": "$378",
+      "explanation": "The perimeter is 13 + 14 + 15 = 42 yards. At $9 per yard, the cost is 42 × 9 = $378.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The data set shows the numbers of minutes a student spent exercising on seven days: 20, 25, 25, 30, 35, 40, 70 Which statement best describes the effect of the value 70 on the data set?",
+      "choices": {
+        "A": "It increases the mean more than it increases the median.",
+        "B": "It increases the median more than it increases the mean.",
+        "C": "It makes the mean and median equal.",
+        "D": "It decreases the range of the data set."
+      },
+      "correct": "A",
+      "correctAnswerText": "It increases the mean more than it increases the median.",
+      "explanation": "The value 70 is much larger than the other values, so it pulls the mean upward. The median remains the middle value, 30.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A package weighs 4.8 pounds. The shipping company charges $2.35 per pound, rounded to the nearest pound before calculating the charge. What is the shipping charge?",
+      "choices": {
+        "A": "$9.40",
+        "B": "$11.28",
+        "C": "$11.75",
+        "D": "$12.20"
+      },
+      "correct": "C",
+      "correctAnswerText": "$11.75",
+      "explanation": "The weight 4.8 pounds rounds to 5 pounds. The charge is 5 × $2.35 = $11.75.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which ordered pair is a solution to the system of equations? y = 2x − 1 y = −x + 8",
+      "choices": {
+        "A": "(2, 3)",
+        "B": "(3, 5)",
+        "C": "(4, 7)",
+        "D": "(5, 9)"
+      },
+      "correct": "B",
+      "correctAnswerText": "(3, 5)",
+      "explanation": "Substitute x = 3 into both equations: y = 2(3) − 1 = 5 and y = −3 + 8 = 5, so (3, 5) satisfies both equations.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular room is 15 feet long and 12 feet wide. A scale drawing of the room uses 1 inch to represent 3 feet. What are the dimensions of the room on the scale drawing?",
+      "choices": {
+        "A": "3 inches by 2 inches",
+        "B": "4 inches by 5 inches",
+        "C": "5 inches by 4 inches",
+        "D": "45 inches by 36 inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "5 inches by 4 inches",
+      "explanation": "Divide each actual dimension by 3: 15 ÷ 3 = 5 inches and 12 ÷ 3 = 4 inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A committee has 5 first-year students and 7 second-year students. If two students are selected at random without replacement, what is the probability that both students are second-year students?",
+      "choices": {
+        "A": "7/22",
+        "B": "7/24",
+        "C": "49/144",
+        "D": "1/2"
+      },
+      "correct": "A",
+      "correctAnswerText": "7/22",
+      "explanation": "The probability of selecting a second-year student first is 7/12. Without replacement, the probability of selecting a second-year student second is 6/11. The product is 7/12 × 6/11 = 42/132 = 7/22.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A phone battery drops from 92% charged to 56% charged in 3 hours. If the battery charge decreases at the same average rate, how many percentage points does it drop per hour?",
+      "choices": {
+        "A": "9 percentage points per hour",
+        "B": "10 percentage points per hour",
+        "C": "12 percentage points per hour",
+        "D": "36 percentage points per hour"
+      },
+      "correct": "C",
+      "correctAnswerText": "12 percentage points per hour",
+      "explanation": "The charge drops by 92 − 56 = 36 percentage points over 3 hours. The average drop is 36 ÷ 3 = 12 percentage points per hour.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which expression is equivalent to x² − 16?",
+      "choices": {
+        "A": "(x − 4)(x − 4)",
+        "B": "(x + 4)(x + 4)",
+        "C": "(x − 4)(x + 4)",
+        "D": "(x − 8)(x + 2)"
+      },
+      "correct": "C",
+      "correctAnswerText": "(x − 4)(x + 4)",
+      "explanation": "x² − 16 is a difference of squares: x² − 4² = (x − 4)(x + 4).",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A point is located at (−4, 6). It is moved 7 units to the right and 9 units down. What are the coordinates of the new point?",
+      "choices": {
+        "A": "(−11, 15)",
+        "B": "(−11, −3)",
+        "C": "(3, 15)",
+        "D": "(3, −3)"
+      },
+      "correct": "D",
+      "correctAnswerText": "(3, −3)",
+      "explanation": "Moving 7 units right changes the x-coordinate from −4 to 3. Moving 9 units down changes the y-coordinate from 6 to −3.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M5-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A small business tracks the number of orders it receives during five weekdays. Monday: 16 Tuesday: 19 Wednesday: 23 Thursday: 23 Friday: 29 Which statement is true?",
+      "choices": {
+        "A": "The median is 19 orders.",
+        "B": "The mode is 23 orders.",
+        "C": "The range is 23 orders.",
+        "D": "The mean is 23 orders."
+      },
+      "correct": "B",
+      "correctAnswerText": "The mode is 23 orders.",
+      "explanation": "The value 23 appears twice, more often than any other value in the data set.",
+      "credits": 1
+    }
+  ]
+}

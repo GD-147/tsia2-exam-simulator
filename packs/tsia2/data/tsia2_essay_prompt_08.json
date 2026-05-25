@@ -1,0 +1,19 @@
+{
+  "title": "TSIA2 Essay Practice Prompt 08",
+  "section": "essay",
+  "questions": [
+    {
+      "id": "TSIA2-ES8-001",
+      "section": "Essay",
+      "type": "essay",
+      "itemType": "essay",
+      "focus": "",
+      "category": "",
+      "prompt": "Some people believe that schools and colleges should teach students how to evaluate news sources, advertisements, social media posts, and online claims. They argue that these skills are necessary for responsible decision-making in modern life. Others believe that students already receive enough instruction in reading and research and that additional media literacy lessons would take time away from core academic subjects. Assignment: Write an essay of 300–600 words in which you develop your point of view on the issue presented in the passage. Support your position with reasoning and examples from your reading, studies, experience, or observations.",
+      "modelAnswer": "A strong response should state a clear position on requiring media literacy instruction, support that position with specific reasons and examples, address the issue thoughtfully, and demonstrate organized, controlled writing.",
+      "scoringGuidance": "A strong response should state a clear position on requiring media literacy instruction, support that position with specific reasons and examples, address the issue thoughtfully, and demonstrate organized, controlled writing.",
+      "rubric": "Scores range from 8 for a focused, well-developed, logically organized essay with strong language control to 0 for a blank, off-topic, too short, incoherent, or non-English response.",
+      "credits": 1
+    }
+  ]
+}

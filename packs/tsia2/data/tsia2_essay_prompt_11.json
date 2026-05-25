@@ -1,0 +1,19 @@
+{
+  "title": "TSIA2 Essay Practice Prompt 11",
+  "section": "essay",
+  "questions": [
+    {
+      "id": "TSIA2-ES11-001",
+      "section": "Essay",
+      "type": "essay",
+      "itemType": "essay",
+      "focus": "",
+      "category": "",
+      "prompt": "Some people believe that students should learn basic conflict-resolution skills, such as listening calmly, explaining concerns clearly, and finding fair compromises. They argue that these skills are useful in school, work, family, and community situations. Others believe that conflict resolution is best learned through personal experience rather than formal lessons. Assignment: Write an essay of 300–600 words in which you develop your point of view on the issue presented in the passage. Support your position with reasoning and examples from your reading, studies, experience, or observations.",
+      "modelAnswer": "A strong response should state a clear position on formal instruction in conflict-resolution skills, support that position with specific reasons and examples, address the issue thoughtfully, and demonstrate organized, controlled writing.",
+      "scoringGuidance": "A strong response should state a clear position on formal instruction in conflict-resolution skills, support that position with specific reasons and examples, address the issue thoughtfully, and demonstrate organized, controlled writing.",
+      "rubric": "Scores range from 8 for a focused, well-developed, logically organized essay with strong language control to 0 for a blank, off-topic, too short, incoherent, or non-English response.",
+      "credits": 1
+    }
+  ]
+}

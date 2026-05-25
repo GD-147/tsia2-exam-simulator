@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 10",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E10-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The nursing simulation lab at Prairie Bend College was designed to look like a small hospital unit, complete with adjustable beds, monitors, supply carts, and computerized patient mannequins. At first, some students thought the mannequins made the exercises feel artificial. Instructors explained that the purpose of the lab was not to replace real clinical experience but to give students a place to practice before working with actual patients. During one simulation, a mannequin’s breathing rate changed, and students had to decide which information to report first. In another, students practiced speaking calmly to a “family member” played by an instructor. After each session, the class discussed what went well and what should be improved. These conversations were as important as the technical skills because they helped students connect actions with reasoning. By making mistakes in a controlled setting, students learned to slow down, communicate clearly, and explain the choices behind their care. Which statement best expresses the central idea of the passage?",
+      "choices": {
+        "A": "Nursing simulation labs can help students practice clinical skills and decision-making in a safe setting.",
+        "B": "Computerized mannequins should replace all real clinical experiences for nursing students.",
+        "C": "Nursing students learn best when they avoid discussing mistakes after practice.",
+        "D": "Simulation labs are useful only for students who already have hospital experience."
+      },
+      "correct": "A",
+      "correctAnswerText": "Nursing simulation labs can help students practice clinical skills and decision-making in a safe setting.",
+      "explanation": "The passage explains that the lab lets students practice technical actions, communication, and reasoning before working with real patients.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The nursing simulation lab at Prairie Bend College was designed to look like a small hospital unit, complete with adjustable beds, monitors, supply carts, and computerized patient mannequins. At first, some students thought the mannequins made the exercises feel artificial. Instructors explained that the purpose of the lab was not to replace real clinical experience but to give students a place to practice before working with actual patients. During one simulation, a mannequin’s breathing rate changed, and students had to decide which information to report first. In another, students practiced speaking calmly to a “family member” played by an instructor. After each session, the class discussed what went well and what should be improved. These conversations were as important as the technical skills because they helped students connect actions with reasoning. By making mistakes in a controlled setting, students learned to slow down, communicate clearly, and explain the choices behind their care. According to the passage, why do instructors use the simulation lab?",
+      "choices": {
+        "A": "To give students a place to practice before working with actual patients",
+        "B": "To prevent students from learning communication skills",
+        "C": "To allow students to skip all discussions after practice",
+        "D": "To make nursing students focus only on hospital equipment"
+      },
+      "correct": "A",
+      "correctAnswerText": "To give students a place to practice before working with actual patients",
+      "explanation": "The instructors explain that the lab supports practice before real clinical experience.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The nursing simulation lab at Prairie Bend College was designed to look like a small hospital unit, complete with adjustable beds, monitors, supply carts, and computerized patient mannequins. At first, some students thought the mannequins made the exercises feel artificial. Instructors explained that the purpose of the lab was not to replace real clinical experience but to give students a place to practice before working with actual patients. During one simulation, a mannequin’s breathing rate changed, and students had to decide which information to report first. In another, students practiced speaking calmly to a “family member” played by an instructor. After each session, the class discussed what went well and what should be improved. These conversations were as important as the technical skills because they helped students connect actions with reasoning. By making mistakes in a controlled setting, students learned to slow down, communicate clearly, and explain the choices behind their care. In the passage, the word controlled most nearly means",
+      "choices": {
+        "A": "carefully managed",
+        "B": "completely silent",
+        "C": "unusually crowded",
+        "D": "impossible to change"
+      },
+      "correct": "A",
+      "correctAnswerText": "carefully managed",
+      "explanation": "In context, a controlled setting is one where students can practice and make mistakes safely under instructor guidance.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The nursing simulation lab at Prairie Bend College was designed to look like a small hospital unit, complete with adjustable beds, monitors, supply carts, and computerized patient mannequins. At first, some students thought the mannequins made the exercises feel artificial. Instructors explained that the purpose of the lab was not to replace real clinical experience but to give students a place to practice before working with actual patients. During one simulation, a mannequin’s breathing rate changed, and students had to decide which information to report first. In another, students practiced speaking calmly to a “family member” played by an instructor. After each session, the class discussed what went well and what should be improved. These conversations were as important as the technical skills because they helped students connect actions with reasoning. By making mistakes in a controlled setting, students learned to slow down, communicate clearly, and explain the choices behind their care. Which detail best supports the idea that the simulation lab teaches more than technical procedures?",
+      "choices": {
+        "A": "The lab contains adjustable beds, monitors, and supply carts.",
+        "B": "Students practiced speaking calmly and discussed the reasoning behind their actions.",
+        "C": "Some students first thought the mannequins seemed artificial.",
+        "D": "The lab was designed to look like a small hospital unit."
+      },
+      "correct": "B",
+      "correctAnswerText": "Students practiced speaking calmly and discussed the reasoning behind their actions.",
+      "explanation": "This detail shows that the lab teaches communication and decision-making, not only technical procedures.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The county clerk’s office revised its voter registration instructions after staff noticed that many residents left the apartment-number field blank. The old instructions simply said “address.” The new version says, “Street address, apartment or unit number if any, city, state, and ZIP code.” Staff also added a sample entry on the back of the form. The change reduced the number of applications returned for missing information. What is the main purpose of the revised instructions?",
+      "choices": {
+        "A": "To help residents provide complete address information",
+        "B": "To make residents submit applications in person",
+        "C": "To remove the apartment-number field from the form",
+        "D": "To prevent staff from reviewing applications"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help residents provide complete address information",
+      "explanation": "The revised wording and sample entry help residents include all required address details.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Sofia believed that preparing for a speech meant memorizing every sentence. During practice, however, she froze whenever she forgot one word. Her instructor suggested that she memorize only the main points and practice explaining them in different ways. At first, Sofia worried that this would make her speech less polished. Instead, she sounded more natural and recovered more easily when interrupted by a question. What can reasonably be inferred about Sofia?",
+      "choices": {
+        "A": "She learns that understanding main ideas can be more useful than memorizing exact wording.",
+        "B": "She decides that speeches should never be practiced before class.",
+        "C": "She discovers that answering questions always makes a speech worse.",
+        "D": "She believes polished speaking requires avoiding main points."
+      },
+      "correct": "A",
+      "correctAnswerText": "She learns that understanding main ideas can be more useful than memorizing exact wording.",
+      "explanation": "Sofia becomes more natural and flexible when she focuses on main points instead of memorizing every sentence.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A neighborhood committee wants to install public benches along a long walking route to the grocery store. Supporters say benches would help older residents, parents with small children, and people carrying heavy bags rest along the way. Some residents worry that benches could attract litter or block narrow sidewalks. The committee is considering locations with wider pavement and a maintenance plan with nearby volunteers. Which statement best describes the committee’s approach?",
+      "choices": {
+        "A": "It is considering the usefulness of benches while addressing concerns about placement and upkeep.",
+        "B": "It has decided to remove all sidewalks near the grocery store.",
+        "C": "It believes benches should be installed without considering pedestrian movement.",
+        "D": "It wants to discourage residents from walking to the grocery store."
+      },
+      "correct": "A",
+      "correctAnswerText": "It is considering the usefulness of benches while addressing concerns about placement and upkeep.",
+      "explanation": "The committee recognizes the benefits of benches and considers wider sidewalks and maintenance to address concerns.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In an economics lesson, the instructor compares a household budget to a map. A map does not force travelers to choose one destination, but it helps them see possible routes, distances, and obstacles. Similarly, a budget does not decide a person’s priorities, but it can reveal whether spending habits match those priorities. The comparison helps students understand budgeting as a planning tool rather than a punishment. What is the main purpose of the map comparison?",
+      "choices": {
+        "A": "To show that a budget can help people make informed choices without deciding their goals for them",
+        "B": "To prove that all travelers should use paper maps instead of phone apps",
+        "C": "To argue that budgets prevent people from spending money on anything enjoyable",
+        "D": "To explain why economics classes should focus only on transportation"
+      },
+      "correct": "A",
+      "correctAnswerText": "To show that a budget can help people make informed choices without deciding their goals for them",
+      "explanation": "The map comparison presents budgeting as a tool for planning and decision-making.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Schools should provide students with printed planners at the beginning of the year. A planner gives students one place to record assignments, deadlines, and activities. Writing tasks down by hand can make responsibilities feel more concrete. Passage 2: Printed planners can help some students, but schools should not assume one system works for everyone. Some students manage assignments better with phone calendars, reminder apps, or online learning platforms. The important goal is helping students choose a reliable system they will actually use. How does Passage 2 respond to Passage 1?",
+      "choices": {
+        "A": "Passage 2 agrees that planning matters but argues that students may need different tools.",
+        "B": "Passage 2 claims that students should not record assignments or deadlines.",
+        "C": "Passage 2 argues that printed planners are the only reliable method for organizing work.",
+        "D": "Passage 2 says that online learning platforms should never include due dates."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 agrees that planning matters but argues that students may need different tools.",
+      "explanation": "Passage 2 supports the goal of organization but says different students may use different reliable systems.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article about public fountains explains that they once served a practical purpose by providing drinking water for people and animals in crowded towns. Today, many fountains are decorative, but the author argues that they still create gathering places. People meet near them, rest beside them, and use them as landmarks when giving directions. The author’s point is that a feature can lose one function while gaining or keeping another. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "Public fountains may no longer serve the same practical function, but they can still shape public space.",
+        "B": "Public fountains should be removed because people no longer depend on them for drinking water.",
+        "C": "Decorative fountains are useful only when animals can drink from them.",
+        "D": "Town landmarks are unnecessary when people have written addresses."
+      },
+      "correct": "A",
+      "correctAnswerText": "Public fountains may no longer serve the same practical function, but they can still shape public space.",
+      "explanation": "The passage explains that fountains once provided water and now can still serve as landmarks and gathering places.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The short story describes an old bicycle repair shop where the owner keeps a row of worn tires hanging from the ceiling. The narrator says the tires “circled above the room like stories waiting to be ridden again.” The image suggests that the shop is not only a place for fixing machines but also a place where past journeys are remembered and made possible again. What effect does the quoted image most likely create?",
+      "choices": {
+        "A": "It gives the repair shop a sense of memory and renewed possibility.",
+        "B": "It shows that the tires are dangerous because they may fall.",
+        "C": "It suggests that the owner refuses to repair bicycles.",
+        "D": "It makes the shop seem empty and unused."
+      },
+      "correct": "A",
+      "correctAnswerText": "It gives the repair shop a sense of memory and renewed possibility.",
+      "explanation": "The image connects the tires to past and future journeys, giving the shop emotional significance.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A math instructor tells students to show their work even when they can solve a problem mentally. Written steps help instructors identify where an error occurred, but they also help students check their own reasoning. A final answer alone may show whether a student was right or wrong; the steps show how the student was thinking. Which sentence best states the instructor’s point?",
+      "choices": {
+        "A": "Showing work helps reveal and check the reasoning behind an answer.",
+        "B": "Students should avoid mental math in every situation.",
+        "C": "A final answer is always more important than the process used to find it.",
+        "D": "Written steps are useful only when the answer is incorrect."
+      },
+      "correct": "A",
+      "correctAnswerText": "Showing work helps reveal and check the reasoning behind an answer.",
+      "explanation": "The instructor says written steps help both instructors and students understand the thinking behind a solution.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The training guide for delivery drivers instructs them to photograph packages only after placing them fully inside the customer’s porch area. A photo taken from the sidewalk may prove that the driver reached the address, but it may not show whether the package was left in a safe location. The guide emphasizes that the photograph should document both delivery and placement. Why does the guide require a photograph after the package is placed?",
+      "choices": {
+        "A": "To show that the package was delivered and left in an appropriate location",
+        "B": "To encourage drivers to photograph every house on the street",
+        "C": "To replace the need for customers to order packages online",
+        "D": "To prove that sidewalks are safer than porches"
+      },
+      "correct": "A",
+      "correctAnswerText": "To show that the package was delivered and left in an appropriate location",
+      "explanation": "The photograph should document both the delivery and the safe placement of the package.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article on reusable food containers notes that they can reduce single-use packaging when people use them regularly. However, the author also explains that buying more containers than needed can create unnecessary clutter and waste. The most sustainable choice, the article argues, is not simply owning reusable items but using a manageable number of them consistently. Which statement best describes the author’s reasoning?",
+      "choices": {
+        "A": "Reusable containers are most beneficial when they are used regularly and not purchased in excess.",
+        "B": "Reusable containers are harmful in every situation.",
+        "C": "Single-use packaging is always more sustainable than reusable containers.",
+        "D": "People should buy as many reusable containers as possible regardless of need."
+      },
+      "correct": "A",
+      "correctAnswerText": "Reusable containers are most beneficial when they are used regularly and not purchased in excess.",
+      "explanation": "The author argues that consistent use, not simply buying many reusable items, creates the benefit.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Emilio began working at a small print shop, he thought customer service meant agreeing to every request. One afternoon, a customer asked whether a large banner could be printed in twenty minutes. Emilio almost said yes, but his coworker explained that the ink needed time to dry before the banner could be rolled safely. Emilio learned to offer an honest timeline and suggest alternatives instead of making a promise the shop could not keep. What lesson does Emilio learn?",
+      "choices": {
+        "A": "Good service sometimes requires setting realistic expectations.",
+        "B": "Customers should never be offered alternative solutions.",
+        "C": "Print shops should accept only small orders.",
+        "D": "Fast promises are always better than accurate information."
+      },
+      "correct": "A",
+      "correctAnswerText": "Good service sometimes requires setting realistic expectations.",
+      "explanation": "Emilio learns that honest timelines and alternatives are better than promises the shop cannot keep.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a research poster preview session before the annual student showcase. (2) Many students prepare posters for science, history, psychology, and business projects, but they may not know whether their main points are clear to a general audience. (3) During a preview session, students could display draft posters and receive feedback from classmates, tutors, and instructors. (4) Reviewers could comment on organization, visual clarity, explanation of evidence, and the amount of text on each poster. (5) This feedback would help students revise before presenting to visitors at the showcase. (6) Some students prefer to print posters in color because the final version looks more attractive. (7) To make the session efficient, each reviewer could use a short checklist with three or four questions. (8) A poster preview session would improve student presentations by giving students time to revise before the public event. Which sentence should be removed because it does not support the main idea of the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "C",
+      "correctAnswerText": "Sentence 6",
+      "explanation": "Sentence 6 discusses printing in color, but it does not support the main proposal for a research poster preview session.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a research poster preview session before the annual student showcase. (2) Many students prepare posters for science, history, psychology, and business projects, but they may not know whether their main points are clear to a general audience. (3) During a preview session, students could display draft posters and receive feedback from classmates, tutors, and instructors. (4) Reviewers could comment on organization, visual clarity, explanation of evidence, and the amount of text on each poster. (5) This feedback would help students revise before presenting to visitors at the showcase. (6) Some students prefer to print posters in color because the final version looks more attractive. (7) To make the session efficient, each reviewer could use a short checklist with three or four questions. (8) A poster preview session would improve student presentations by giving students time to revise before the public event. Which sentence best strengthens the support for sentence 4?",
+      "choices": {
+        "A": "A reviewer might note that a chart needs a clearer title or that a conclusion should be placed closer to the evidence.",
+        "B": "Student showcases are often scheduled near the end of a semester.",
+        "C": "Some classrooms have tables that can be moved for group activities.",
+        "D": "Posters can be printed in several sizes depending on the assignment."
+      },
+      "correct": "A",
+      "correctAnswerText": "A reviewer might note that a chart needs a clearer title or that a conclusion should be placed closer to the evidence.",
+      "explanation": "This sentence gives specific examples of useful feedback on poster organization and clarity.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a research poster preview session before the annual student showcase. (2) Many students prepare posters for science, history, psychology, and business projects, but they may not know whether their main points are clear to a general audience. (3) During a preview session, students could display draft posters and receive feedback from classmates, tutors, and instructors. (4) Reviewers could comment on organization, visual clarity, explanation of evidence, and the amount of text on each poster. (5) This feedback would help students revise before presenting to visitors at the showcase. (6) Some students prefer to print posters in color because the final version looks more attractive. (7) To make the session efficient, each reviewer could use a short checklist with three or four questions. (8) A poster preview session would improve student presentations by giving students time to revise before the public event. Which transition should be added to the beginning of sentence 7 to show the relationship between sentence 7 and the rest of the passage?",
+      "choices": {
+        "A": "To make the session efficient,",
+        "B": "In contrast,",
+        "C": "Nevertheless,",
+        "D": "On the contrary,"
+      },
+      "correct": "A",
+      "correctAnswerText": "To make the session efficient,",
+      "explanation": "This transition introduces a practical method for keeping the preview session organized and useful.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a research poster preview session before the annual student showcase. (2) Many students prepare posters for science, history, psychology, and business projects, but they may not know whether their main points are clear to a general audience. (3) During a preview session, students could display draft posters and receive feedback from classmates, tutors, and instructors. (4) Reviewers could comment on organization, visual clarity, explanation of evidence, and the amount of text on each poster. (5) This feedback would help students revise before presenting to visitors at the showcase. (6) Some students prefer to print posters in color because the final version looks more attractive. (7) To make the session efficient, each reviewer could use a short checklist with three or four questions. (8) A poster preview session would improve student presentations by giving students time to revise before the public event. Which revision of sentence 8 is clearest and most concise?",
+      "choices": {
+        "A": "A poster preview session would improve student presentations by giving students time to revise before the public event.",
+        "B": "A poster preview session, which would be a session for previewing posters, would improve presentations by students in a way that helps.",
+        "C": "Student presentations would be improved by the poster preview session because of the revising that students would have time for.",
+        "D": "The public event would be better in terms of students and posters because the session would preview the posters before it."
+      },
+      "correct": "A",
+      "correctAnswerText": "A poster preview session would improve student presentations by giving students time to revise before the public event.",
+      "explanation": "This sentence is clear, concise, and directly states the benefit of the proposal.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The technician tested the equipment, he recorded the results in a logbook.",
+      "choices": {
+        "A": "The technician tested the equipment, he recorded the results in a logbook.",
+        "B": "The technician tested the equipment and recorded the results in a logbook.",
+        "C": "The technician tested the equipment, and recorded, the results in a logbook.",
+        "D": "The technician tested the equipment he recorded the results, in a logbook."
+      },
+      "correct": "B",
+      "correctAnswerText": "The technician tested the equipment and recorded the results in a logbook.",
+      "explanation": "This revision correctly joins two actions performed by the same subject.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is written correctly.",
+      "choices": {
+        "A": "The stack of applications were delivered to the admissions office.",
+        "B": "The stack of applications was delivered to the admissions office.",
+        "C": "The stack of applications are delivered to the admissions office yesterday.",
+        "D": "The stack of applications have delivered to the admissions office."
+      },
+      "correct": "B",
+      "correctAnswerText": "The stack of applications was delivered to the admissions office.",
+      "explanation": "The subject “stack” is singular, so the singular verb “was” is correct.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best word or phrase to complete the sentence. The revised schedule gives students ten extra minutes between classes; __________, fewer students should arrive late to labs across campus.",
+      "choices": {
+        "A": "as a result",
+        "B": "however",
+        "C": "for example",
+        "D": "in contrast"
+      },
+      "correct": "A",
+      "correctAnswerText": "as a result",
+      "explanation": "The second clause describes the likely result of giving students more time between classes.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. While preparing the invoice, the missing receipt caused trouble for Aaron.",
+      "choices": {
+        "A": "While preparing the invoice, the missing receipt caused trouble for Aaron.",
+        "B": "While Aaron was preparing the invoice, the missing receipt caused trouble for him.",
+        "C": "Preparing the invoice, the missing receipt caused trouble for Aaron.",
+        "D": "The missing receipt, while preparing the invoice, caused trouble for Aaron."
+      },
+      "correct": "B",
+      "correctAnswerText": "While Aaron was preparing the invoice, the missing receipt caused trouble for him.",
+      "explanation": "This revision corrects the dangling modifier by clearly showing that Aaron was preparing the invoice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The history department created a digital timeline. The timeline helps students connect events across different regions.",
+      "choices": {
+        "A": "The history department created a digital timeline, the timeline helps students connect events across different regions.",
+        "B": "The history department created a digital timeline that helps students connect events across different regions.",
+        "C": "Creating a digital timeline, events were connected by students across different regions.",
+        "D": "The history department created a timeline and it is digital and helping students connect events across regions."
+      },
+      "correct": "B",
+      "correctAnswerText": "The history department created a digital timeline that helps students connect events across different regions.",
+      "explanation": "This option combines the sentences clearly and avoids a comma splice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. Some students begin a research project by collecting quotations before deciding what they want to argue. This method can lead to a paper that lists information without a clear purpose. A working thesis gives students a reason for choosing certain sources and ignoring others. The thesis may change later, but it gives the research a direction. Which concluding sentence best follows from the paragraph?",
+      "choices": {
+        "A": "Therefore, a working thesis can help students make purposeful research choices.",
+        "B": "In contrast, students should collect as many quotations as possible before thinking.",
+        "C": "For this reason, sources are unnecessary in most research papers.",
+        "D": "As a result, a thesis should never be revised after research begins."
+      },
+      "correct": "A",
+      "correctAnswerText": "Therefore, a working thesis can help students make purposeful research choices.",
+      "explanation": "This conclusion follows from the paragraph’s explanation that a thesis gives research direction.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses a colon correctly.",
+      "choices": {
+        "A": "The workshop covers three interview skills: answering behavioral questions, describing experience, and asking follow-up questions.",
+        "B": "The workshop covers: three interview skills, answering behavioral questions, describing experience, and asking follow-up questions.",
+        "C": "The workshop: covers three interview skills answering behavioral questions, describing experience, and asking follow-up questions.",
+        "D": "The workshop covers three: interview skills answering behavioral questions, describing experience, and asking follow-up questions."
+      },
+      "correct": "A",
+      "correctAnswerText": "The workshop covers three interview skills: answering behavioral questions, describing experience, and asking follow-up questions.",
+      "explanation": "A colon is correctly used after a complete sentence to introduce a list.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best replacement for the underlined words. The guest speaker’s answer was too long and went off in too many different directions.",
+      "choices": {
+        "A": "unfocused",
+        "B": "long in a lot of ways",
+        "C": "too much all over",
+        "D": "not short and not focused-like"
+      },
+      "correct": "A",
+      "correctAnswerText": "unfocused",
+      "explanation": "“Unfocused” is a concise and formal replacement for “too long and went off in too many different directions.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The students organized the survey responses into categories, comparing the most common concerns.",
+      "choices": {
+        "A": "The students organized the survey responses into categories, comparing the most common concerns.",
+        "B": "The survey responses organized the students into categories, comparing the most common concerns.",
+        "C": "Comparing the most common concerns, the categories organized the students into survey responses.",
+        "D": "The students organized, the survey responses into categories comparing, the most common concerns."
+      },
+      "correct": "A",
+      "correctAnswerText": "The students organized the survey responses into categories, comparing the most common concerns.",
+      "explanation": "This sentence clearly shows that the students organized and compared the responses.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. (1) The campus fitness center will offer a workshop on stretching safely before exercise. (2) Participants will learn how to warm up gradually, avoid bouncing movements, and adjust stretches for comfort. (3) Safe stretching can help students prepare for activity without increasing the risk of strain. (4) Many students prefer listening to music while using exercise machines. Where should sentence 4 be placed to improve the organization of the paragraph?",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 3",
+        "D": "The sentence should be removed because it shifts away from the paragraph’s focus."
+      },
+      "correct": "D",
+      "correctAnswerText": "The sentence should be removed because it shifts away from the paragraph’s focus.",
+      "explanation": "Sentence 4 discusses music while exercising rather than safe stretching.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E10-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. Although the room was small, but it had enough chairs for the meeting.",
+      "choices": {
+        "A": "Although the room was small, but it had enough chairs for the meeting.",
+        "B": "Although the room was small, it had enough chairs for the meeting.",
+        "C": "The room was small although but it had enough chairs for the meeting.",
+        "D": "Although the room was small it had, enough chairs for the meeting."
+      },
+      "correct": "B",
+      "correctAnswerText": "Although the room was small, it had enough chairs for the meeting.",
+      "explanation": "This revision removes the unnecessary “but” and correctly punctuates the introductory dependent clause.",
+      "credits": 1
+    }
+  ]
+}

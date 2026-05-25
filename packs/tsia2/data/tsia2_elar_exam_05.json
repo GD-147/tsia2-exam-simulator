@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 05",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E5-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The public library’s digitization project began with a box of old neighborhood newsletters found in a storage closet. At first, the newsletters seemed too ordinary to preserve: they listed bake sales, school events, street repairs, and meeting times for local clubs. However, the library’s archivist argued that such documents can reveal how people actually experienced daily life in a community. A formal city report might mention that a new road was built, but a newsletter might show how residents felt about the construction, which businesses were affected, and how children’s walking routes changed. Volunteers scanned each issue, added dates and keywords, and uploaded the files to a searchable website. Teachers soon began using the collection for local history assignments, and longtime residents contributed additional materials. The project showed that historical value is not limited to famous speeches or government records; ordinary documents can help preserve a community’s memory. Which statement best expresses the central idea of the passage?",
+      "choices": {
+        "A": "Old newsletters are useful only when they describe famous public officials.",
+        "B": "A library digitization project showed that ordinary local documents can preserve important community history.",
+        "C": "City reports are more reliable than neighborhood newsletters because they are written formally.",
+        "D": "Volunteers should scan only documents that are already organized by professional historians."
+      },
+      "correct": "B",
+      "correctAnswerText": "A library digitization project showed that ordinary local documents can preserve important community history.",
+      "explanation": "The passage explains that neighborhood newsletters, although ordinary, can reveal daily life and preserve community memory.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The public library’s digitization project began with a box of old neighborhood newsletters found in a storage closet. At first, the newsletters seemed too ordinary to preserve: they listed bake sales, school events, street repairs, and meeting times for local clubs. However, the library’s archivist argued that such documents can reveal how people actually experienced daily life in a community. A formal city report might mention that a new road was built, but a newsletter might show how residents felt about the construction, which businesses were affected, and how children’s walking routes changed. Volunteers scanned each issue, added dates and keywords, and uploaded the files to a searchable website. Teachers soon began using the collection for local history assignments, and longtime residents contributed additional materials. The project showed that historical value is not limited to famous speeches or government records; ordinary documents can help preserve a community’s memory. According to the passage, what can newsletters provide that a formal city report might not?",
+      "choices": {
+        "A": "Information about how residents experienced local events",
+        "B": "Proof that government records should never be used",
+        "C": "Instructions for repairing roads without city workers",
+        "D": "A complete list of every business in the city"
+      },
+      "correct": "A",
+      "correctAnswerText": "Information about how residents experienced local events",
+      "explanation": "The passage contrasts formal city reports with newsletters that reveal residents’ feelings and daily experiences.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The public library’s digitization project began with a box of old neighborhood newsletters found in a storage closet. At first, the newsletters seemed too ordinary to preserve: they listed bake sales, school events, street repairs, and meeting times for local clubs. However, the library’s archivist argued that such documents can reveal how people actually experienced daily life in a community. A formal city report might mention that a new road was built, but a newsletter might show how residents felt about the construction, which businesses were affected, and how children’s walking routes changed. Volunteers scanned each issue, added dates and keywords, and uploaded the files to a searchable website. Teachers soon began using the collection for local history assignments, and longtime residents contributed additional materials. The project showed that historical value is not limited to famous speeches or government records; ordinary documents can help preserve a community’s memory. In the passage, the word ordinary most nearly means",
+      "choices": {
+        "A": "official and legally binding",
+        "B": "common or not especially remarkable",
+        "C": "damaged beyond repair",
+        "D": "difficult for most readers to understand"
+      },
+      "correct": "B",
+      "correctAnswerText": "common or not especially remarkable",
+      "explanation": "In context, “ordinary” describes newsletters that seem common but still have historical value.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The public library’s digitization project began with a box of old neighborhood newsletters found in a storage closet. At first, the newsletters seemed too ordinary to preserve: they listed bake sales, school events, street repairs, and meeting times for local clubs. However, the library’s archivist argued that such documents can reveal how people actually experienced daily life in a community. A formal city report might mention that a new road was built, but a newsletter might show how residents felt about the construction, which businesses were affected, and how children’s walking routes changed. Volunteers scanned each issue, added dates and keywords, and uploaded the files to a searchable website. Teachers soon began using the collection for local history assignments, and longtime residents contributed additional materials. The project showed that historical value is not limited to famous speeches or government records; ordinary documents can help preserve a community’s memory. Which detail best supports the idea that the digitized collection became useful to the community?",
+      "choices": {
+        "A": "The newsletters were first found in a storage closet.",
+        "B": "The newsletters listed bake sales and meeting times.",
+        "C": "Teachers used the collection, and residents contributed more materials.",
+        "D": "A formal city report might mention that a road was built."
+      },
+      "correct": "C",
+      "correctAnswerText": "Teachers used the collection, and residents contributed more materials.",
+      "explanation": "This detail shows that the digitized collection became useful for education and encouraged community participation.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The hospital’s volunteer desk began using color-coded badges to identify different roles. Blue badges were for volunteers who could guide visitors to patient rooms, green badges were for those trained to deliver flowers and cards, and yellow badges were for volunteers who could answer basic questions about parking and cafeteria hours. The badges did not give volunteers medical authority, but they helped visitors know whom to approach for specific kinds of help. What is the main purpose of the color-coded badges?",
+      "choices": {
+        "A": "To help visitors identify which volunteers can assist with particular needs",
+        "B": "To allow volunteers to give medical advice to patients",
+        "C": "To replace hospital staff during busy visiting hours",
+        "D": "To prevent visitors from asking questions inside the hospital"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help visitors identify which volunteers can assist with particular needs",
+      "explanation": "The badges show which volunteers can guide visitors, deliver items, or answer basic questions.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Leo first joined the woodworking class, he rushed to finish every project. His first shelf looked complete from a distance, but it wobbled because he had measured one side incorrectly. The instructor asked him to rebuild only that section, not the entire shelf. As Leo worked more slowly, he realized that careful measuring was not a delay in the process; it was part of the process. What can reasonably be inferred about Leo?",
+      "choices": {
+        "A": "He learns that accuracy matters more than simply finishing quickly.",
+        "B": "He decides that woodworking projects should never be revised.",
+        "C": "He already knew how to build shelves before joining the class.",
+        "D": "He believes measuring is unnecessary if a project looks complete."
+      },
+      "correct": "A",
+      "correctAnswerText": "He learns that accuracy matters more than simply finishing quickly.",
+      "explanation": "Leo’s wobbly shelf teaches him that careful measuring is an essential part of the process.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A community seed library allows residents to borrow seeds for vegetables, herbs, and flowers. After growing the plants, participants are encouraged to save seeds from successful crops and return some to the library. The program teaches gardening skills, but it also helps preserve plant varieties that grow well in local soil and weather. Supporters say the value of the program is not only in the seeds themselves but also in the knowledge shared among neighbors. Which statement best states the author’s claim?",
+      "choices": {
+        "A": "A seed library can support both gardening education and local plant preservation.",
+        "B": "Residents should grow only flowers and avoid vegetables.",
+        "C": "Seed libraries are useful only when professional farmers manage them.",
+        "D": "Gardening programs should focus mainly on selling plants to residents."
+      },
+      "correct": "A",
+      "correctAnswerText": "A seed library can support both gardening education and local plant preservation.",
+      "explanation": "The passage states that seed libraries teach gardening skills and help preserve locally successful plant varieties.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A restaurant began placing a short note at the top of each online order ticket that identified food allergies reported by the customer. The note did not replace the kitchen’s usual safety checks, but it made important information visible earlier in the preparation process. Cooks said the change helped them pause before adding sauces or toppings that might contain allergens. What relationship does the passage establish between the allergy note and the kitchen’s usual safety checks?",
+      "choices": {
+        "A": "The allergy note replaces the usual safety checks entirely.",
+        "B": "The allergy note provides an additional reminder before the usual checks are completed.",
+        "C": "The usual safety checks are no longer needed when customers order online.",
+        "D": "The allergy note is used only after the food has already been served."
+      },
+      "correct": "B",
+      "correctAnswerText": "The allergy note provides an additional reminder before the usual checks are completed.",
+      "explanation": "The passage explains that the note does not replace normal safety checks but makes allergy information visible earlier.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Schools should teach students how to evaluate online information. Students encounter articles, videos, advertisements, and opinion posts every day, and they need strategies for identifying credible sources. A short unit on digital evaluation could help students avoid sharing false or misleading information. Passage 2: Teaching digital evaluation is important, but a short unit is not enough. Online platforms and misinformation techniques change quickly, so students need repeated practice across several courses. Evaluating sources should become a habit, not a lesson students complete once and forget. How does Passage 2 respond to Passage 1?",
+      "choices": {
+        "A": "Passage 2 agrees that digital evaluation matters but argues that students need repeated practice rather than a single short unit.",
+        "B": "Passage 2 argues that students should stop using online sources for schoolwork.",
+        "C": "Passage 2 claims that online misinformation is no longer a problem for students.",
+        "D": "Passage 2 suggests that only teachers, not students, need to evaluate sources."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 agrees that digital evaluation matters but argues that students need repeated practice rather than a single short unit.",
+      "explanation": "Passage 2 accepts the importance of digital evaluation but says it should be practiced across several courses.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article about neighborhood noise does not argue that all sounds should be eliminated. Instead, it distinguishes between ordinary city sounds and avoidable noise that affects sleep, concentration, and health. The author supports quieter construction hours, better mufflers on city vehicles, and clearer rules for late-night outdoor events. The goal is not silence, the author explains, but a more reasonable balance between activity and rest. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "The article argues for reducing unnecessary noise while recognizing that cities cannot be completely silent.",
+        "B": "The article claims that all city sounds should be banned at night and during the day.",
+        "C": "The article focuses mainly on the history of construction equipment.",
+        "D": "The article suggests that residents should avoid living in neighborhoods with outdoor events."
+      },
+      "correct": "A",
+      "correctAnswerText": "The article argues for reducing unnecessary noise while recognizing that cities cannot be completely silent.",
+      "explanation": "The passage distinguishes ordinary city sounds from avoidable noise and argues for balance rather than silence.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The memoir describes the author’s grandmother making soup without a written recipe. She tasted the broth, added salt “until the pot remembered the sea,” and adjusted the heat by listening to the lid rattle. The description suggests that the grandmother’s cooking depended not on exact measurements but on memory, attention, and experience. What effect does the phrase “until the pot remembered the sea” most likely create?",
+      "choices": {
+        "A": "It suggests that the grandmother uses sensory judgment rooted in experience.",
+        "B": "It shows that the grandmother once worked as a scientist studying oceans.",
+        "C": "It proves that the soup contains too much salt to eat safely.",
+        "D": "It makes the cooking process seem careless and random."
+      },
+      "correct": "A",
+      "correctAnswerText": "It suggests that the grandmother uses sensory judgment rooted in experience.",
+      "explanation": "The phrase shows that the grandmother cooks by taste, memory, and attention rather than exact measurements.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A college writing instructor asks students to keep a revision log for each essay. In the log, students list the changes they made and explain why they made them. The instructor says the log helps students recognize revision as decision-making rather than simple error correction. Students often discover that reorganizing a paragraph or adding evidence can matter as much as fixing punctuation. Which sentence best states the instructor’s point?",
+      "choices": {
+        "A": "Revision involves making thoughtful choices about meaning, structure, and support.",
+        "B": "Students should focus only on punctuation when revising essays.",
+        "C": "A revision log is useful only for students who write short essays.",
+        "D": "Instructors should correct every sentence before students revise."
+      },
+      "correct": "A",
+      "correctAnswerText": "Revision involves making thoughtful choices about meaning, structure, and support.",
+      "explanation": "The instructor views revision as decision-making, including reorganizing paragraphs and adding evidence.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The training manual tells lifeguards to scan the entire pool area in a repeated pattern rather than watch only the deepest section. A swimmer in trouble may not call out or wave dramatically; the signs can be subtle, such as a head low in the water or repeated attempts to roll onto the back. By using a regular scanning pattern, lifeguards are less likely to overlook a quiet emergency. Why does the manual recommend a repeated scanning pattern?",
+      "choices": {
+        "A": "To help lifeguards notice subtle signs of trouble throughout the pool",
+        "B": "To make swimmers stay only in the deepest section",
+        "C": "To reduce the number of lifeguards needed at the pool",
+        "D": "To encourage swimmers to call out more loudly"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help lifeguards notice subtle signs of trouble throughout the pool",
+      "explanation": "A repeated scanning pattern helps lifeguards see quiet emergencies that may not be obvious.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The report on school lunch waste notes that students throw away unopened milk cartons, whole pieces of fruit, and packaged snacks. Rather than blaming students alone, the report examines serving sizes, meal schedules, and whether students have enough time to eat. It recommends share tables for unopened items, better communication about menu choices, and lunch periods long enough for students to finish their meals. What is the author’s purpose in discussing several causes of lunch waste?",
+      "choices": {
+        "A": "To show that reducing waste requires looking at the whole meal system",
+        "B": "To prove that students should not be allowed to choose their lunches",
+        "C": "To argue that schools should stop serving milk and fruit",
+        "D": "To explain why packaged snacks are always the healthiest option"
+      },
+      "correct": "A",
+      "correctAnswerText": "To show that reducing waste requires looking at the whole meal system",
+      "explanation": "The report examines serving sizes, schedules, time to eat, and share tables, showing that waste has several causes.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. During her first week as a receptionist, Amira tried to answer every caller’s question immediately. When she could not, she felt embarrassed and guessed. Her supervisor explained that a careful receptionist does not need to know every answer; she needs to know how to find the correct person or resource. Amira began keeping a directory of departments, extension numbers, and common procedures beside her phone. What lesson does Amira learn?",
+      "choices": {
+        "A": "Accuracy and knowing where to find information are more important than guessing quickly.",
+        "B": "Receptionists should answer only calls from people they already know.",
+        "C": "A directory is useful only when callers ask about office furniture.",
+        "D": "Guessing is the fastest way to build trust with callers."
+      },
+      "correct": "A",
+      "correctAnswerText": "Accuracy and knowing where to find information are more important than guessing quickly.",
+      "explanation": "Amira learns that a receptionist should locate the correct person or resource rather than guess.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The campus should create a shared equipment checkout system for student media projects. (2) Many students need microphones, tripods, lights, or portable recorders for assignments in communication, theater, business, and education courses. (3) Buying this equipment for one project can be expensive, especially when students are still learning which tools they actually need. (4) A checkout system would let students borrow equipment for short periods and return it for others to use. (5) The system could also include brief training sessions so students learn how to handle equipment responsibly. (6) Some students prefer to watch movies on weekends after finishing homework. (7) To prevent loss or damage, students could sign a checkout agreement and return items by a specific deadline. (8) A shared equipment system would reduce unnecessary purchases while helping students produce stronger class projects. Which sentence should be removed because it does not support the main idea of the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "C",
+      "correctAnswerText": "Sentence 6",
+      "explanation": "Sentence 6 discusses weekend movie watching and does not support the argument for a shared equipment checkout system.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The campus should create a shared equipment checkout system for student media projects. (2) Many students need microphones, tripods, lights, or portable recorders for assignments in communication, theater, business, and education courses. (3) Buying this equipment for one project can be expensive, especially when students are still learning which tools they actually need. (4) A checkout system would let students borrow equipment for short periods and return it for others to use. (5) The system could also include brief training sessions so students learn how to handle equipment responsibly. (6) Some students prefer to watch movies on weekends after finishing homework. (7) To prevent loss or damage, students could sign a checkout agreement and return items by a specific deadline. (8) A shared equipment system would reduce unnecessary purchases while helping students produce stronger class projects. Which sentence best strengthens the support for sentence 5?",
+      "choices": {
+        "A": "Training could show students how to attach a microphone, adjust a tripod, and store batteries safely.",
+        "B": "Many students have different favorite movies and television shows.",
+        "C": "The communication department is located near the main parking lot.",
+        "D": "Some projects are due near the end of the semester."
+      },
+      "correct": "A",
+      "correctAnswerText": "Training could show students how to attach a microphone, adjust a tripod, and store batteries safely.",
+      "explanation": "This sentence gives specific examples of how training would help students handle equipment responsibly.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The campus should create a shared equipment checkout system for student media projects. (2) Many students need microphones, tripods, lights, or portable recorders for assignments in communication, theater, business, and education courses. (3) Buying this equipment for one project can be expensive, especially when students are still learning which tools they actually need. (4) A checkout system would let students borrow equipment for short periods and return it for others to use. (5) The system could also include brief training sessions so students learn how to handle equipment responsibly. (6) Some students prefer to watch movies on weekends after finishing homework. (7) To prevent loss or damage, students could sign a checkout agreement and return items by a specific deadline. (8) A shared equipment system would reduce unnecessary purchases while helping students produce stronger class projects. Which transition should be added to the beginning of sentence 7 to show the relationship between sentence 7 and the rest of the passage?",
+      "choices": {
+        "A": "By contrast,",
+        "B": "To prevent loss or damage,",
+        "C": "For example,",
+        "D": "On the other hand,"
+      },
+      "correct": "B",
+      "correctAnswerText": "To prevent loss or damage,",
+      "explanation": "This transition introduces the purpose of the checkout agreement and return deadline.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The campus should create a shared equipment checkout system for student media projects. (2) Many students need microphones, tripods, lights, or portable recorders for assignments in communication, theater, business, and education courses. (3) Buying this equipment for one project can be expensive, especially when students are still learning which tools they actually need. (4) A checkout system would let students borrow equipment for short periods and return it for others to use. (5) The system could also include brief training sessions so students learn how to handle equipment responsibly. (6) Some students prefer to watch movies on weekends after finishing homework. (7) To prevent loss or damage, students could sign a checkout agreement and return items by a specific deadline. (8) A shared equipment system would reduce unnecessary purchases while helping students produce stronger class projects. Which revision of sentence 8 is clearest and most concise?",
+      "choices": {
+        "A": "A shared equipment system would reduce unnecessary purchases while helping students produce stronger class projects.",
+        "B": "A shared equipment system, because it is shared and has equipment, would be good for purchases and projects.",
+        "C": "Students would be helped by a system in which equipment is shared for the purpose of making projects better.",
+        "D": "The purchases that are unnecessary would be reduced by the shared system and the projects would be stronger in class."
+      },
+      "correct": "A",
+      "correctAnswerText": "A shared equipment system would reduce unnecessary purchases while helping students produce stronger class projects.",
+      "explanation": "This sentence is clear, concise, and directly states the benefit of the proposal.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The instructor gave us a checklist, it helped us prepare for the oral presentation.",
+      "choices": {
+        "A": "The instructor gave us a checklist, it helped us prepare for the oral presentation.",
+        "B": "The instructor gave us a checklist that helped us prepare for the oral presentation.",
+        "C": "The instructor gave us a checklist, and helped us prepare, for the oral presentation.",
+        "D": "The instructor gave us a checklist it helped us prepare for the oral presentation."
+      },
+      "correct": "B",
+      "correctAnswerText": "The instructor gave us a checklist that helped us prepare for the oral presentation.",
+      "explanation": "This revision avoids the comma splice and clearly connects the checklist to its purpose.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses quotation marks correctly.",
+      "choices": {
+        "A": "The counselor said, “Submit the form by Friday if you want it reviewed before registration.”",
+        "B": "The counselor said, Submit the form by Friday if you want it reviewed before registration.",
+        "C": "The counselor said “Submit the form by Friday if you want it reviewed before registration”.",
+        "D": "The counselor said, “submit the form by Friday if you want it reviewed before registration”."
+      },
+      "correct": "A",
+      "correctAnswerText": "The counselor said, “Submit the form by Friday if you want it reviewed before registration.”",
+      "explanation": "This sentence correctly uses a comma before the quotation, capitalizes the quoted sentence, and places the period inside the quotation marks.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best word or phrase to complete the sentence. The first experiment produced inconsistent results; __________, the research team repeated the procedure with new samples.",
+      "choices": {
+        "A": "consequently",
+        "B": "however",
+        "C": "for instance",
+        "D": "meanwhile"
+      },
+      "correct": "A",
+      "correctAnswerText": "consequently",
+      "explanation": "The second clause describes the result of the inconsistent results.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. Running through the airport, the boarding announcement was difficult for Malik to hear.",
+      "choices": {
+        "A": "Running through the airport, the boarding announcement was difficult for Malik to hear.",
+        "B": "The boarding announcement was running through the airport and difficult for Malik to hear.",
+        "C": "As Malik ran through the airport, he had difficulty hearing the boarding announcement.",
+        "D": "The boarding announcement, as Malik ran through the airport, had difficulty hearing him."
+      },
+      "correct": "C",
+      "correctAnswerText": "As Malik ran through the airport, he had difficulty hearing the boarding announcement.",
+      "explanation": "This revision corrects the misplaced modifier by clearly showing that Malik was running.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is written correctly.",
+      "choices": {
+        "A": "The results of the survey shows that most students prefer morning workshops.",
+        "B": "The results of the survey show that most students prefer morning workshops.",
+        "C": "The results of the survey showing that most students prefer morning workshops.",
+        "D": "The results of the survey has shown that most students prefer morning workshops."
+      },
+      "correct": "B",
+      "correctAnswerText": "The results of the survey show that most students prefer morning workshops.",
+      "explanation": "The plural subject “results” requires the plural verb “show.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The city opened a new recycling center. Residents can drop off cardboard, glass, and old electronics there.",
+      "choices": {
+        "A": "The city opened a new recycling center, residents can drop off cardboard, glass, and old electronics there.",
+        "B": "The city opened a new recycling center where residents can drop off cardboard, glass, and old electronics.",
+        "C": "Residents can drop off cardboard, glass, and old electronics, the city opened a new recycling center.",
+        "D": "Opening a new recycling center, cardboard, glass, and old electronics can be dropped off there by residents."
+      },
+      "correct": "B",
+      "correctAnswerText": "The city opened a new recycling center where residents can drop off cardboard, glass, and old electronics.",
+      "explanation": "This option combines the sentences clearly and avoids a comma splice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. The theater department plans to offer a backstage tour for students who are curious about performance but do not want to act onstage. During the tour, students can learn about lighting, sound design, costumes, and set construction. Many productions depend on these behind-the-scenes roles as much as on the actors. Which concluding sentence best follows from the paragraph?",
+      "choices": {
+        "A": "Therefore, a backstage tour can show students that theater offers many ways to participate.",
+        "B": "In contrast, students should avoid theater unless they want to perform onstage.",
+        "C": "For this reason, costumes are more important than every other part of a production.",
+        "D": "As a result, the theater department should cancel all acting classes."
+      },
+      "correct": "A",
+      "correctAnswerText": "Therefore, a backstage tour can show students that theater offers many ways to participate.",
+      "explanation": "This conclusion follows from the paragraph’s discussion of backstage roles.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The student’s argument was persuasive because it was specific, logical, and it included convincing evidence.",
+      "choices": {
+        "A": "The student’s argument was persuasive because it was specific, logical, and it included convincing evidence.",
+        "B": "The student’s argument was persuasive because it was specific, logical, and supported by convincing evidence.",
+        "C": "The student’s argument was persuasive because it had specificity, logic, and it included evidence that convinced.",
+        "D": "The student’s argument was persuasive, because it was specific and logical and it included, convincing evidence."
+      },
+      "correct": "B",
+      "correctAnswerText": "The student’s argument was persuasive because it was specific, logical, and supported by convincing evidence.",
+      "explanation": "This revision improves parallel structure and keeps the sentence clear.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best replacement for the underlined words. The new attendance policy is a big help for students who travel a long distance to campus.",
+      "choices": {
+        "A": "helpful",
+        "B": "a gigantic helping thing",
+        "C": "really good help",
+        "D": "a help that is big"
+      },
+      "correct": "A",
+      "correctAnswerText": "helpful",
+      "explanation": "“Helpful” is more concise and formal than “a big help.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. (1) The biology club will host a plant-identification walk on Saturday morning. (2) Participants will learn how to recognize common trees, grasses, and wildflowers on campus. (3) The walk will begin near the greenhouse and last about ninety minutes. (4) Biology textbooks often include diagrams of plant cells. Where should sentence 4 be placed to improve the organization of the paragraph?",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 3",
+        "D": "The sentence should be removed because it shifts away from the paragraph’s focus."
+      },
+      "correct": "D",
+      "correctAnswerText": "The sentence should be removed because it shifts away from the paragraph’s focus.",
+      "explanation": "Sentence 4 discusses textbook diagrams, while the paragraph focuses on a campus plant-identification walk.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E5-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. Even though the library was crowded but we found a quiet table near the windows.",
+      "choices": {
+        "A": "Even though the library was crowded but we found a quiet table near the windows.",
+        "B": "Even though the library was crowded, we found a quiet table near the windows.",
+        "C": "The library was crowded even though but we found a quiet table near the windows.",
+        "D": "Even though the library was crowded we found, a quiet table near the windows."
+      },
+      "correct": "B",
+      "correctAnswerText": "Even though the library was crowded, we found a quiet table near the windows.",
+      "explanation": "This revision removes the unnecessary “but” and correctly punctuates the introductory dependent clause.",
+      "credits": 1
+    }
+  ]
+}

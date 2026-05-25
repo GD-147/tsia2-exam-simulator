@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 09",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M9-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student’s total fees for one semester are $1,840. A grant covers 65% of the fees. How much of the fees must the student still pay?",
+      "choices": {
+        "A": "$598",
+        "B": "$644",
+        "C": "$1,196",
+        "D": "$2,505"
+      },
+      "correct": "B",
+      "correctAnswerText": "$644",
+      "explanation": "If the grant covers 65%, the student pays the remaining 35%. Then 0.35 × 1,840 = $644.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve for x: 5(x + 2) − 3x = 26",
+      "choices": {
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "18"
+      },
+      "correct": "B",
+      "correctAnswerText": "8",
+      "explanation": "Distribute and combine like terms: 5x + 10 − 3x = 26, so 2x + 10 = 26. Then 2x = 16, so x = 8.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular banner is 9 feet long and 4 feet wide. A ribbon is placed around the entire perimeter of the banner. How many feet of ribbon are needed?",
+      "choices": {
+        "A": "13 feet",
+        "B": "26 feet",
+        "C": "36 feet",
+        "D": "72 feet"
+      },
+      "correct": "B",
+      "correctAnswerText": "26 feet",
+      "explanation": "The perimeter of the rectangle is 2(9 + 4) = 26 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The number of calls received at a help desk during five hours was 12, 18, 15, 21, and 19. What is the mean number of calls received per hour?",
+      "choices": {
+        "A": "15",
+        "B": "16",
+        "C": "17",
+        "D": "18"
+      },
+      "correct": "C",
+      "correctAnswerText": "17",
+      "explanation": "The total number of calls is 12 + 18 + 15 + 21 + 19 = 85. Dividing by 5 gives a mean of 17.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A water tank is 3/8 full. If the tank currently contains 24 gallons of water, what is the total capacity of the tank?",
+      "choices": {
+        "A": "48 gallons",
+        "B": "56 gallons",
+        "C": "64 gallons",
+        "D": "72 gallons"
+      },
+      "correct": "C",
+      "correctAnswerText": "64 gallons",
+      "explanation": "If 24 gallons is 3/8 of the tank, the total capacity is 24 ÷ 3/8 = 24 × 8/3 = 64 gallons.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which expression is equivalent to 8m − 3(2m − 5) + 4?",
+      "choices": {
+        "A": "2m − 11",
+        "B": "2m + 19",
+        "C": "14m − 11",
+        "D": "14m + 19"
+      },
+      "correct": "B",
+      "correctAnswerText": "2m + 19",
+      "explanation": "Distribute and combine like terms: 8m − 6m + 15 + 4 = 2m + 19.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A circular mirror has a diameter of 22 inches. What is the radius of the mirror?",
+      "choices": {
+        "A": "11 inches",
+        "B": "22 inches",
+        "C": "44 inches",
+        "D": "121 inches"
+      },
+      "correct": "A",
+      "correctAnswerText": "11 inches",
+      "explanation": "The radius is half the diameter, so 22 ÷ 2 = 11 inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A box contains 6 black clips, 9 silver clips, and 5 gold clips. One clip is selected at random. What is the probability that the clip is silver?",
+      "choices": {
+        "A": "3/20",
+        "B": "9/20",
+        "C": "11/20",
+        "D": "3/5"
+      },
+      "correct": "B",
+      "correctAnswerText": "9/20",
+      "explanation": "There are 6 + 9 + 5 = 20 clips total, and 9 are silver. The probability is 9/20.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "Enrollment in an online course increased from 148 students to 220 students over 8 weeks. What was the average increase in enrollment per week?",
+      "choices": {
+        "A": "8 students per week",
+        "B": "9 students per week",
+        "C": "18 students per week",
+        "D": "72 students per week"
+      },
+      "correct": "B",
+      "correctAnswerText": "9 students per week",
+      "explanation": "The increase was 220 − 148 = 72 students. Over 8 weeks, the average increase was 72 ÷ 8 = 9 students per week.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A linear function has a slope of −4 and a y-intercept of 9. Which equation represents the function?",
+      "choices": {
+        "A": "y = 9x − 4",
+        "B": "y = −4x + 9",
+        "C": "y = 4x − 9",
+        "D": "y = −9x + 4"
+      },
+      "correct": "B",
+      "correctAnswerText": "y = −4x + 9",
+      "explanation": "In slope-intercept form, y = mx + b. With slope −4 and y-intercept 9, the equation is y = −4x + 9.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular prism has dimensions 7 inches, 5 inches, and 3 inches. What is its volume?",
+      "choices": {
+        "A": "15 cubic inches",
+        "B": "35 cubic inches",
+        "C": "75 cubic inches",
+        "D": "105 cubic inches"
+      },
+      "correct": "D",
+      "correctAnswerText": "105 cubic inches",
+      "explanation": "The volume of a rectangular prism is length × width × height, so 7 × 5 × 3 = 105 cubic inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The data set shows the number of pages read by a student on six days: 18, 24, 24, 30, 36, 42 Which statement is true?",
+      "choices": {
+        "A": "The median is 24 pages.",
+        "B": "The median is 27 pages.",
+        "C": "The mode is 30 pages.",
+        "D": "The range is 18 pages."
+      },
+      "correct": "B",
+      "correctAnswerText": "The median is 27 pages.",
+      "explanation": "With six values, the median is the average of the third and fourth values: (24 + 30) ÷ 2 = 27.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A store sells 6 markers for $7.50. At this same rate, how much would 14 markers cost?",
+      "choices": {
+        "A": "$15.00",
+        "B": "$16.25",
+        "C": "$17.50",
+        "D": "$21.00"
+      },
+      "correct": "C",
+      "correctAnswerText": "$17.50",
+      "explanation": "The price per marker is $7.50 ÷ 6 = $1.25. For 14 markers, the cost is 14 × $1.25 = $17.50.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "For the function g(x) = −x² + 6x + 3, what is g(4)?",
+      "choices": {
+        "A": "5",
+        "B": "8",
+        "C": "11",
+        "D": "19"
+      },
+      "correct": "C",
+      "correctAnswerText": "11",
+      "explanation": "Substitute 4 for x: g(4) = −4² + 6(4) + 3 = −16 + 24 + 3 = 11.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A right triangle has a hypotenuse of 17 feet and one leg of 8 feet. What is the length of the other leg?",
+      "choices": {
+        "A": "9 feet",
+        "B": "12 feet",
+        "C": "15 feet",
+        "D": "25 feet"
+      },
+      "correct": "C",
+      "correctAnswerText": "15 feet",
+      "explanation": "The missing leg is √(17² − 8²) = √(289 − 64) = √225 = 15 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A jar contains 10 coins: 4 quarters, 3 dimes, and 3 nickels. Two coins are selected at random without replacement. What is the probability that both coins are quarters?",
+      "choices": {
+        "A": "2/15",
+        "B": "4/25",
+        "C": "1/5",
+        "D": "3/10"
+      },
+      "correct": "A",
+      "correctAnswerText": "2/15",
+      "explanation": "The probability of selecting a quarter first is 4/10. Without replacement, the probability of selecting a quarter second is 3/9. The product is 4/10 × 3/9 = 12/90 = 2/15.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A tablet screen is advertised as having a diagonal length of 11.8 inches. Which whole number is closest to 11.8²?",
+      "choices": {
+        "A": "118",
+        "B": "132",
+        "C": "139",
+        "D": "148"
+      },
+      "correct": "C",
+      "correctAnswerText": "139",
+      "explanation": "11.8² = 139.24, which is closest to the whole number 139.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which expression is equivalent to x² + 2x − 48?",
+      "choices": {
+        "A": "(x + 6)(x − 8)",
+        "B": "(x − 6)(x + 8)",
+        "C": "(x + 4)(x − 12)",
+        "D": "(x − 4)(x + 12)"
+      },
+      "correct": "B",
+      "correctAnswerText": "(x − 6)(x + 8)",
+      "explanation": "The numbers −6 and 8 multiply to −48 and add to 2, so x² + 2x − 48 = (x − 6)(x + 8).",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A point at (3, −5) is reflected across the y-axis. What are the coordinates of the reflected point?",
+      "choices": {
+        "A": "(−3, −5)",
+        "B": "(3, 5)",
+        "C": "(−3, 5)",
+        "D": "(5, −3)"
+      },
+      "correct": "A",
+      "correctAnswerText": "(−3, −5)",
+      "explanation": "Reflecting across the y-axis changes the sign of the x-coordinate and leaves the y-coordinate the same.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M9-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A poll asked 120 students which campus service they used most often. The results are shown below. Library: 42 students Tutoring center: 30 students Fitness center: 18 students Computer lab: 30 students Which conclusion is supported by the data?",
+      "choices": {
+        "A": "More than half of the students chose the library.",
+        "B": "The tutoring center and computer lab were chosen by the same number of students.",
+        "C": "The fitness center was chosen by 25% of the students.",
+        "D": "The library was chosen by twice as many students as the computer lab."
+      },
+      "correct": "B",
+      "correctAnswerText": "The tutoring center and computer lab were chosen by the same number of students.",
+      "explanation": "The table shows that 30 students chose the tutoring center and 30 students chose the computer lab.",
+      "credits": 1
+    }
+  ]
+}

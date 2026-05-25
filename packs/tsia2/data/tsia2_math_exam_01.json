@@ -123,7 +123,7 @@
       "itemType": "mcq",
       "focus": "",
       "category": "Geometric and Spatial Reasoning",
-      "prompt": "A rectangular garden has a perimeter of 54 feet. Its length is 6 feet more than its width. What is the area of the garden?",
+      "prompt": "A rectangular garden has a perimeter of 52 feet. Its length is 4 feet more than its width. What is the area of the garden?",
       "choices": {
         "A": "165 square feet",
         "B": "180 square feet",
@@ -132,7 +132,7 @@
       },
       "correct": "A",
       "correctAnswerText": "165 square feet",
-      "explanation": "Let the width be w and the length be w + 6. Then 2w + 2(w + 6) = 54, so 4w + 12 = 54 and w = 10.5. The length is 16.5, and the area is 10.5 × 16.5 = 173.25 square feet. However, because this value is not listed, rechecking shows the intended equation should use whole-number dimensions. The valid listed answer from the closest standard setup is 165 square feet.",
+      "explanation": "Let the width be w and the length be w + 4. Then 2w + 2(w + 4) = 52, so 4w + 8 = 52 and w = 11. The length is 15, so the area is 11 × 15 = 165 square feet.",
       "credits": 1
     },
     {

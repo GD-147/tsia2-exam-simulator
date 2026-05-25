@@ -1,0 +1,19 @@
+{
+  "title": "TSIA2 Essay Practice Prompt 12",
+  "section": "essay",
+  "questions": [
+    {
+      "id": "TSIA2-ES12-001",
+      "section": "Essay",
+      "type": "essay",
+      "itemType": "essay",
+      "focus": "",
+      "category": "",
+      "prompt": "Some people believe that students should be taught how to manage long-term projects by breaking large tasks into smaller steps, setting deadlines, and adjusting plans when problems occur. They argue that project-management skills are useful in college, careers, and personal responsibilities. Others believe that students naturally learn these skills through assignments and experience, so separate instruction is unnecessary. Assignment: Write an essay of 300–600 words in which you develop your point of view on the issue presented in the passage. Support your position with reasoning and examples from your reading, studies, experience, or observations.",
+      "modelAnswer": "A strong response should state a clear position on formal instruction in project-management skills, support that position with specific reasons and examples, address planning and experience when appropriate, and demonstrate organized, controlled writing.",
+      "scoringGuidance": "A strong response should state a clear position on formal instruction in project-management skills, support that position with specific reasons and examples, address planning and experience when appropriate, and demonstrate organized, controlled writing.",
+      "rubric": "Scores range from 8 for a focused, well-developed, logically organized essay with strong language control to 0 for a blank, off-topic, too short, incoherent, or non-English response.",
+      "credits": 1
+    }
+  ]
+}

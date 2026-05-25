@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 11",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M11-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student drives 36 miles round trip to campus each day for 5 days. The car averages 30 miles per gallon, and gasoline costs $3.20 per gallon. What is the student’s gasoline cost for the 5 days?",
+      "choices": {
+        "A": "$17.28",
+        "B": "$19.20",
+        "C": "$24.00",
+        "D": "$30.00"
+      },
+      "correct": "B",
+      "correctAnswerText": "$19.20",
+      "explanation": "The student drives 36 × 5 = 180 miles. At 30 miles per gallon, the car uses 180 ÷ 30 = 6 gallons. The cost is 6 × $3.20 = $19.20.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve for x: 3(2x − 1) + 4 = 5x + 12",
+      "choices": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "13"
+      },
+      "correct": "C",
+      "correctAnswerText": "11",
+      "explanation": "Distribute and simplify: 6x − 3 + 4 = 5x + 12, so 6x + 1 = 5x + 12. Subtract 5x and 1 to get x = 11.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A rectangular piece of carpet is 12 feet long and 9 feet wide. A 3-foot by 4-foot rectangular section is cut out of one corner. How many square feet of carpet remain?",
+      "choices": {
+        "A": "84 square feet",
+        "B": "96 square feet",
+        "C": "105 square feet",
+        "D": "108 square feet"
+      },
+      "correct": "B",
+      "correctAnswerText": "96 square feet",
+      "explanation": "The full carpet area is 12 × 9 = 108 square feet. The cut-out section has area 3 × 4 = 12 square feet, so 108 − 12 = 96 square feet remain.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A survey asked 60 students how they usually travel to campus. Bus: 18 students Bike: 12 students Walk: 10 students Car: 20 students If one surveyed student is chosen at random, what is the probability that the student usually bikes or walks to campus?",
+      "choices": {
+        "A": "1/3",
+        "B": "11/30",
+        "C": "2/5",
+        "D": "11/20"
+      },
+      "correct": "B",
+      "correctAnswerText": "11/30",
+      "explanation": "A total of 12 + 10 = 22 students bike or walk. Out of 60 students, the probability is 22/60 = 11/30.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "At an orientation event, the recommended ratio is 5 mentors for every 18 students. If 126 students attend, how many mentors are recommended?",
+      "choices": {
+        "A": "30",
+        "B": "35",
+        "C": "40",
+        "D": "45"
+      },
+      "correct": "B",
+      "correctAnswerText": "35",
+      "explanation": "Since 126 ÷ 18 = 7, the event has 7 groups of 18 students. At 5 mentors per group, 7 × 5 = 35 mentors are recommended.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Which expression is equivalent to (2a − 5) − 3(a + 4) + 7a?",
+      "choices": {
+        "A": "6a − 17",
+        "B": "6a + 7",
+        "C": "12a − 17",
+        "D": "12a + 7"
+      },
+      "correct": "A",
+      "correctAnswerText": "6a − 17",
+      "explanation": "Distribute and combine like terms: 2a − 5 − 3a − 12 + 7a = 6a − 17.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "An aquarium is shaped like a rectangular prism. It is 24 inches long, 10 inches wide, and 12 inches high. If it is filled to 3/4 of its full volume, how many cubic inches of water does it contain?",
+      "choices": {
+        "A": "1,440 cubic inches",
+        "B": "1,800 cubic inches",
+        "C": "2,160 cubic inches",
+        "D": "2,880 cubic inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "2,160 cubic inches",
+      "explanation": "The full volume is 24 × 10 × 12 = 2,880 cubic inches. Three-fourths of 2,880 is 2,160 cubic inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "Two groups took the same quiz. Group A scores: 70, 75, 80, 85, 90 Group B scores: 60, 75, 80, 85, 100 How much greater is the range of Group B’s scores than the range of Group A’s scores?",
+      "choices": {
+        "A": "10 points",
+        "B": "15 points",
+        "C": "20 points",
+        "D": "30 points"
+      },
+      "correct": "C",
+      "correctAnswerText": "20 points",
+      "explanation": "Group A’s range is 90 − 70 = 20. Group B’s range is 100 − 60 = 40. The difference is 40 − 20 = 20 points.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A lab procedure uses 0.75 teaspoon of powder for every 8 ounces of water. How many teaspoons of powder are needed for 40 ounces of water?",
+      "choices": {
+        "A": "3 teaspoons",
+        "B": "3 1/2 teaspoons",
+        "C": "3 3/4 teaspoons",
+        "D": "4 1/4 teaspoons"
+      },
+      "correct": "C",
+      "correctAnswerText": "3 3/4 teaspoons",
+      "explanation": "Since 40 ounces is 5 times 8 ounces, multiply 0.75 by 5: 0.75 × 5 = 3.75, or 3 3/4 teaspoons.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Solve the system of equations: 4x + y = 23 x + y = 8 What is the value of y?",
+      "choices": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "8"
+      },
+      "correct": "B",
+      "correctAnswerText": "3",
+      "explanation": "Subtract x + y = 8 from 4x + y = 23 to get 3x = 15, so x = 5. Then 5 + y = 8, so y = 3.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A circular track has a circumference of 40π meters. What is the area enclosed by the track?",
+      "choices": {
+        "A": "100π square meters",
+        "B": "200π square meters",
+        "C": "400π square meters",
+        "D": "1,600π square meters"
+      },
+      "correct": "C",
+      "correctAnswerText": "400π square meters",
+      "explanation": "Since C = 2πr and 40π = 2πr, the radius is 20 meters. The area is πr² = π(20²) = 400π square meters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A spinner has 6 equal sections numbered 1 through 6. A coin is flipped once. What is the probability that the spinner lands on an even number and the coin lands heads?",
+      "choices": {
+        "A": "1/6",
+        "B": "1/4",
+        "C": "1/3",
+        "D": "1/2"
+      },
+      "correct": "B",
+      "correctAnswerText": "1/4",
+      "explanation": "The probability of spinning an even number is 3/6 = 1/2, and the probability of heads is 1/2. The combined probability is 1/2 × 1/2 = 1/4.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A warehouse inventory decreased from 1,050 items to 870 items over 6 weeks. What was the average decrease in inventory per week?",
+      "choices": {
+        "A": "25 items per week",
+        "B": "30 items per week",
+        "C": "35 items per week",
+        "D": "45 items per week"
+      },
+      "correct": "B",
+      "correctAnswerText": "30 items per week",
+      "explanation": "The inventory decreased by 1,050 − 870 = 180 items. Over 6 weeks, the average decrease was 180 ÷ 6 = 30 items per week.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A student has already spent 35 minutes studying and wants to spend at most 120 total minutes. Each online practice module takes 18 minutes. What is the greatest number of complete modules the student can still finish?",
+      "choices": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correct": "B",
+      "correctAnswerText": "4",
+      "explanation": "The remaining available study time is 120 − 35 = 85 minutes. Since 85 ÷ 18 is about 4.72, the student can complete at most 4 full modules.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A 6-foot-tall person casts a 4.5-foot shadow at the same time a flagpole casts an 18-foot shadow. Assuming the triangles formed are similar, how tall is the flagpole?",
+      "choices": {
+        "A": "13.5 feet",
+        "B": "21 feet",
+        "C": "24 feet",
+        "D": "27 feet"
+      },
+      "correct": "C",
+      "correctAnswerText": "24 feet",
+      "explanation": "Set up the proportion x/18 = 6/4.5. Then x = 18 × 6 ÷ 4.5 = 24 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "In a sample of 50 students, 32 reported having a part-time job. A counselor claims that more than 60% of the sampled students have a part-time job. Which statement is supported by the data?",
+      "choices": {
+        "A": "The claim is supported because 32/50 = 64%, which is greater than 60%.",
+        "B": "The claim is supported because 32/50 = 60%, which is equal to 60%.",
+        "C": "The claim is not supported because 32/50 = 58%, which is less than 60%.",
+        "D": "The claim is not supported because fewer than 32 students would be needed."
+      },
+      "correct": "A",
+      "correctAnswerText": "The claim is supported because 32/50 = 64%, which is greater than 60%.",
+      "explanation": "The sample proportion is 32 ÷ 50 = 0.64, or 64%, so the counselor’s claim is supported.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "An annual online subscription normally costs $96. A new customer pays 3/4 of the regular annual price. What is the equivalent monthly cost for the new customer?",
+      "choices": {
+        "A": "$6",
+        "B": "$8",
+        "C": "$12",
+        "D": "$72"
+      },
+      "correct": "A",
+      "correctAnswerText": "$6",
+      "explanation": "The new customer pays 3/4 of $96, which is $72. Dividing $72 by 12 months gives $6 per month.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A bacteria culture starts with 150 bacteria and doubles every hour. Which expression represents the number of bacteria after h hours?",
+      "choices": {
+        "A": "150 + 2h",
+        "B": "150h + 2",
+        "C": "150 · 2ʰ",
+        "D": "2 · 150ʰ"
+      },
+      "correct": "C",
+      "correctAnswerText": "150 · 2ʰ",
+      "explanation": "Doubling each hour means multiplying by 2 once for each hour. Starting with 150 bacteria, the expression after h hours is 150 · 2ʰ.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "Two angles are complementary. One angle measures 28°. What is the measure of the other angle?",
+      "choices": {
+        "A": "52°",
+        "B": "62°",
+        "C": "118°",
+        "D": "152°"
+      },
+      "correct": "B",
+      "correctAnswerText": "62°",
+      "explanation": "Complementary angles have a sum of 90°. The other angle is 90° − 28° = 62°.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M11-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A course grade is based 70% on exams and 30% on assignments. A student’s exam average is 84, and the assignment average is 92. What is the student’s overall course average?",
+      "choices": {
+        "A": "84.8",
+        "B": "86.4",
+        "C": "88.0",
+        "D": "89.6"
+      },
+      "correct": "B",
+      "correctAnswerText": "86.4",
+      "explanation": "Compute the weighted average: 0.70(84) + 0.30(92) = 58.8 + 27.6 = 86.4.",
+      "credits": 1
+    }
+  ]
+}

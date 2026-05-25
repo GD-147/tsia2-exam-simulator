@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 11",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E11-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At Mesa Ridge College, students in the advanced manufacturing program began using 3D printers to make adaptive writing grips for local elementary students who had difficulty holding standard pencils. At first, the college students focused on producing as many grips as possible. However, after meeting with occupational therapists and teachers, they realized that a useful grip had to fit a child’s hand, writing style, and comfort level. Some early designs were too stiff, while others slipped during use. The students adjusted the shapes, tested different materials, and created several sizes. The project gave manufacturing students experience with design, measurement, and revision, but it also changed how they thought about production. Instead of seeing success as making identical objects quickly, they began to see the value of making an object that solved a specific problem for a specific user. Instructors said the project helped students connect technical skill with human need. Which statement best expresses the central idea of the passage?",
+      "choices": {
+        "A": "The adaptive grip project helped students understand that effective manufacturing can require user-focused design.",
+        "B": "The manufacturing students learned that 3D printers are useful only for making identical objects.",
+        "C": "Elementary students should not use writing tools designed by college students.",
+        "D": "Occupational therapists and teachers completed the project without help from manufacturing students."
+      },
+      "correct": "A",
+      "correctAnswerText": "The adaptive grip project helped students understand that effective manufacturing can require user-focused design.",
+      "explanation": "The passage shows that students moved from simply producing many objects to designing grips that met specific users’ needs.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At Mesa Ridge College, students in the advanced manufacturing program began using 3D printers to make adaptive writing grips for local elementary students who had difficulty holding standard pencils. At first, the college students focused on producing as many grips as possible. However, after meeting with occupational therapists and teachers, they realized that a useful grip had to fit a child’s hand, writing style, and comfort level. Some early designs were too stiff, while others slipped during use. The students adjusted the shapes, tested different materials, and created several sizes. The project gave manufacturing students experience with design, measurement, and revision, but it also changed how they thought about production. Instead of seeing success as making identical objects quickly, they began to see the value of making an object that solved a specific problem for a specific user. Instructors said the project helped students connect technical skill with human need. According to the passage, why did students revise the early designs?",
+      "choices": {
+        "A": "Some grips were uncomfortable or did not stay in place during use.",
+        "B": "The students wanted every grip to be the same size and shape.",
+        "C": "The printers were unable to produce any objects.",
+        "D": "The elementary students did not need writing support."
+      },
+      "correct": "A",
+      "correctAnswerText": "Some grips were uncomfortable or did not stay in place during use.",
+      "explanation": "The passage states that some early designs were too stiff and others slipped during use.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At Mesa Ridge College, students in the advanced manufacturing program began using 3D printers to make adaptive writing grips for local elementary students who had difficulty holding standard pencils. At first, the college students focused on producing as many grips as possible. However, after meeting with occupational therapists and teachers, they realized that a useful grip had to fit a child’s hand, writing style, and comfort level. Some early designs were too stiff, while others slipped during use. The students adjusted the shapes, tested different materials, and created several sizes. The project gave manufacturing students experience with design, measurement, and revision, but it also changed how they thought about production. Instead of seeing success as making identical objects quickly, they began to see the value of making an object that solved a specific problem for a specific user. Instructors said the project helped students connect technical skill with human need. In the passage, the word adaptive most nearly means",
+      "choices": {
+        "A": "designed to meet a particular need",
+        "B": "made only for decoration",
+        "C": "produced without planning",
+        "D": "difficult to change after printing"
+      },
+      "correct": "A",
+      "correctAnswerText": "designed to meet a particular need",
+      "explanation": "In context, “adaptive” describes writing grips made to help students who have difficulty holding standard pencils.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At Mesa Ridge College, students in the advanced manufacturing program began using 3D printers to make adaptive writing grips for local elementary students who had difficulty holding standard pencils. At first, the college students focused on producing as many grips as possible. However, after meeting with occupational therapists and teachers, they realized that a useful grip had to fit a child’s hand, writing style, and comfort level. Some early designs were too stiff, while others slipped during use. The students adjusted the shapes, tested different materials, and created several sizes. The project gave manufacturing students experience with design, measurement, and revision, but it also changed how they thought about production. Instead of seeing success as making identical objects quickly, they began to see the value of making an object that solved a specific problem for a specific user. Instructors said the project helped students connect technical skill with human need. Which detail best supports the idea that the project changed students’ understanding of production?",
+      "choices": {
+        "A": "The students used 3D printers in an advanced manufacturing program.",
+        "B": "The students began to value making objects that solved specific problems for specific users.",
+        "C": "Local elementary students had difficulty holding standard pencils.",
+        "D": "The project involved teachers and occupational therapists."
+      },
+      "correct": "B",
+      "correctAnswerText": "The students began to value making objects that solved specific problems for specific users.",
+      "explanation": "This detail directly shows a change in how students understood production.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A local bus agency changed its route signs after riders complained that the old signs showed only route numbers. The new signs include the route number, final destination, major streets served, and whether the bus runs on weekends. Agency staff said the change was especially helpful for occasional riders who did not have the route system memorized. What is the main purpose of the new route signs?",
+      "choices": {
+        "A": "To give riders clearer information before they board",
+        "B": "To make bus routes change every weekend",
+        "C": "To encourage riders to memorize all route numbers",
+        "D": "To reduce the number of streets served by each bus"
+      },
+      "correct": "A",
+      "correctAnswerText": "To give riders clearer information before they board",
+      "explanation": "The new signs provide route numbers, destinations, major streets, and weekend information so riders can make better decisions.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Hana first began drawing portraits, she tried to finish each face quickly. Her instructor asked her to spend ten minutes drawing only the spaces between the features: the distance from the eyebrow to the eye, the curve between the nose and cheek, and the angle between the mouth and chin. Hana found the exercise tedious at first, but her next portrait looked more balanced. What can reasonably be inferred about Hana?",
+      "choices": {
+        "A": "She learns that careful observation of relationships can improve her drawing.",
+        "B": "She decides that portraits should never include facial features.",
+        "C": "She believes quick sketches are always more accurate than slow ones.",
+        "D": "She stops drawing because the exercise is too simple."
+      },
+      "correct": "A",
+      "correctAnswerText": "She learns that careful observation of relationships can improve her drawing.",
+      "explanation": "Hana’s portrait improves after she studies distances, curves, and angles instead of rushing.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A town council is considering a proposal to create a weekend market for local craftspeople. Supporters say the market would give artists a place to sell handmade items and could attract visitors to nearby cafes and shops. Some business owners worry that street closures might reduce parking or make deliveries harder. The council is discussing a limited schedule, marked loading zones, and a trial period before making the market permanent. Which statement best describes the council’s approach?",
+      "choices": {
+        "A": "It is considering the economic benefits of a craft market while addressing traffic and delivery concerns.",
+        "B": "It has decided that local craftspeople should sell only through online stores.",
+        "C": "It believes street closures should occur every day without planning.",
+        "D": "It wants to prevent visitors from shopping at nearby businesses."
+      },
+      "correct": "A",
+      "correctAnswerText": "It is considering the economic benefits of a craft market while addressing traffic and delivery concerns.",
+      "explanation": "The council is considering benefits for artists and nearby businesses while planning loading zones, a limited schedule, and a trial period.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In a computer science class, the instructor compares debugging to checking a recipe after a cake fails to rise. A baker might review whether the oven was hot enough, whether the baking powder was fresh, or whether an ingredient was measured incorrectly. Similarly, a programmer checks code step by step to find where a program stopped working as intended. What is the main purpose of the recipe comparison?",
+      "choices": {
+        "A": "To show that debugging involves a careful step-by-step search for the source of a problem",
+        "B": "To argue that computer science is easier than cooking",
+        "C": "To prove that all program errors are caused by incorrect measurements",
+        "D": "To explain why programmers should avoid testing their work"
+      },
+      "correct": "A",
+      "correctAnswerText": "To show that debugging involves a careful step-by-step search for the source of a problem",
+      "explanation": "The recipe comparison helps explain how programmers review possible causes when a program does not work as intended.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: College instructors should allow students to submit draft outlines before writing major essays. An outline can help students organize ideas early, identify weak support, and avoid writing several pages before discovering that the argument lacks direction. Passage 2: Draft outlines can be helpful, but instructors should not grade them as if they were finished papers. Early outlines are meant to change as students read more and refine their ideas. Feedback should guide development rather than punish students for not having a perfect plan immediately. How does Passage 2 respond to Passage 1?",
+      "choices": {
+        "A": "Passage 2 agrees that outlines are useful but emphasizes that they should be treated as flexible drafts.",
+        "B": "Passage 2 argues that students should write essays without any planning.",
+        "C": "Passage 2 claims that outlines are more important than finished essays.",
+        "D": "Passage 2 says that instructors should avoid giving feedback on student writing."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 agrees that outlines are useful but emphasizes that they should be treated as flexible drafts.",
+      "explanation": "Passage 2 accepts the usefulness of outlines but says they should guide development rather than be graded as perfect final plans.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article about neighborhood bulletin boards argues that they still have value even when most information can be posted online. A bulletin board in a laundromat, grocery store, or community center reaches people who may not follow the same social media pages. It can advertise a lost pet, a free concert, a tutoring service, or a tenants’ meeting. The author does not claim that paper notices are better than digital ones; rather, both can reach different parts of a community. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "Physical bulletin boards can still help share local information because they reach audiences that online posts may miss.",
+        "B": "Online communication should be eliminated because paper notices are always more reliable.",
+        "C": "Bulletin boards are useful only when they advertise commercial products.",
+        "D": "Community information should be shared through one method only."
+      },
+      "correct": "A",
+      "correctAnswerText": "Physical bulletin boards can still help share local information because they reach audiences that online posts may miss.",
+      "explanation": "The passage argues that paper notices and digital posts can reach different parts of a community.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The story describes a clockmaker’s workbench covered with springs, tiny screws, and glass covers. Each evening, before closing the shop, the clockmaker places the smallest parts in labeled trays. The narrator says the trays “held tomorrow in careful rows.” The image suggests that the clockmaker’s patience and order make future work possible. What effect does the phrase “held tomorrow in careful rows” most likely create?",
+      "choices": {
+        "A": "It suggests that careful organization prepares the clockmaker for future work.",
+        "B": "It shows that the clockmaker plans to stop repairing clocks.",
+        "C": "It makes the shop seem chaotic and neglected.",
+        "D": "It proves that the clocks cannot be repaired with small parts."
+      },
+      "correct": "A",
+      "correctAnswerText": "It suggests that careful organization prepares the clockmaker for future work.",
+      "explanation": "The image connects labeled trays and organized parts with readiness for the next day’s work.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A lab supervisor tells new assistants that labeling samples immediately is part of the experiment, not a separate chore to finish later. If two tubes are placed on a table without labels, even for a few minutes, the results may become impossible to trust. Accurate labeling protects the value of the work. Which sentence best states the supervisor’s point?",
+      "choices": {
+        "A": "Careful labeling is essential because it preserves the reliability of lab results.",
+        "B": "Lab assistants should label samples only after all experiments are complete.",
+        "C": "Labels are useful only when experiments produce unexpected results.",
+        "D": "Unlabeled samples are easier to organize than labeled samples."
+      },
+      "correct": "A",
+      "correctAnswerText": "Careful labeling is essential because it preserves the reliability of lab results.",
+      "explanation": "The supervisor explains that unlabeled samples can make results impossible to trust.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The employee handbook asks staff to report small workplace hazards, such as loose carpet edges, flickering hallway lights, or blocked storage-room doors. The handbook explains that minor hazards may seem unimportant until someone trips, cannot see clearly, or cannot exit quickly. Reporting problems early allows maintenance staff to fix them before they become more serious. Why does the handbook encourage employees to report small hazards?",
+      "choices": {
+        "A": "To prevent minor problems from becoming safety risks",
+        "B": "To make employees responsible for all building repairs",
+        "C": "To discourage staff from using storage rooms",
+        "D": "To replace regular maintenance inspections completely"
+      },
+      "correct": "A",
+      "correctAnswerText": "To prevent minor problems from becoming safety risks",
+      "explanation": "The handbook explains that small hazards can lead to tripping, poor visibility, or blocked exits if not reported.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article on reusable shopping bags notes that they can reduce plastic waste only when people remember to use them regularly. A cloth bag kept in a closet does little good if shoppers continue accepting disposable bags at the store. The author recommends keeping bags near the door or in the car so they become part of the shopping routine. Which statement best describes the author’s reasoning?",
+      "choices": {
+        "A": "Reusable bags are most effective when they are built into a consistent habit.",
+        "B": "Reusable bags should never be used for grocery shopping.",
+        "C": "Disposable bags reduce waste more than cloth bags in every case.",
+        "D": "Shoppers should buy new reusable bags each time they go to a store."
+      },
+      "correct": "A",
+      "correctAnswerText": "Reusable bags are most effective when they are built into a consistent habit.",
+      "explanation": "The passage argues that reusable bags reduce waste only when people remember to use them regularly.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Anika began working at a pet grooming salon, she thought the best groomer was the one who finished each appointment fastest. After watching an experienced coworker, she noticed that the coworker paused often to let nervous animals relax, checked the clippers for heat, and explained each step to owners. Anika realized that professional skill included patience, safety, and communication. What lesson does Anika learn?",
+      "choices": {
+        "A": "Professional skill involves more than speed.",
+        "B": "Groomers should avoid speaking with pet owners.",
+        "C": "Animals become calmer when appointments are rushed.",
+        "D": "Clippers do not need to be checked during grooming."
+      },
+      "correct": "A",
+      "correctAnswerText": "Professional skill involves more than speed.",
+      "explanation": "Anika learns that patience, safety, and communication are part of skilled grooming.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a peer note-review exchange for students in challenging lecture courses. (2) In this program, students would trade copies of their notes with a classmate once or twice during the semester. (3) The purpose would not be to copy someone else’s work, but to identify missing definitions, unclear examples, or confusing organization. (4) Students could then revise their own notes before preparing for exams. (5) The exchange would also help students see different ways of organizing the same information. (6) Some students prefer to study in the morning rather than late at night. (7) To protect privacy, students could remove personal comments before sharing notes. (8) A peer note-review exchange would help students improve the quality of their study materials before they need them most. Which sentence should be removed because it does not support the main idea of the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "C",
+      "correctAnswerText": "Sentence 6",
+      "explanation": "Sentence 6 discusses study time preferences and does not support the proposal for a peer note-review exchange.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a peer note-review exchange for students in challenging lecture courses. (2) In this program, students would trade copies of their notes with a classmate once or twice during the semester. (3) The purpose would not be to copy someone else’s work, but to identify missing definitions, unclear examples, or confusing organization. (4) Students could then revise their own notes before preparing for exams. (5) The exchange would also help students see different ways of organizing the same information. (6) Some students prefer to study in the morning rather than late at night. (7) To protect privacy, students could remove personal comments before sharing notes. (8) A peer note-review exchange would help students improve the quality of their study materials before they need them most. Which sentence best strengthens the support for sentence 5?",
+      "choices": {
+        "A": "One student might use a timeline, while another might group the same lecture ideas by cause and effect.",
+        "B": "Some lecture halls have more seats than others.",
+        "C": "Students often carry notebooks, laptops, or tablets to class.",
+        "D": "Exams may be scheduled at different times of day."
+      },
+      "correct": "A",
+      "correctAnswerText": "One student might use a timeline, while another might group the same lecture ideas by cause and effect.",
+      "explanation": "This sentence gives a specific example of different ways to organize the same information.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a peer note-review exchange for students in challenging lecture courses. (2) In this program, students would trade copies of their notes with a classmate once or twice during the semester. (3) The purpose would not be to copy someone else’s work, but to identify missing definitions, unclear examples, or confusing organization. (4) Students could then revise their own notes before preparing for exams. (5) The exchange would also help students see different ways of organizing the same information. (6) Some students prefer to study in the morning rather than late at night. (7) To protect privacy, students could remove personal comments before sharing notes. (8) A peer note-review exchange would help students improve the quality of their study materials before they need them most. Which transition should be added to the beginning of sentence 7 to show the relationship between sentence 7 and the rest of the passage?",
+      "choices": {
+        "A": "To protect privacy,",
+        "B": "In contrast,",
+        "C": "For example,",
+        "D": "Nevertheless,"
+      },
+      "correct": "A",
+      "correctAnswerText": "To protect privacy,",
+      "explanation": "This transition introduces the reason students might remove personal comments before sharing notes.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a peer note-review exchange for students in challenging lecture courses. (2) In this program, students would trade copies of their notes with a classmate once or twice during the semester. (3) The purpose would not be to copy someone else’s work, but to identify missing definitions, unclear examples, or confusing organization. (4) Students could then revise their own notes before preparing for exams. (5) The exchange would also help students see different ways of organizing the same information. (6) Some students prefer to study in the morning rather than late at night. (7) To protect privacy, students could remove personal comments before sharing notes. (8) A peer note-review exchange would help students improve the quality of their study materials before they need them most. Which revision of sentence 8 best maintains a formal academic tone?",
+      "choices": {
+        "A": "A peer note-review exchange would help students improve the quality of their study materials before they need them most.",
+        "B": "Swapping notes would be awesome because students could see what they missed and get better stuff to study.",
+        "C": "This note thing would totally help people fix their notes before the exam gets close.",
+        "D": "Students would like this idea because confusing notes are annoying and exams are stressful."
+      },
+      "correct": "A",
+      "correctAnswerText": "A peer note-review exchange would help students improve the quality of their study materials before they need them most.",
+      "explanation": "This sentence maintains formal academic tone and clearly summarizes the proposal’s value.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The editor reviewed the article, she suggested a clearer title.",
+      "choices": {
+        "A": "The editor reviewed the article, she suggested a clearer title.",
+        "B": "The editor reviewed the article and suggested a clearer title.",
+        "C": "The editor reviewed the article, and suggested, a clearer title.",
+        "D": "The editor reviewed the article she suggested a clearer title."
+      },
+      "correct": "B",
+      "correctAnswerText": "The editor reviewed the article and suggested a clearer title.",
+      "explanation": "This revision correctly joins two actions performed by the same subject.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is written correctly.",
+      "choices": {
+        "A": "The packet of forms were left on the counter.",
+        "B": "The packet of forms was left on the counter.",
+        "C": "The packet of forms are left on the counter yesterday.",
+        "D": "The packet of forms have left on the counter."
+      },
+      "correct": "B",
+      "correctAnswerText": "The packet of forms was left on the counter.",
+      "explanation": "The subject “packet” is singular, so the singular verb “was” is correct.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best word or phrase to complete the sentence. The weather forecast predicted heavy rain; __________, the outdoor orientation event was moved inside.",
+      "choices": {
+        "A": "therefore",
+        "B": "however",
+        "C": "for instance",
+        "D": "similarly"
+      },
+      "correct": "A",
+      "correctAnswerText": "therefore",
+      "explanation": "The second clause gives the result of the heavy rain forecast.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. While checking the inventory, the missing supply box surprised Erin.",
+      "choices": {
+        "A": "While checking the inventory, the missing supply box surprised Erin.",
+        "B": "While Erin was checking the inventory, the missing supply box surprised her.",
+        "C": "Checking the inventory, the missing supply box surprised Erin.",
+        "D": "The missing supply box, while checking the inventory, surprised Erin."
+      },
+      "correct": "B",
+      "correctAnswerText": "While Erin was checking the inventory, the missing supply box surprised her.",
+      "explanation": "This revision corrects the dangling modifier by clearly showing that Erin was checking the inventory.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The museum created a student audio guide. The guide explains several paintings in simple language.",
+      "choices": {
+        "A": "The museum created a student audio guide, the guide explains several paintings in simple language.",
+        "B": "The museum created a student audio guide that explains several paintings in simple language.",
+        "C": "Creating a student audio guide, several paintings were explained by the museum in simple language.",
+        "D": "The museum created a guide and it is audio and it explains several paintings in simple language."
+      },
+      "correct": "B",
+      "correctAnswerText": "The museum created a student audio guide that explains several paintings in simple language.",
+      "explanation": "This option combines the sentences clearly and avoids a comma splice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. A strong paragraph does more than place several sentences together. Each sentence should help explain, support, or develop the main point. When a sentence introduces an unrelated idea, readers may become distracted or confused. Removing irrelevant information can make the paragraph easier to follow. Which concluding sentence best follows from the paragraph?",
+      "choices": {
+        "A": "Therefore, paragraph unity depends on keeping sentences connected to the main idea.",
+        "B": "In contrast, paragraphs should include as many unrelated details as possible.",
+        "C": "For this reason, a paragraph does not need a main point.",
+        "D": "As a result, readers prefer paragraphs that change topics every sentence."
+      },
+      "correct": "A",
+      "correctAnswerText": "Therefore, paragraph unity depends on keeping sentences connected to the main idea.",
+      "explanation": "This conclusion follows from the paragraph’s explanation that unrelated sentences distract readers.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses a colon correctly.",
+      "choices": {
+        "A": "The kit contains three supplies: tape, scissors, and labels.",
+        "B": "The kit contains: three supplies, tape, scissors, and labels.",
+        "C": "The kit: contains three supplies tape, scissors, and labels.",
+        "D": "The kit contains three: supplies tape, scissors, and labels."
+      },
+      "correct": "A",
+      "correctAnswerText": "The kit contains three supplies: tape, scissors, and labels.",
+      "explanation": "A colon is correctly used after a complete sentence to introduce a list.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best replacement for the underlined words. The speaker’s examples were easy to understand because they were about real situations.",
+      "choices": {
+        "A": "practical",
+        "B": "really about real stuff",
+        "C": "situation-type examples",
+        "D": "easy because they were real"
+      },
+      "correct": "A",
+      "correctAnswerText": "practical",
+      "explanation": "“Practical” is a concise and formal replacement for examples based on real situations.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The staff arranged the chairs in rows, leaving a wide aisle near the exit.",
+      "choices": {
+        "A": "The staff arranged the chairs in rows, leaving a wide aisle near the exit.",
+        "B": "The chairs arranged the staff in rows, leaving a wide aisle near the exit.",
+        "C": "Leaving a wide aisle near the exit, the chairs arranged the staff in rows.",
+        "D": "The staff arranged, the chairs in rows leaving, a wide aisle near the exit."
+      },
+      "correct": "A",
+      "correctAnswerText": "The staff arranged the chairs in rows, leaving a wide aisle near the exit.",
+      "explanation": "This sentence clearly shows that the staff arranged the chairs and left an aisle.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. (1) The campus technology office will offer a workshop on password security. (2) Students will learn how to create strong passwords, recognize phishing attempts, and use multi-factor authentication. (3) These skills can help students protect school accounts, financial information, and personal records. (4) Many students use their phones to check the time between classes. Where should sentence 4 be placed to improve the organization of the paragraph?",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 3",
+        "D": "The sentence should be removed because it shifts away from the paragraph’s focus."
+      },
+      "correct": "D",
+      "correctAnswerText": "The sentence should be removed because it shifts away from the paragraph’s focus.",
+      "explanation": "Sentence 4 discusses checking the time on phones, while the paragraph focuses on password security.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E11-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. Although the hallway was crowded, but the staff kept the line moving.",
+      "choices": {
+        "A": "Although the hallway was crowded, but the staff kept the line moving.",
+        "B": "Although the hallway was crowded, the staff kept the line moving.",
+        "C": "The hallway was crowded although but the staff kept the line moving.",
+        "D": "Although the hallway was crowded the staff kept, the line moving."
+      },
+      "correct": "B",
+      "correctAnswerText": "Although the hallway was crowded, the staff kept the line moving.",
+      "explanation": "This revision removes the unnecessary “but” and correctly punctuates the introductory dependent clause.",
+      "credits": 1
+    }
+  ]
+}

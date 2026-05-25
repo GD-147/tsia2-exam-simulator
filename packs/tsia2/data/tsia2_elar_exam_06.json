@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 06",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E6-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At Cedar Plains College, the language conversation circles were created for students who wanted more practice speaking English in everyday situations. The circles are not formal grammar classes, and they are not designed to replace writing or reading instruction. Instead, each small group meets once a week to discuss practical topics such as introducing oneself, asking for clarification, explaining a problem, or describing a familiar place. Trained student volunteers guide the conversations but do not correct every mistake. The goal is to help participants become more comfortable speaking, listening, and asking follow-up questions. Some students who first joined the circles spoke very little, worried that their pronunciation would distract others. After several meetings, many began speaking more often because the setting felt less like a test and more like a conversation. Volunteers also reported benefits: they learned to listen patiently, rephrase unclear questions, and communicate with classmates from different backgrounds. Which statement best expresses the central idea of the passage?",
+      "choices": {
+        "A": "Language conversation circles help students build practical speaking confidence in a supportive setting.",
+        "B": "Language conversation circles should replace all grammar, reading, and writing courses.",
+        "C": "Student volunteers benefit more from conversation circles than language learners do.",
+        "D": "Students improve their pronunciation only when every mistake is corrected immediately."
+      },
+      "correct": "A",
+      "correctAnswerText": "Language conversation circles help students build practical speaking confidence in a supportive setting.",
+      "explanation": "The passage explains that the circles provide practical speaking practice in a low-pressure environment that helps students become more comfortable communicating.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At Cedar Plains College, the language conversation circles were created for students who wanted more practice speaking English in everyday situations. The circles are not formal grammar classes, and they are not designed to replace writing or reading instruction. Instead, each small group meets once a week to discuss practical topics such as introducing oneself, asking for clarification, explaining a problem, or describing a familiar place. Trained student volunteers guide the conversations but do not correct every mistake. The goal is to help participants become more comfortable speaking, listening, and asking follow-up questions. Some students who first joined the circles spoke very little, worried that their pronunciation would distract others. After several meetings, many began speaking more often because the setting felt less like a test and more like a conversation. Volunteers also reported benefits: they learned to listen patiently, rephrase unclear questions, and communicate with classmates from different backgrounds. According to the passage, why do volunteers avoid correcting every mistake?",
+      "choices": {
+        "A": "The circles are meant to encourage comfortable communication rather than feel like formal testing.",
+        "B": "The volunteers are not allowed to speak during the meetings.",
+        "C": "The participants already speak English perfectly before joining.",
+        "D": "The circles focus only on written assignments and reading quizzes."
+      },
+      "correct": "A",
+      "correctAnswerText": "The circles are meant to encourage comfortable communication rather than feel like formal testing.",
+      "explanation": "The volunteers do not correct every mistake because the goal is to build confidence and make the setting feel like conversation, not a test.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At Cedar Plains College, the language conversation circles were created for students who wanted more practice speaking English in everyday situations. The circles are not formal grammar classes, and they are not designed to replace writing or reading instruction. Instead, each small group meets once a week to discuss practical topics such as introducing oneself, asking for clarification, explaining a problem, or describing a familiar place. Trained student volunteers guide the conversations but do not correct every mistake. The goal is to help participants become more comfortable speaking, listening, and asking follow-up questions. Some students who first joined the circles spoke very little, worried that their pronunciation would distract others. After several meetings, many began speaking more often because the setting felt less like a test and more like a conversation. Volunteers also reported benefits: they learned to listen patiently, rephrase unclear questions, and communicate with classmates from different backgrounds. In the passage, the word practical most nearly means",
+      "choices": {
+        "A": "useful in real situations",
+        "B": "difficult to memorize",
+        "C": "unrelated to daily life",
+        "D": "required by law"
+      },
+      "correct": "A",
+      "correctAnswerText": "useful in real situations",
+      "explanation": "In context, practical topics are everyday speaking tasks such as introducing oneself, asking for clarification, and explaining a problem.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. At Cedar Plains College, the language conversation circles were created for students who wanted more practice speaking English in everyday situations. The circles are not formal grammar classes, and they are not designed to replace writing or reading instruction. Instead, each small group meets once a week to discuss practical topics such as introducing oneself, asking for clarification, explaining a problem, or describing a familiar place. Trained student volunteers guide the conversations but do not correct every mistake. The goal is to help participants become more comfortable speaking, listening, and asking follow-up questions. Some students who first joined the circles spoke very little, worried that their pronunciation would distract others. After several meetings, many began speaking more often because the setting felt less like a test and more like a conversation. Volunteers also reported benefits: they learned to listen patiently, rephrase unclear questions, and communicate with classmates from different backgrounds. Which detail best supports the idea that the conversation circles help both participants and volunteers?",
+      "choices": {
+        "A": "The circles meet once a week to discuss practical topics.",
+        "B": "Participants became more comfortable speaking, while volunteers learned to listen and communicate better.",
+        "C": "The circles are not formal grammar classes.",
+        "D": "Some students worried that their pronunciation would distract others."
+      },
+      "correct": "B",
+      "correctAnswerText": "Participants became more comfortable speaking, while volunteers learned to listen and communicate better.",
+      "explanation": "This detail shows benefits for both groups: participants gained speaking confidence and volunteers improved communication skills.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The apartment complex began sending maintenance updates through a resident text-alert system. The messages were brief: “Water will be shut off in Building B from 10 a.m. to noon,” or “The south parking lot will be repaved Friday.” Before the system began, notices were taped near mailboxes, where residents sometimes missed them. The new alerts did not eliminate printed notices, but they helped residents plan around repairs more easily. What is the main purpose of the text-alert system?",
+      "choices": {
+        "A": "To help residents receive timely information about maintenance work",
+        "B": "To stop residents from using the parking lot permanently",
+        "C": "To replace all communication between residents and management",
+        "D": "To allow residents to schedule repairs without contacting the office"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help residents receive timely information about maintenance work",
+      "explanation": "The alert system gives residents quick information about water shutoffs, repaving, and repairs.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Celia started training for her first 5K race, she ran as fast as possible every day. After two weeks, her legs ached, and she dreaded each workout. A more experienced runner suggested that she alternate running days with walking or rest days. Celia was skeptical, but after following the plan, she found that her endurance improved. She realized that training was not just about effort; it was also about recovery. What can reasonably be inferred about Celia?",
+      "choices": {
+        "A": "She learns that rest can be an important part of improvement.",
+        "B": "She decides that running quickly every day is the safest training method.",
+        "C": "She stops exercising because walking is too difficult.",
+        "D": "She believes experienced runners cannot offer useful advice."
+      },
+      "correct": "A",
+      "correctAnswerText": "She learns that rest can be an important part of improvement.",
+      "explanation": "Celia’s endurance improves when she alternates running with walking or rest, showing that recovery helps training.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A city arts council is considering whether to fund small concerts in neighborhood parks. Supporters say the concerts would give local musicians a place to perform and offer residents free cultural events close to home. Critics worry that the events could create noise, litter, and parking problems. The council has proposed limiting concerts to early evening hours, requiring cleanup plans, and rotating events among several parks. Which statement best describes the council’s approach?",
+      "choices": {
+        "A": "It is considering the benefits of park concerts while proposing rules to address concerns.",
+        "B": "It has decided that neighborhood parks should never host public events.",
+        "C": "It wants musicians to perform only in private buildings.",
+        "D": "It believes cleanup plans are unnecessary for outdoor events."
+      },
+      "correct": "A",
+      "correctAnswerText": "It is considering the benefits of park concerts while proposing rules to address concerns.",
+      "explanation": "The council recognizes potential benefits but proposes time limits, cleanup plans, and rotating locations to address problems.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In a business class, students studied how a small store used customer feedback. The owner noticed that many survey responses did not ask for lower prices but for clearer information about delivery times. In response, the store added estimated delivery windows to receipts and confirmation emails. Customer complaints decreased, not because deliveries became faster, but because customers knew what to expect. What is the main idea of the passage?",
+      "choices": {
+        "A": "Clear communication can improve customer satisfaction even when the basic service does not change.",
+        "B": "Stores should ignore customer surveys unless they mention lower prices.",
+        "C": "Faster delivery is the only way to reduce customer complaints.",
+        "D": "Customers prefer receipts that do not include delivery information."
+      },
+      "correct": "A",
+      "correctAnswerText": "Clear communication can improve customer satisfaction even when the basic service does not change.",
+      "explanation": "Complaints decreased because customers received clearer delivery information, not because delivery became faster.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: College students should be encouraged to rent rather than buy expensive course materials when possible. Renting can reduce upfront costs, especially in classes that require books or tools students may not need after the semester ends. Passage 2: Renting course materials can save money, but students should compare the terms carefully. Some rental agreements charge high fees for late returns or damaged items. In some cases, buying used materials or sharing approved resources may be a better choice. How does Passage 2 respond to Passage 1?",
+      "choices": {
+        "A": "Passage 2 agrees that renting can help but warns that students should examine rental terms before deciding.",
+        "B": "Passage 2 claims that students should always buy the most expensive course materials.",
+        "C": "Passage 2 argues that course materials are unnecessary in college classes.",
+        "D": "Passage 2 says that rental agreements never include extra fees."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 agrees that renting can help but warns that students should examine rental terms before deciding.",
+      "explanation": "Passage 2 accepts that renting can save money but adds that fees and terms must be considered.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article about handwritten letters does not claim that people should abandon digital communication. Instead, it argues that handwritten notes can serve a different purpose. Because writing by hand takes more time, a letter may signal care, attention, and personal effort. The author suggests that a handwritten thank-you note, condolence message, or letter of encouragement can feel meaningful precisely because it is less convenient than sending a quick text. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "Handwritten letters can be meaningful because their slower process may show personal care.",
+        "B": "Digital communication should be banned because it is never sincere.",
+        "C": "Handwritten letters are useful only when they are written by professional writers.",
+        "D": "People should send handwritten notes for every ordinary message."
+      },
+      "correct": "A",
+      "correctAnswerText": "Handwritten letters can be meaningful because their slower process may show personal care.",
+      "explanation": "The passage argues that handwritten notes can feel meaningful because they take time and effort.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The short story describes a bus driver who knows the morning passengers by their routines rather than their names. He recognizes the woman who always folds a newspaper into quarters, the student who checks his backpack twice, and the older man who nods before stepping carefully onto the curb. These details create a portrait of a community built through repeated, quiet encounters. What do the details about the passengers most strongly suggest?",
+      "choices": {
+        "A": "Small daily routines can create a sense of familiarity among strangers.",
+        "B": "The bus driver dislikes learning passengers’ names.",
+        "C": "Morning passengers always travel to the same destination.",
+        "D": "Public transportation prevents people from forming habits."
+      },
+      "correct": "A",
+      "correctAnswerText": "Small daily routines can create a sense of familiarity among strangers.",
+      "explanation": "The repeated details about passengers’ habits show how community can form through ordinary encounters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A campus emergency plan is useful only if people know how to follow it. For that reason, the safety office holds short practice drills each semester. The drills are not meant to alarm students. They help students locate exits, understand shelter areas, and recognize official messages. A plan that remains unread in a folder is less useful than a plan people have practiced. Which sentence best states the author’s point?",
+      "choices": {
+        "A": "Emergency plans are most useful when students practice the procedures.",
+        "B": "Students should ignore official messages during safety drills.",
+        "C": "Campus drills are designed mainly to frighten students.",
+        "D": "Written plans should replace all practice activities."
+      },
+      "correct": "A",
+      "correctAnswerText": "Emergency plans are most useful when students practice the procedures.",
+      "explanation": "The passage states that an emergency plan is more useful when people know how to follow it through practice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The job posting asked applicants to submit a resume and a short statement explaining why they were interested in the position. Malik almost skipped the statement because he assumed his resume was enough. After reading the posting again, he realized that the employer wanted to know not only what applicants had done but also why the work mattered to them. Why does the employer most likely request a statement of interest?",
+      "choices": {
+        "A": "To understand applicants’ motivation as well as their experience",
+        "B": "To make applicants repeat every detail from their resumes",
+        "C": "To discourage applicants from applying for the position",
+        "D": "To replace the need for a resume entirely"
+      },
+      "correct": "A",
+      "correctAnswerText": "To understand applicants’ motivation as well as their experience",
+      "explanation": "The statement of interest helps the employer learn why the work matters to applicants, not just what they have done.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article on household energy use explains that small habits can have a larger effect when they are repeated consistently. Turning off unused lights once may not noticeably change a bill, but doing so every day, along with sealing drafts and using efficient bulbs, can reduce waste over time. The author compares these habits to saving coins in a jar: each action seems minor, but the total grows. What is the author’s purpose in comparing energy habits to saving coins in a jar?",
+      "choices": {
+        "A": "To show how small repeated actions can add up over time",
+        "B": "To argue that coins are the best way to pay energy bills",
+        "C": "To explain why efficient bulbs are too expensive for households",
+        "D": "To suggest that energy use cannot be changed by individual choices"
+      },
+      "correct": "A",
+      "correctAnswerText": "To show how small repeated actions can add up over time",
+      "explanation": "The coin jar comparison shows that repeated small energy-saving habits can have a larger cumulative effect.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Before leading his first team meeting, Omar prepared a long list of instructions. His supervisor advised him to begin instead by stating the main goal of the meeting and asking each team member for a brief update. Omar discovered that when people understood the purpose first, the instructions made more sense. The meeting ended earlier than expected, and the team left with clearer next steps. What lesson does Omar learn?",
+      "choices": {
+        "A": "A clear purpose can make instructions and discussion more effective.",
+        "B": "Team meetings should avoid instructions altogether.",
+        "C": "Supervisors should lead every meeting for new employees.",
+        "D": "Long lists are always more useful than short discussions."
+      },
+      "correct": "A",
+      "correctAnswerText": "A clear purpose can make instructions and discussion more effective.",
+      "explanation": "Omar’s meeting improves when he begins with the main goal, making later instructions easier to understand.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a quiet commuter lounge for students who spend long gaps between classes on campus. (2) Many commuter students arrive early because of bus schedules, shared rides, or work shifts that do not match class times. (3) Without a suitable place to wait, students may sit in crowded hallways, noisy cafeterias, or parked cars. (4) A quiet lounge with tables, charging outlets, and basic guidelines for respectful use would give students a more reliable place to read, study, or rest. (5) The lounge could also include lockers so students do not have to carry every book and supply all day. (6) Many students enjoy campus concerts when they are held outdoors in warm weather. (7) To keep the space useful, the college could post clear expectations about noise, food, and shared seating. (8) A commuter lounge would recognize that students need supportive spaces between classes, not only during class time. Which sentence should be removed because it does not support the main idea of the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "C",
+      "correctAnswerText": "Sentence 6",
+      "explanation": "Sentence 6 discusses campus concerts and does not support the argument for a commuter lounge.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a quiet commuter lounge for students who spend long gaps between classes on campus. (2) Many commuter students arrive early because of bus schedules, shared rides, or work shifts that do not match class times. (3) Without a suitable place to wait, students may sit in crowded hallways, noisy cafeterias, or parked cars. (4) A quiet lounge with tables, charging outlets, and basic guidelines for respectful use would give students a more reliable place to read, study, or rest. (5) The lounge could also include lockers so students do not have to carry every book and supply all day. (6) Many students enjoy campus concerts when they are held outdoors in warm weather. (7) To keep the space useful, the college could post clear expectations about noise, food, and shared seating. (8) A commuter lounge would recognize that students need supportive spaces between classes, not only during class time. Which sentence best strengthens the support for sentence 4?",
+      "choices": {
+        "A": "Charging outlets would allow students to complete online assignments without searching for power in crowded areas.",
+        "B": "Some students prefer classes that meet on Tuesdays and Thursdays.",
+        "C": "The student center was painted a new color last summer.",
+        "D": "Campus concerts often require sound equipment and folding chairs."
+      },
+      "correct": "A",
+      "correctAnswerText": "Charging outlets would allow students to complete online assignments without searching for power in crowded areas.",
+      "explanation": "This sentence directly supports the usefulness of a lounge feature mentioned in sentence 4.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a quiet commuter lounge for students who spend long gaps between classes on campus. (2) Many commuter students arrive early because of bus schedules, shared rides, or work shifts that do not match class times. (3) Without a suitable place to wait, students may sit in crowded hallways, noisy cafeterias, or parked cars. (4) A quiet lounge with tables, charging outlets, and basic guidelines for respectful use would give students a more reliable place to read, study, or rest. (5) The lounge could also include lockers so students do not have to carry every book and supply all day. (6) Many students enjoy campus concerts when they are held outdoors in warm weather. (7) To keep the space useful, the college could post clear expectations about noise, food, and shared seating. (8) A commuter lounge would recognize that students need supportive spaces between classes, not only during class time. Which transition should be added to the beginning of sentence 5 to show the relationship between sentence 5 and the previous sentence?",
+      "choices": {
+        "A": "However,",
+        "B": "In addition,",
+        "C": "On the contrary,",
+        "D": "Instead,"
+      },
+      "correct": "B",
+      "correctAnswerText": "In addition,",
+      "explanation": "Sentence 5 adds another feature of the lounge, so “In addition” is the most logical transition.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a quiet commuter lounge for students who spend long gaps between classes on campus. (2) Many commuter students arrive early because of bus schedules, shared rides, or work shifts that do not match class times. (3) Without a suitable place to wait, students may sit in crowded hallways, noisy cafeterias, or parked cars. (4) A quiet lounge with tables, charging outlets, and basic guidelines for respectful use would give students a more reliable place to read, study, or rest. (5) The lounge could also include lockers so students do not have to carry every book and supply all day. (6) Many students enjoy campus concerts when they are held outdoors in warm weather. (7) To keep the space useful, the college could post clear expectations about noise, food, and shared seating. (8) A commuter lounge would recognize that students need supportive spaces between classes, not only during class time. Which revision of sentence 8 best maintains a formal academic tone?",
+      "choices": {
+        "A": "A commuter lounge would recognize that students need supportive spaces between classes, not only during class time.",
+        "B": "A commuter lounge would be a really nice spot where students could hang out and chill between classes.",
+        "C": "This lounge idea is awesome because people need somewhere to be when class is not happening.",
+        "D": "The lounge would totally help students who are stuck on campus and have nowhere good to go."
+      },
+      "correct": "A",
+      "correctAnswerText": "A commuter lounge would recognize that students need supportive spaces between classes, not only during class time.",
+      "explanation": "This sentence maintains a formal academic tone and clearly states the proposal’s broader value.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The report was thorough it included interviews, survey results, and budget estimates.",
+      "choices": {
+        "A": "The report was thorough it included interviews, survey results, and budget estimates.",
+        "B": "The report was thorough, it included interviews, survey results, and budget estimates.",
+        "C": "The report was thorough because it included interviews, survey results, and budget estimates.",
+        "D": "The report was thorough because, included interviews, survey results, and budget estimates."
+      },
+      "correct": "C",
+      "correctAnswerText": "The report was thorough because it included interviews, survey results, and budget estimates.",
+      "explanation": "This revision corrects the run-on sentence and clearly explains why the report was thorough.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses commas correctly.",
+      "choices": {
+        "A": "Before submitting the application students should review every required field.",
+        "B": "Before submitting the application, students should review every required field.",
+        "C": "Before, submitting the application students should review every required field.",
+        "D": "Before submitting the application students, should review every required field."
+      },
+      "correct": "B",
+      "correctAnswerText": "Before submitting the application, students should review every required field.",
+      "explanation": "A comma should follow the introductory phrase “Before submitting the application.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best word or phrase to complete the sentence. The first draft explained the problem clearly; __________, it did not offer a realistic solution.",
+      "choices": {
+        "A": "however",
+        "B": "therefore",
+        "C": "for example",
+        "D": "likewise"
+      },
+      "correct": "A",
+      "correctAnswerText": "however",
+      "explanation": "The second clause contrasts the clear explanation of the problem with the lack of a realistic solution.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The workshop leader asked students to bring a notebook, a pen, and that they should bring their class schedule.",
+      "choices": {
+        "A": "The workshop leader asked students to bring a notebook, a pen, and that they should bring their class schedule.",
+        "B": "The workshop leader asked students to bring a notebook, a pen, and their class schedule.",
+        "C": "The workshop leader asked students that they should bring a notebook, a pen, and bringing their class schedule.",
+        "D": "The workshop leader asked students to bring a notebook and a pen and that their class schedule should be brought."
+      },
+      "correct": "B",
+      "correctAnswerText": "The workshop leader asked students to bring a notebook, a pen, and their class schedule.",
+      "explanation": "This revision uses parallel structure in the list of items students should bring.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is written correctly.",
+      "choices": {
+        "A": "The group of volunteers were ready to begin the cleanup at 9:00 a.m.",
+        "B": "The group of volunteers was ready to begin the cleanup at 9:00 a.m.",
+        "C": "The group of volunteers are ready to begin the cleanup at 9:00 a.m. yesterday.",
+        "D": "The group of volunteers have ready to begin the cleanup at 9:00 a.m."
+      },
+      "correct": "B",
+      "correctAnswerText": "The group of volunteers was ready to begin the cleanup at 9:00 a.m.",
+      "explanation": "The subject “group” is singular, so the singular verb “was” is correct.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The instructor created a sample outline. The outline showed students how to organize their research papers.",
+      "choices": {
+        "A": "The instructor created a sample outline, the outline showed students how to organize their research papers.",
+        "B": "The instructor created a sample outline that showed students how to organize their research papers.",
+        "C": "Creating a sample outline, the research papers were organized by the students.",
+        "D": "The instructor created a sample outline and the outline and it showed students organizing research papers."
+      },
+      "correct": "B",
+      "correctAnswerText": "The instructor created a sample outline that showed students how to organize their research papers.",
+      "explanation": "This option combines the sentences clearly and avoids a comma splice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. Many students know that they should save important computer files, but they do not always have a clear system. A file named “essay final new version 2” may be difficult to identify later. Using folders, dates, and specific file names can help students find the correct document when they need it. Which concluding sentence best follows from the paragraph?",
+      "choices": {
+        "A": "Therefore, an organized file-naming system can prevent confusion and lost work.",
+        "B": "In contrast, students should avoid using computers for writing assignments.",
+        "C": "For example, some students prefer writing with blue ink.",
+        "D": "As a result, every file name should contain only one letter."
+      },
+      "correct": "A",
+      "correctAnswerText": "Therefore, an organized file-naming system can prevent confusion and lost work.",
+      "explanation": "This conclusion follows from the paragraph’s discussion of folders, dates, and specific file names.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses a colon correctly.",
+      "choices": {
+        "A": "The orientation session will cover three services: advising, tutoring, and financial aid.",
+        "B": "The orientation session will cover: three services, advising, tutoring, and financial aid.",
+        "C": "The orientation session will cover three: services advising, tutoring, and financial aid.",
+        "D": "The orientation session: will cover three services advising tutoring and financial aid."
+      },
+      "correct": "A",
+      "correctAnswerText": "The orientation session will cover three services: advising, tutoring, and financial aid.",
+      "explanation": "A colon is correctly used after a complete sentence to introduce a list.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best replacement for the underlined words. The manager’s directions were hard to understand because they were all over the place.",
+      "choices": {
+        "A": "disorganized",
+        "B": "everywhere and not good",
+        "C": "kind of scattered around",
+        "D": "not in a good order type of way"
+      },
+      "correct": "A",
+      "correctAnswerText": "disorganized",
+      "explanation": "“Disorganized” is a concise and formal replacement for “all over the place.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. (1) The environmental club will host a clothing swap next month. (2) Students can bring clean clothing they no longer wear and exchange it for items brought by other students. (3) The event encourages reuse and may help students save money. (4) Clothing is often made in many different colors and sizes. Where should sentence 4 be placed to improve the organization of the paragraph?",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 3",
+        "D": "The sentence should be removed because it shifts away from the paragraph’s focus."
+      },
+      "correct": "D",
+      "correctAnswerText": "The sentence should be removed because it shifts away from the paragraph’s focus.",
+      "explanation": "Sentence 4 discusses general clothing features rather than the clothing swap event.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E6-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. While the survey results were interesting, but they did not include enough responses to support a firm conclusion.",
+      "choices": {
+        "A": "While the survey results were interesting, but they did not include enough responses to support a firm conclusion.",
+        "B": "While the survey results were interesting, they did not include enough responses to support a firm conclusion.",
+        "C": "The survey results were interesting while but they did not include enough responses to support a firm conclusion.",
+        "D": "While the survey results were interesting they did not include, enough responses to support a firm conclusion."
+      },
+      "correct": "B",
+      "correctAnswerText": "While the survey results were interesting, they did not include enough responses to support a firm conclusion.",
+      "explanation": "This revision removes the unnecessary “but” and correctly punctuates the introductory dependent clause.",
+      "credits": 1
+    }
+  ]
+}

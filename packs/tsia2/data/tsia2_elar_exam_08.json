@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 08",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E8-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The astronomy club at West Harbor College began a night-sky monitoring project after several students noticed that fewer stars were visible from campus than from nearby rural areas. The students did not simply complain about bright lights. They learned how to measure sky brightness with handheld meters, recorded readings from several campus locations, and compared the results with photographs taken on clear nights. Their findings showed that some outdoor lights pointed upward or remained on long after buildings closed. The club presented its data to the facilities office and recommended shielded fixtures, motion sensors, and lower-intensity bulbs in selected areas. Facilities staff explained that lighting changes must still protect safety near walkways and parking lots. The club agreed, arguing that the goal was not darkness but smarter lighting. The project gave students experience with data collection while helping the college think about energy use, safety, and the visibility of the night sky. Which statement best expresses the central idea of the passage?",
+      "choices": {
+        "A": "A student night-sky project used data to encourage smarter campus lighting.",
+        "B": "Campus lights should be turned off completely every night.",
+        "C": "Astronomy clubs are useful only when students travel to rural areas.",
+        "D": "Facilities staff rejected all student suggestions about outdoor lighting."
+      },
+      "correct": "A",
+      "correctAnswerText": "A student night-sky project used data to encourage smarter campus lighting.",
+      "explanation": "The passage explains that students collected sky-brightness data and used it to recommend lighting changes that balanced visibility, energy use, and safety.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The astronomy club at West Harbor College began a night-sky monitoring project after several students noticed that fewer stars were visible from campus than from nearby rural areas. The students did not simply complain about bright lights. They learned how to measure sky brightness with handheld meters, recorded readings from several campus locations, and compared the results with photographs taken on clear nights. Their findings showed that some outdoor lights pointed upward or remained on long after buildings closed. The club presented its data to the facilities office and recommended shielded fixtures, motion sensors, and lower-intensity bulbs in selected areas. Facilities staff explained that lighting changes must still protect safety near walkways and parking lots. The club agreed, arguing that the goal was not darkness but smarter lighting. The project gave students experience with data collection while helping the college think about energy use, safety, and the visibility of the night sky. According to the passage, what did the students do before making recommendations?",
+      "choices": {
+        "A": "They measured sky brightness, recorded readings, and compared results with photographs.",
+        "B": "They asked the college to remove all lights from parking lots.",
+        "C": "They replaced the outdoor fixtures themselves without permission.",
+        "D": "They studied only rural areas and ignored campus locations."
+      },
+      "correct": "A",
+      "correctAnswerText": "They measured sky brightness, recorded readings, and compared results with photographs.",
+      "explanation": "The passage states that students collected measurements, recorded readings, and compared the results with photographs before presenting recommendations.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The astronomy club at West Harbor College began a night-sky monitoring project after several students noticed that fewer stars were visible from campus than from nearby rural areas. The students did not simply complain about bright lights. They learned how to measure sky brightness with handheld meters, recorded readings from several campus locations, and compared the results with photographs taken on clear nights. Their findings showed that some outdoor lights pointed upward or remained on long after buildings closed. The club presented its data to the facilities office and recommended shielded fixtures, motion sensors, and lower-intensity bulbs in selected areas. Facilities staff explained that lighting changes must still protect safety near walkways and parking lots. The club agreed, arguing that the goal was not darkness but smarter lighting. The project gave students experience with data collection while helping the college think about energy use, safety, and the visibility of the night sky. In the passage, the word fixtures most nearly means",
+      "choices": {
+        "A": "lighting units or installed pieces of equipment",
+        "B": "written reports about student activities",
+        "C": "photographs taken in rural locations",
+        "D": "rules for joining a student organization"
+      },
+      "correct": "A",
+      "correctAnswerText": "lighting units or installed pieces of equipment",
+      "explanation": "In context, “fixtures” refers to installed outdoor lights that could be shielded or changed.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The astronomy club at West Harbor College began a night-sky monitoring project after several students noticed that fewer stars were visible from campus than from nearby rural areas. The students did not simply complain about bright lights. They learned how to measure sky brightness with handheld meters, recorded readings from several campus locations, and compared the results with photographs taken on clear nights. Their findings showed that some outdoor lights pointed upward or remained on long after buildings closed. The club presented its data to the facilities office and recommended shielded fixtures, motion sensors, and lower-intensity bulbs in selected areas. Facilities staff explained that lighting changes must still protect safety near walkways and parking lots. The club agreed, arguing that the goal was not darkness but smarter lighting. The project gave students experience with data collection while helping the college think about energy use, safety, and the visibility of the night sky. Which detail best supports the idea that the students tried to balance their goal with campus safety?",
+      "choices": {
+        "A": "They compared campus readings with photographs taken on clear nights.",
+        "B": "They agreed that the goal was smarter lighting, not complete darkness.",
+        "C": "They noticed that fewer stars were visible from campus than from rural areas.",
+        "D": "They used handheld meters to measure sky brightness."
+      },
+      "correct": "B",
+      "correctAnswerText": "They agreed that the goal was smarter lighting, not complete darkness.",
+      "explanation": "This detail shows that the students understood the need to reduce unnecessary light while keeping campus areas safe.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The airport shuttle company began adding short location notes to its pickup confirmations. Instead of saying only “Terminal 3,” the message now says, “Terminal 3, lower level, outside Door 5, near the orange sign.” The change was made after drivers reported that passengers often waited in the correct terminal but on the wrong level. The added details reduced missed pickups without changing the shuttle schedule. What is the main purpose of the location notes?",
+      "choices": {
+        "A": "To help passengers find the exact pickup point more easily",
+        "B": "To encourage passengers to arrive at a different airport",
+        "C": "To allow drivers to change the schedule without notice",
+        "D": "To reduce the number of terminals served by the shuttle"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help passengers find the exact pickup point more easily",
+      "explanation": "The location notes give specific pickup details so passengers wait in the correct place.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Maya entered the ceramics studio hoping to make a perfect bowl on her first attempt. The clay collapsed twice, and she wanted to throw it away. Her instructor suggested that she cut the failed piece in half and look at the walls. Maya saw that one side was thick and the other was thin. On her next attempt, she focused less on the finished bowl and more on keeping even pressure with both hands. What can reasonably be inferred about Maya?",
+      "choices": {
+        "A": "She learns that mistakes can reveal what needs to be improved.",
+        "B": "She decides that ceramics cannot be taught through practice.",
+        "C": "She discovers that failed projects should always be hidden.",
+        "D": "She realizes that finished bowls do not require careful technique."
+      },
+      "correct": "A",
+      "correctAnswerText": "She learns that mistakes can reveal what needs to be improved.",
+      "explanation": "By examining the failed piece, Maya learns why it collapsed and adjusts her technique.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A local historical society created a walking tour of buildings that no longer exist. At each stop, visitors see a photograph of the former building and read a brief explanation of what stands there now. The tour does not ask visitors to reject new development. Instead, it encourages them to notice how streets change over time and how past uses can shape the meaning of familiar places. Which statement best states the purpose of the walking tour?",
+      "choices": {
+        "A": "To help visitors understand how the history of vanished buildings still affects familiar places",
+        "B": "To argue that every old building should be rebuilt exactly as it was",
+        "C": "To show that photographs are less useful than written records",
+        "D": "To encourage visitors to avoid neighborhoods that have changed"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help visitors understand how the history of vanished buildings still affects familiar places",
+      "explanation": "The tour connects former buildings with present locations to show how streets and meanings change over time.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A statistics instructor compares a sample to tasting a spoonful of soup before serving the whole pot. One spoonful cannot describe the soup accurately if it contains only broth or only vegetables. But if the spoonful includes a fair mix of what is in the pot, it can give useful information. The instructor uses the comparison to explain why researchers care about whether a sample represents the larger group being studied. What is the main purpose of the soup comparison?",
+      "choices": {
+        "A": "To explain the importance of using a representative sample",
+        "B": "To show that statistics is mainly about cooking",
+        "C": "To prove that small samples are always useless",
+        "D": "To argue that researchers should avoid studying large groups"
+      },
+      "correct": "A",
+      "correctAnswerText": "To explain the importance of using a representative sample",
+      "explanation": "The soup comparison shows that a sample is useful only when it fairly represents the larger whole.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Digital badges can help students show specific skills that may not appear clearly on a transcript. A badge for spreadsheet analysis, workplace communication, or basic coding can give employers a quick way to understand what a student has practiced. Passage 2: Digital badges may be useful, but they should be carefully defined. If each school creates badges with different standards, employers may not know what a badge actually represents. Badges should include clear criteria and evidence of student work. How does Passage 2 respond to Passage 1?",
+      "choices": {
+        "A": "Passage 2 accepts the potential value of digital badges but emphasizes the need for clear standards.",
+        "B": "Passage 2 argues that transcripts should never include grades.",
+        "C": "Passage 2 claims that employers are not interested in student skills.",
+        "D": "Passage 2 says that digital badges should replace all college courses."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 accepts the potential value of digital badges but emphasizes the need for clear standards.",
+      "explanation": "Passage 2 agrees that badges may be useful but argues that they need clear criteria and evidence.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article about community tool libraries explains that the idea is not new, even if the name sounds modern. For generations, neighbors have borrowed ladders, drills, and garden tools from one another. A formal tool library organizes that tradition by tracking loans, maintaining equipment, and training users on safe handling. The author argues that the value of a tool library lies not only in saving money but also in encouraging shared responsibility. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "A tool library formalizes a long-standing practice of sharing equipment and encourages responsible use.",
+        "B": "A tool library works only when every resident owns expensive equipment.",
+        "C": "Borrowing tools from neighbors has always been illegal.",
+        "D": "Tool libraries are useful only for professional construction companies."
+      },
+      "correct": "A",
+      "correctAnswerText": "A tool library formalizes a long-standing practice of sharing equipment and encourages responsible use.",
+      "explanation": "The passage explains that tool libraries organize informal sharing by tracking loans, maintaining tools, and training users.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The poem describes an empty classroom after the final bell: chalk dust resting on the tray, chairs turned at uneven angles, and sunlight “slipping across the desks like a last quiet question.” The image suggests that the room still holds the energy of the day even after the students have left. What effect does the quoted image most likely create?",
+      "choices": {
+        "A": "It creates a reflective mood by suggesting that the classroom remains thoughtful and alive with memory.",
+        "B": "It shows that the classroom is unsafe after students leave.",
+        "C": "It makes the sunlight seem loud and disruptive.",
+        "D": "It proves that students forgot to clean the room properly."
+      },
+      "correct": "A",
+      "correctAnswerText": "It creates a reflective mood by suggesting that the classroom remains thoughtful and alive with memory.",
+      "explanation": "The image of sunlight as a “last quiet question” gives the empty classroom a thoughtful, reflective quality.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A career coach tells job seekers that a strong interview answer should include more than a claim about a skill. Saying “I am organized” is less effective than describing a time when organization solved a problem. For example, an applicant might explain how she created a tracking sheet that helped a team meet a deadline. Specific examples make qualities easier for employers to evaluate. Which sentence best states the coach’s point?",
+      "choices": {
+        "A": "Job seekers should support claims about their skills with specific examples.",
+        "B": "Job seekers should avoid discussing organization during interviews.",
+        "C": "Employers prefer answers that are as short as possible.",
+        "D": "Interview answers should focus only on personal hobbies."
+      },
+      "correct": "A",
+      "correctAnswerText": "Job seekers should support claims about their skills with specific examples.",
+      "explanation": "The coach explains that employers can evaluate qualities better when applicants provide concrete examples.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The instructions for the community survey ask volunteers to read each question exactly as written. Volunteers may explain the meaning of a word if asked, but they should not suggest answers or show approval of any response. The purpose is to make sure that results reflect participants’ views rather than the volunteer’s influence. Why do the instructions limit how volunteers can respond?",
+      "choices": {
+        "A": "To reduce the chance that volunteers will influence participants’ answers",
+        "B": "To make the survey take as long as possible",
+        "C": "To prevent participants from asking any questions",
+        "D": "To allow volunteers to choose the final results"
+      },
+      "correct": "A",
+      "correctAnswerText": "To reduce the chance that volunteers will influence participants’ answers",
+      "explanation": "The instructions are designed to keep survey results based on participants’ own views.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article on repair warranties warns consumers to read the details before purchasing extra coverage. A warranty may sound useful, but it might exclude accidental damage, require the customer to mail the item to a distant repair center, or cost nearly as much as replacing the product. The author does not argue that warranties are always a bad choice. Instead, the article encourages buyers to compare the protection offered with the cost and limitations. What is the author’s purpose?",
+      "choices": {
+        "A": "To encourage consumers to evaluate warranty terms before paying for extra coverage",
+        "B": "To convince consumers that every warranty is a waste of money",
+        "C": "To explain how repair centers manufacture new products",
+        "D": "To argue that damaged products should never be repaired"
+      },
+      "correct": "A",
+      "correctAnswerText": "To encourage consumers to evaluate warranty terms before paying for extra coverage",
+      "explanation": "The passage advises consumers to compare the cost, limits, and actual protection before buying a warranty.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Tessa began volunteering at the community theater, she wanted to paint scenery because it seemed more creative than organizing props. After one rehearsal, however, an actor could not find a letter needed for an important scene. Tessa realized that a misplaced prop could interrupt the entire performance. She began labeling shelves and creating a checklist for each scene, discovering that organization could support creativity rather than limit it. What lesson does Tessa learn?",
+      "choices": {
+        "A": "Careful organization can help creative work succeed.",
+        "B": "Props are unnecessary in most theater performances.",
+        "C": "Painting scenery is the only creative theater task.",
+        "D": "Checklists make actors forget their lines."
+      },
+      "correct": "A",
+      "correctAnswerText": "Careful organization can help creative work succeed.",
+      "explanation": "Tessa learns that organizing props supports the performance rather than limiting creativity.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should offer short campus wayfinding tours during the first two weeks of each semester. (2) New students often know the names of buildings from their schedules but not the best routes between them. (3) A thirty-minute walking tour could show students where to find classrooms, advising offices, tutoring labs, restrooms, and bus stops. (4) The tour could also point out accessible entrances and elevators that are not obvious from the main sidewalks. (5) This information would help students arrive on time and feel less anxious during the first weeks of class. (6) Many students purchase notebooks and pens before the semester begins. (7) To keep the tours practical, student guides could follow a standard route and answer common questions along the way. (8) Campus wayfinding tours would give new students useful knowledge that is difficult to learn from a map alone. Which sentence should be removed because it does not support the main idea of the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "C",
+      "correctAnswerText": "Sentence 6",
+      "explanation": "Sentence 6 discusses purchasing school supplies and does not support the argument for campus wayfinding tours.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should offer short campus wayfinding tours during the first two weeks of each semester. (2) New students often know the names of buildings from their schedules but not the best routes between them. (3) A thirty-minute walking tour could show students where to find classrooms, advising offices, tutoring labs, restrooms, and bus stops. (4) The tour could also point out accessible entrances and elevators that are not obvious from the main sidewalks. (5) This information would help students arrive on time and feel less anxious during the first weeks of class. (6) Many students purchase notebooks and pens before the semester begins. (7) To keep the tours practical, student guides could follow a standard route and answer common questions along the way. (8) Campus wayfinding tours would give new students useful knowledge that is difficult to learn from a map alone. Which sentence best strengthens the support for sentence 4?",
+      "choices": {
+        "A": "Some buildings have side entrances with ramps that are closer to elevators than the main doors are.",
+        "B": "Campus maps are sometimes printed in more than one color.",
+        "C": "Students often check their schedules on a phone before class.",
+        "D": "Some student guides enjoy meeting people from different majors."
+      },
+      "correct": "A",
+      "correctAnswerText": "Some buildings have side entrances with ramps that are closer to elevators than the main doors are.",
+      "explanation": "This sentence gives a specific reason why pointing out accessible entrances and elevators would be useful.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should offer short campus wayfinding tours during the first two weeks of each semester. (2) New students often know the names of buildings from their schedules but not the best routes between them. (3) A thirty-minute walking tour could show students where to find classrooms, advising offices, tutoring labs, restrooms, and bus stops. (4) The tour could also point out accessible entrances and elevators that are not obvious from the main sidewalks. (5) This information would help students arrive on time and feel less anxious during the first weeks of class. (6) Many students purchase notebooks and pens before the semester begins. (7) To keep the tours practical, student guides could follow a standard route and answer common questions along the way. (8) Campus wayfinding tours would give new students useful knowledge that is difficult to learn from a map alone. Which transition should be added to the beginning of sentence 7 to show the relationship between sentence 7 and the rest of the passage?",
+      "choices": {
+        "A": "On the contrary,",
+        "B": "To keep the tours practical,",
+        "C": "Nevertheless,",
+        "D": "In contrast,"
+      },
+      "correct": "B",
+      "correctAnswerText": "To keep the tours practical,",
+      "explanation": "This transition introduces a practical plan for organizing the tours.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should offer short campus wayfinding tours during the first two weeks of each semester. (2) New students often know the names of buildings from their schedules but not the best routes between them. (3) A thirty-minute walking tour could show students where to find classrooms, advising offices, tutoring labs, restrooms, and bus stops. (4) The tour could also point out accessible entrances and elevators that are not obvious from the main sidewalks. (5) This information would help students arrive on time and feel less anxious during the first weeks of class. (6) Many students purchase notebooks and pens before the semester begins. (7) To keep the tours practical, student guides could follow a standard route and answer common questions along the way. (8) Campus wayfinding tours would give new students useful knowledge that is difficult to learn from a map alone. Which revision of sentence 8 best maintains a formal academic tone?",
+      "choices": {
+        "A": "Campus wayfinding tours would give new students useful knowledge that is difficult to learn from a map alone.",
+        "B": "These tours would be super good because maps can be confusing and students might get lost.",
+        "C": "A campus tour thing would help people figure out where stuff is without stressing so much.",
+        "D": "New students would totally like tours since walking around is better than staring at a map."
+      },
+      "correct": "A",
+      "correctAnswerText": "Campus wayfinding tours would give new students useful knowledge that is difficult to learn from a map alone.",
+      "explanation": "This sentence uses formal academic tone and clearly summarizes the proposal’s value.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The researcher reviewed the data, she noticed a pattern in the responses.",
+      "choices": {
+        "A": "The researcher reviewed the data, she noticed a pattern in the responses.",
+        "B": "The researcher reviewed the data and noticed a pattern in the responses.",
+        "C": "The researcher reviewed the data, and noticed, a pattern in the responses.",
+        "D": "The researcher reviewed the data she noticed a pattern, in the responses."
+      },
+      "correct": "B",
+      "correctAnswerText": "The researcher reviewed the data and noticed a pattern in the responses.",
+      "explanation": "This revision correctly joins two actions performed by the same subject.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is written correctly.",
+      "choices": {
+        "A": "The collection of essays were placed on the front table.",
+        "B": "The collection of essays was placed on the front table.",
+        "C": "The collection of essays are placed on the front table yesterday.",
+        "D": "The collection of essays have been placed on the front table yesterday."
+      },
+      "correct": "B",
+      "correctAnswerText": "The collection of essays was placed on the front table.",
+      "explanation": "The subject “collection” is singular, so the singular verb “was” is correct.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best word or phrase to complete the sentence. The class had already completed a practice quiz; __________, the instructor moved on to the review activity.",
+      "choices": {
+        "A": "therefore",
+        "B": "however",
+        "C": "for instance",
+        "D": "in contrast"
+      },
+      "correct": "A",
+      "correctAnswerText": "therefore",
+      "explanation": "The second clause presents the result of the class having completed the practice quiz.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. While sorting the mail, the package label caught Denise’s attention.",
+      "choices": {
+        "A": "While sorting the mail, the package label caught Denise’s attention.",
+        "B": "While Denise was sorting the mail, a package label caught her attention.",
+        "C": "Sorting the mail, the package label caught Denise’s attention.",
+        "D": "The package label was sorting the mail when it caught Denise’s attention."
+      },
+      "correct": "B",
+      "correctAnswerText": "While Denise was sorting the mail, a package label caught her attention.",
+      "explanation": "This revision corrects the dangling modifier by clearly showing that Denise was sorting the mail.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The library installed a self-checkout station. The station allows patrons to borrow books without waiting in line.",
+      "choices": {
+        "A": "The library installed a self-checkout station, the station allows patrons to borrow books without waiting in line.",
+        "B": "The library installed a self-checkout station that allows patrons to borrow books without waiting in line.",
+        "C": "Installing a self-checkout station, patrons were allowed by the books to wait without lines.",
+        "D": "The library installed a station and it is self-checkout and it allows patrons borrowing books without waiting in line."
+      },
+      "correct": "B",
+      "correctAnswerText": "The library installed a self-checkout station that allows patrons to borrow books without waiting in line.",
+      "explanation": "This option combines the sentences clearly and avoids a comma splice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. Many students think proofreading means reading an essay once after it is finished. However, proofreading works better when writers focus on one issue at a time. A writer might first check sentence endings, then look for missing words, and finally review punctuation. This slower method can make errors easier to notice. Which concluding sentence best follows from the paragraph?",
+      "choices": {
+        "A": "Therefore, focused proofreading can be more effective than a single quick reading.",
+        "B": "In contrast, writers should never proofread after drafting an essay.",
+        "C": "For this reason, punctuation is the only issue that matters in writing.",
+        "D": "As a result, missing words are impossible to find in finished essays."
+      },
+      "correct": "A",
+      "correctAnswerText": "Therefore, focused proofreading can be more effective than a single quick reading.",
+      "explanation": "This conclusion follows from the paragraph’s explanation that checking one issue at a time helps writers notice errors.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses a colon correctly.",
+      "choices": {
+        "A": "The training session requires three items: a laptop, headphones, and a printed schedule.",
+        "B": "The training session requires: three items, a laptop, headphones, and a printed schedule.",
+        "C": "The training session: requires three items a laptop, headphones, and a printed schedule.",
+        "D": "The training session requires three: items a laptop, headphones, and a printed schedule."
+      },
+      "correct": "A",
+      "correctAnswerText": "The training session requires three items: a laptop, headphones, and a printed schedule.",
+      "explanation": "A colon is correctly used after a complete sentence to introduce a list.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best replacement for the underlined words. The advisor’s explanation of the transfer process was easy to follow because it was not all mixed up.",
+      "choices": {
+        "A": "organized",
+        "B": "not mixed in a messy way",
+        "C": "sort of clear and not mixed",
+        "D": "easy because of not being mixed up"
+      },
+      "correct": "A",
+      "correctAnswerText": "organized",
+      "explanation": "“Organized” is a concise and formal replacement for “not all mixed up.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The students compared the two articles, noting how each author used evidence.",
+      "choices": {
+        "A": "The students compared the two articles, noting how each author used evidence.",
+        "B": "The two articles compared the students, noting how each author used evidence.",
+        "C": "Noting how each author used evidence, the two articles compared the students.",
+        "D": "The students compared, the two articles noting, how each author used evidence."
+      },
+      "correct": "A",
+      "correctAnswerText": "The students compared the two articles, noting how each author used evidence.",
+      "explanation": "This sentence is clear and correctly shows that the students compared the articles.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. (1) The career center will host a workshop on professional email etiquette. (2) Students will learn how to write clear subject lines, choose an appropriate greeting, and make requests politely. (3) These skills can help students communicate effectively with instructors, employers, and campus offices. (4) Many email accounts allow users to change the background color of the inbox. Where should sentence 4 be placed to improve the organization of the paragraph?",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 3",
+        "D": "The sentence should be removed because it shifts away from the paragraph’s focus."
+      },
+      "correct": "D",
+      "correctAnswerText": "The sentence should be removed because it shifts away from the paragraph’s focus.",
+      "explanation": "Sentence 4 discusses inbox appearance rather than professional email etiquette.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E8-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. Although the handbook is short, but it answers most common questions.",
+      "choices": {
+        "A": "Although the handbook is short, but it answers most common questions.",
+        "B": "Although the handbook is short, it answers most common questions.",
+        "C": "The handbook is short although but it answers most common questions.",
+        "D": "Although the handbook is short it answers, most common questions."
+      },
+      "correct": "B",
+      "correctAnswerText": "Although the handbook is short, it answers most common questions.",
+      "explanation": "This revision removes the unnecessary “but” and correctly punctuates the introductory dependent clause.",
+      "credits": 1
+    }
+  ]
+}

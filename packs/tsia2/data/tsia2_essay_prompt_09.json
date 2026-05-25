@@ -1,0 +1,19 @@
+{
+  "title": "TSIA2 Essay Practice Prompt 09",
+  "section": "essay",
+  "questions": [
+    {
+      "id": "TSIA2-ES9-001",
+      "section": "Essay",
+      "type": "essay",
+      "itemType": "essay",
+      "focus": "",
+      "category": "",
+      "prompt": "Some people believe that students should be encouraged to complete internships, job shadowing, or workplace observations before choosing a career path. They argue that seeing a workplace directly can help students make more realistic decisions. Others believe that students can learn enough from classes, online research, and conversations with advisors without adding extra workplace requirements. Assignment: Write an essay of 300–600 words in which you develop your point of view on the issue presented in the passage. Support your position with reasoning and examples from your reading, studies, experience, or observations.",
+      "modelAnswer": "A strong response should state a clear position on whether students should complete workplace experiences before choosing a career path, support that position with specific reasons and examples, address the issue thoughtfully, and demonstrate organized, controlled writing.",
+      "scoringGuidance": "A strong response should state a clear position on whether students should complete workplace experiences before choosing a career path, support that position with specific reasons and examples, address the issue thoughtfully, and demonstrate organized, controlled writing.",
+      "rubric": "Scores range from 8 for a focused, well-developed, logically organized essay with strong language control to 0 for a blank, off-topic, too short, incoherent, or non-English response.",
+      "credits": 1
+    }
+  ]
+}

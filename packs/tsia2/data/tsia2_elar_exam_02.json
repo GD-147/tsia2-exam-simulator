@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 02",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E2-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In many cities, summer temperatures are not evenly distributed. Neighborhoods with large areas of pavement and few trees often become several degrees hotter than areas with parks, lawns, and shaded streets. This pattern, sometimes called the urban heat island effect, can affect daily life in practical ways. People waiting for buses on unshaded sidewalks may experience dangerous heat, especially older adults and workers traveling during the hottest part of the day. Some city planners have responded by installing shaded bus shelters and planting trees near major transit stops. These changes may seem modest, but they can make public transportation safer and more comfortable. Supporters argue that heat-reduction projects should not focus only on downtown business districts. They should also prioritize neighborhoods where residents rely most heavily on walking and public transit. Which statement best expresses the central idea of the passage?",
+      "choices": {
+        "A": "Urban heat can be reduced only by replacing all pavement with parks.",
+        "B": "Heat-reduction efforts should include transit areas in neighborhoods where residents are especially affected.",
+        "C": "Downtown business districts are usually cooler than neighborhoods with many trees.",
+        "D": "Public transportation is less useful in cities that experience hot summers."
+      },
+      "correct": "B",
+      "correctAnswerText": "Heat-reduction efforts should include transit areas in neighborhoods where residents are especially affected.",
+      "explanation": "The passage explains that hot transit areas can affect residents and argues that heat-reduction projects should prioritize neighborhoods where people rely on walking and public transportation.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In many cities, summer temperatures are not evenly distributed. Neighborhoods with large areas of pavement and few trees often become several degrees hotter than areas with parks, lawns, and shaded streets. This pattern, sometimes called the urban heat island effect, can affect daily life in practical ways. People waiting for buses on unshaded sidewalks may experience dangerous heat, especially older adults and workers traveling during the hottest part of the day. Some city planners have responded by installing shaded bus shelters and planting trees near major transit stops. These changes may seem modest, but they can make public transportation safer and more comfortable. Supporters argue that heat-reduction projects should not focus only on downtown business districts. They should also prioritize neighborhoods where residents rely most heavily on walking and public transit. According to the passage, why are shaded bus shelters useful?",
+      "choices": {
+        "A": "They allow buses to travel faster through crowded streets.",
+        "B": "They make transit stops safer and more comfortable during hot weather.",
+        "C": "They reduce the number of people who need public transportation.",
+        "D": "They prevent cities from having to plant trees in public spaces."
+      },
+      "correct": "B",
+      "correctAnswerText": "They make transit stops safer and more comfortable during hot weather.",
+      "explanation": "The passage states that shaded shelters and trees near transit stops can make public transportation safer and more comfortable.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In many cities, summer temperatures are not evenly distributed. Neighborhoods with large areas of pavement and few trees often become several degrees hotter than areas with parks, lawns, and shaded streets. This pattern, sometimes called the urban heat island effect, can affect daily life in practical ways. People waiting for buses on unshaded sidewalks may experience dangerous heat, especially older adults and workers traveling during the hottest part of the day. Some city planners have responded by installing shaded bus shelters and planting trees near major transit stops. These changes may seem modest, but they can make public transportation safer and more comfortable. Supporters argue that heat-reduction projects should not focus only on downtown business districts. They should also prioritize neighborhoods where residents rely most heavily on walking and public transit. In the passage, the word modest most nearly means",
+      "choices": {
+        "A": "inexpensive to repair",
+        "B": "limited in size or scope",
+        "C": "difficult to notice",
+        "D": "unpopular with residents"
+      },
+      "correct": "B",
+      "correctAnswerText": "limited in size or scope",
+      "explanation": "In context, “modest” describes changes such as shaded shelters and tree planting that may seem small but still have practical value.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In many cities, summer temperatures are not evenly distributed. Neighborhoods with large areas of pavement and few trees often become several degrees hotter than areas with parks, lawns, and shaded streets. This pattern, sometimes called the urban heat island effect, can affect daily life in practical ways. People waiting for buses on unshaded sidewalks may experience dangerous heat, especially older adults and workers traveling during the hottest part of the day. Some city planners have responded by installing shaded bus shelters and planting trees near major transit stops. These changes may seem modest, but they can make public transportation safer and more comfortable. Supporters argue that heat-reduction projects should not focus only on downtown business districts. They should also prioritize neighborhoods where residents rely most heavily on walking and public transit. Which detail best supports the idea that urban heat is a public safety issue?",
+      "choices": {
+        "A": "Neighborhoods with parks may be cooler than neighborhoods with pavement.",
+        "B": "People waiting on unshaded sidewalks may experience dangerous heat.",
+        "C": "City planners sometimes install shelters near transit stops.",
+        "D": "Supporters believe downtown districts should not receive all the attention."
+      },
+      "correct": "B",
+      "correctAnswerText": "People waiting on unshaded sidewalks may experience dangerous heat.",
+      "explanation": "This detail directly shows that urban heat can create a safety risk for people using public transit.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The museum’s new audio guide includes short recordings from local residents whose families lived in the neighborhood during the 1940s. Instead of presenting history only through dates and official documents, the guide lets visitors hear memories of grocery stores, street festivals, and crowded apartment buildings. The museum director says these voices do not replace written records, but they add texture to them. What does the director most likely mean by saying that the recordings “add texture” to written records?",
+      "choices": {
+        "A": "They make historical information feel more personal and detailed.",
+        "B": "They prove that official documents are usually inaccurate.",
+        "C": "They make the museum less dependent on modern technology.",
+        "D": "They allow visitors to avoid reading exhibit labels."
+      },
+      "correct": "A",
+      "correctAnswerText": "They make historical information feel more personal and detailed.",
+      "explanation": "The recordings add personal memories and lived experiences to official records, making the history richer and more detailed.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. After three months at the auto repair shop, Diego no longer waited for his supervisor to point out every task. He began checking the appointment board when he arrived, setting out common tools before the first customer came in, and asking whether parts had been delivered. He still made mistakes, but his supervisor noticed that Diego was beginning to think like a technician rather than like a visitor. What can reasonably be inferred about Diego?",
+      "choices": {
+        "A": "He is becoming more independent and aware of workplace routines.",
+        "B": "He plans to leave the repair shop for a different job.",
+        "C": "He believes that asking questions is unnecessary.",
+        "D": "He already has more experience than his supervisor."
+      },
+      "correct": "A",
+      "correctAnswerText": "He is becoming more independent and aware of workplace routines.",
+      "explanation": "Diego begins checking tasks and preparing tools without being told, showing growing independence.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A local newspaper editorial argues that the city should extend evening hours at the community recreation center. The writer notes that many teenagers finish school activities before their parents return from work. Without a safe place to study, exercise, or meet friends, some students spend several hours in parking lots or convenience stores. The editorial does not claim that longer hours would solve every problem facing teens, but it argues that supervised public spaces can reduce unnecessary risks. Which statement best describes the editorial’s argument?",
+      "choices": {
+        "A": "The recreation center should replace all school activities.",
+        "B": "Longer evening hours could give teens a safer place to spend time.",
+        "C": "Teenagers should be prohibited from visiting convenience stores.",
+        "D": "Parents should be required to pick up students immediately after school."
+      },
+      "correct": "B",
+      "correctAnswerText": "Longer evening hours could give teens a safer place to spend time.",
+      "explanation": "The editorial argues that supervised public spaces can reduce risks for teenagers after school activities end.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In biology class, students often memorize the parts of a cell before they understand how those parts work together. One instructor compares the cell to a small city: the nucleus stores instructions, mitochondria provide usable energy, and the membrane controls what enters and leaves. The comparison is not perfect, but it gives students a familiar structure for thinking about an unfamiliar system. What is the main purpose of the city comparison?",
+      "choices": {
+        "A": "To show that cells are larger than most students imagine",
+        "B": "To help students understand cell parts by relating them to a familiar system",
+        "C": "To prove that biology is easier than other science courses",
+        "D": "To explain why students should not memorize scientific terms"
+      },
+      "correct": "B",
+      "correctAnswerText": "To help students understand cell parts by relating them to a familiar system",
+      "explanation": "The instructor uses the city comparison to make the unfamiliar structure of a cell easier to understand.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Community colleges should expand short-term certificate programs in fields such as medical billing, welding, and computer support. These programs can help students enter the workforce quickly, earn income, and later return for additional coursework if they choose. Passage 2: Short-term certificates can be useful, but colleges should be careful not to present them as substitutes for broader education. Students also need communication skills, quantitative reasoning, and the ability to adapt when industries change. How would the author of Passage 2 most likely respond to Passage 1?",
+      "choices": {
+        "A": "By agreeing that certificates can help students but emphasizing that broader skills remain important",
+        "B": "By arguing that technical fields do not require any classroom instruction",
+        "C": "By claiming that students should avoid programs connected to employment",
+        "D": "By insisting that all certificate programs take too long to complete"
+      },
+      "correct": "A",
+      "correctAnswerText": "By agreeing that certificates can help students but emphasizing that broader skills remain important",
+      "explanation": "Passage 2 acknowledges that certificates are useful but adds that students also need broader skills.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article about meal preparation apps is not simply a product review. Although it compares several apps, its main point is that technology cannot remove the need for planning. An app can suggest recipes and create grocery lists, but users still have to choose realistic meals, buy the ingredients, and set aside time to cook. The author concludes that the best app is not the one with the most features, but the one a person will actually use consistently. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "Meal preparation apps are useful only for people who already enjoy cooking.",
+        "B": "A meal preparation app can help with planning, but users must still make practical choices.",
+        "C": "Grocery lists are more important than recipes when people prepare meals.",
+        "D": "The most expensive meal preparation app usually has the best features."
+      },
+      "correct": "B",
+      "correctAnswerText": "A meal preparation app can help with planning, but users must still make practical choices.",
+      "explanation": "The passage explains that apps can suggest recipes and lists, but users still need to choose, shop, and cook realistically.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The poet describes the train station just before sunrise, when the benches are nearly empty and the ticket windows are still closed. A janitor pushes a broom across the floor, and the sound echoes “like a question no one has answered yet.” The image suggests that the station is not only a place of travel but also a place of uncertainty. What effect does the quoted comparison most likely create?",
+      "choices": {
+        "A": "It suggests a mood of quiet expectation.",
+        "B": "It shows that the station is crowded and noisy.",
+        "C": "It explains why the janitor dislikes his job.",
+        "D": "It makes the sunrise seem humorous."
+      },
+      "correct": "A",
+      "correctAnswerText": "It suggests a mood of quiet expectation.",
+      "explanation": "The nearly empty station and the unanswered “question” create a mood of uncertainty and anticipation.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A college food pantry can reduce more than hunger. Students who worry about their next meal may skip class to work extra hours or may avoid buying required textbooks. When campuses provide basic food support, they can help students focus on academic goals. For that reason, food pantries should be considered part of student success efforts, not separate from them. Which sentence best states the author’s claim?",
+      "choices": {
+        "A": "Students should purchase fewer textbooks.",
+        "B": "A food pantry can support academic success by reducing food-related stress.",
+        "C": "College classes should include lessons about nutrition.",
+        "D": "Students who work extra hours usually perform better in school."
+      },
+      "correct": "B",
+      "correctAnswerText": "A food pantry can support academic success by reducing food-related stress.",
+      "explanation": "The passage argues that food support helps students focus on academic goals and should be part of student success efforts.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The company’s new customer-service policy asks representatives to summarize a caller’s concern before offering a solution. For example, a representative might say, “You were charged twice for the same order, and you want the second charge removed.” Managers say this step takes only a few seconds, but it reduces misunderstandings and shows callers that their concerns have been heard. Why does the policy require representatives to summarize a caller’s concern?",
+      "choices": {
+        "A": "To make calls last as long as possible",
+        "B": "To confirm the problem and show that the representative understands it",
+        "C": "To prevent callers from asking follow-up questions",
+        "D": "To avoid having to solve billing problems"
+      },
+      "correct": "B",
+      "correctAnswerText": "To confirm the problem and show that the representative understands it",
+      "explanation": "Summarizing the caller’s concern helps avoid misunderstandings and shows that the caller has been heard.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article acknowledges that reusable water bottles require resources to manufacture. However, it argues that people who use the same bottle regularly can reduce the number of disposable plastic bottles they purchase. The author’s point is not that reusable bottles have no environmental cost. Rather, the article asks readers to compare the long-term impact of repeated use with the waste created by single-use containers. Which statement best describes the author’s reasoning?",
+      "choices": {
+        "A": "Reusable bottles are beneficial only if they are never washed.",
+        "B": "Environmental choices should be judged partly by long-term patterns of use.",
+        "C": "Disposable bottles are always cheaper than reusable bottles.",
+        "D": "Manufacturing costs matter more than consumer habits."
+      },
+      "correct": "B",
+      "correctAnswerText": "Environmental choices should be judged partly by long-term patterns of use.",
+      "explanation": "The author argues that reusable bottles should be evaluated by comparing repeated use with the waste from single-use bottles.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Priya read the scholarship instructions, she noticed that applicants were asked to describe a challenge they had addressed, not necessarily one they had completely solved. This distinction changed her essay. Instead of pretending that her neighborhood recycling project had fixed every problem, she explained how she organized volunteers, learned from early mistakes, and created a system that other students could continue. What is the main lesson Priya learns from the instructions?",
+      "choices": {
+        "A": "A strong application can honestly discuss effort and growth, not just perfect success.",
+        "B": "Scholarship essays should avoid mentioning community projects.",
+        "C": "Applicants should describe only challenges that have no remaining problems.",
+        "D": "A recycling project is useful only if it receives national attention."
+      },
+      "correct": "A",
+      "correctAnswerText": "A strong application can honestly discuss effort and growth, not just perfect success.",
+      "explanation": "Priya realizes that she can describe how she addressed a challenge, including mistakes and progress, without pretending the problem was completely solved.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a micro-internship program that allows students to complete short professional projects for local employers. (2) Unlike traditional internships, which may last an entire semester, micro-internships usually involve one focused assignment that can be completed in a few days or weeks. (3) A student might design a flyer for a nonprofit organization, organize a spreadsheet for a small business, or help a clinic prepare patient-information materials. (4) These projects would give students practical experience without requiring them to leave school for a full semester. (5) Local employers would also benefit because they could receive help with specific tasks while meeting potential future workers. (6) Many students enjoy attending campus events when the events include free food. (7) To keep the program organized, the career center could review project descriptions before students apply. (8) With careful planning, micro-internships could connect classroom learning to real workplace needs. Which sentence should be removed because it does not support the main idea of the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "C",
+      "correctAnswerText": "Sentence 6",
+      "explanation": "Sentence 6 discusses campus events and free food, which does not support the paragraph’s argument about micro-internships.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a micro-internship program that allows students to complete short professional projects for local employers. (2) Unlike traditional internships, which may last an entire semester, micro-internships usually involve one focused assignment that can be completed in a few days or weeks. (3) A student might design a flyer for a nonprofit organization, organize a spreadsheet for a small business, or help a clinic prepare patient-information materials. (4) These projects would give students practical experience without requiring them to leave school for a full semester. (5) Local employers would also benefit because they could receive help with specific tasks while meeting potential future workers. (6) Many students enjoy attending campus events when the events include free food. (7) To keep the program organized, the career center could review project descriptions before students apply. (8) With careful planning, micro-internships could connect classroom learning to real workplace needs. Which sentence best adds evidence to support sentence 4?",
+      "choices": {
+        "A": "Some students prefer classes that meet in the morning.",
+        "B": "A two-week project could fit between exams, work shifts, and family responsibilities.",
+        "C": "Local employers sometimes advertise jobs on bulletin boards.",
+        "D": "The career center is located on the second floor of the student services building."
+      },
+      "correct": "B",
+      "correctAnswerText": "A two-week project could fit between exams, work shifts, and family responsibilities.",
+      "explanation": "This sentence supports the idea that micro-internships provide practical experience without requiring students to leave school for a full semester.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a micro-internship program that allows students to complete short professional projects for local employers. (2) Unlike traditional internships, which may last an entire semester, micro-internships usually involve one focused assignment that can be completed in a few days or weeks. (3) A student might design a flyer for a nonprofit organization, organize a spreadsheet for a small business, or help a clinic prepare patient-information materials. (4) These projects would give students practical experience without requiring them to leave school for a full semester. (5) Local employers would also benefit because they could receive help with specific tasks while meeting potential future workers. (6) Many students enjoy attending campus events when the events include free food. (7) To keep the program organized, the career center could review project descriptions before students apply. (8) With careful planning, micro-internships could connect classroom learning to real workplace needs. Which transition should be added to the beginning of sentence 5 to show the relationship between sentence 5 and the previous sentence?",
+      "choices": {
+        "A": "However,",
+        "B": "In addition,",
+        "C": "For example,",
+        "D": "Otherwise,"
+      },
+      "correct": "B",
+      "correctAnswerText": "In addition,",
+      "explanation": "Sentence 5 adds another benefit of micro-internships, so “In addition” is the most logical transition.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a micro-internship program that allows students to complete short professional projects for local employers. (2) Unlike traditional internships, which may last an entire semester, micro-internships usually involve one focused assignment that can be completed in a few days or weeks. (3) A student might design a flyer for a nonprofit organization, organize a spreadsheet for a small business, or help a clinic prepare patient-information materials. (4) These projects would give students practical experience without requiring them to leave school for a full semester. (5) Local employers would also benefit because they could receive help with specific tasks while meeting potential future workers. (6) Many students enjoy attending campus events when the events include free food. (7) To keep the program organized, the career center could review project descriptions before students apply. (8) With careful planning, micro-internships could connect classroom learning to real workplace needs. Which revision of sentence 8 best maintains a formal academic tone?",
+      "choices": {
+        "A": "With careful planning, micro-internships could be a pretty cool way to get school and work stuff together.",
+        "B": "With careful planning, micro-internships could connect classroom learning to real workplace needs.",
+        "C": "Micro-internships would basically let people do work things and class things at the same time.",
+        "D": "This whole idea would be awesome because students could get a taste of jobs and all that."
+      },
+      "correct": "B",
+      "correctAnswerText": "With careful planning, micro-internships could connect classroom learning to real workplace needs.",
+      "explanation": "This sentence maintains a clear, formal academic tone.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses an apostrophe correctly.",
+      "choices": {
+        "A": "The students advisor explained the deadline for next semester’s applications.",
+        "B": "The student’s advisor explained the deadline for next semester’s applications.",
+        "C": "The students’ advisor’s explained the deadline for next semesters applications.",
+        "D": "The student advisor explained the deadline for next semesters’ applications."
+      },
+      "correct": "B",
+      "correctAnswerText": "The student’s advisor explained the deadline for next semester’s applications.",
+      "explanation": "“Student’s” correctly shows that one student has an advisor, and “semester’s” correctly shows the applications belong to the next semester.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. Walking across campus after the rain, the puddles soaked Jordan’s shoes.",
+      "choices": {
+        "A": "Walking across campus after the rain, the puddles soaked Jordan’s shoes.",
+        "B": "The puddles, walking across campus after the rain, soaked Jordan’s shoes.",
+        "C": "As Jordan walked across campus after the rain, puddles soaked his shoes.",
+        "D": "Jordan’s shoes walked across campus after the rain and were soaked by puddles."
+      },
+      "correct": "C",
+      "correctAnswerText": "As Jordan walked across campus after the rain, puddles soaked his shoes.",
+      "explanation": "This revision corrects the misplaced modifier by clearly showing that Jordan was walking across campus.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best word or phrase to complete the sentence. The study space is popular because it is quiet, comfortable, and close to the science labs; __________, students often arrive early to find a seat.",
+      "choices": {
+        "A": "as a result",
+        "B": "nevertheless",
+        "C": "in contrast",
+        "D": "for instance"
+      },
+      "correct": "A",
+      "correctAnswerText": "as a result",
+      "explanation": "The second clause describes the result of the study space being quiet, comfortable, and conveniently located.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The financial aid office posted the new form online students can download it before meeting with a counselor.",
+      "choices": {
+        "A": "The financial aid office posted the new form online students can download it before meeting with a counselor.",
+        "B": "The financial aid office posted the new form online; students can download it before meeting with a counselor.",
+        "C": "The financial aid office posted the new form online, students can download it before meeting with a counselor.",
+        "D": "The financial aid office posted the new form online students, can download it before meeting with a counselor."
+      },
+      "correct": "B",
+      "correctAnswerText": "The financial aid office posted the new form online; students can download it before meeting with a counselor.",
+      "explanation": "A semicolon correctly joins two closely related independent clauses.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence with correct pronoun reference.",
+      "choices": {
+        "A": "When Nora emailed Kayla about the project, she attached the wrong file.",
+        "B": "When Nora emailed Kayla about the project, Nora attached the wrong file.",
+        "C": "When she emailed Kayla about the project, the wrong file was attached by Nora.",
+        "D": "When Nora emailed her about the project, she attached it."
+      },
+      "correct": "B",
+      "correctAnswerText": "When Nora emailed Kayla about the project, Nora attached the wrong file.",
+      "explanation": "This sentence avoids unclear pronoun reference by naming who attached the wrong file.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The orientation leader explained where to park, how to access the student portal, and getting an identification card.",
+      "choices": {
+        "A": "The orientation leader explained where to park, how to access the student portal, and getting an identification card.",
+        "B": "The orientation leader explained parking, how to access the student portal, and getting an identification card.",
+        "C": "The orientation leader explained where to park, how to access the student portal, and how to get an identification card.",
+        "D": "The orientation leader explained where parking was, accessing the student portal, and identification cards."
+      },
+      "correct": "C",
+      "correctAnswerText": "The orientation leader explained where to park, how to access the student portal, and how to get an identification card.",
+      "explanation": "This revision uses parallel structure for all three items in the series.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. The engineering club wants to attract students who are curious but inexperienced. Many students avoid the club because they assume every member already knows how to build robots or write code. In fact, the club offers beginner workshops and pairs new members with experienced students. Which introductory sentence would best set up the paragraph?",
+      "choices": {
+        "A": "The engineering club should make it clear that beginners are welcome.",
+        "B": "Engineering is one of the most difficult college majors.",
+        "C": "Robots are often used in factories, hospitals, and schools.",
+        "D": "Students should take advanced math before joining any club."
+      },
+      "correct": "A",
+      "correctAnswerText": "The engineering club should make it clear that beginners are welcome.",
+      "explanation": "This sentence introduces the paragraph’s main idea that the club should encourage inexperienced students to join.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses a colon correctly.",
+      "choices": {
+        "A": "The workshop will cover three topics: budgeting, credit scores, and saving for emergencies.",
+        "B": "The workshop will cover: three topics, budgeting, credit scores, and saving for emergencies.",
+        "C": "The workshop will cover three: topics budgeting, credit scores, and saving for emergencies.",
+        "D": "The workshop will cover three topics budgeting: credit scores: and saving for emergencies."
+      },
+      "correct": "A",
+      "correctAnswerText": "The workshop will cover three topics: budgeting, credit scores, and saving for emergencies.",
+      "explanation": "A colon is correctly used after a complete sentence to introduce a list.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The online form asks students to enter their name, their student ID number, and it asks them to enter their preferred email address.",
+      "choices": {
+        "A": "The online form asks students to enter their name, their student ID number, and it asks them to enter their preferred email address.",
+        "B": "The online form asks students to enter their name, student ID number, and preferred email address.",
+        "C": "The online form asks students to enter their name, their student ID number, and then it asks for entering their preferred email address.",
+        "D": "The online form asks students to enter their name and student ID number and it asks students entering their preferred email address."
+      },
+      "correct": "B",
+      "correctAnswerText": "The online form asks students to enter their name, student ID number, and preferred email address.",
+      "explanation": "This revision is concise and uses parallel structure.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. (1) The campus bookstore will begin renting scientific calculators next semester. (2) Many students need a calculator for only one math or science course. (3) Renting a calculator for a small fee may be less expensive than purchasing one. (4) The bookstore also sells notebooks, pens, and backpacks. Where should sentence 4 be placed to improve the paragraph?",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 3",
+        "D": "The sentence should be removed because it shifts away from the paragraph’s focus."
+      },
+      "correct": "D",
+      "correctAnswerText": "The sentence should be removed because it shifts away from the paragraph’s focus.",
+      "explanation": "Sentence 4 shifts from calculator rentals to unrelated bookstore items.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E2-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The lab report was revised by the students after the instructor returned it with comments.",
+      "choices": {
+        "A": "The lab report was revised by the students after the instructor returned it with comments.",
+        "B": "After the instructor returned the lab report with comments, the students revised it.",
+        "C": "The lab report, after the instructor returned it with comments, was revised by the students.",
+        "D": "Revised by the students, the instructor returned the lab report with comments."
+      },
+      "correct": "B",
+      "correctAnswerText": "After the instructor returned the lab report with comments, the students revised it.",
+      "explanation": "This revision uses active voice and clearly identifies who performed the action.",
+      "credits": 1
+    }
+  ]
+}

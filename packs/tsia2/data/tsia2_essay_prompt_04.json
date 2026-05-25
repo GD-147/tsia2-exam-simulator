@@ -1,0 +1,19 @@
+{
+  "title": "TSIA2 Essay Practice Prompt 04",
+  "section": "essay",
+  "questions": [
+    {
+      "id": "TSIA2-ES4-001",
+      "section": "Essay",
+      "type": "essay",
+      "itemType": "essay",
+      "focus": "",
+      "category": "",
+      "prompt": "Many colleges now offer both in-person and online course options. Some students prefer online courses because they can complete assignments around work or family responsibilities. Others believe in-person courses are better because they provide more direct interaction with instructors and classmates. Colleges must decide how to balance flexibility with opportunities for face-to-face learning. Assignment: Write an essay of 300–600 words in which you develop your point of view on the issue presented in the passage. Support your position with reasoning and examples from your reading, studies, experience, or observations.",
+      "modelAnswer": "A strong response should state a clear position on balancing online and in-person course options, support that position with specific reasons and examples, address the issue thoughtfully, and demonstrate organized, controlled writing.",
+      "scoringGuidance": "A strong response should state a clear position on balancing online and in-person course options, support that position with specific reasons and examples, address the issue thoughtfully, and demonstrate organized, controlled writing.",
+      "rubric": "Scores range from 8 for a focused, well-developed, logically organized essay with strong language control to 0 for a blank, off-topic, too short, incoherent, or non-English response.",
+      "credits": 1
+    }
+  ]
+}
