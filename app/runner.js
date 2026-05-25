@@ -167,7 +167,13 @@ function qs(id) { return document.getElementById(id); }
   // ===== ESSAY MODE =====
 if (section.type === "essay") {
   const examSets = await loadQuestionsForSection(examId, section);
-  const pooledPrompts = examSets.flatMap(s => s.questions); // here "questions" are prompts
+  const pooledPrompts = examSets.flatMap(s => s.questions || []);
+
+  if (!pooledPrompts.length) {
+    qs("title").textContent = "No essay prompt available";
+    qs("desc").textContent = "No essay prompt was found for this section. Check the imported JSON file and config.json.";
+    return;
+  }
 
   // pick prompt (rotate like exams; practice also cycles)
   let promptObj = null;
@@ -176,17 +182,23 @@ if (section.type === "essay") {
   if (mode === "practice") {
     const key = `essayCursor_${examId}_${sectionId}`;
     let cur = parseInt(localStorage.getItem(key) || "0", 10);
-    if (cur >= pooledPrompts.length) cur = 0;
+    if (!Number.isFinite(cur) || cur < 0 || cur >= pooledPrompts.length) cur = 0;
     promptObj = pooledPrompts[cur];
     localStorage.setItem(key, String((cur + 1) % pooledPrompts.length));
-    metaText = `Prompt: ${promptObj.id} (practice)`;
+    metaText = `Prompt: ${promptObj.id || "Essay"} (practice)`;
   } else {
     const rotKey = `essayRotation_${examId}_${sectionId}`;
     let rot = parseInt(localStorage.getItem(rotKey) || "0", 10);
-    if (rot >= pooledPrompts.length) rot = 0;
+    if (!Number.isFinite(rot) || rot < 0 || rot >= pooledPrompts.length) rot = 0;
     promptObj = pooledPrompts[rot];
     localStorage.setItem(rotKey, String((rot + 1) % pooledPrompts.length));
-    metaText = `Prompt: ${promptObj.id} (timed)`;
+    metaText = `Prompt: ${promptObj.id || "Essay"} (timed)`;
+  }
+
+  if (!promptObj || !promptObj.prompt) {
+    qs("title").textContent = "Essay prompt error";
+    qs("desc").textContent = "The essay file loaded, but the prompt field is missing.";
+    return;
   }
 
   // show essay panel
@@ -209,15 +221,17 @@ if (section.type === "essay") {
   const startTime = Date.now();
 
   if (mode !== "practice") {
-    qs("timer").classList.remove("hidden");
-    qs("timer").textContent = fmtTime(remaining);
+    const timerEl = qs("timer");
+    if (timerEl) timerEl.classList.remove("hidden");
+    if (timerEl) timerEl.textContent = fmtTime(remaining);
     timerInterval = setInterval(() => {
       remaining--;
-      qs("timer").textContent = fmtTime(Math.max(0, remaining));
+      if (timerEl) timerEl.textContent = fmtTime(Math.max(0, remaining));
       if (remaining <= 0) finishEssay();
     }, 1000);
   } else {
-    qs("timer").classList.add("hidden");
+    const timerEl = qs("timer");
+    if (timerEl) timerEl.classList.add("hidden");
   }
 
   // autosave key per prompt
@@ -253,6 +267,20 @@ if (section.type === "essay") {
 
     qs("essayTimeLine").textContent = `Time used: ${fmtTime(elapsedSec)}`;
     qs("essayWordLine").textContent = `Word count: ${words}`;
+
+    const modelGuidanceEl = qs("essayModelGuidance");
+    if (modelGuidanceEl) {
+      modelGuidanceEl.innerHTML = promptObj.modelAnswer
+        ? `<strong>Model guidance:</strong><br>${renderInlineMarkup(promptObj.modelAnswer)}`
+        : `<strong>Model guidance:</strong><br>Review whether your essay presents a clear position, develops ideas with specific support, uses logical organization, and demonstrates control of Standard English.`;
+    }
+
+    const rubricEl = qs("essayRubric");
+    if (rubricEl) {
+      rubricEl.innerHTML = promptObj.rubric
+        ? `<strong>Rubric:</strong><br>${renderInlineMarkup(promptObj.rubric)}`
+        : `<strong>Rubric:</strong><br>Evaluate your essay for focus, development, organization, sentence control, and conventions.`;
+    }
 
     qs("essayHomeBtn").onclick = () => {
       window.location.href = `app.html?exam=${encodeURIComponent(examId)}`;
@@ -500,12 +528,13 @@ if (metaEl) metaEl.textContent = metaText;
   }
 
   if (mode !== "practice") {
-    qs("timer").classList.remove("hidden");
-    qs("timer").textContent = fmtTime(remaining);
+    const timerEl = qs("timer");
+    if (timerEl) timerEl.classList.remove("hidden");
+    if (timerEl) timerEl.textContent = fmtTime(remaining);
 
     timerInterval = setInterval(() => {
       remaining--;
-      qs("timer").textContent = fmtTime(Math.max(0, remaining));
+      if (timerEl) timerEl.textContent = fmtTime(Math.max(0, remaining));
       if (remaining <= 0) finish();
     }, 1000);
   }
