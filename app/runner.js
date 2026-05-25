@@ -79,7 +79,10 @@ async function loadQuestionsForSection(examId, section) {
     if (!res.ok) throw new Error(`Missing question file: ${path}`);
 
     const raw = await res.json();
-    const arr = Array.isArray(raw) ? raw.map(normalizeQuestion) : [];
+    const rawQuestions = Array.isArray(raw)
+      ? raw
+      : (Array.isArray(raw.questions) ? raw.questions : []);
+    const arr = rawQuestions.map(normalizeQuestion);
 
     all.push({ file: f, questions: arr });
   }

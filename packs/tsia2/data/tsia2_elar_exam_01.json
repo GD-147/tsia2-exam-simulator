@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 01",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E1-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Riverside Community College opened its new tutoring center, some students expected a quiet room where tutors would simply correct homework. Instead, the center was designed around a different idea: students learn more when they explain their thinking, identify their own errors, and practice strategies they can use later. Tutors are trained not to give answers immediately. A tutor might ask a student to reread a problem, define an unfamiliar term, or explain why a particular paragraph seems confusing. At first, this approach frustrates some students, especially those who arrive shortly before an assignment is due. However, the center’s director argues that tutoring should build independence rather than create dependence. After the first semester, the college surveyed students who used the center at least three times. Most reported that they felt more confident starting assignments on their own, even when they still needed help finishing them. Which statement best expresses the central idea of the passage?",
+      "choices": {
+        "A": "Riverside Community College should hire more tutors so students can receive faster help.",
+        "B": "The tutoring center emphasizes student independence by encouraging students to think through problems.",
+        "C": "Students at Riverside Community College usually wait too long before starting their assignments.",
+        "D": "The tutoring center is most useful for students who already understand their assignments."
+      },
+      "correct": "B",
+      "correctAnswerText": "The tutoring center emphasizes student independence by encouraging students to think through problems.",
+      "explanation": "The passage explains that the center’s purpose is to help students develop strategies and confidence rather than simply receive answers.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Riverside Community College opened its new tutoring center, some students expected a quiet room where tutors would simply correct homework. Instead, the center was designed around a different idea: students learn more when they explain their thinking, identify their own errors, and practice strategies they can use later. Tutors are trained not to give answers immediately. A tutor might ask a student to reread a problem, define an unfamiliar term, or explain why a particular paragraph seems confusing. At first, this approach frustrates some students, especially those who arrive shortly before an assignment is due. However, the center’s director argues that tutoring should build independence rather than create dependence. After the first semester, the college surveyed students who used the center at least three times. Most reported that they felt more confident starting assignments on their own, even when they still needed help finishing them. According to the passage, why might some students initially feel frustrated at the tutoring center?",
+      "choices": {
+        "A": "They are required to attend tutoring even when they do not need help.",
+        "B": "Tutors focus only on grammar and ignore other kinds of assignments.",
+        "C": "Tutors do not immediately provide answers to students’ questions.",
+        "D": "The tutoring center is open only during limited hours."
+      },
+      "correct": "C",
+      "correctAnswerText": "Tutors do not immediately provide answers to students’ questions.",
+      "explanation": "The passage states that tutors are trained not to give answers immediately, which can frustrate students who expect quick corrections.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Riverside Community College opened its new tutoring center, some students expected a quiet room where tutors would simply correct homework. Instead, the center was designed around a different idea: students learn more when they explain their thinking, identify their own errors, and practice strategies they can use later. Tutors are trained not to give answers immediately. A tutor might ask a student to reread a problem, define an unfamiliar term, or explain why a particular paragraph seems confusing. At first, this approach frustrates some students, especially those who arrive shortly before an assignment is due. However, the center’s director argues that tutoring should build independence rather than create dependence. After the first semester, the college surveyed students who used the center at least three times. Most reported that they felt more confident starting assignments on their own, even when they still needed help finishing them. In the passage, the word strategies most nearly means",
+      "choices": {
+        "A": "excuses for delaying work",
+        "B": "methods for solving problems",
+        "C": "rules for earning high grades",
+        "D": "reasons for changing tutors"
+      },
+      "correct": "B",
+      "correctAnswerText": "methods for solving problems",
+      "explanation": "In context, strategies are approaches students can use later to complete assignments and solve problems independently.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Riverside Community College opened its new tutoring center, some students expected a quiet room where tutors would simply correct homework. Instead, the center was designed around a different idea: students learn more when they explain their thinking, identify their own errors, and practice strategies they can use later. Tutors are trained not to give answers immediately. A tutor might ask a student to reread a problem, define an unfamiliar term, or explain why a particular paragraph seems confusing. At first, this approach frustrates some students, especially those who arrive shortly before an assignment is due. However, the center’s director argues that tutoring should build independence rather than create dependence. After the first semester, the college surveyed students who used the center at least three times. Most reported that they felt more confident starting assignments on their own, even when they still needed help finishing them. Which detail best supports the director’s view that tutoring should build independence?",
+      "choices": {
+        "A": "Some students expected tutors to correct their homework.",
+        "B": "Tutors ask students to explain their thinking and identify errors.",
+        "C": "The tutoring center opened at Riverside Community College.",
+        "D": "Some students arrive shortly before an assignment is due."
+      },
+      "correct": "B",
+      "correctAnswerText": "Tutors ask students to explain their thinking and identify errors.",
+      "explanation": "This detail directly supports the idea that tutoring should help students become independent learners.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The city library recently began lending mobile internet hotspots to residents who have library cards. The program began after librarians noticed that many students used the library computers to complete homework but could not continue working after the building closed. Some residents also needed internet access to apply for jobs, attend telehealth appointments, or communicate with public agencies. Although the library purchased only fifty hotspots at first, the waiting list grew within two weeks. What is the main purpose of the passage?",
+      "choices": {
+        "A": "To argue that libraries should replace printed books with digital services",
+        "B": "To describe a library program created to expand internet access",
+        "C": "To compare different types of internet service available in the city",
+        "D": "To explain why residents prefer using library computers at night"
+      },
+      "correct": "B",
+      "correctAnswerText": "To describe a library program created to expand internet access",
+      "explanation": "The passage explains why the library began lending hotspots and who benefits from the program.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Marta had practiced her presentation until she could recite every line without looking at her notes. Yet when she stood in front of the class, the first sentence sounded stiff and memorized. She paused, looked at the photo on her opening slide, and remembered why she had chosen the topic in the first place. Instead of repeating the exact words she had rehearsed, she began by telling the story behind the image. Her classmates leaned forward. What can reasonably be inferred about Marta?",
+      "choices": {
+        "A": "She decided not to complete the assignment.",
+        "B": "She became more effective when she spoke more naturally.",
+        "C": "She forgot the main point of her presentation.",
+        "D": "She wished she had selected a different topic."
+      },
+      "correct": "B",
+      "correctAnswerText": "She became more effective when she spoke more naturally.",
+      "explanation": "Marta’s classmates become more engaged after she stops reciting and begins speaking from a personal connection to the topic.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A campus garden may seem like a small project, but it can serve several purposes at once. Biology students can use the garden to study soil quality and pollination. Culinary students can learn how herbs and vegetables are grown before they reach a kitchen. Students who simply need a quiet break can volunteer for short shifts between classes. For these reasons, a garden should be seen not as decoration but as a practical learning space. Which sentence best states the author’s claim?",
+      "choices": {
+        "A": "A campus garden can provide educational and personal benefits.",
+        "B": "Biology students should be required to work in campus gardens.",
+        "C": "Culinary programs are more useful when they include outdoor activities.",
+        "D": "A campus garden is too expensive for most colleges to maintain."
+      },
+      "correct": "A",
+      "correctAnswerText": "A campus garden can provide educational and personal benefits.",
+      "explanation": "The passage claims that a garden can support academic learning and give students a quiet volunteer opportunity.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. During the first week of training, new employees at the warehouse shadow an experienced worker. They learn how to scan inventory, label damaged boxes, and report safety concerns. The company could provide a manual that explains these steps, but managers have found that watching the procedures in context prevents many early mistakes. New employees still receive the manual, but it functions more as a reference than as the main source of instruction. What relationship does the passage establish between shadowing and the manual?",
+      "choices": {
+        "A": "Shadowing is presented as the primary training method, while the manual supports later review.",
+        "B": "The manual is presented as more effective because it contains every company rule.",
+        "C": "Shadowing is presented as unnecessary once employees learn how to scan inventory.",
+        "D": "The manual and shadowing are presented as unrelated parts of the hiring process."
+      },
+      "correct": "A",
+      "correctAnswerText": "Shadowing is presented as the primary training method, while the manual supports later review.",
+      "explanation": "Managers rely on shadowing for instruction, while the manual serves as a reference.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Some colleges are replacing printed parking permits with digital license-plate registration. The change saves paper, reduces mailing costs, and allows students to update vehicle information online. Because campus security can scan plates electronically, students no longer need to wait in line for a physical permit. Passage 2: Digital parking systems may be convenient, but they can also create problems. If a student borrows a family member’s car and forgets to update the registration, the student may receive a ticket even after paying for parking access. A physical permit is easier to move from one approved vehicle to another. How do the passages differ in their views of digital parking registration?",
+      "choices": {
+        "A": "Passage 1 supports it as efficient, while Passage 2 warns that it may cause practical problems.",
+        "B": "Passage 1 rejects it as too expensive, while Passage 2 praises it as inexpensive.",
+        "C": "Passage 1 focuses on student privacy, while Passage 2 focuses on campus security.",
+        "D": "Passage 1 argues that permits are unnecessary, while Passage 2 argues that students should not drive."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 1 supports it as efficient, while Passage 2 warns that it may cause practical problems.",
+      "explanation": "Passage 1 emphasizes convenience and cost savings, while Passage 2 points out potential difficulties for students who use different vehicles.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The historian’s article does not claim that the factory strike succeeded immediately. In fact, the first vote after the strike changed little for the workers. However, the article argues that the strike mattered because it brought local newspaper attention to unsafe conditions. Within a year, city inspectors began visiting factories more frequently, and reform groups used the workers’ testimony in public meetings. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "The strike failed because the workers did not receive higher pay right away.",
+        "B": "The strike was important because it helped draw attention to unsafe factory conditions.",
+        "C": "The strike caused city inspectors to stop visiting local factories.",
+        "D": "The strike was organized by newspaper editors and reform groups."
+      },
+      "correct": "B",
+      "correctAnswerText": "The strike was important because it helped draw attention to unsafe factory conditions.",
+      "explanation": "The passage says the strike mattered because it brought newspaper attention and helped lead to inspections and reform efforts.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In her review of the documentary, Laila praises the film’s interviews but criticizes its pacing. She notes that several scenes repeat the same point about water conservation without adding new evidence. Still, she recommends the film for environmental science classes because its strongest sections show how local choices can affect regional water supplies. What is Laila’s tone toward the documentary?",
+      "choices": {
+        "A": "Completely dismissive",
+        "B": "Generally favorable but qualified",
+        "C": "Confused and uncertain",
+        "D": "Hostile and sarcastic"
+      },
+      "correct": "B",
+      "correctAnswerText": "Generally favorable but qualified",
+      "explanation": "Laila praises some parts of the film and recommends it, but she also criticizes its pacing.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A study group can help students stay accountable, but only if the group has a clear plan. When members meet without goals, the session often turns into casual conversation. A useful study group identifies topics before meeting, assigns each member a task, and ends by reviewing what still needs attention. Structure does not make the group less friendly; it makes the time more valuable. Which evidence from the passage best supports the idea that study groups need planning?",
+      "choices": {
+        "A": "Study groups can help students stay accountable.",
+        "B": "A useful group identifies topics, assigns tasks, and reviews remaining needs.",
+        "C": "Students often enjoy talking with classmates.",
+        "D": "Structure does not make a group less friendly."
+      },
+      "correct": "B",
+      "correctAnswerText": "A useful group identifies topics, assigns tasks, and reviews remaining needs.",
+      "explanation": "This sentence gives concrete examples of the planning that makes study groups effective.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Before the invention of mechanical refrigeration, ice harvesting was an important winter industry in many northern regions. Workers cut blocks of ice from frozen lakes and stored them in insulated buildings packed with sawdust. Months later, the ice could be shipped to cities where households and businesses used it to preserve food. The process was labor-intensive, but it allowed people to keep food cool long before electric refrigerators became common. Which sentence best explains the purpose of ice harvesting?",
+      "choices": {
+        "A": "It allowed people to preserve food before electric refrigeration was widely available.",
+        "B": "It encouraged people to move from cities to northern regions.",
+        "C": "It replaced the need for insulated buildings in warm climates.",
+        "D": "It made frozen lakes safer for winter travel."
+      },
+      "correct": "A",
+      "correctAnswerText": "It allowed people to preserve food before electric refrigeration was widely available.",
+      "explanation": "The passage explains that harvested ice helped households and businesses keep food cool before electric refrigerators became common.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Professor Allen tells students that office hours are not only for emergencies. Students can use that time to ask about a confusing reading, discuss a paper idea, or learn how to study for the next exam. Many students avoid office hours because they assume they must have a serious problem before attending. Professor Allen wants to change that assumption. What is the author’s purpose in the passage?",
+      "choices": {
+        "A": "To persuade students that office hours can be useful before problems become serious",
+        "B": "To explain why professors should cancel office hours during busy weeks",
+        "C": "To show that students should solve every academic problem alone",
+        "D": "To compare office hours with tutoring centers"
+      },
+      "correct": "A",
+      "correctAnswerText": "To persuade students that office hours can be useful before problems become serious",
+      "explanation": "The passage explains that students can use office hours for many purposes, not only emergencies.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The memo announced that the office would begin a “clean desk” policy the following month. Employees were asked to store documents in locked drawers at the end of each day and avoid leaving customer information on desks overnight. The policy was not intended to make workspaces look identical. Rather, it was designed to reduce the risk that private information could be seen by visitors or misplaced during evening cleaning. What is the main reason for the new policy?",
+      "choices": {
+        "A": "To make every employee’s desk look the same",
+        "B": "To protect sensitive customer information",
+        "C": "To reduce the amount of paper used by the office",
+        "D": "To help evening cleaners finish their work faster"
+      },
+      "correct": "B",
+      "correctAnswerText": "To protect sensitive customer information",
+      "explanation": "The memo says the policy is designed to reduce the risk that private information could be seen or misplaced.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) Our campus should create a tool-lending program for students who need basic equipment for class projects. (2) Many students buy items such as calculators, safety goggles, measuring tapes, or small audio recorders for a single assignment and then never use them again. (3) A lending program would allow students to borrow these items for short periods instead of purchasing them. (4) The program could begin with donations from departments and student organizations. (5) For example, the biology department may have extra goggles from previous lab sections, and the media club may have unused microphones. (6) The library already checks out laptops, so it has experience tracking borrowed materials. (7) Some students enjoy studying in the library because it is quiet. (8) By expanding the library’s lending system to include basic tools, the college could reduce student costs and make project-based classes more accessible. Which sentence should be removed because it does not support the main idea of the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 4",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "D",
+      "correctAnswerText": "Sentence 7",
+      "explanation": "Sentence 7 discusses studying in the library, which does not support the argument for a tool-lending program.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) Our campus should create a tool-lending program for students who need basic equipment for class projects. (2) Many students buy items such as calculators, safety goggles, measuring tapes, or small audio recorders for a single assignment and then never use them again. (3) A lending program would allow students to borrow these items for short periods instead of purchasing them. (4) The program could begin with donations from departments and student organizations. (5) For example, the biology department may have extra goggles from previous lab sections, and the media club may have unused microphones. (6) The library already checks out laptops, so it has experience tracking borrowed materials. (7) Some students enjoy studying in the library because it is quiet. (8) By expanding the library’s lending system to include basic tools, the college could reduce student costs and make project-based classes more accessible. Which sentence best strengthens the support for the claim in sentence 8?",
+      "choices": {
+        "A": "Students should always ask instructors whether a project is required.",
+        "B": "A checkout period of one week would give students enough time to complete most short assignments.",
+        "C": "The library is located near the student center and cafeteria.",
+        "D": "Some colleges have more student organizations than others."
+      },
+      "correct": "B",
+      "correctAnswerText": "A checkout period of one week would give students enough time to complete most short assignments.",
+      "explanation": "This sentence adds a practical detail that supports how the lending program could work.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) Our campus should create a tool-lending program for students who need basic equipment for class projects. (2) Many students buy items such as calculators, safety goggles, measuring tapes, or small audio recorders for a single assignment and then never use them again. (3) A lending program would allow students to borrow these items for short periods instead of purchasing them. (4) The program could begin with donations from departments and student organizations. (5) For example, the biology department may have extra goggles from previous lab sections, and the media club may have unused microphones. (6) The library already checks out laptops, so it has experience tracking borrowed materials. (7) Some students enjoy studying in the library because it is quiet. (8) By expanding the library’s lending system to include basic tools, the college could reduce student costs and make project-based classes more accessible. Which transition should be added to the beginning of sentence 6 to show the relationship between sentence 6 and the previous sentences?",
+      "choices": {
+        "A": "However,",
+        "B": "Similarly,",
+        "C": "For this reason,",
+        "D": "In contrast,"
+      },
+      "correct": "B",
+      "correctAnswerText": "Similarly,",
+      "explanation": "Sentence 6 adds another related example of the library’s ability to lend materials, so “Similarly” shows the connection.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) Our campus should create a tool-lending program for students who need basic equipment for class projects. (2) Many students buy items such as calculators, safety goggles, measuring tapes, or small audio recorders for a single assignment and then never use them again. (3) A lending program would allow students to borrow these items for short periods instead of purchasing them. (4) The program could begin with donations from departments and student organizations. (5) For example, the biology department may have extra goggles from previous lab sections, and the media club may have unused microphones. (6) The library already checks out laptops, so it has experience tracking borrowed materials. (7) Some students enjoy studying in the library because it is quiet. (8) By expanding the library’s lending system to include basic tools, the college could reduce student costs and make project-based classes more accessible. Which revision of sentence 3 is clearest and most concise?",
+      "choices": {
+        "A": "A lending program, which would be a program for lending, would allow students to borrow items for short periods.",
+        "B": "A lending program would allow students to borrow these items briefly instead of buying them.",
+        "C": "A program that lends items to students for borrowing purposes would be a way to avoid purchases.",
+        "D": "Students would be allowed by a lending program to have items borrowed instead of purchased."
+      },
+      "correct": "B",
+      "correctAnswerText": "A lending program would allow students to borrow these items briefly instead of buying them.",
+      "explanation": "This revision is concise, clear, and keeps the meaning of the original sentence.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The advisor reviewed my schedule she noticed that I had registered for two classes that meet at the same time.",
+      "choices": {
+        "A": "The advisor reviewed my schedule, she noticed that I had registered for two classes that meet at the same time.",
+        "B": "The advisor reviewed my schedule and noticed that I had registered for two classes that meet at the same time.",
+        "C": "The advisor reviewed my schedule, noticing, that I had registered for two classes that meet at the same time.",
+        "D": "The advisor reviewed my schedule she noticed, that I had registered for two classes that meet at the same time."
+      },
+      "correct": "B",
+      "correctAnswerText": "The advisor reviewed my schedule and noticed that I had registered for two classes that meet at the same time.",
+      "explanation": "This revision correctly joins the two related actions without creating a comma splice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses punctuation correctly.",
+      "choices": {
+        "A": "Before the workshop begins participants should sign in at the front desk.",
+        "B": "Before the workshop begins, participants should sign in at the front desk.",
+        "C": "Before, the workshop begins participants should sign in at the front desk.",
+        "D": "Before the workshop, begins participants should sign in at the front desk."
+      },
+      "correct": "B",
+      "correctAnswerText": "Before the workshop begins, participants should sign in at the front desk.",
+      "explanation": "An introductory dependent clause should be followed by a comma.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best word or phrase to complete the sentence. The instructor gave detailed feedback on the first draft; __________, several students revised their essays more effectively.",
+      "choices": {
+        "A": "therefore",
+        "B": "however",
+        "C": "for example",
+        "D": "meanwhile"
+      },
+      "correct": "A",
+      "correctAnswerText": "therefore",
+      "explanation": "The second clause shows a result of the instructor’s detailed feedback, so “therefore” is the best transition.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. Because the survey included only twelve students, the results were not enough to prove a campus-wide trend.",
+      "choices": {
+        "A": "Because the survey included only twelve students, the results were not enough to prove a campus-wide trend.",
+        "B": "The survey included only twelve students because the results were not enough to prove a campus-wide trend.",
+        "C": "Including only twelve students, a campus-wide trend was not proved by the survey results.",
+        "D": "The results were not enough proving a campus-wide trend because only twelve students were including."
+      },
+      "correct": "A",
+      "correctAnswerText": "Because the survey included only twelve students, the results were not enough to prove a campus-wide trend.",
+      "explanation": "This sentence clearly and correctly explains the cause-and-effect relationship.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is written correctly.",
+      "choices": {
+        "A": "Each of the students were responsible for submitting their own lab report.",
+        "B": "Each of the students was responsible for submitting a lab report.",
+        "C": "Each of the students are responsible for submitting their own lab report.",
+        "D": "Each of the students have been responsible to submitting a lab report."
+      },
+      "correct": "B",
+      "correctAnswerText": "Each of the students was responsible for submitting a lab report.",
+      "explanation": "“Each” is singular, so it requires the singular verb “was.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The course requires a final project. The project may be a research paper, a presentation, or a community interview.",
+      "choices": {
+        "A": "The course requires a final project, it may be a research paper, a presentation, or a community interview.",
+        "B": "The course requires a final project, which may be a research paper, a presentation, or a community interview.",
+        "C": "Requiring a final project, the research paper, presentation, or community interview may be chosen.",
+        "D": "The course requires a final project and it requires a research paper and it requires a presentation or community interview."
+      },
+      "correct": "B",
+      "correctAnswerText": "The course requires a final project, which may be a research paper, a presentation, or a community interview.",
+      "explanation": "This combines the sentences smoothly and clearly without a comma splice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. Many first-year students feel nervous about speaking to an academic advisor. They may worry that their questions are too simple or that they should already understand degree requirements. In reality, advisors expect students to ask questions. Advisors can explain course sequences, transfer options, and deadlines. Which concluding sentence best follows from the paragraph?",
+      "choices": {
+        "A": "Therefore, meeting with an advisor can help students make informed academic decisions.",
+        "B": "In contrast, students should avoid asking questions about degree requirements.",
+        "C": "As a result, advisors should choose all courses for every student.",
+        "D": "For example, many campuses also have athletic programs."
+      },
+      "correct": "A",
+      "correctAnswerText": "Therefore, meeting with an advisor can help students make informed academic decisions.",
+      "explanation": "This conclusion follows logically from the paragraph’s explanation of how advisors help students.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The committee discussed the new attendance policy at the meeting, it will vote on the proposal next week.",
+      "choices": {
+        "A": "The committee discussed the new attendance policy at the meeting, it will vote on the proposal next week.",
+        "B": "The committee discussed the new attendance policy at the meeting and, it will vote on the proposal next week.",
+        "C": "The committee discussed the new attendance policy at the meeting, and it will vote on the proposal next week.",
+        "D": "The committee discussed the new attendance policy at the meeting it will vote, on the proposal next week."
+      },
+      "correct": "C",
+      "correctAnswerText": "The committee discussed the new attendance policy at the meeting, and it will vote on the proposal next week.",
+      "explanation": "Two independent clauses can be joined with a comma and the coordinating conjunction “and.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best replacement for the underlined words. The student’s explanation was kind of unclear because it did not include any specific examples.",
+      "choices": {
+        "A": "somewhat unclear",
+        "B": "unclearish",
+        "C": "not very much clear",
+        "D": "unclear in a way that was not clear"
+      },
+      "correct": "A",
+      "correctAnswerText": "somewhat unclear",
+      "explanation": "“Somewhat unclear” is more precise and formal than “kind of unclear.”",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. (1) The community college will offer a weekend financial literacy workshop. (2) Students will learn how to create a basic budget, compare loan terms, and identify common fees. (3) The workshop will be held in Room 204 from 9:00 a.m. to noon. (4) Budgeting is a skill that many people find useful throughout adulthood. Where should sentence 4 be placed to improve the organization of the paragraph?",
+      "choices": {
+        "A": "Before sentence 1",
+        "B": "After sentence 1",
+        "C": "After sentence 2",
+        "D": "The sentence should be removed because it is unrelated."
+      },
+      "correct": "B",
+      "correctAnswerText": "After sentence 1",
+      "explanation": "Sentence 4 provides a general reason for the workshop and fits best immediately after the workshop is introduced.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E1-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence. The professor’s instructions were precise, clear, and they helped us understand exactly what to submit.",
+      "choices": {
+        "A": "The professor’s instructions were precise, clear, and they helped us understand exactly what to submit.",
+        "B": "The professor’s instructions were precise, clear, and helpful in explaining exactly what to submit.",
+        "C": "The professor’s instructions were precise, they were clear, and they helped us understand exactly what to submit.",
+        "D": "The professor’s instructions were precise and clear, helping with understanding exactly what was to be submitted by us."
+      },
+      "correct": "B",
+      "correctAnswerText": "The professor’s instructions were precise, clear, and helpful in explaining exactly what to submit.",
+      "explanation": "This revision improves parallel structure by using three adjectives: “precise,” “clear,” and “helpful.”",
+      "credits": 1
+    }
+  ]
+}

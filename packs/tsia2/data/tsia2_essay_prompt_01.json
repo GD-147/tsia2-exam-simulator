@@ -1,0 +1,19 @@
+{
+  "title": "TSIA2 Essay Practice Prompt 01",
+  "section": "essay",
+  "questions": [
+    {
+      "id": "TSIA2-ES1-001",
+      "section": "Essay",
+      "type": "essay",
+      "itemType": "essay",
+      "focus": "",
+      "category": "",
+      "prompt": "Some students believe that colleges should require all first-year students to take a course on time management, study habits, and campus resources. Supporters argue that such a course can help students adjust to college expectations and avoid common mistakes. Others believe that students should be free to choose only courses directly related to their degree programs and should learn these skills on their own. Assignment: Write an essay of 300–600 words in which you develop your point of view on the issue presented in the passage. Support your position with reasoning and examples from your reading, studies, experience, or observations.",
+      "modelAnswer": "A strong response should state a clear position on requiring a first-year success course, support that position with specific reasons and examples, address the issue thoughtfully, and demonstrate organized, controlled writing.",
+      "scoringGuidance": "A strong response should state a clear position on requiring a first-year success course, support that position with specific reasons and examples, address the issue thoughtfully, and demonstrate organized, controlled writing.",
+      "rubric": "Scores range from 8 for a clear, well-developed, logically organized essay with strong language control to 0 for a blank, off-topic, too short, incoherent, or non-English response.",
+      "credits": 1
+    }
+  ]
+}

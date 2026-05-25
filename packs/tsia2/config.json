@@ -18,7 +18,9 @@
       "timeLabel": "Recommended practice time: 90 minutes",
       "examQuestions": 30,
       "type": "mcq",
-      "examFiles": []
+      "examFiles": [
+        "tsia2_elar_exam_01.json"
+      ]
     },
     {
       "id": "math",
@@ -27,7 +29,9 @@
       "timeLabel": "Recommended practice time: 90 minutes",
       "examQuestions": 20,
       "type": "mcq",
-      "examFiles": []
+      "examFiles": [
+        "tsia2_math_exam_01.json"
+      ]
     },
     {
       "id": "essay",
@@ -36,7 +40,9 @@
       "timeLabel": "Recommended practice time: 60 minutes",
       "examQuestions": 1,
       "type": "essay",
-      "examFiles": []
+      "examFiles": [
+        "tsia2_essay_prompt_01.json"
+      ]
     }
   ],
   "printables": []
