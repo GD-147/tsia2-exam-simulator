@@ -1,0 +1,43 @@
+{
+  "examId": "tsia2",
+  "brandName": "TSIA2 Exam Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/tsia2/assets/logo.png?v=1",
+  "accessPassword": "TSIA2READY",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "elar",
+      "label": "TSIA2 ELAR Practice Test",
+      "timeMin": 90,
+      "timeLabel": "Recommended practice time: 90 minutes",
+      "examQuestions": 30,
+      "type": "mcq",
+      "examFiles": []
+    },
+    {
+      "id": "math",
+      "label": "TSIA2 Math Practice Test",
+      "timeMin": 90,
+      "timeLabel": "Recommended practice time: 90 minutes",
+      "examQuestions": 20,
+      "type": "mcq",
+      "examFiles": []
+    },
+    {
+      "id": "essay",
+      "label": "TSIA2 Essay Practice",
+      "timeMin": 60,
+      "timeLabel": "Recommended practice time: 60 minutes",
+      "examQuestions": 1,
+      "type": "essay",
+      "examFiles": []
+    }
+  ],
+  "printables": []
+}
