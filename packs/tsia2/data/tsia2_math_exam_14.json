@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 14",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M14-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student compares two internet plans for online classes. Plan A: $38 per month with no installation fee Plan B: $24 per month plus a one-time $84 installation fee For a 9-month school year, how much less does the cheaper plan cost?",
+      "choices": {
+        "A": "$18",
+        "B": "$24",
+        "C": "$42",
+        "D": "$126"
+      },
+      "correct": "C",
+      "correctAnswerText": "$42",
+      "explanation": "Plan A costs 9 × $38 = $342. Plan B costs $84 + 9 × $24 = $300. The cheaper plan costs $342 − $300 = $42 less.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "The formula P = 2l + 2w gives the perimeter of a rectangle. Which equation correctly solves the formula for w?",
+      "choices": {
+        "A": "w = P − 2l",
+        "B": "w = P/2 − l",
+        "C": "w = (P − l)/2",
+        "D": "w = 2P − l"
+      },
+      "correct": "B",
+      "correctAnswerText": "w = P/2 − l",
+      "explanation": "Starting with P = 2l + 2w, subtract 2l to get P − 2l = 2w. Divide by 2 to get w = P/2 − l.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A patio is made from a 12-foot by 9-foot rectangle attached to a 6-foot by 6-foot square along one side. The two shapes do not overlap. What is the total area of the patio?",
+      "choices": {
+        "A": "90 square feet",
+        "B": "108 square feet",
+        "C": "132 square feet",
+        "D": "144 square feet"
+      },
+      "correct": "D",
+      "correctAnswerText": "144 square feet",
+      "explanation": "The rectangle has area 12 × 9 = 108 square feet. The square has area 6 × 6 = 36 square feet. The total area is 108 + 36 = 144 square feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The table shows the results of a survey of 100 students. Takes evening classes and works part time: 28 Takes evening classes and does not work part time: 12 Does not take evening classes and works part time: 36 Does not take evening classes and does not work part time: 24 If one student who works part time is chosen at random, what is the probability that the student takes evening classes?",
+      "choices": {
+        "A": "7/25",
+        "B": "7/16",
+        "C": "16/25",
+        "D": "7/10"
+      },
+      "correct": "B",
+      "correctAnswerText": "7/16",
+      "explanation": "There are 28 + 36 = 64 students who work part time. Of those, 28 take evening classes. The probability is 28/64 = 7/16.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A recipe for concrete mix uses 2.5 pounds of cement for every 4 pounds of sand. If a worker uses 30 pounds of sand, how many pounds of cement are needed?",
+      "choices": {
+        "A": "12.0 pounds",
+        "B": "18.75 pounds",
+        "C": "27.5 pounds",
+        "D": "48.0 pounds"
+      },
+      "correct": "B",
+      "correctAnswerText": "18.75 pounds",
+      "explanation": "The cement-to-sand ratio is 2.5/4. For 30 pounds of sand, the cement needed is 30 × 2.5/4 = 18.75 pounds.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A taxi company uses the formula C = 3.50 + 2.25m, where C is the total cost in dollars and m is the number of miles. What does 2.25 represent in this formula?",
+      "choices": {
+        "A": "The starting cost before any miles are traveled",
+        "B": "The total cost of a 1-mile trip",
+        "C": "The cost in dollars per mile traveled",
+        "D": "The number of miles included in the starting cost"
+      },
+      "correct": "C",
+      "correctAnswerText": "The cost in dollars per mile traveled",
+      "explanation": "In C = 3.50 + 2.25m, the coefficient of m is the rate of change, so 2.25 is the cost in dollars per mile.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A scale model of a shipping crate has a volume of 40 cubic inches. The actual crate is similar to the model, and each actual length is 4 times the corresponding model length. What is the actual volume of the crate?",
+      "choices": {
+        "A": "160 cubic inches",
+        "B": "640 cubic inches",
+        "C": "1,600 cubic inches",
+        "D": "2,560 cubic inches"
+      },
+      "correct": "D",
+      "correctAnswerText": "2,560 cubic inches",
+      "explanation": "Volume scales by the cube of the length scale factor. Since each length is multiplied by 4, the volume is multiplied by 4³ = 64. The actual volume is 40 × 64 = 2,560 cubic inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "Two departments recorded the numbers of service requests completed by five employees. Department A: 18, 20, 21, 22, 24 Department B: 12, 17, 21, 25, 30 Which statement best compares the two data sets?",
+      "choices": {
+        "A": "Department A has a higher median and a smaller range.",
+        "B": "Department B has a higher median and a smaller range.",
+        "C": "Both departments have the same median, but Department A has a smaller range.",
+        "D": "Both departments have the same median, but Department B has a smaller range."
+      },
+      "correct": "C",
+      "correctAnswerText": "Both departments have the same median, but Department A has a smaller range.",
+      "explanation": "Both medians are 21. Department A’s range is 24 − 18 = 6, while Department B’s range is 30 − 12 = 18.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A tank contains 18 liters of solution that is 40% cleaning concentrate. How many liters of cleaning concentrate are in the solution?",
+      "choices": {
+        "A": "4.5 liters",
+        "B": "7.2 liters",
+        "C": "10.8 liters",
+        "D": "22.5 liters"
+      },
+      "correct": "B",
+      "correctAnswerText": "7.2 liters",
+      "explanation": "The amount of cleaning concentrate is 40% of 18 liters, or 0.40 × 18 = 7.2 liters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A repair service charges according to the linear model shown in the table. Hours: 1, 3, 5, 7 Total cost: $85, $145, $205, $265 Which equation represents the total cost C for h hours?",
+      "choices": {
+        "A": "C = 25h + 60",
+        "B": "C = 30h + 55",
+        "C": "C = 55h + 30",
+        "D": "C = 60h + 25"
+      },
+      "correct": "B",
+      "correctAnswerText": "C = 30h + 55",
+      "explanation": "The cost increases by $60 when hours increase by 2, so the rate is $30 per hour. Using h = 1 and C = 85 gives 85 = 30(1) + 55, so C = 30h + 55.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A line segment has endpoints (−2, 7) and (10, 1). What is the length of the segment?",
+      "choices": {
+        "A": "6√3 units",
+        "B": "6√5 units",
+        "C": "12√2 units",
+        "D": "18 units"
+      },
+      "correct": "B",
+      "correctAnswerText": "6√5 units",
+      "explanation": "The horizontal change is 10 − (−2) = 12, and the vertical change is 1 − 7 = −6. The distance is √(12² + (−6)²) = √180 = 6√5 units.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A student’s course grade is based on 60% exams and 40% assignments. The student has an exam average of 78. What assignment average is needed to have an overall course grade of 82?",
+      "choices": {
+        "A": "84",
+        "B": "86",
+        "C": "88",
+        "D": "90"
+      },
+      "correct": "C",
+      "correctAnswerText": "88",
+      "explanation": "Let a be the assignment average. Then 0.60(78) + 0.40a = 82. This gives 46.8 + 0.40a = 82, so 0.40a = 35.2 and a = 88.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A machine fills 360 bottles in 24 minutes. A second machine fills bottles at 80% of that rate. How many bottles does the second machine fill in 10 minutes?",
+      "choices": {
+        "A": "90 bottles",
+        "B": "120 bottles",
+        "C": "144 bottles",
+        "D": "180 bottles"
+      },
+      "correct": "B",
+      "correctAnswerText": "120 bottles",
+      "explanation": "The first machine fills 360 ÷ 24 = 15 bottles per minute. The second machine works at 80% of that rate, or 12 bottles per minute. In 10 minutes, it fills 120 bottles.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A company offers two payment options for a training course. Option A: $320 up front Option B: $95 registration fee plus $45 per week After how many weeks will the two options cost the same?",
+      "choices": {
+        "A": "3 weeks",
+        "B": "4 weeks",
+        "C": "5 weeks",
+        "D": "6 weeks"
+      },
+      "correct": "C",
+      "correctAnswerText": "5 weeks",
+      "explanation": "Set the costs equal: 320 = 95 + 45w. Then 225 = 45w, so w = 5.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "Two parallel lines are cut by a transversal. One angle is labeled (3x + 8)° and its corresponding angle is labeled (5x − 22)°. What is the measure of each of these corresponding angles?",
+      "choices": {
+        "A": "15°",
+        "B": "53°",
+        "C": "68°",
+        "D": "75°"
+      },
+      "correct": "B",
+      "correctAnswerText": "53°",
+      "explanation": "Corresponding angles are congruent, so 3x + 8 = 5x − 22. Then 30 = 2x, so x = 15. Each angle is 3(15) + 8 = 53°.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A clinic tracks missed appointments over four months. January: 18 missed appointments February: 15 missed appointments March: 12 missed appointments April: 9 missed appointments Which conclusion is supported by the data?",
+      "choices": {
+        "A": "Missed appointments increased by 3 each month.",
+        "B": "Missed appointments decreased by 3 each month.",
+        "C": "The number of missed appointments stayed constant.",
+        "D": "The total number of missed appointments was 45."
+      },
+      "correct": "B",
+      "correctAnswerText": "Missed appointments decreased by 3 each month.",
+      "explanation": "The values go from 18 to 15 to 12 to 9, decreasing by 3 each month.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A rectangular room has a length of 15.8 feet and a width of 11.9 feet. Which is the best estimate of the room’s area?",
+      "choices": {
+        "A": "160 square feet",
+        "B": "180 square feet",
+        "C": "200 square feet",
+        "D": "240 square feet"
+      },
+      "correct": "B",
+      "correctAnswerText": "180 square feet",
+      "explanation": "Estimate 15.8 as 16 and 11.9 as 12. Then 16 × 12 = 192, which is closest to 180 among the choices.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A ball is launched from the ground, and its height in feet after t seconds is modeled by h(t) = −16t² + 48t. For which positive value of t does the ball return to the ground?",
+      "choices": {
+        "A": "1 second",
+        "B": "2 seconds",
+        "C": "3 seconds",
+        "D": "4 seconds"
+      },
+      "correct": "C",
+      "correctAnswerText": "3 seconds",
+      "explanation": "Set h(t) = 0: −16t² + 48t = 0. Factor to get −16t(t − 3) = 0. The positive solution is t = 3.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "Two similar rectangular signs have corresponding side lengths in a ratio of 3:7. The smaller sign has a perimeter of 48 inches. What is the perimeter of the larger sign?",
+      "choices": {
+        "A": "84 inches",
+        "B": "96 inches",
+        "C": "112 inches",
+        "D": "336 inches"
+      },
+      "correct": "C",
+      "correctAnswerText": "112 inches",
+      "explanation": "Perimeter scales by the same factor as side length. The scale factor from smaller to larger is 7/3. The larger perimeter is 48 × 7/3 = 112 inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M14-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A data set contains the values 8, 10, 11, 13, and 14. If the value 44 is added to the data set, which statement is true?",
+      "choices": {
+        "A": "The mean increases more than the median increases.",
+        "B": "The median increases more than the mean increases.",
+        "C": "The mean decreases, and the median increases.",
+        "D": "The mean stays the same, and the range decreases."
+      },
+      "correct": "A",
+      "correctAnswerText": "The mean increases more than the median increases.",
+      "explanation": "The original mean is 56 ÷ 5 = 11.2, and the new mean is 100 ÷ 6 ≈ 16.7, an increase of about 5.5. The original median is 11, and the new median is (11 + 13)/2 = 12, an increase of 1.",
+      "credits": 1
+    }
+  ]
+}

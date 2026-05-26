@@ -1,0 +1,19 @@
+{
+  "title": "TSIA2 Essay Practice Prompt 14",
+  "section": "essay",
+  "questions": [
+    {
+      "id": "TSIA2-ES14-001",
+      "section": "Essay",
+      "type": "essay",
+      "itemType": "essay",
+      "focus": "",
+      "category": "",
+      "prompt": "Some people believe that students should be taught how to ask for help effectively, including how to identify a problem, choose the right person or office, and explain what support they need. They argue that knowing how to seek help is important for college, work, and adult responsibilities. Others believe that students learn these skills naturally when problems arise and that formal instruction is unnecessary. Assignment: Write an essay of 300–600 words in which you develop your point of view on the issue presented in the passage. Support your position with reasoning and examples from your reading, studies, experience, or observations.",
+      "modelAnswer": "A strong response should state a clear position on formal instruction in asking for help effectively, support that position with specific reasons and examples, address self-advocacy and experience when appropriate, and demonstrate organized, controlled writing.",
+      "scoringGuidance": "A strong response should state a clear position on formal instruction in asking for help effectively, support that position with specific reasons and examples, address self-advocacy and experience when appropriate, and demonstrate organized, controlled writing.",
+      "rubric": "Scores range from 8 for a focused, well-developed, logically organized essay with strong language control to 0 for a blank, off-topic, too short, incoherent, or non-English response.",
+      "credits": 1
+    }
+  ]
+}

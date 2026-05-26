@@ -1,0 +1,386 @@
+{
+  "title": "TSIA2 Math Practice Test 15",
+  "section": "math",
+  "questions": [
+    {
+      "id": "TSIA2-M15-001",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A student compares two ways to get a textbook for one semester. Option A: Buy the textbook for $96 and sell it back for $42 at the end of the semester. Option B: Rent the textbook for $17 per month for 4 months and pay a $5 processing fee. How much less does the cheaper option cost?",
+      "choices": {
+        "A": "$9",
+        "B": "$15",
+        "C": "$19",
+        "D": "$23"
+      },
+      "correct": "C",
+      "correctAnswerText": "$19",
+      "explanation": "Option A costs $96 − $42 = $54. Option B costs 4($17) + $5 = $73. The cheaper option is $73 − $54 = $19 less.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-002",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "The formula D = rt + s gives the total distance D traveled after starting s miles from a checkpoint and traveling at rate r for t hours. Which equation correctly solves the formula for r?",
+      "choices": {
+        "A": "r = D − s/t",
+        "B": "r = (D − s)/t",
+        "C": "r = D/(t + s)",
+        "D": "r = t(D − s)"
+      },
+      "correct": "B",
+      "correctAnswerText": "r = (D − s)/t",
+      "explanation": "Starting with D = rt + s, subtract s from both sides to get D − s = rt. Divide by t to get r = (D − s)/t.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-003",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A community garden has the shape of a large rectangle that is 18 feet by 12 feet. A square seating area with side length 5 feet is removed from one corner. What is the remaining planting area?",
+      "choices": {
+        "A": "143 square feet",
+        "B": "181 square feet",
+        "C": "191 square feet",
+        "D": "241 square feet"
+      },
+      "correct": "C",
+      "correctAnswerText": "191 square feet",
+      "explanation": "The large rectangle has area 18 × 12 = 216 square feet. The removed square has area 5 × 5 = 25 square feet. The remaining area is 216 − 25 = 191 square feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-004",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "The table shows the results of a survey of 120 students. Uses campus gym and lives on campus: 32 Uses campus gym and lives off campus: 28 Does not use campus gym and lives on campus: 24 Does not use campus gym and lives off campus: 36 If one student who lives on campus is selected at random, what is the probability that the student uses the campus gym?",
+      "choices": {
+        "A": "4/15",
+        "B": "8/15",
+        "C": "4/7",
+        "D": "1/2"
+      },
+      "correct": "C",
+      "correctAnswerText": "4/7",
+      "explanation": "There are 32 + 24 = 56 students who live on campus. Of those, 32 use the gym. The probability is 32/56 = 4/7.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-005",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A medical assistant prepares a solution using 1.8 milliliters of concentrate for every 12 milliliters of water. At the same rate, how many milliliters of concentrate are needed for 50 milliliters of water?",
+      "choices": {
+        "A": "6.5 milliliters",
+        "B": "7.0 milliliters",
+        "C": "7.5 milliliters",
+        "D": "8.0 milliliters"
+      },
+      "correct": "C",
+      "correctAnswerText": "7.5 milliliters",
+      "explanation": "The concentrate-to-water ratio is 1.8/12 = 0.15. For 50 milliliters of water, the concentrate needed is 50 × 0.15 = 7.5 milliliters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-006",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A linear function is shown in the table. x: 3, 6, 9, 12 y: 11, 17, 23, 29 Which equation represents the relationship between x and y?",
+      "choices": {
+        "A": "y = 2x + 5",
+        "B": "y = 3x + 2",
+        "C": "y = 6x − 7",
+        "D": "y = x + 8"
+      },
+      "correct": "A",
+      "correctAnswerText": "y = 2x + 5",
+      "explanation": "When x increases by 3, y increases by 6, so the slope is 2. Using x = 3 and y = 11 gives 11 = 2(3) + 5.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-007",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A right rectangular pyramid has a square base with side length 10 inches. A cross-section parallel to the base is similar to the base and has side length 4 inches. What is the area of the cross-section?",
+      "choices": {
+        "A": "8 square inches",
+        "B": "16 square inches",
+        "C": "40 square inches",
+        "D": "100 square inches"
+      },
+      "correct": "B",
+      "correctAnswerText": "16 square inches",
+      "explanation": "The cross-section is a square with side length 4 inches, so its area is 4² = 16 square inches.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-008",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "Two stores recorded the number of customers entering during five one-hour periods. Store A: 42, 44, 45, 46, 48 Store B: 30, 38, 45, 52, 60 Which statement best compares the two data sets?",
+      "choices": {
+        "A": "Store A and Store B have the same median, but Store A has a smaller range.",
+        "B": "Store A and Store B have the same median, but Store B has a smaller range.",
+        "C": "Store A has a greater median and a greater range than Store B.",
+        "D": "Store B has a greater median and a smaller range than Store A."
+      },
+      "correct": "A",
+      "correctAnswerText": "Store A and Store B have the same median, but Store A has a smaller range.",
+      "explanation": "Both medians are 45. Store A’s range is 48 − 42 = 6, and Store B’s range is 60 − 30 = 30.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-009",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A school orders 48 tablets. Each tablet costs $215. The school receives a discount of $30 per tablet. What is the total cost after the discount?",
+      "choices": {
+        "A": "$8,880",
+        "B": "$9,360",
+        "C": "$10,320",
+        "D": "$11,760"
+      },
+      "correct": "A",
+      "correctAnswerText": "$8,880",
+      "explanation": "The discounted price per tablet is $215 − $30 = $185. For 48 tablets, the total cost is 48 × $185 = $8,880.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-010",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "Two landscaping companies charge for the same type of yard work. Company A: $120 equipment fee plus $35 per hour Company B: $60 equipment fee plus $50 per hour For how many hours will the total charge be the same for both companies?",
+      "choices": {
+        "A": "3 hours",
+        "B": "4 hours",
+        "C": "5 hours",
+        "D": "6 hours"
+      },
+      "correct": "B",
+      "correctAnswerText": "4 hours",
+      "explanation": "Set the costs equal: 120 + 35h = 60 + 50h. Then 60 = 15h, so h = 4.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-011",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "A line segment has endpoints (−5, −1) and (7, 4). Which value is closest to the length of the segment?",
+      "choices": {
+        "A": "11 units",
+        "B": "12 units",
+        "C": "13 units",
+        "D": "17 units"
+      },
+      "correct": "C",
+      "correctAnswerText": "13 units",
+      "explanation": "The horizontal change is 7 − (−5) = 12, and the vertical change is 4 − (−1) = 5. The distance is √(12² + 5²) = √169 = 13 units.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-012",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A final grade is calculated using 25% homework, 35% quizzes, and 40% exams. A student’s averages are 92 for homework, 84 for quizzes, and 78 for exams. What is the student’s final grade?",
+      "choices": {
+        "A": "81.6",
+        "B": "83.6",
+        "C": "84.8",
+        "D": "86.4"
+      },
+      "correct": "B",
+      "correctAnswerText": "83.6",
+      "explanation": "The weighted grade is 0.25(92) + 0.35(84) + 0.40(78) = 23 + 29.4 + 31.2 = 83.6.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-013",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A community college reports that 420 students attended a career fair. This was 28% of the students invited. How many students were invited?",
+      "choices": {
+        "A": "1,176",
+        "B": "1,260",
+        "C": "1,500",
+        "D": "1,680"
+      },
+      "correct": "C",
+      "correctAnswerText": "1,500",
+      "explanation": "If 420 is 28% of the invited students, then the number invited is 420 ÷ 0.28 = 1,500.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-014",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "A population of cells is modeled by P(t) = 600(1.15)ᵗ, where t is the number of hours. What does the factor 1.15 mean in this model?",
+      "choices": {
+        "A": "The population increases by 15% each hour.",
+        "B": "The population increases by 115 cells each hour.",
+        "C": "The population starts with 1.15 cells.",
+        "D": "The population decreases by 15% each hour."
+      },
+      "correct": "A",
+      "correctAnswerText": "The population increases by 15% each hour.",
+      "explanation": "Multiplying by 1.15 means the population keeps 100% of its previous size and gains 15% each hour.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-015",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "Two similar triangles have corresponding side lengths in a ratio of 4:9. The area of the smaller triangle is 48 square centimeters. What is the area of the larger triangle?",
+      "choices": {
+        "A": "108 square centimeters",
+        "B": "192 square centimeters",
+        "C": "243 square centimeters",
+        "D": "972 square centimeters"
+      },
+      "correct": "C",
+      "correctAnswerText": "243 square centimeters",
+      "explanation": "The length scale factor from the smaller triangle to the larger triangle is 9/4. Area scales by (9/4)² = 81/16. The larger area is 48 × 81/16 = 243 square centimeters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-016",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A workshop organizer tracks registrations over four days. Day 1: 36 registrations Day 2: 44 registrations Day 3: 53 registrations Day 4: 63 registrations Which conclusion is best supported by the data?",
+      "choices": {
+        "A": "Registrations increased by the same number each day.",
+        "B": "Registrations increased each day, but not by a constant amount.",
+        "C": "Registrations decreased after Day 2.",
+        "D": "The total number of registrations was less than 180."
+      },
+      "correct": "B",
+      "correctAnswerText": "Registrations increased each day, but not by a constant amount.",
+      "explanation": "Registrations increased by 8, then 9, then 10. The values increase each day, but the amount of increase is not constant.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-017",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Quantitative Reasoning",
+      "prompt": "A rectangular field measures 49.6 meters by 20.2 meters. Which is the best estimate of the field’s area?",
+      "choices": {
+        "A": "800 square meters",
+        "B": "900 square meters",
+        "C": "1,000 square meters",
+        "D": "1,200 square meters"
+      },
+      "correct": "C",
+      "correctAnswerText": "1,000 square meters",
+      "explanation": "Estimate 49.6 as 50 and 20.2 as 20. Then 50 × 20 = 1,000 square meters.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-018",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Algebraic Reasoning",
+      "prompt": "The height, in feet, of a thrown object is modeled by h(t) = −16t² + 32t + 6. What is the height of the object after 2 seconds?",
+      "choices": {
+        "A": "6 feet",
+        "B": "10 feet",
+        "C": "22 feet",
+        "D": "38 feet"
+      },
+      "correct": "A",
+      "correctAnswerText": "6 feet",
+      "explanation": "Substitute t = 2: h(2) = −16(2²) + 32(2) + 6 = −64 + 64 + 6 = 6 feet.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-019",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Geometric and Spatial Reasoning",
+      "prompt": "Two parallel lines are cut by a transversal. One angle measures 74°. An angle on the same side of the transversal and inside the parallel lines is paired with it. What is the measure of that angle?",
+      "choices": {
+        "A": "16°",
+        "B": "74°",
+        "C": "106°",
+        "D": "148°"
+      },
+      "correct": "C",
+      "correctAnswerText": "106°",
+      "explanation": "Same-side interior angles formed by parallel lines are supplementary, so the paired angle is 180° − 74° = 106°.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-M15-020",
+      "section": "Math",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "",
+      "category": "Probabilistic and Statistical Reasoning",
+      "prompt": "A data set contains the values 22, 24, 25, 27, 28, and 30. If the value 72 is added to the data set, which statement is true?",
+      "choices": {
+        "A": "The median decreases, and the mean increases.",
+        "B": "The mean increases, and the range increases.",
+        "C": "The mean stays the same, and the range increases.",
+        "D": "The median increases more than the range increases."
+      },
+      "correct": "B",
+      "correctAnswerText": "The mean increases, and the range increases.",
+      "explanation": "Adding 72 increases the total, so the mean increases. It also changes the maximum from 30 to 72, so the range increases.",
+      "credits": 1
+    }
+  ]
+}

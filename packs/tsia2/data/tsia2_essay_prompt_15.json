@@ -1,0 +1,19 @@
+{
+  "title": "TSIA2 Essay Practice Prompt 15",
+  "section": "essay",
+  "questions": [
+    {
+      "id": "TSIA2-ES15-001",
+      "section": "Essay",
+      "type": "essay",
+      "itemType": "essay",
+      "focus": "",
+      "category": "",
+      "prompt": "Some people believe that students should be taught how to evaluate their own work before submitting it, including how to check whether they answered the question, supported their ideas, followed directions, and corrected avoidable errors. They argue that self-review helps students become more independent learners. Others believe that feedback from teachers, tutors, or classmates is more useful than self-review and that students learn best when another person points out what needs improvement. Assignment: Write an essay of 300–600 words in which you develop your point of view on the issue presented in the passage. Support your position with reasoning and examples from your reading, studies, experience, or observations.",
+      "modelAnswer": "A strong response should state a clear position on teaching students to evaluate their own work, support that position with specific reasons and examples, address self-review and outside feedback when appropriate, and demonstrate organized, controlled writing.",
+      "scoringGuidance": "A strong response should state a clear position on teaching students to evaluate their own work, support that position with specific reasons and examples, address self-review and outside feedback when appropriate, and demonstrate organized, controlled writing.",
+      "rubric": "Scores range from 8 for a focused, well-developed, logically organized essay with strong language control to 0 for a blank, off-topic, too short, incoherent, or non-English response.",
+      "credits": 1
+    }
+  ]
+}

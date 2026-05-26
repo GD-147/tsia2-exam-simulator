@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 15",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E15-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Students in a public policy course at Willow Creek College studied how residents reported sidewalk problems to the city. At first, the class assumed that the main issue would be slow repair work. However, interviews with residents and city staff revealed a different problem: many reports did not include enough information for crews to locate the damage. A message such as “broken sidewalk on Maple Avenue” might refer to any of several blocks. Other reports included photos but no address, or an address but no description of the hazard. The students reviewed examples of successful reports and created a simple guide explaining how to include the nearest address, a brief description, a photo when possible, and a note about whether the damage blocked wheelchairs, strollers, or walkers. City staff said the guide would not guarantee faster repairs, since funding and scheduling still mattered. Still, clearer reports could help crews prioritize work and avoid losing time searching for the correct location. The project helped students understand that civic participation often depends not only on speaking up but also on providing information that others can act on. Which statement best describes the main purpose of the students’ project?",
+      "choices": {
+        "A": "To help residents make sidewalk reports that city crews can understand and act on",
+        "B": "To prove that sidewalk repairs should never require city funding",
+        "C": "To show that residents should stop reporting sidewalk hazards",
+        "D": "To argue that public policy courses should focus only on road construction"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help residents make sidewalk reports that city crews can understand and act on",
+      "explanation": "The passage explains that the students created a guide so residents could submit more specific reports that help city crews locate and prioritize sidewalk problems.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Students in a public policy course at Willow Creek College studied how residents reported sidewalk problems to the city. At first, the class assumed that the main issue would be slow repair work. However, interviews with residents and city staff revealed a different problem: many reports did not include enough information for crews to locate the damage. A message such as “broken sidewalk on Maple Avenue” might refer to any of several blocks. Other reports included photos but no address, or an address but no description of the hazard. The students reviewed examples of successful reports and created a simple guide explaining how to include the nearest address, a brief description, a photo when possible, and a note about whether the damage blocked wheelchairs, strollers, or walkers. City staff said the guide would not guarantee faster repairs, since funding and scheduling still mattered. Still, clearer reports could help crews prioritize work and avoid losing time searching for the correct location. The project helped students understand that civic participation often depends not only on speaking up but also on providing information that others can act on. What can reasonably be inferred from the passage?",
+      "choices": {
+        "A": "A report can be well intentioned but still difficult to use if it lacks specific details.",
+        "B": "City crews refuse to repair sidewalks when residents submit photographs.",
+        "C": "Residents should report sidewalk problems only if they work for the city.",
+        "D": "Funding and scheduling have no effect on repair work."
+      },
+      "correct": "A",
+      "correctAnswerText": "A report can be well intentioned but still difficult to use if it lacks specific details.",
+      "explanation": "The passage shows that reports may identify a real problem but fail to include enough information for crews to find or address it efficiently.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Students in a public policy course at Willow Creek College studied how residents reported sidewalk problems to the city. At first, the class assumed that the main issue would be slow repair work. However, interviews with residents and city staff revealed a different problem: many reports did not include enough information for crews to locate the damage. A message such as “broken sidewalk on Maple Avenue” might refer to any of several blocks. Other reports included photos but no address, or an address but no description of the hazard. The students reviewed examples of successful reports and created a simple guide explaining how to include the nearest address, a brief description, a photo when possible, and a note about whether the damage blocked wheelchairs, strollers, or walkers. City staff said the guide would not guarantee faster repairs, since funding and scheduling still mattered. Still, clearer reports could help crews prioritize work and avoid losing time searching for the correct location. The project helped students understand that civic participation often depends not only on speaking up but also on providing information that others can act on. In the passage, the phrase “information that others can act on” most nearly means information that is",
+      "choices": {
+        "A": "specific enough to guide a practical response",
+        "B": "difficult for residents to understand",
+        "C": "unrelated to the original problem",
+        "D": "written only for classroom discussion"
+      },
+      "correct": "A",
+      "correctAnswerText": "specific enough to guide a practical response",
+      "explanation": "In context, “information that others can act on” means details that help city staff locate the problem and decide what to do.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Students in a public policy course at Willow Creek College studied how residents reported sidewalk problems to the city. At first, the class assumed that the main issue would be slow repair work. However, interviews with residents and city staff revealed a different problem: many reports did not include enough information for crews to locate the damage. A message such as “broken sidewalk on Maple Avenue” might refer to any of several blocks. Other reports included photos but no address, or an address but no description of the hazard. The students reviewed examples of successful reports and created a simple guide explaining how to include the nearest address, a brief description, a photo when possible, and a note about whether the damage blocked wheelchairs, strollers, or walkers. City staff said the guide would not guarantee faster repairs, since funding and scheduling still mattered. Still, clearer reports could help crews prioritize work and avoid losing time searching for the correct location. The project helped students understand that civic participation often depends not only on speaking up but also on providing information that others can act on. Which sentence best states the central idea of the passage?",
+      "choices": {
+        "A": "Effective civic reporting requires clear, specific information as well as concern about a problem.",
+        "B": "Sidewalk damage can be repaired only when residents submit long written complaints.",
+        "C": "Public policy students should avoid interviewing city staff during research projects.",
+        "D": "City sidewalk crews work best when reports include no photographs or descriptions."
+      },
+      "correct": "A",
+      "correctAnswerText": "Effective civic reporting requires clear, specific information as well as concern about a problem.",
+      "explanation": "This sentence captures the passage’s main idea that civic participation is more effective when reports include useful, actionable details.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A hospital began giving discharged patients a one-page “first week at home” sheet. The sheet does not repeat the entire medical record. Instead, it lists the next appointment, medication changes, warning signs that require a call, and one phone number for questions. Nurses say the sheet helps patients focus on the most immediate steps after leaving the hospital. What is the main purpose of the “first week at home” sheet?",
+      "choices": {
+        "A": "To highlight the most important next steps for patients after discharge",
+        "B": "To replace all follow-up appointments with written instructions",
+        "C": "To provide patients with every detail from their medical record",
+        "D": "To prevent patients from contacting the hospital after leaving"
+      },
+      "correct": "A",
+      "correctAnswerText": "To highlight the most important next steps for patients after discharge",
+      "explanation": "The sheet focuses on immediate actions such as appointments, medication changes, warning signs, and a contact number.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Miles began learning video editing, he tried to add dramatic transitions between every scene. His instructor asked him to remove the effects and watch the story again. Without the spinning frames and flashes, Miles noticed where the sequence itself was confusing. He learned that editing was not about adding decoration to weak organization; it was about choosing the order that helped viewers understand the story. What can reasonably be inferred about Miles?",
+      "choices": {
+        "A": "He learns that clear structure matters more than visual effects.",
+        "B": "He decides that video editing should never include transitions.",
+        "C": "He believes viewers understand stories better when every scene flashes.",
+        "D": "He stops editing videos because the effects are difficult to use."
+      },
+      "correct": "A",
+      "correctAnswerText": "He learns that clear structure matters more than visual effects.",
+      "explanation": "Miles realizes that effects cannot fix a confusing sequence and that organization is central to editing.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A community garden board is considering whether to add shared compost bins. Supporters say composting would reduce waste and provide nutrient-rich material for garden plots. Some gardeners worry that poorly managed bins could attract pests or create odors. The board is reviewing covered containers, clear rules about what can be added, and a rotating maintenance schedule. Which statement best describes the board’s approach?",
+      "choices": {
+        "A": "It is considering the benefits of composting while planning ways to manage possible problems.",
+        "B": "It has decided that composting is too dangerous to discuss.",
+        "C": "It wants gardeners to place all waste directly into planting beds.",
+        "D": "It believes compost bins require no rules or maintenance."
+      },
+      "correct": "A",
+      "correctAnswerText": "It is considering the benefits of composting while planning ways to manage possible problems.",
+      "explanation": "The board is weighing waste reduction and soil benefits against concerns about pests and odors.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. In an art history class, the instructor compares a frame around a painting to the opening sentence of an essay. A frame does not create the painting, but it directs attention and shapes how the viewer first approaches the image. Similarly, an opening sentence should prepare readers for the direction of the paragraph or essay that follows. What is the main purpose of the frame comparison?",
+      "choices": {
+        "A": "To explain how an opening sentence can guide a reader’s expectations",
+        "B": "To show that essays should always describe paintings",
+        "C": "To prove that frames are more important than the artwork they surround",
+        "D": "To argue that opening sentences should be decorative rather than useful"
+      },
+      "correct": "A",
+      "correctAnswerText": "To explain how an opening sentence can guide a reader’s expectations",
+      "explanation": "The comparison shows that an opening sentence, like a frame, shapes how readers approach what follows.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Colleges should provide more short videos explaining common administrative tasks, such as registering for classes, checking financial aid status, and requesting transcripts. Videos allow students to pause, rewind, and follow the steps at their own pace. Passage 2: Short videos can be useful, but they should not be the only form of guidance. Some students prefer written checklists, and others may need help with unusual situations that a general video does not address. Colleges should offer videos as part of a larger support system. How does Passage 2 respond to Passage 1?",
+      "choices": {
+        "A": "Passage 2 agrees that videos can help but argues that students also need other forms of support.",
+        "B": "Passage 2 claims that students should complete administrative tasks without instructions.",
+        "C": "Passage 2 argues that written checklists should be banned from college offices.",
+        "D": "Passage 2 says that videos are useful only when they are longer than full lectures."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 agrees that videos can help but argues that students also need other forms of support.",
+      "explanation": "Passage 2 accepts the usefulness of videos but argues that written checklists and personal help are also needed.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article about community bulletin emails argues that their usefulness depends on careful editing. If every announcement is included, readers may stop opening the email because it feels cluttered. If the editor groups items by category, removes outdated notices, and uses clear subject lines, the message becomes easier to scan. The author’s point is that communication can fail not because information is missing, but because too much unorganized information competes for attention. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "Community emails are most useful when information is organized and selected carefully.",
+        "B": "Community emails should include every announcement no matter how old it is.",
+        "C": "Readers prefer messages that contain no headings or subject lines.",
+        "D": "Communication fails only when there is not enough information."
+      },
+      "correct": "A",
+      "correctAnswerText": "Community emails are most useful when information is organized and selected carefully.",
+      "explanation": "The passage argues that too much unorganized information can reduce the usefulness of a community email.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The short story describes a barber sweeping the floor after closing time. Gray curls, black clippings, and a few copper-colored strands gather near the chair. The narrator says the floor “held the evidence of ordinary transformations.” The image suggests that the shop’s daily work, though routine, is connected to small changes in how people present themselves to the world. What effect does the quoted image most likely create?",
+      "choices": {
+        "A": "It gives the routine cleanup a sense of quiet significance.",
+        "B": "It shows that the barber dislikes cleaning the shop.",
+        "C": "It suggests that customers never notice changes in their appearance.",
+        "D": "It proves that the shop has not been cleaned in several days."
+      },
+      "correct": "A",
+      "correctAnswerText": "It gives the routine cleanup a sense of quiet significance.",
+      "explanation": "The phrase connects the hair on the floor with ordinary but meaningful changes in customers’ appearances.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A workplace writing trainer tells employees that a useful progress update should answer three questions: what has been completed, what remains to be done, and what help or decision is needed. An update that says only “working on it” may be polite, but it does not help a manager plan around delays or provide support. Which sentence best states the trainer’s point?",
+      "choices": {
+        "A": "A progress update should provide specific information that helps others make decisions.",
+        "B": "A progress update should avoid mentioning unfinished work.",
+        "C": "Employees should send updates only after a project is complete.",
+        "D": "Managers prefer updates that contain as few details as possible."
+      },
+      "correct": "A",
+      "correctAnswerText": "A progress update should provide specific information that helps others make decisions.",
+      "explanation": "The trainer explains that useful updates describe completed work, remaining tasks, and needed help or decisions.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The instructions for a campus equipment room ask students to return borrowed cameras with memory cards removed and batteries charging. The rule helps the next borrower start on time and prevents personal files from being left behind. Staff members also check the equipment after each return, but students are expected to complete these basic steps first. Why do the instructions ask students to remove memory cards and charge batteries?",
+      "choices": {
+        "A": "To protect personal files and prepare the equipment for the next borrower",
+        "B": "To prevent staff members from checking returned equipment",
+        "C": "To make cameras unavailable for future projects",
+        "D": "To require students to purchase new batteries for every checkout"
+      },
+      "correct": "A",
+      "correctAnswerText": "To protect personal files and prepare the equipment for the next borrower",
+      "explanation": "Removing memory cards protects files, and charging batteries helps the next student use the equipment on time.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article on online fitness challenges warns that a popular plan may not fit every participant. A thirty-day challenge might motivate some people, but it may be too intense for beginners or unsuitable for people recovering from injury. The author recommends evaluating the plan’s difficulty, rest days, and safety guidance before joining rather than following it simply because it is widely shared. What is the author’s purpose?",
+      "choices": {
+        "A": "To encourage readers to judge whether a fitness challenge is appropriate for their needs",
+        "B": "To prove that all online fitness challenges are harmful",
+        "C": "To argue that beginners should never exercise",
+        "D": "To explain why popular plans are always designed by medical professionals"
+      },
+      "correct": "A",
+      "correctAnswerText": "To encourage readers to judge whether a fitness challenge is appropriate for their needs",
+      "explanation": "The author warns that a popular plan may not fit beginners or injured participants and recommends evaluating difficulty and safety.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Jordan began working at a print-and-copy center, he assumed that helping customers meant printing exactly what they sent. One customer submitted a flyer with text too close to the edge, and Jordan almost printed the full order. A coworker showed him how the words would be cut off after trimming. Jordan learned to check whether a file would produce the result the customer expected, not just whether the file could be printed. What lesson does Jordan learn?",
+      "choices": {
+        "A": "Good service includes checking whether the final product will meet the customer’s purpose.",
+        "B": "Print centers should never accept flyers from customers.",
+        "C": "A file that can be printed will always produce a useful result.",
+        "D": "Customers should trim their own flyers before printing."
+      },
+      "correct": "A",
+      "correctAnswerText": "Good service includes checking whether the final product will meet the customer’s purpose.",
+      "explanation": "Jordan learns that a printable file may still produce an unusable final product if important text is cut off.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should offer a workshop on writing effective internship reflection reports. (2) Many students can describe what they did during an internship, but they struggle to explain what they learned from those tasks. (3) A strong reflection connects specific workplace experiences to skills, questions, or goals. (4) In the workshop, students would practice moving from simple description to analysis. (5) For example, instead of writing, “I attended staff meetings,” a student might explain how observing meetings helped them understand professional communication and decision-making. (6) Students would also learn how to discuss challenges without blaming coworkers or presenting every difficulty as a failure. (7) Internship reflection reports are often read by instructors, advisors, or program coordinators. (8) A reflection-writing workshop would help students turn workplace experience into meaningful academic learning. Which sentence would provide the best introduction before sentence 1?",
+      "choices": {
+        "A": "Reflecting on an internship requires students to explain the meaning of their experience, not merely list tasks.",
+        "B": "Some internships take place during the summer, while others occur during the academic year.",
+        "C": "Many offices use desks, computers, phones, and meeting rooms.",
+        "D": "Students may travel by bus, car, bicycle, or train to reach an internship site."
+      },
+      "correct": "A",
+      "correctAnswerText": "Reflecting on an internship requires students to explain the meaning of their experience, not merely list tasks.",
+      "explanation": "This sentence introduces the main focus of the passage: moving from description to meaningful reflection.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should offer a workshop on writing effective internship reflection reports. (2) Many students can describe what they did during an internship, but they struggle to explain what they learned from those tasks. (3) A strong reflection connects specific workplace experiences to skills, questions, or goals. (4) In the workshop, students would practice moving from simple description to analysis. (5) For example, instead of writing, “I attended staff meetings,” a student might explain how observing meetings helped them understand professional communication and decision-making. (6) Students would also learn how to discuss challenges without blaming coworkers or presenting every difficulty as a failure. (7) Internship reflection reports are often read by instructors, advisors, or program coordinators. (8) A reflection-writing workshop would help students turn workplace experience into meaningful academic learning. Which sentence from the passage gives the clearest example of moving from description to analysis?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 3",
+        "C": "Sentence 5",
+        "D": "Sentence 7"
+      },
+      "correct": "C",
+      "correctAnswerText": "Sentence 5",
+      "explanation": "Sentence 5 gives a specific example of changing a simple description into an explanation of learning.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should offer a workshop on writing effective internship reflection reports. (2) Many students can describe what they did during an internship, but they struggle to explain what they learned from those tasks. (3) A strong reflection connects specific workplace experiences to skills, questions, or goals. (4) In the workshop, students would practice moving from simple description to analysis. (5) For example, instead of writing, “I attended staff meetings,” a student might explain how observing meetings helped them understand professional communication and decision-making. (6) Students would also learn how to discuss challenges without blaming coworkers or presenting every difficulty as a failure. (7) Internship reflection reports are often read by instructors, advisors, or program coordinators. (8) A reflection-writing workshop would help students turn workplace experience into meaningful academic learning. Where would the following sentence fit best in the passage? This practice would help students show growth rather than simply prove that they completed the required hours.",
+      "choices": {
+        "A": "After sentence 1",
+        "B": "After sentence 4",
+        "C": "After sentence 7",
+        "D": "After sentence 8"
+      },
+      "correct": "B",
+      "correctAnswerText": "After sentence 4",
+      "explanation": "The added sentence explains the purpose of moving from description to analysis.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should offer a workshop on writing effective internship reflection reports. (2) Many students can describe what they did during an internship, but they struggle to explain what they learned from those tasks. (3) A strong reflection connects specific workplace experiences to skills, questions, or goals. (4) In the workshop, students would practice moving from simple description to analysis. (5) For example, instead of writing, “I attended staff meetings,” a student might explain how observing meetings helped them understand professional communication and decision-making. (6) Students would also learn how to discuss challenges without blaming coworkers or presenting every difficulty as a failure. (7) Internship reflection reports are often read by instructors, advisors, or program coordinators. (8) A reflection-writing workshop would help students turn workplace experience into meaningful academic learning. Which revision of sentence 8 best improves precision while preserving the meaning?",
+      "choices": {
+        "A": "A reflection-writing workshop would help students interpret internship experiences as evidence of learning and growth.",
+        "B": "A reflection-writing workshop would help students write stuff about internships better.",
+        "C": "A workshop for reflections would be good because students could explain things in a nice way.",
+        "D": "Students would use the workshop to make internship reports happen with more meaning and better learning."
+      },
+      "correct": "A",
+      "correctAnswerText": "A reflection-writing workshop would help students interpret internship experiences as evidence of learning and growth.",
+      "explanation": "This revision is more precise and preserves the idea that students should connect experience to academic learning.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence with the clearest pronoun reference.",
+      "choices": {
+        "A": "When Danielle texted Morgan about the meeting, she said the room had changed.",
+        "B": "When Danielle texted Morgan about the meeting, Morgan said the room had changed.",
+        "C": "When she texted Morgan about the meeting, the room had changed.",
+        "D": "When Danielle texted her about the meeting, she said it had changed."
+      },
+      "correct": "B",
+      "correctAnswerText": "When Danielle texted Morgan about the meeting, Morgan said the room had changed.",
+      "explanation": "This sentence avoids unclear pronoun reference by naming who said the room had changed.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that maintains consistent verb tense.",
+      "choices": {
+        "A": "Last week, the team tested the website, collects feedback, and revised the homepage.",
+        "B": "Last week, the team tested the website, collected feedback, and revised the homepage.",
+        "C": "Last week, the team tests the website, collected feedback, and revises the homepage.",
+        "D": "Last week, the team had tested the website, collects feedback, and revised the homepage."
+      },
+      "correct": "B",
+      "correctAnswerText": "Last week, the team tested the website, collected feedback, and revised the homepage.",
+      "explanation": "This sentence keeps all three verbs in consistent past tense.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses apostrophes correctly.",
+      "choices": {
+        "A": "The committees decision affected next years training schedule.",
+        "B": "The committee’s decision affected next year’s training schedule.",
+        "C": "The committees’ decision affected next years schedule’s.",
+        "D": "The committee’s decision affected next years’ training schedule."
+      },
+      "correct": "B",
+      "correctAnswerText": "The committee’s decision affected next year’s training schedule.",
+      "explanation": "“Committee’s” correctly shows possession, and “year’s” correctly shows the schedule belonging to next year.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence fragment. After the student revised the introduction.",
+      "choices": {
+        "A": "After the student revised the introduction, the essay’s purpose became clearer.",
+        "B": "After the student revised the introduction.",
+        "C": "The essay’s purpose after the student revised the introduction.",
+        "D": "Revising the introduction after the student."
+      },
+      "correct": "A",
+      "correctAnswerText": "After the student revised the introduction, the essay’s purpose became clearer.",
+      "explanation": "This revision turns the dependent clause fragment into a complete sentence.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best transition to complete the sentence. The first paragraph clearly explains the problem; __________, the second paragraph provides evidence that the problem affects many students.",
+      "choices": {
+        "A": "furthermore",
+        "B": "however",
+        "C": "in contrast",
+        "D": "nevertheless"
+      },
+      "correct": "A",
+      "correctAnswerText": "furthermore",
+      "explanation": "The second clause adds another related point about how the essay develops the problem.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The advisor prepared a transfer timeline. The timeline shows application deadlines for several universities.",
+      "choices": {
+        "A": "The advisor prepared a transfer timeline that shows application deadlines for several universities.",
+        "B": "The advisor prepared a transfer timeline, it shows application deadlines for several universities.",
+        "C": "Preparing a transfer timeline, application deadlines were shown by several universities.",
+        "D": "The advisor prepared a timeline and it was transfer and it shows several deadlines for universities."
+      },
+      "correct": "A",
+      "correctAnswerText": "The advisor prepared a transfer timeline that shows application deadlines for several universities.",
+      "explanation": "This option combines the sentences clearly and avoids a comma splice.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the sentence and choose the best revision strategy. The paragraph claims that the campus should add more covered bicycle parking, but it does not explain why the current bicycle racks are inadequate.",
+      "choices": {
+        "A": "Add evidence about rain exposure, crowding at current racks, or student demand for protected parking.",
+        "B": "Remove the claim because paragraphs should not make specific recommendations.",
+        "C": "Add a sentence about the invention of bicycles in the nineteenth century.",
+        "D": "Replace the paragraph with a list of every bicycle model students might own."
+      },
+      "correct": "A",
+      "correctAnswerText": "Add evidence about rain exposure, crowding at current racks, or student demand for protected parking.",
+      "explanation": "The paragraph needs relevant evidence explaining why covered bicycle parking is needed.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best sentence to acknowledge a counterargument while maintaining the writer’s position. Claim: The college should provide a short online tutorial on how to read degree plans.",
+      "choices": {
+        "A": "Some may argue that advisors already explain degree plans, but an online tutorial would let students review the information before and after advising appointments.",
+        "B": "Anyone who disagrees with the tutorial does not care about student success.",
+        "C": "Degree plans usually include course names, credit hours, and program requirements.",
+        "D": "Students need degree plans because degrees include plans."
+      },
+      "correct": "A",
+      "correctAnswerText": "Some may argue that advisors already explain degree plans, but an online tutorial would let students review the information before and after advising appointments.",
+      "explanation": "This sentence fairly acknowledges an objection and maintains the argument by explaining the tutorial’s additional value.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is most concise without changing the meaning.",
+      "choices": {
+        "A": "The reason the application was returned was because of the fact that a signature was missing.",
+        "B": "The application was returned because a signature was missing.",
+        "C": "Due to the fact that a signature was missing, that was the reason the application was returned.",
+        "D": "The return of the application occurred for the reason of a missing signature being absent."
+      },
+      "correct": "B",
+      "correctAnswerText": "The application was returned because a signature was missing.",
+      "explanation": "This sentence is concise and preserves the meaning of the original.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses commas correctly.",
+      "choices": {
+        "A": "The survey, which closes on Friday, asks students about transportation, advising, and study spaces.",
+        "B": "The survey which closes on Friday asks students about transportation, advising and study spaces.",
+        "C": "The survey, which closes on Friday asks students about transportation advising, and study spaces.",
+        "D": "The survey which closes on Friday, asks students about transportation, advising, and study spaces."
+      },
+      "correct": "A",
+      "correctAnswerText": "The survey, which closes on Friday, asks students about transportation, advising, and study spaces.",
+      "explanation": "The nonessential phrase “which closes on Friday” is correctly set off by commas, and the list is punctuated clearly.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E15-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. The student’s essay argues that the college should create a single online page for important semester deadlines. The essay explains that registration, tuition payment, withdrawal, and scholarship deadlines are currently listed in different locations. It also notes that the page could link back to the official offices responsible for each deadline. Which concluding sentence best reinforces the argument?",
+      "choices": {
+        "A": "A centralized deadline page would help students find key dates more easily while still directing them to official sources for details.",
+        "B": "College websites often include pages, menus, search bars, and downloadable forms.",
+        "C": "Some students prefer morning classes, while others prefer afternoon or evening classes.",
+        "D": "Scholarship applications sometimes ask students to write essays or submit transcripts."
+      },
+      "correct": "A",
+      "correctAnswerText": "A centralized deadline page would help students find key dates more easily while still directing them to official sources for details.",
+      "explanation": "This conclusion reinforces both the student benefit and the practical link to official offices.",
+      "credits": 1
+    }
+  ]
+}

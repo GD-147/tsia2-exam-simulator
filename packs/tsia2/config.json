@@ -31,7 +31,9 @@
         "tsia2_elar_exam_10.json",
         "tsia2_elar_exam_11.json",
         "tsia2_elar_exam_12.json",
-        "tsia2_elar_exam_13.json"
+        "tsia2_elar_exam_13.json",
+        "tsia2_elar_exam_14.json",
+        "tsia2_elar_exam_15.json"
       ]
     },
     {
@@ -54,7 +56,9 @@
         "tsia2_math_exam_10.json",
         "tsia2_math_exam_11.json",
         "tsia2_math_exam_12.json",
-        "tsia2_math_exam_13.json"
+        "tsia2_math_exam_13.json",
+        "tsia2_math_exam_14.json",
+        "tsia2_math_exam_15.json"
       ]
     },
     {
@@ -77,9 +81,132 @@
         "tsia2_essay_prompt_10.json",
         "tsia2_essay_prompt_11.json",
         "tsia2_essay_prompt_12.json",
-        "tsia2_essay_prompt_13.json"
+        "tsia2_essay_prompt_13.json",
+        "tsia2_essay_prompt_14.json",
+        "tsia2_essay_prompt_15.json"
       ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "TSIA2 ELAR Practice Exam 01",
+      "file": "tsia2_elar_exam_01.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 02",
+      "file": "tsia2_elar_exam_02.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 03",
+      "file": "tsia2_elar_exam_03.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 04",
+      "file": "tsia2_elar_exam_04.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 05",
+      "file": "tsia2_elar_exam_05.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 06",
+      "file": "tsia2_elar_exam_06.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 07",
+      "file": "tsia2_elar_exam_07.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 08",
+      "file": "tsia2_elar_exam_08.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 09",
+      "file": "tsia2_elar_exam_09.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 10",
+      "file": "tsia2_elar_exam_10.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 11",
+      "file": "tsia2_elar_exam_11.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 12",
+      "file": "tsia2_elar_exam_12.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 13",
+      "file": "tsia2_elar_exam_13.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 14",
+      "file": "tsia2_elar_exam_14.pdf"
+    },
+    {
+      "label": "TSIA2 ELAR Practice Exam 15",
+      "file": "tsia2_elar_exam_15.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 01",
+      "file": "tsia2_math_exam_01.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 02",
+      "file": "tsia2_math_exam_02.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 03",
+      "file": "tsia2_math_exam_03.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 04",
+      "file": "tsia2_math_exam_04.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 05",
+      "file": "tsia2_math_exam_05.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 06",
+      "file": "tsia2_math_exam_06.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 07",
+      "file": "tsia2_math_exam_07.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 08",
+      "file": "tsia2_math_exam_08.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 09",
+      "file": "tsia2_math_exam_09.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 10",
+      "file": "tsia2_math_exam_10.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 11",
+      "file": "tsia2_math_exam_11.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 12",
+      "file": "tsia2_math_exam_12.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 13",
+      "file": "tsia2_math_exam_13.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 14",
+      "file": "tsia2_math_exam_14.pdf"
+    },
+    {
+      "label": "TSIA2 Math Practice Exam 15",
+      "file": "tsia2_math_exam_15.pdf"
+    }
+  ]
 }

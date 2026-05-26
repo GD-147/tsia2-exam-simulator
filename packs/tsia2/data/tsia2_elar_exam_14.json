@@ -1,0 +1,576 @@
+{
+  "title": "TSIA2 ELAR Practice Test 14",
+  "section": "elar",
+  "questions": [
+    {
+      "id": "TSIA2-E14-001",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Students in a statistics course at Red Oak College studied wait times at the campus financial services office. Some students expected the project to show simply that the office needed more staff. Instead, the data revealed a more specific pattern. Lines were longest during the first two days after tuition reminders were sent and during the hour before evening classes began. The students also found that many visits involved the same three questions: how to set up a payment plan, how to confirm that a scholarship had posted, and how to update a mailing address. After interviewing office employees, the class recommended two changes: sending reminders with clearer links to common tasks and offering short appointment blocks on the busiest days. The office did not claim that the changes would eliminate every delay. However, staff agreed that better information and better scheduling could reduce unnecessary visits and make unavoidable visits more efficient. The project helped students see that statistics can identify not only whether a problem exists but also when and why it happens. Which statement best describes the main purpose of the students’ project?",
+      "choices": {
+        "A": "To use data to identify specific causes of long wait times and suggest practical improvements",
+        "B": "To prove that financial services offices should stop sending tuition reminders",
+        "C": "To show that students should avoid asking questions about payment plans",
+        "D": "To argue that statistics is useful only for studying college offices"
+      },
+      "correct": "A",
+      "correctAnswerText": "To use data to identify specific causes of long wait times and suggest practical improvements",
+      "explanation": "The passage shows students using wait-time data and interviews to identify patterns and recommend clearer reminders and appointment blocks.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-002",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Students in a statistics course at Red Oak College studied wait times at the campus financial services office. Some students expected the project to show simply that the office needed more staff. Instead, the data revealed a more specific pattern. Lines were longest during the first two days after tuition reminders were sent and during the hour before evening classes began. The students also found that many visits involved the same three questions: how to set up a payment plan, how to confirm that a scholarship had posted, and how to update a mailing address. After interviewing office employees, the class recommended two changes: sending reminders with clearer links to common tasks and offering short appointment blocks on the busiest days. The office did not claim that the changes would eliminate every delay. However, staff agreed that better information and better scheduling could reduce unnecessary visits and make unavoidable visits more efficient. The project helped students see that statistics can identify not only whether a problem exists but also when and why it happens. What can reasonably be inferred from the passage?",
+      "choices": {
+        "A": "Some office visits might be avoided if students receive clearer instructions with tuition reminders.",
+        "B": "Students never need help understanding scholarships or payment plans.",
+        "C": "The financial services office is busy at exactly the same level every day.",
+        "D": "Evening classes should be canceled to reduce office wait times."
+      },
+      "correct": "A",
+      "correctAnswerText": "Some office visits might be avoided if students receive clearer instructions with tuition reminders.",
+      "explanation": "The passage states that clearer links to common tasks could reduce unnecessary visits.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-003",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Students in a statistics course at Red Oak College studied wait times at the campus financial services office. Some students expected the project to show simply that the office needed more staff. Instead, the data revealed a more specific pattern. Lines were longest during the first two days after tuition reminders were sent and during the hour before evening classes began. The students also found that many visits involved the same three questions: how to set up a payment plan, how to confirm that a scholarship had posted, and how to update a mailing address. After interviewing office employees, the class recommended two changes: sending reminders with clearer links to common tasks and offering short appointment blocks on the busiest days. The office did not claim that the changes would eliminate every delay. However, staff agreed that better information and better scheduling could reduce unnecessary visits and make unavoidable visits more efficient. The project helped students see that statistics can identify not only whether a problem exists but also when and why it happens. In the passage, the phrase “unavoidable visits” most nearly means visits that",
+      "choices": {
+        "A": "still need to happen even after better information is provided",
+        "B": "are scheduled by mistake and should be canceled",
+        "C": "occur only when students ignore all instructions",
+        "D": "are unrelated to financial services questions"
+      },
+      "correct": "A",
+      "correctAnswerText": "still need to happen even after better information is provided",
+      "explanation": "“Unavoidable visits” refers to visits that still require in-person or scheduled help even after unnecessary visits are reduced.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-004",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. Students in a statistics course at Red Oak College studied wait times at the campus financial services office. Some students expected the project to show simply that the office needed more staff. Instead, the data revealed a more specific pattern. Lines were longest during the first two days after tuition reminders were sent and during the hour before evening classes began. The students also found that many visits involved the same three questions: how to set up a payment plan, how to confirm that a scholarship had posted, and how to update a mailing address. After interviewing office employees, the class recommended two changes: sending reminders with clearer links to common tasks and offering short appointment blocks on the busiest days. The office did not claim that the changes would eliminate every delay. However, staff agreed that better information and better scheduling could reduce unnecessary visits and make unavoidable visits more efficient. The project helped students see that statistics can identify not only whether a problem exists but also when and why it happens. Which sentence best states the central idea of the passage?",
+      "choices": {
+        "A": "A statistics project showed how data can reveal patterns behind a campus problem and guide practical solutions.",
+        "B": "Financial services offices should answer only three types of student questions.",
+        "C": "Tuition reminders are the main reason students struggle in evening classes.",
+        "D": "Statistics courses should focus on staff schedules instead of student learning."
+      },
+      "correct": "A",
+      "correctAnswerText": "A statistics project showed how data can reveal patterns behind a campus problem and guide practical solutions.",
+      "explanation": "This sentence captures the passage’s main idea: data can show when and why a problem occurs and help guide solutions.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-005",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A city recreation center began placing color-coded wristbands on children during large summer programs. The colors identify activity groups, not skill levels: red for art, blue for swimming, green for outdoor games, and yellow for reading activities. Staff members say the wristbands help children find the correct line after lunch and help substitutes identify groups quickly. What is the main purpose of the wristbands?",
+      "choices": {
+        "A": "To help staff and children organize activity groups more easily",
+        "B": "To rank children by athletic ability",
+        "C": "To prevent children from changing activities for the entire summer",
+        "D": "To replace supervision during recreation programs"
+      },
+      "correct": "A",
+      "correctAnswerText": "To help staff and children organize activity groups more easily",
+      "explanation": "The wristbands identify activity groups so children and staff can manage transitions.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-006",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. During his first week in a ceramics class, Evan judged each bowl by how smooth it looked on the outside. His instructor asked him to turn one bowl over and examine the base. The bottom was too thick, which made the bowl heavy and likely to crack during firing. Evan realized that good craftsmanship included parts of the object a casual viewer might never notice. What can reasonably be inferred about Evan?",
+      "choices": {
+        "A": "He learns that quality depends on hidden details as well as visible appearance.",
+        "B": "He decides that the outside of a bowl is the only part worth checking.",
+        "C": "He believes that heavy bowls are always better than lighter bowls.",
+        "D": "He stops making pottery because the base cannot be seen."
+      },
+      "correct": "A",
+      "correctAnswerText": "He learns that quality depends on hidden details as well as visible appearance.",
+      "explanation": "Evan learns that the unseen base affects the bowl’s weight and durability.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-007",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A nonprofit that delivers meals to older adults is deciding whether to add a short wellness check to each delivery. Supporters say drivers already see clients regularly and could report concerns such as unopened mail, unusual confusion, or a missed delivery response. Others worry that drivers may feel responsible for problems beyond their training. The nonprofit is considering a simple reporting form and training on what drivers should and should not attempt to handle. Which statement best describes the nonprofit’s approach?",
+      "choices": {
+        "A": "It is exploring a way to notice safety concerns while setting limits on drivers’ responsibilities.",
+        "B": "It has decided that drivers should provide medical treatment during deliveries.",
+        "C": "It believes meal deliveries should stop if clients need other kinds of help.",
+        "D": "It wants drivers to ignore any unusual signs they notice during visits."
+      },
+      "correct": "A",
+      "correctAnswerText": "It is exploring a way to notice safety concerns while setting limits on drivers’ responsibilities.",
+      "explanation": "The nonprofit is considering wellness checks but also training drivers on what they should and should not handle.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-008",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A music instructor compares rhythm to a person’s walking pace. A walker may speed up, slow down, pause, or return to a steady stride, but the movement still has a pattern. Similarly, rhythm helps listeners recognize organization in music even when the notes themselves change. The comparison helps beginning students hear rhythm as structure rather than as decoration. What is the main purpose of the walking comparison?",
+      "choices": {
+        "A": "To explain rhythm as an organizing pattern in music",
+        "B": "To show that music students should practice only while walking",
+        "C": "To prove that all songs have the same rhythm",
+        "D": "To argue that notes are unimportant in music"
+      },
+      "correct": "A",
+      "correctAnswerText": "To explain rhythm as an organizing pattern in music",
+      "explanation": "The walking comparison helps students understand rhythm as structure.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-009",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the two passages and answer the question. Passage 1: Community colleges should expand evening tutoring hours because many students work during the day. A student who leaves work at 5:30 p.m. may have no realistic chance to visit a tutoring center that closes at 4:00 p.m. Passage 2: Evening tutoring can help working students, but colleges should also consider how tutoring is delivered. Some students may benefit more from online appointments, recorded skill reviews, or weekend sessions. Extending hours is useful only if the new schedule matches students’ actual needs. How does Passage 2 respond to Passage 1?",
+      "choices": {
+        "A": "Passage 2 agrees that evening tutoring may help but argues that colleges should consider several delivery options.",
+        "B": "Passage 2 claims that working students should not use tutoring services.",
+        "C": "Passage 2 argues that tutoring centers should close earlier in the day.",
+        "D": "Passage 2 says that recorded skill reviews are never useful."
+      },
+      "correct": "A",
+      "correctAnswerText": "Passage 2 agrees that evening tutoring may help but argues that colleges should consider several delivery options.",
+      "explanation": "Passage 2 accepts the value of evening tutoring while adding online, recorded, and weekend options.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-010",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article about public drinking fountains argues that their importance is easy to overlook. A working fountain can help runners, commuters, children, and people without money to buy bottled drinks. When fountains are broken or poorly marked, water becomes less available to people moving through a city. The author does not claim that fountains solve every public health concern, but argues that small pieces of public infrastructure can affect daily comfort and fairness. Which statement best summarizes the passage?",
+      "choices": {
+        "A": "Public drinking fountains can support comfort and fairness by making water more accessible.",
+        "B": "Public drinking fountains should be removed because bottled drinks are available.",
+        "C": "Cities should provide water only to people who are exercising.",
+        "D": "Broken fountains are useful because they encourage people to leave public spaces."
+      },
+      "correct": "A",
+      "correctAnswerText": "Public drinking fountains can support comfort and fairness by making water more accessible.",
+      "explanation": "The passage argues that fountains matter because they make water available to people moving through public spaces.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-011",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The poem describes a city bus at dawn, its windows “holding pale squares of morning” as it turns onto the main road. A nurse, a cook, and two students sit far apart, each quiet but moving toward the start of a day. The image of the windows suggests that the bus carries not only passengers but also separate beginnings gathered into one shared space. What effect does the quoted image most likely create?",
+      "choices": {
+        "A": "It gives the bus a calm sense of shared early-morning possibility.",
+        "B": "It suggests that the bus windows are broken and unsafe.",
+        "C": "It shows that the passengers are unable to see outside.",
+        "D": "It makes the morning seem loud and chaotic."
+      },
+      "correct": "A",
+      "correctAnswerText": "It gives the bus a calm sense of shared early-morning possibility.",
+      "explanation": "The quoted image connects the bus windows with morning beginnings and a quiet shared space.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-012",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. A writing instructor tells students that a paragraph’s first sentence should create an expectation that the rest of the paragraph fulfills. If the first sentence promises a comparison, the paragraph should compare. If it promises a cause, the paragraph should explain a cause. Readers become confused when a paragraph begins in one direction and then develops a different idea. Which sentence best states the instructor’s point?",
+      "choices": {
+        "A": "A paragraph should develop the idea its opening sentence leads readers to expect.",
+        "B": "The first sentence of a paragraph should always be the longest sentence.",
+        "C": "Comparisons and causes should never appear in the same essay.",
+        "D": "Readers prefer paragraphs that begin with one topic and end with another."
+      },
+      "correct": "A",
+      "correctAnswerText": "A paragraph should develop the idea its opening sentence leads readers to expect.",
+      "explanation": "The instructor explains that the paragraph should fulfill the expectation created by its first sentence.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-013",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The training guide for library volunteers asks them to place returned books on a sorting cart rather than directly on shelves. The rule may seem inefficient, but a staff member must first check whether each book belongs to another branch, has been requested by another reader, or needs repair. Shelving a book too quickly can make it harder to find later. Why does the guide ask volunteers to use the sorting cart?",
+      "choices": {
+        "A": "To ensure books are checked before being returned to the shelves",
+        "B": "To prevent staff members from handling returned books",
+        "C": "To keep readers from borrowing books from other branches",
+        "D": "To make returned books permanently unavailable"
+      },
+      "correct": "A",
+      "correctAnswerText": "To ensure books are checked before being returned to the shelves",
+      "explanation": "The sorting cart allows staff to check branch location, requests, and repair needs before shelving.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-014",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. The article on budget airlines explains that a low ticket price may not represent the full cost of a trip. Some airlines charge separately for carry-on bags, seat selection, schedule changes, or printed boarding passes. The author recommends comparing the final price after fees rather than choosing a flight based only on the first number displayed. What is the author’s purpose?",
+      "choices": {
+        "A": "To encourage travelers to consider total cost rather than only the advertised fare",
+        "B": "To prove that all budget airlines are more expensive than traditional airlines",
+        "C": "To explain how pilots choose flight routes",
+        "D": "To argue that travelers should never bring luggage"
+      },
+      "correct": "A",
+      "correctAnswerText": "To encourage travelers to consider total cost rather than only the advertised fare",
+      "explanation": "The author warns that extra fees can change the actual cost of a budget-airline ticket.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-015",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Reading",
+      "category": "",
+      "prompt": "Read the passage and answer the question. When Samira began helping at a community repair booth, she tried to fix every small appliance that visitors brought in. A mentor stopped her before she opened a damaged toaster with a frayed cord. He explained that volunteers should first decide whether an item can be repaired safely. Samira learned that helpfulness includes knowing when not to attempt a repair. What lesson does Samira learn?",
+      "choices": {
+        "A": "Responsible help sometimes means recognizing safety limits.",
+        "B": "Every broken appliance should be repaired immediately.",
+        "C": "Volunteers should ignore damaged cords if an item looks simple.",
+        "D": "Repair booths are useful only for appliances that are already safe."
+      },
+      "correct": "A",
+      "correctAnswerText": "Responsible help sometimes means recognizing safety limits.",
+      "explanation": "Samira learns that volunteers should first decide whether a repair can be attempted safely.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-016",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a workshop on writing clear lab conclusions. (2) Many students know how to record observations, but they struggle to explain what those observations mean. (3) A strong conclusion should connect the results to the original question instead of simply repeating the procedure. (4) In the workshop, students would practice identifying whether their evidence supports, weakens, or complicates a hypothesis. (5) They would also learn how to describe possible sources of error without blaming the equipment for every unexpected result. (6) For example, a student might explain that uneven heating could have affected the reaction rate in one trial. (7) Clear conclusions are useful in biology, chemistry, environmental science, and other lab-based courses. (8) A lab-conclusion workshop would help students move from reporting what happened to explaining why the results matter. Which sentence would provide the best introduction before sentence 1?",
+      "choices": {
+        "A": "In science writing, explaining the meaning of results is as important as recording the results themselves.",
+        "B": "Many science classrooms contain sinks, tables, and safety equipment.",
+        "C": "Students sometimes complete lab assignments with partners or small groups.",
+        "D": "Laboratory courses may meet once or twice each week."
+      },
+      "correct": "A",
+      "correctAnswerText": "In science writing, explaining the meaning of results is as important as recording the results themselves.",
+      "explanation": "This sentence introduces the paragraph’s focus on interpreting lab results, not merely recording observations.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-017",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a workshop on writing clear lab conclusions. (2) Many students know how to record observations, but they struggle to explain what those observations mean. (3) A strong conclusion should connect the results to the original question instead of simply repeating the procedure. (4) In the workshop, students would practice identifying whether their evidence supports, weakens, or complicates a hypothesis. (5) They would also learn how to describe possible sources of error without blaming the equipment for every unexpected result. (6) For example, a student might explain that uneven heating could have affected the reaction rate in one trial. (7) Clear conclusions are useful in biology, chemistry, environmental science, and other lab-based courses. (8) A lab-conclusion workshop would help students move from reporting what happened to explaining why the results matter. Which sentence from the passage best explains the central skill the workshop would teach?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 3",
+        "C": "Sentence 6",
+        "D": "Sentence 7"
+      },
+      "correct": "B",
+      "correctAnswerText": "Sentence 3",
+      "explanation": "Sentence 3 states the key skill: connecting results to the original question instead of repeating the procedure.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-018",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a workshop on writing clear lab conclusions. (2) Many students know how to record observations, but they struggle to explain what those observations mean. (3) A strong conclusion should connect the results to the original question instead of simply repeating the procedure. (4) In the workshop, students would practice identifying whether their evidence supports, weakens, or complicates a hypothesis. (5) They would also learn how to describe possible sources of error without blaming the equipment for every unexpected result. (6) For example, a student might explain that uneven heating could have affected the reaction rate in one trial. (7) Clear conclusions are useful in biology, chemistry, environmental science, and other lab-based courses. (8) A lab-conclusion workshop would help students move from reporting what happened to explaining why the results matter. Where would the following sentence fit best in the passage? This habit would help students avoid conclusions that list results without interpreting them.",
+      "choices": {
+        "A": "After sentence 2",
+        "B": "After sentence 4",
+        "C": "After sentence 6",
+        "D": "After sentence 8"
+      },
+      "correct": "B",
+      "correctAnswerText": "After sentence 4",
+      "explanation": "The added sentence explains the benefit of identifying how evidence relates to a hypothesis.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-019",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the passage and answer the question. (1) The college should create a workshop on writing clear lab conclusions. (2) Many students know how to record observations, but they struggle to explain what those observations mean. (3) A strong conclusion should connect the results to the original question instead of simply repeating the procedure. (4) In the workshop, students would practice identifying whether their evidence supports, weakens, or complicates a hypothesis. (5) They would also learn how to describe possible sources of error without blaming the equipment for every unexpected result. (6) For example, a student might explain that uneven heating could have affected the reaction rate in one trial. (7) Clear conclusions are useful in biology, chemistry, environmental science, and other lab-based courses. (8) A lab-conclusion workshop would help students move from reporting what happened to explaining why the results matter. Which revision of sentence 8 best improves precision while preserving the meaning?",
+      "choices": {
+        "A": "A lab-conclusion workshop would help students interpret results instead of merely reporting them.",
+        "B": "A lab-conclusion workshop would help students do better conclusions in a way that matters.",
+        "C": "A workshop about lab conclusions would be good because students would write things better.",
+        "D": "Students would report what happened and then not just report it because the workshop would help."
+      },
+      "correct": "A",
+      "correctAnswerText": "A lab-conclusion workshop would help students interpret results instead of merely reporting them.",
+      "explanation": "This revision states the idea more precisely and concisely.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-020",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence with the clearest pronoun reference.",
+      "choices": {
+        "A": "When Grace asked Taylor about the assignment, she said the due date had changed.",
+        "B": "When Grace asked Taylor about the assignment, Taylor said the due date had changed.",
+        "C": "When she asked Taylor about the assignment, the due date had changed.",
+        "D": "When Grace asked her about the assignment, she said it had changed."
+      },
+      "correct": "B",
+      "correctAnswerText": "When Grace asked Taylor about the assignment, Taylor said the due date had changed.",
+      "explanation": "This sentence avoids unclear pronoun reference by naming who said the due date had changed.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-021",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that maintains consistent verb tense.",
+      "choices": {
+        "A": "Yesterday, the committee reviewed the proposal, discusses the budget, and approved the schedule.",
+        "B": "Yesterday, the committee reviewed the proposal, discussed the budget, and approved the schedule.",
+        "C": "Yesterday, the committee reviews the proposal, discussed the budget, and approves the schedule.",
+        "D": "Yesterday, the committee had reviewed the proposal, discusses the budget, and approved the schedule."
+      },
+      "correct": "B",
+      "correctAnswerText": "Yesterday, the committee reviewed the proposal, discussed the budget, and approved the schedule.",
+      "explanation": "This sentence keeps all verbs in consistent past tense.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-022",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses apostrophes correctly.",
+      "choices": {
+        "A": "The departments announcement explained next months advising schedule.",
+        "B": "The department’s announcement explained next month’s advising schedule.",
+        "C": "The departments’ announcement explained next months schedule’s.",
+        "D": "The department’s announcement explained next months’ advising schedule."
+      },
+      "correct": "B",
+      "correctAnswerText": "The department’s announcement explained next month’s advising schedule.",
+      "explanation": "“Department’s” correctly shows possession, and “month’s” correctly shows the schedule belonging to next month.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-023",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best revision of the sentence fragment. Because the revised map showed accessible entrances.",
+      "choices": {
+        "A": "Because the revised map showed accessible entrances, visitors found the correct doors more easily.",
+        "B": "Because the revised map showed accessible entrances.",
+        "C": "The revised map because it showed accessible entrances.",
+        "D": "Showing accessible entrances because the revised map."
+      },
+      "correct": "A",
+      "correctAnswerText": "Because the revised map showed accessible entrances, visitors found the correct doors more easily.",
+      "explanation": "This revision turns the dependent clause fragment into a complete sentence.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-024",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best transition to complete the sentence. The practice test helps students identify weak areas; __________, the answer explanations show them how to correct mistakes.",
+      "choices": {
+        "A": "moreover",
+        "B": "however",
+        "C": "in contrast",
+        "D": "nevertheless"
+      },
+      "correct": "A",
+      "correctAnswerText": "moreover",
+      "explanation": "The second clause adds another benefit of the practice test, so “moreover” is appropriate.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-025",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best way to combine the sentences. The counselor created a checklist. The checklist helps students prepare for transfer advising appointments.",
+      "choices": {
+        "A": "The counselor created a checklist that helps students prepare for transfer advising appointments.",
+        "B": "The counselor created a checklist, it helps students prepare for transfer advising appointments.",
+        "C": "Creating a checklist, transfer advising appointments were prepared by students.",
+        "D": "The counselor created a checklist and it was a checklist for helping with preparing appointments."
+      },
+      "correct": "A",
+      "correctAnswerText": "The counselor created a checklist that helps students prepare for transfer advising appointments.",
+      "explanation": "This option combines the two sentences clearly and correctly.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-026",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the sentence and choose the best revision strategy. The paragraph claims that the college should add more recycling bins near parking lots, but it gives no evidence that students or visitors need them there.",
+      "choices": {
+        "A": "Add evidence about litter patterns, student requests, or current bin locations near parking areas.",
+        "B": "Remove the claim because paragraphs should never recommend campus changes.",
+        "C": "Add a sentence about how metal recycling was invented.",
+        "D": "Replace the paragraph with a list of every parking lot on campus."
+      },
+      "correct": "A",
+      "correctAnswerText": "Add evidence about litter patterns, student requests, or current bin locations near parking areas.",
+      "explanation": "The paragraph needs relevant evidence showing why recycling bins are needed near parking lots.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-027",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the best sentence to acknowledge a counterargument while maintaining the writer’s position. Claim: The college should allow students to reserve small study rooms for online interviews.",
+      "choices": {
+        "A": "Some may argue that study rooms should be used only for coursework, but limiting interview reservations to short time blocks would still protect student study access.",
+        "B": "People who oppose interview reservations are being unfair and unreasonable.",
+        "C": "Study rooms have doors, lights, chairs, and tables.",
+        "D": "Online interviews are common because many employers use computers."
+      },
+      "correct": "A",
+      "correctAnswerText": "Some may argue that study rooms should be used only for coursework, but limiting interview reservations to short time blocks would still protect student study access.",
+      "explanation": "This sentence fairly acknowledges an opposing concern and responds with a practical limit.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-028",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that is most concise without changing the meaning.",
+      "choices": {
+        "A": "The reason the club canceled the trip was because of the fact that the bus was unavailable.",
+        "B": "The club canceled the trip because the bus was unavailable.",
+        "C": "Due to the fact that the bus was unavailable, that was why the trip was canceled by the club.",
+        "D": "The cancellation of the trip occurred for the reason of the bus being unavailable."
+      },
+      "correct": "B",
+      "correctAnswerText": "The club canceled the trip because the bus was unavailable.",
+      "explanation": "This sentence is concise and preserves the meaning of the original.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-029",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Choose the sentence that uses commas correctly.",
+      "choices": {
+        "A": "The handbook, which was updated in August, explains attendance rules, grading policies, and safety procedures.",
+        "B": "The handbook which was updated in August explains attendance rules, grading policies and safety procedures.",
+        "C": "The handbook, which was updated in August explains attendance rules grading policies, and safety procedures.",
+        "D": "The handbook which was updated in August, explains attendance rules, grading policies, and safety procedures."
+      },
+      "correct": "A",
+      "correctAnswerText": "The handbook, which was updated in August, explains attendance rules, grading policies, and safety procedures.",
+      "explanation": "The nonessential phrase “which was updated in August” is correctly set off by commas, and the list is punctuated clearly.",
+      "credits": 1
+    },
+    {
+      "id": "TSIA2-E14-030",
+      "section": "ELAR",
+      "type": "mcq",
+      "itemType": "mcq",
+      "focus": "Writing",
+      "category": "",
+      "prompt": "Read the paragraph and answer the question. The student’s essay argues that the campus bookstore should offer a textbook price-comparison guide. The essay explains that students often see several formats, such as rental, used, digital, and new copies, but may not understand the long-term costs or return rules. It also notes that a guide could be updated before each semester begins. Which concluding sentence best reinforces the argument?",
+      "choices": {
+        "A": "A price-comparison guide would help students make informed textbook choices while giving the bookstore a practical way to update information.",
+        "B": "Textbooks are often printed with covers, chapters, page numbers, and indexes.",
+        "C": "Some students carry books in backpacks, tote bags, or rolling carts.",
+        "D": "Bookstores usually sell pens, notebooks, sweatshirts, and other campus items."
+      },
+      "correct": "A",
+      "correctAnswerText": "A price-comparison guide would help students make informed textbook choices while giving the bookstore a practical way to update information.",
+      "explanation": "This conclusion reinforces both the student benefit and the practical implementation described in the paragraph.",
+      "credits": 1
+    }
+  ]
+}
